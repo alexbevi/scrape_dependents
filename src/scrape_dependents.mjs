@@ -246,51 +246,6 @@ function flushMarkdown(rows, meta) {
   writeFileSync(mdPath, md);
   // Force file system sync to ensure the Markdown report is present before updating README
   try { require('fs').fsyncSync(require('fs').openSync(mdPath, 'r')); } catch (e) {}
-
-  // Update output README.md with a table of all reports, sorted by language and type
-  const readmePath = `${outputDir}/README.md`;
-  let reports = [];
-  try {
-  const files = readdirSync(reportsDir).filter(f => f.endsWith('.md'));
-    for (const file of files) {
-      const content = readFileSync(`${reportsDir}/${file}`, 'utf8');
-      const repoMatch = content.match(/# Scraped repository: ([^\n]+)/);
-      const langMatch = content.match(/\*\*Language:\*\* ([^\n]+)/);
-      const typeMatch = content.match(/\*\*Type:\*\* ([^\n]+)/);
-      const lastScrapeMatch = content.match(/\*\*Last scrape:\*\* ([^\n]+)/);
-      const pagesMatch = content.match(/\*\*Total pages scraped:\*\* ([^\n]+)/);
-      const foundMatch = content.match(/\*\*Repos found:\*\* ([^\n]+)/);
-      const filteredMatch = content.match(/\*\*Repos filtered out \(< ([^ ]+) stars\):\*\* ([^\n]+)/);
-      const totalPossibleMatch = content.match(/\*\*Total possible repositories:\*\* ([^\n]+)/);
-      const percentMatch = content.match(/\*\*Percent processed:\*\* ([^\n]+)/);
-      reports.push({
-        file,
-        repo: repoMatch ? repoMatch[1] : '',
-        language: langMatch ? langMatch[1] : '',
-        type: typeMatch ? typeMatch[1] : '',
-        lastScrape: lastScrapeMatch ? lastScrapeMatch[1] : '',
-        pages: pagesMatch ? pagesMatch[1] : '',
-        found: foundMatch ? foundMatch[1] : '',
-        filtered: filteredMatch ? filteredMatch[2] : '',
-        minStars: filteredMatch ? filteredMatch[1] : '',
-        totalPossible: totalPossibleMatch ? totalPossibleMatch[1] : '',
-        percent: percentMatch ? percentMatch[1] : '',
-      });
-    }
-  } catch (e) {}
-  // Sort by language, then type, then repo
-  reports.sort((a, b) => {
-    if (a.language !== b.language) return a.language.localeCompare(b.language);
-    if (a.type !== b.type) return a.type.localeCompare(b.type);
-    return a.repo.localeCompare(b.repo);
-  });
-  let readme = "# Scrape Reports\n\n";
-  readme += "| Repository | Language | Type | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |\n";
-  readme += "|---|---|---|---|---|---|---|---:|---:|\n";
-  for (const r of reports) {
-    readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} | ${r.totalPossible || ''} | ${r.percent || ''} |\n`;
-  }
-  writeFileSync(readmePath, readme);
 }
 
 // ---------- Main ----------

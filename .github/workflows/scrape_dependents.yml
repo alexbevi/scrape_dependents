@@ -59,3 +59,34 @@ jobs:
       min-stars: 100
       max-pages: 500
       output-dir: output
+
+  finalize-readme:
+    needs: scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install deps
+        run: npm ci
+      - name: Generate README from reports
+        run: node src/generate_readme.mjs output
+      - name: Commit and push README
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git add output/README.md || true
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+          else
+            git commit -m "Update aggregated README of reports (run ${{ github.run_id }})"
+            git push origin HEAD
+          fi
