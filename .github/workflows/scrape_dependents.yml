@@ -55,5 +55,5 @@ jobs:
       type: ${{ matrix.type }}
       package_id: ${{ matrix.package_id }}
       min-stars: 100
-      max-pages: 0
+      max-pages: 500
       output-dir: output
