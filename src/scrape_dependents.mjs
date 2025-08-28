@@ -124,7 +124,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
           attempt++;
           if (attempt > 5) {
             console.error('Too many rate limit retries, exiting.');
-            return results;
+            return { results, totalPossibleRepos };
           }
         } else {
           throw err;
@@ -319,8 +319,14 @@ function flushMarkdown(rows, meta) {
   };
   const crawlRes = await crawlDependents(repo, maxPages, sleepMs);
   console.log = origConsoleLog;
-  dependents = crawlRes.results;
-  const totalPossible = crawlRes.totalPossibleRepos;
+  if (!crawlRes || !Array.isArray(crawlRes.results)) {
+    console.warn('crawlDependents returned unexpected result, treating as zero results');
+    dependents = [];
+    totalPossible = null;
+  } else {
+    dependents = crawlRes.results;
+    var totalPossible = crawlRes.totalPossibleRepos;
+  }
   allRepos = dependents;
   console.log(`Found ${dependents.length} candidate repos (possible: ${totalPossible ?? 'unknown'})`);
 
