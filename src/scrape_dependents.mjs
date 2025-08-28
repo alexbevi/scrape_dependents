@@ -23,9 +23,11 @@ const argv = yargs.default(hideBin(process.argv))
 const UA = "dependents-scraper-node/1.0";
 
 // ---------- HTML scraping ----------
-function dependentsUrl(repo, page) {
+function dependentsUrl(repo, cursor = null) {
   const [owner, name] = repo.split("/");
-  return `https://github.com/${owner}/${name}/network/dependents?dependent_type=REPOSITORY&p=${page}`;
+  let url = `https://github.com/${owner}/${name}/network/dependents?dependent_type=REPOSITORY`;
+  if (cursor) url += `&dependents_after=${cursor}`;
+  return url;
 }
 
 async function getHtml(url, attempt = 1) {
@@ -93,15 +95,56 @@ function parseDependents(html, sourceRepo) {
 async function crawlDependents(repo, maxPages, sleepMs) {
   const seen = new Set();
   const results = [];
+  let cursor = null;
+  let page = 1;
 
-  for (let page = 1; page <= maxPages; page++) {
-    const url = dependentsUrl(repo, page);
-    const html = await getHtml(url);
+  while (page <= maxPages) {
+    const url = dependentsUrl(repo, cursor);
+    let html;
+    let attempt = 1;
+    while (true) {
+      try {
+        html = await getHtml(url);
+        break;
+      } catch (err) {
+        if (err.message.includes('429')) {
+          // Rate limit: flush CSV, sleep, and retry
+          console.warn(`Rate limit hit on page ${page}, attempt ${attempt}. Flushing CSV and sleeping...`);
+          flushCsv(results);
+          await sleep(1000);
+          attempt++;
+          if (attempt > 5) {
+            console.error('Too many rate limit retries, exiting.');
+            return results;
+          }
+        } else {
+          throw err;
+        }
+      }
+    }
+
     const repos = parseDependents(html, repo);
     const newOnes = repos.filter(r => !seen.has(r.full_name));
     newOnes.forEach(r => seen.add(r.full_name));
     if (newOnes.length === 0) break; // likely end
     results.push(...newOnes);
+
+    // Output progress
+    console.log(`Page ${page}: ${newOnes.length} new repos, total ${results.length}`);
+
+    // Find the next cursor from the Next button
+    const $ = loadHTML(html);
+    const nextBtn = $('a.btn.BtnGroup-item:contains("Next")');
+    if (nextBtn.length) {
+      const nextHref = nextBtn.attr('href');
+      const match = nextHref.match(/dependents_after=([^&]+)/);
+      cursor = match ? match[1] : null;
+      if (!cursor) break;
+    } else {
+      break;
+    }
+
+    page++;
     await sleep(sleepMs);
   }
   return results;
@@ -123,13 +166,42 @@ function toCSV(rows) {
   ].join("\n");
 }
 
+// ---------- Markdown flush helper ----------
+function flushMarkdown(rows, meta) {
+  const { repo, outputDir, minStars } = meta;
+  mkdirSync(outputDir, { recursive: true });
+  const [owner, name] = repo.split("/");
+  const stem = `${owner}-${name}-dependents`;
+  const mdPath = `${outputDir}/${stem}.md`;
+
+  // Markdown title
+  let md = `# Scraped repository: ${repo}\n\n`;
+
+  // Table header
+  md += `| Owner | Name | Stars | Forks | URL |\n|---|---|---|---|---|\n`;
+  // Table rows
+  for (const r of rows) {
+    md += `| ${r.owner} | ${r.name} | ${r.stars ?? ''} | ${r.forks ?? ''} | [link](${r.html_url}) |\n`;
+  }
+
+  // Summary
+  md += `\n---\n`;
+  md += `**Last scrape:** ${new Date().toISOString()}\n`;
+  md += `**Total pages scraped:** ${meta.pagesScraped}\n`;
+  md += `**Repos found:** ${meta.reposFound}\n`;
+  md += `**Repos filtered out (< ${minStars} stars):** ${meta.reposFiltered}\n`;
+
+  writeFileSync(mdPath, md);
+}
+
 // ---------- Main ----------
 (async () => {
-  const { repo, maxPages, sleepMs, outputDir } = {
+  const { repo, maxPages, sleepMs, outputDir, minStars } = {
     repo: argv.repo,
     maxPages: argv["max-pages"],
     sleepMs: argv["sleep-ms"],
-    outputDir: argv["output-dir"]
+    outputDir: argv["output-dir"],
+    minStars: argv["min-stars"]
   };
 
   if (!repo.includes("/")) {
@@ -137,27 +209,40 @@ function toCSV(rows) {
   }
 
   console.log(`Crawling dependents for ${repo} …`);
-  const dependents = await crawlDependents(repo, maxPages, sleepMs);
+  let pagesScraped = 0;
+  let allRepos = [];
+  let dependents = [];
+  // Wrap crawlDependents to count pages
+  const origConsoleLog = console.log;
+  console.log = (msg) => {
+    if (/^Page /.test(msg)) pagesScraped++;
+    origConsoleLog(msg);
+  };
+  dependents = await crawlDependents(repo, maxPages, sleepMs);
+  console.log = origConsoleLog;
+  allRepos = dependents;
   console.log(`Found ${dependents.length} candidate repos`);
 
-  mkdirSync(outputDir, { recursive: true });
-  const [owner, name] = repo.split("/");
-  const stem = `${owner}-${name}-dependents`;
-  const csvPath = `${outputDir}/${stem}.csv`;
-
+  // Filter by minStars
+  const filtered = dependents.filter(r => (r.stars ?? 0) >= minStars);
   // Sort by star count (descending)
-  const sorted = dependents.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
+  const sorted = filtered.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
 
-  // CSV output: owner,name,full_name,html_url,stars,forks
-  const header = ["owner", "name", "full_name", "html_url", "stars", "forks"];
-  const toCSV = (rows) => [
-    header.join(","),
-    ...rows.map(r => header.map(k => r[k] ?? "").join(","))
-  ].join("\n");
-  writeFileSync(csvPath, toCSV(sorted));
+  // Markdown output
+  flushMarkdown(sorted, {
+    repo,
+    outputDir,
+    minStars,
+    pagesScraped,
+    reposFound: allRepos.length,
+    reposFiltered: allRepos.length - sorted.length
+  });
 
   console.log("Wrote:");
-  console.log("  " + csvPath);
+  const [owner, name] = repo.split("/");
+  const stem = `${owner}-${name}-dependents`;
+  const mdPath = `${outputDir}/${stem}.md`;
+  console.log("  " + mdPath);
 })().catch(err => {
   console.error(err);
   process.exit(1);
