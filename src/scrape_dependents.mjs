@@ -217,9 +217,9 @@ function flushMarkdown(rows, meta) {
   const mdPath = `${reportsDir}/${stem}.md`;
 
   // Markdown title
-  let md = `# Scraped repository: ${repo}\n\n`;
-  md += `**Language:** ${language}\n\n`;
-  md += `**Type:** ${type}\n\n`;
+  let md = `# Scraped repository: ${repo}\n`;
+  md += `* **Language:** ${language}\n`;
+  md += `* **Type:** ${type}\n`;
 
   // Table header
   md += `| Owner | Name | Stars | Forks | URL |\n|---|---|---|---|---|\n`;
@@ -230,17 +230,17 @@ function flushMarkdown(rows, meta) {
 
   // Summary
   md += `\n---\n`;
-  md += `**Last scrape:** ${new Date().toISOString()}\n`;
-  md += `**Total pages scraped:** ${pagesScraped}\n`;
-  md += `**Repos found:** ${reposFound}\n`;
-  md += `**Repos filtered out (< ${minStars} stars):** ${reposFiltered}\n`;
-  md += `**Total possible repositories:** ${totalPossibleRepos ?? 'unknown'}\n`;
+  md += `* **Last scrape:** ${new Date().toISOString()}\n`;
+  md += `* **Total pages scraped:** ${pagesScraped}\n`;
+  md += `* **Repos found:** ${reposFound}\n`;
+  md += `* **Repos filtered out (< ${minStars} stars):** ${reposFiltered}\n`;
+  md += `* **Total possible repositories:** ${totalPossibleRepos ?? 'unknown'}\n`;
   // Percentage processed when totalPossibleRepos is available
   if (totalPossibleRepos && Number(totalPossibleRepos) > 0) {
     const pct = ((Number(reposFound) / Number(totalPossibleRepos)) * 100).toFixed(1);
-    md += `**Percent processed:** ${pct}%\n`;
+    md += `* **Percent processed:** ${pct}%\n`;
   } else {
-    md += `**Percent processed:** unknown\n`;
+    md += `* **Percent processed:** unknown\n`;
   }
 
   writeFileSync(mdPath, md);

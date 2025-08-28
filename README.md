@@ -54,7 +54,7 @@ Notes:
 
 This project includes workflows to run the scraper in CI:
 
-- `.github/workflows/scrape_dependents.yml` — top-level dispatcher; builds a matrix from `results/repos.json` and can be triggered manually. It supports picking a single repo to rescrape (dispatch input) or running all repos.
+- `.github/workflows/scrape_dependents.yml` — top-level dispatcher; builds a matrix from `repos.json` and can be triggered manually. It supports picking a single repo to rescrape (dispatch input) or running all repos.
 - `.github/workflows/dependents.yml` — reusable workflow invoked per-repo. It forwards `--package_id` to the scraper and uploads the `output` directory as a per-run artifact (artifact names include the repo slug and run id to avoid collisions).
 
 If you change the workflows, make sure the `output` path and artifact names stay consistent with the script (`--output-dir` flag).

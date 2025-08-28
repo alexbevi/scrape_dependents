@@ -36,7 +36,7 @@ jobs:
         run: |
           import json, os
           choice = (os.getenv('REPO_CHOICE') or 'all').strip()
-          with open('results/repos.json') as f:
+          with open('./repos.json') as f:
               repos = json.load(f)
           if choice and choice.lower() != 'all':
               repos = [r for r in repos if r.get('repo','').split('/')[-1] == choice]
