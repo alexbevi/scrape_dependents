@@ -46,6 +46,8 @@ jobs:
 
   scrape:
     needs: generate-matrix
+    permissions:
+      contents: write
     uses: ./.github/workflows/dependents.yml
     strategy:
       matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
