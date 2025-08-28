@@ -109,15 +109,19 @@ async function crawlDependents(repo, maxPages, sleepMs) {
         break;
       } catch (err) {
         if (err.message.includes('429')) {
-          // Rate limit: flush Markdown, sleep, and retry
+          // Rate limit: batch markdown write only on error
           console.warn(`Rate limit hit on page ${page}, attempt ${attempt}. Flushing Markdown and sleeping...`);
-          flushMarkdown(results, {
+          // Only filter/sort here for partial output
+          const minStars = argv["min-stars"];
+          const filtered = results.filter(r => (r.stars ?? 0) >= minStars);
+          const sorted = filtered.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
+          flushMarkdown(sorted, {
             repo,
             outputDir: argv["output-dir"],
-            minStars: argv["min-stars"],
+            minStars,
             pagesScraped: page,
             reposFound: results.length,
-            reposFiltered: 0 // can't filter mid-scrape
+            reposFiltered: results.length - sorted.length
           });
           await sleep(1000);
           attempt++;
@@ -215,12 +219,11 @@ function flushMarkdown(rows, meta) {
   allRepos = dependents;
   console.log(`Found ${dependents.length} candidate repos`);
 
-  // Filter by minStars
+  // Filter and sort only once at the end
   const filtered = dependents.filter(r => (r.stars ?? 0) >= minStars);
-  // Sort by star count (descending)
   const sorted = filtered.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
 
-  // Markdown output
+  // Batch markdown write only at the end
   flushMarkdown(sorted, {
     repo,
     outputDir,
