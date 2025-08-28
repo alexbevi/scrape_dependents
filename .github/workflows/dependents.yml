@@ -19,7 +19,7 @@ on:
       max-pages:
         required: false
         type: number
-        default: 0
+        default: 500
       package_id:
         required: false
         type: string
