@@ -14,7 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const argv = yargs.default(hideBin(process.argv))
   .option("repo", { type: "string", demandOption: true, desc: "Source repo: owner/name" })
   .option("min-stars", { type: "number", default: 0, desc: "Minimum stargazers to include" })
-  .option("max-pages", { type: "number", default: 50, desc: "Max dependents pages to crawl" })
+  .option("max-pages", { type: "number", default: 0, desc: "Max dependents pages to crawl" })
   .option("include-forks", { type: "boolean", default: false, desc: "Include forks" })
   .option("sleep-ms", { type: "number", default: 150, desc: "Delay between HTML fetches (ms)" })
   .option("output-dir", { type: "string", default: "output", desc: "Directory for results" })
@@ -98,7 +98,8 @@ async function crawlDependents(repo, maxPages, sleepMs) {
   let cursor = null;
   let page = 1;
 
-  while (page <= maxPages) {
+  while (true) {
+    if (maxPages > 0 && page > maxPages) break;
     const url = dependentsUrl(repo, cursor);
     let html;
     let attempt = 1;
