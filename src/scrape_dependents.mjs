@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import { setTimeout as sleep } from "node:timers/promises";
-import { mkdirSync, writeFileSync } from "node:fs";
+import { mkdirSync, writeFileSync, readdirSync, readFileSync } from "node:fs";
 import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import * as yargs from "yargs";
@@ -18,46 +18,12 @@ const argv = yargs.default(hideBin(process.argv))
   .option("include-forks", { type: "boolean", default: false, desc: "Include forks" })
   .option("sleep-ms", { type: "number", default: 150, desc: "Delay between HTML fetches (ms)" })
   .option("output-dir", { type: "string", default: "output", desc: "Directory for results" })
+  .option("package_id", { type: "string", default: null, desc: "Optional package_id for dependents scraping" })
   .argv;
 
 const UA = "dependents-scraper-node/1.0";
 
 // ---------- HTML scraping ----------
-function dependentsUrl(repo, cursor = null) {
-  const [owner, name] = repo.split("/");
-  let url = `https://github.com/${owner}/${name}/network/dependents/`;
-  if (cursor) url += `?dependents_after=${cursor}`;
-  return url;
-}
-
-async function getHtml(url, attempt = 1) {
-  try {
-    const res = await httpRequest(url, {
-      method: "GET",
-      headers: {
-        "user-agent": UA,
-        accept: "text/html"
-      }
-    });
-    if (res.statusCode >= 500 || res.statusCode === 429) {
-      if (attempt >= 4) throw new Error(`GET ${url} failed (${res.statusCode})`);
-      const backoff = Math.min(2 ** attempt, 10) * 1000;
-      await sleep(backoff);
-      return getHtml(url, attempt + 1);
-    }
-    if (res.statusCode !== 200) throw new Error(`GET ${url} failed (${res.statusCode})`);
-    return res.body.text();
-  } catch (err) {
-    // Retry on UND_ERR_SOCKET (SocketError: other side closed)
-    if (err.code === 'UND_ERR_SOCKET' && attempt < 4) {
-      const backoff = Math.min(2 ** attempt, 10) * 1000;
-      await sleep(backoff);
-      return getHtml(url, attempt + 1);
-    }
-    throw err;
-  }
-}
-
 function parseDependents(html, sourceRepo) {
   const $ = loadHTML(html);
   const out = [];
@@ -112,7 +78,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
 
   while (true) {
     if (maxPages > 0 && page > maxPages) break;
-    const url = dependentsUrl(repo, cursor);
+    const url = dependentsUrl(repo, cursor, argv.package_id);
     let html;
     let attempt = 1;
     while (true) {
@@ -172,8 +138,47 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     page++;
     await sleep(sleepMs);
   }
-    return results;
+  return results;
+}
+// ---------- HTML scraping ----------
+function dependentsUrl(repo, cursor = null, package_id = null) {
+  const [owner, name] = repo.split("/");
+  let url = `https://github.com/${owner}/${name}/network/dependents`;
+  const params = [];
+  if (cursor) params.push(`dependents_after=${cursor}`);
+  if (package_id) params.push(`package_id=${package_id}`);
+  if (params.length) url += `?${params.join("&")}`;
+  console.log(url);
+  return url;
+}
+
+async function getHtml(url, attempt = 1) {
+  try {
+    const res = await httpRequest(url, {
+      method: "GET",
+      headers: {
+        "user-agent": UA,
+        accept: "text/html"
+      }
+    });
+    if (res.statusCode >= 500 || res.statusCode === 429) {
+      if (attempt >= 4) throw new Error(`GET ${url} failed (${res.statusCode})`);
+      const backoff = Math.min(2 ** attempt, 10) * 1000;
+      await sleep(backoff);
+      return getHtml(url, attempt + 1);
+    }
+    if (res.statusCode !== 200) throw new Error(`GET ${url} failed (${res.statusCode})`);
+    return res.body.text();
+  } catch (err) {
+    // Retry on UND_ERR_SOCKET (SocketError: other side closed)
+    if (err.code === 'UND_ERR_SOCKET' && attempt < 4) {
+      const backoff = Math.min(2 ** attempt, 10) * 1000;
+      await sleep(backoff);
+      return getHtml(url, attempt + 1);
+    }
+    throw err;
   }
+}
 
 // ---------- Markdown flush helper ----------
 function flushMarkdown(rows, meta) {

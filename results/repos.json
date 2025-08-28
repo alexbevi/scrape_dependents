@@ -7,7 +7,8 @@
   {
     "repo": "mongodb/mongo-ruby-driver",
     "language": "Ruby",
-    "type": "ODM"
+    "type": "ODM",
+    "package_id": "UGFja2FnZS0xMDQwOQ%3D%3D"
   },
   {
     "repo": "mongodb/node-mongodb-native",
