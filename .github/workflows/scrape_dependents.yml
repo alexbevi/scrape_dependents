@@ -79,14 +79,79 @@ jobs:
         run: npm ci
       - name: Generate README from reports
         run: node src/generate_readme.mjs output
-      - name: Commit and push README
+      - name: Commit and push README (rebase-safe, PR fallback)
+        env:
+          OUTPUT_FILE: output/README.md
         run: |
+          set -euo pipefail
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
-          git add output/README.md || true
-          if git diff --cached --quiet; then
-            echo "No README changes to commit"
+          branch="${GITHUB_REF#refs/heads/}"
+          echo "Target branch: $branch"
+
+          # Stash any working changes (should only be README)
+          prev_stash=$(git rev-parse --verify refs/stash 2>/dev/null || echo '')
+          git stash push --include-untracked -m "pre-finalize-readme" || true
+          new_stash=$(git rev-parse --verify refs/stash 2>/dev/null || echo '')
+          STASHED=0
+          if [ "$new_stash" != "$prev_stash" ]; then STASHED=1; fi
+
+          git fetch origin --prune
+          echo "Attempting to pull/rebase origin/$branch"
+          if git pull --rebase origin "$branch"; then
+            echo "Successfully updated local branch from origin"
           else
-            git commit -m "Update aggregated README of reports (run ${{ github.run_id }})"
-            git push origin HEAD
+            echo "Warning: pull --rebase failed. Will create a PR branch with README instead."
+            git rebase --abort 2>/dev/null || true
+            # fall through to PR path below
+            CREATE_PR=1
+          fi
+
+          # Try to restore stash
+          if [ "$STASHED" -eq 1 ]; then
+            if ! git stash pop --index; then
+              echo "Warning: stash pop failed (merge conflicts) — will create PR branch instead."
+              git rebase --abort 2>/dev/null || true
+              CREATE_PR=1
+            fi
+          fi
+
+          # Only proceed to commit if not flagged to create PR
+          CREATE_PR=${CREATE_PR:-0}
+          if [ "$CREATE_PR" -eq 0 ]; then
+            git add "$OUTPUT_FILE" || true
+            if git diff --cached --quiet; then
+              echo "No README changes to commit"
+            else
+              git commit -m "Update aggregated README of reports (run ${{ github.run_id }})"
+              if git push origin HEAD; then
+                echo "Pushed README to origin/$branch"
+              else
+                echo "Push failed (non-fast-forward). Will create PR branch instead."
+                CREATE_PR=1
+              fi
+            fi
+          fi
+
+          if [ "$CREATE_PR" -eq 1 ]; then
+            # Create branch and push README there
+            pr_branch="dependents/readme-run-${{ github.run_id }}"
+            echo "Creating PR branch: $pr_branch"
+            git checkout -b "$pr_branch" origin/$branch || git checkout -b "$pr_branch"
+            git add -f "$OUTPUT_FILE" || true
+            if git diff --cached --quiet; then
+              echo "No README changes to commit on PR branch"
+              exit 0
+            fi
+            git commit -m "Add aggregated README of reports (run ${{ github.run_id }})"
+            git push -u origin "$pr_branch"
+
+            # Create a PR
+            repo_full="${GITHUB_REPOSITORY}"
+            title="[reports] Update aggregated README (run ${{ github.run_id }})"
+            body="This PR contains the aggregated README generated after the dependents matrix run (run ${{ github.run_id }}). Please review and merge."
+            echo "Creating PR: $title"
+            curl -s -X POST -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" -H "Accept: application/vnd.github+json" \
+              https://api.github.com/repos/${repo_full}/pulls \
+              -d "{\"title\":\"$title\",\"head\":\"$pr_branch\",\"base\":\"$branch\",\"body\":\"$body\"}"
           fi
