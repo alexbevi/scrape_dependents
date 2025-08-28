@@ -1,0 +1,38 @@
+name: Scrape All Dependents
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  generate-matrix:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      - name: Read repos.json and set matrix
+        id: set-matrix
+        run: |
+          import json
+          with open('results/repos.json') as f:
+              repos = json.load(f)
+          print('::set-output name=matrix::' + json.dumps({'include': repos}))
+        shell: python
+
+  scrape:
+    needs: generate-matrix
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
+    steps:
+      - name: Call dependents.yml for each repo
+        uses: ./.github/workflows/dependents.yml
+        with:
+          repo: ${{ matrix.repo }}
+          language: ${{ matrix.language }}
+          type: ${{ matrix.type }}
+          min-stars: 10
+          max-pages: 0
+          output-dir: output
