@@ -109,9 +109,16 @@ async function crawlDependents(repo, maxPages, sleepMs) {
         break;
       } catch (err) {
         if (err.message.includes('429')) {
-          // Rate limit: flush CSV, sleep, and retry
-          console.warn(`Rate limit hit on page ${page}, attempt ${attempt}. Flushing CSV and sleeping...`);
-          flushCsv(results);
+          // Rate limit: flush Markdown, sleep, and retry
+          console.warn(`Rate limit hit on page ${page}, attempt ${attempt}. Flushing Markdown and sleeping...`);
+          flushMarkdown(results, {
+            repo,
+            outputDir: argv["output-dir"],
+            minStars: argv["min-stars"],
+            pagesScraped: page,
+            reposFound: results.length,
+            reposFiltered: 0 // can't filter mid-scrape
+          });
           await sleep(1000);
           attempt++;
           if (attempt > 5) {
@@ -149,22 +156,6 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     await sleep(sleepMs);
   }
   return results;
-}
-
-// ...existing code...
-
-// ---------- CSV ----------
-function toCSV(rows) {
-  const header = ["full_name", "stars", "fork", "html_url", "description", "pushed_at"];
-  const esc = (v) => {
-    if (v == null) return "";
-    const s = String(v);
-    return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
-  };
-  return [
-    header.join(","),
-    ...rows.map(r => header.map(k => esc(r[k])).join(","))
-  ].join("\n");
 }
 
 // ---------- Markdown flush helper ----------
