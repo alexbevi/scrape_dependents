@@ -18,6 +18,8 @@ on:
           - mongo-go-driver
           - mongo-csharp-driver
           - drizzle-orm
+          - typeorm
+          - mongoengine
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 

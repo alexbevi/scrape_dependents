@@ -46,5 +46,15 @@
     "repo": "drizzle-team/drizzle-orm",
     "language": "JavaScript",
     "type": "ORM"
+  },
+  {
+    "repo": "MongoEngine/mongoengine",
+    "language": "Python",
+    "type": "ODM"
+  },
+  {
+    "repo": "typeorm/typeorm",
+    "language": "JavaScript",
+    "type": "ORM"
   }
 ]
