@@ -41,11 +41,17 @@ jobs:
       - name: Install deps
         run: npm ci
       - name: Run scraper
+        id: run-scraper
         env:
           DEPENDENTS_TOKEN: ${{ secrets.DEPENDENTS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           mkdir -p ${{ inputs.output-dir }}
+          # derive REPO_NAME as last path segment and export for later steps
+          repo_full="${{ inputs.repo }}"
+          repo_name="${repo_full##*/}"
+          echo "REPO_NAME=${repo_name}" >> $GITHUB_ENV
+          echo "repo_name=${repo_name}" >> $GITHUB_OUTPUT
           node src/scrape_dependents.mjs \
             --repo "${{ inputs.repo }}" \
             --min-stars ${{ inputs.min-stars }} \
@@ -57,5 +63,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: dependents-output-${{ inputs.repo }}-${{ github.run_id }}
+          name: dependents-output-${{ steps.run-scraper.outputs.repo_name }}-${{ github.run_id }}
           path: ${{ inputs.output-dir }}/*
