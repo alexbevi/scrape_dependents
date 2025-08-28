@@ -1,0 +1,82 @@
+name: Scrape Dependents
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: "Source repo (owner/name)"
+        required: true
+        default: "drizzle-team/drizzle-orm"
+      min_stars:
+        description: "Minimum stars"
+        required: true
+        default: "50"
+      max_pages:
+        description: "Max dependents pages"
+        required: true
+        default: "50"
+      include_forks:
+        description: "Include forks? (true/false)"
+        required: true
+        default: "false"
+      commit_results:
+        description: "Commit results? (true/false)"
+        required: true
+        default: "false"
+
+  schedule:
+    - cron: "17 6 * * *" # optional daily
+
+permissions:
+  contents: write  # needed only if committing results
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm ci
+        env:
+          NPM_CONFIG_FUND: "false"
+          NPM_CONFIG_AUDIT: "false"
+
+      - name: Run scraper
+        env:
+          DEPENDENTS_TOKEN: ${{ secrets.DEPENDENTS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p output
+          node src/scrape_dependents.mjs \
+            --repo "${{ github.event.inputs.source_repo || 'drizzle-team/drizzle-orm' }}" \
+            --min-stars ${{ github.event.inputs.min_stars || '50' }} \
+            --max-pages ${{ github.event.inputs.max_pages || '50' }} \
+            --output-dir output \
+            $([ "${{ github.event.inputs.include_forks }}" = "true" ] && echo "--include-forks")
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: dependents-output
+          path: output/*
+
+      - name: Commit results (optional)
+        if: ${{ github.event.inputs.commit_results == 'true' }}
+        run: |
+          mkdir -p results
+          cp output/* results/
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results
+          if ! git diff --cached --quiet; then
+            git commit -m "Update dependents results [${{ github.event.inputs.source_repo }}]"
+            git push
+          else
+            echo "No changes to commit."
+          fi

@@ -1,0 +1,15 @@
+{
+  "name": "dependents-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "scrape": "node src/scrape_dependents.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "p-limit": "^6.1.0",
+    "undici": "^6.19.4",
+    "yargs": "^17.7.2"
+  }
+}
