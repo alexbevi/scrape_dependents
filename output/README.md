@@ -2,12 +2,12 @@
 
 | Repository | Language | Type | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| [drizzle-team/drizzle-orm](reports/drizzle-team-drizzle-orm-dependents.md) | JavaScript | ORM | 2025-08-28T19:19:13.094Z | 500 | 14905 | 14821 | 139895 | 10.7% |
-| [mongodb/mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | Driver | 2025-08-28T19:20:43.596Z | 500 | 14958 | 14922 | 87645 | 17.1% |
-| [mongodb/mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | Driver | 2025-08-28T19:20:07.809Z | 500 | 14187 | 14027 | 97440 | 14.6% |
-| [mongodb/mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | Driver | 2025-08-28T19:16:37.787Z | 293 | 8739 | 8660 | 17781 | 49.1% |
-| [mongodb/mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | Driver | 2025-08-28T19:20:37.261Z | 500 | 14896 | 14858 | 398784 | 3.7% |
-| [mongodb/mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | ODM | 2025-08-28T19:13:32.309Z | 172 | 5069 | 4920 | 22214 | 22.8% |
-| [mongodb/mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | ODM | 2025-08-28T19:12:52.633Z | 136 | 4029 | 3897 | 23645 | 17.0% |
-| [mongodb/node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | Driver | 2025-08-28T19:22:33.534Z | 500 | 14970 | 14932 | 5702984 | 0.3% |
-| [prisma/prisma](reports/prisma-prisma-dependents.md) | TypeScript | ORM | 2025-08-28T19:19:38.121Z | 500 | 14972 | 14940 | 754148 | 2.0% |
+| [drizzle-team/drizzle-orm](reports/drizzle-team-drizzle-orm-dependents.md) | JavaScript | ORM | 2025-08-28T21:17:10.128Z | 1990 | 59376 | 59129 | 139896 | 42.4% |
+| [mongodb/mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | Driver | 2025-08-28T21:03:37.823Z | 1259 | 37576 | 37346 | 87645 | 42.9% |
+| [mongodb/mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | Driver | 2025-08-28T20:47:23.275Z | 133 | 3818 | 3757 | 97441 | 3.9% |
+| [mongodb/mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | Driver | 2025-08-28T20:50:44.569Z | 342 | 10187 | 10045 | 17781 | 57.3% |
+| [mongodb/mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | Driver | 2025-08-28T21:33:18.604Z | 3052 | 89645 | 89402 | 398785 | 22.5% |
+| [mongodb/mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | ODM | 2025-08-28T20:46:58.937Z | 125 | 3671 | 3625 | 22214 | 16.5% |
+| [mongodb/mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | ODM | 2025-08-28T20:46:05.201Z | 136 | 4029 | 3897 | 23645 | 17.0% |
+| [mongodb/node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | Driver | 2025-08-28T21:20:03.650Z | 2242 | 67084 | 67037 | 5702991 | 1.2% |
+| [prisma/prisma](reports/prisma-prisma-dependents.md) | TypeScript | ORM | 2025-08-28T20:54:10.656Z | 397 | 11889 | 11858 | 754152 | 1.6% |
