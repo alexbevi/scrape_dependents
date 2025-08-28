@@ -164,14 +164,17 @@ async function crawlDependents(repo, maxPages, sleepMs) {
 
 // ---------- Markdown flush helper ----------
 function flushMarkdown(rows, meta) {
-  const { repo, outputDir, minStars } = meta;
-  mkdirSync(outputDir, { recursive: true });
+  const { repo, minStars, pagesScraped, reposFound, reposFiltered, language, type } = meta;
+  const reportsDir = "results/reports";
+  mkdirSync(reportsDir, { recursive: true });
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
-  const mdPath = `${outputDir}/${stem}.md`;
+  const mdPath = `${reportsDir}/${stem}.md`;
 
   // Markdown title
   let md = `# Scraped repository: ${repo}\n\n`;
+  md += `**Language:** ${language}\n\n`;
+  md += `**Type:** ${type}\n\n`;
 
   // Table header
   md += `| Owner | Name | Stars | Forks | URL |\n|---|---|---|---|---|\n`;
@@ -183,11 +186,53 @@ function flushMarkdown(rows, meta) {
   // Summary
   md += `\n---\n`;
   md += `**Last scrape:** ${new Date().toISOString()}\n`;
-  md += `**Total pages scraped:** ${meta.pagesScraped}\n`;
-  md += `**Repos found:** ${meta.reposFound}\n`;
-  md += `**Repos filtered out (< ${minStars} stars):** ${meta.reposFiltered}\n`;
+  md += `**Total pages scraped:** ${pagesScraped}\n`;
+  md += `**Repos found:** ${reposFound}\n`;
+  md += `**Repos filtered out (< ${minStars} stars):** ${reposFiltered}\n`;
 
   writeFileSync(mdPath, md);
+
+  // Update results/README.md with a table of all reports, sorted by language and type
+  const readmePath = "results/README.md";
+  let reports = [];
+  const fs = require('fs');
+  try {
+    const files = fs.readdirSync(reportsDir).filter(f => f.endsWith('.md'));
+    for (const file of files) {
+      const content = fs.readFileSync(`${reportsDir}/${file}`, 'utf8');
+      const repoMatch = content.match(/# Scraped repository: ([^\n]+)/);
+      const langMatch = content.match(/\*\*Language:\*\* ([^\n]+)/);
+      const typeMatch = content.match(/\*\*Type:\*\* ([^\n]+)/);
+      const lastScrapeMatch = content.match(/\*\*Last scrape:\*\* ([^\n]+)/);
+      const pagesMatch = content.match(/\*\*Total pages scraped:\*\* ([^\n]+)/);
+      const foundMatch = content.match(/\*\*Repos found:\*\* ([^\n]+)/);
+      const filteredMatch = content.match(/\*\*Repos filtered out \(< ([^ ]+) stars\):\*\* ([^\n]+)/);
+      reports.push({
+        file,
+        repo: repoMatch ? repoMatch[1] : '',
+        language: langMatch ? langMatch[1] : '',
+        type: typeMatch ? typeMatch[1] : '',
+        lastScrape: lastScrapeMatch ? lastScrapeMatch[1] : '',
+        pages: pagesMatch ? pagesMatch[1] : '',
+        found: foundMatch ? foundMatch[1] : '',
+        filtered: filteredMatch ? filteredMatch[2] : '',
+        minStars: filteredMatch ? filteredMatch[1] : '',
+      });
+    }
+  } catch (e) {}
+  // Sort by language, then type, then repo
+  reports.sort((a, b) => {
+    if (a.language !== b.language) return a.language.localeCompare(b.language);
+    if (a.type !== b.type) return a.type.localeCompare(b.type);
+    return a.repo.localeCompare(b.repo);
+  });
+  let readme = "# Scrape Reports\n\n";
+  readme += "| Repository | Language | Type | Last Scrape | Pages | Found | Filtered |\n";
+  readme += "|---|---|---|---|---|---|---|\n";
+  for (const r of reports) {
+    readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} |\n`;
+  }
+  fs.writeFileSync(readmePath, readme);
 }
 
 // ---------- Main ----------
@@ -226,17 +271,18 @@ function flushMarkdown(rows, meta) {
   // Batch markdown write only at the end
   flushMarkdown(sorted, {
     repo,
-    outputDir,
     minStars,
     pagesScraped,
     reposFound: allRepos.length,
-    reposFiltered: allRepos.length - sorted.length
+    reposFiltered: allRepos.length - sorted.length,
+    language: argv.language || '',
+    type: argv.type || ''
   });
 
   console.log("Wrote:");
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
-  const mdPath = `${outputDir}/${stem}.md`;
+  const mdPath = `results/reports/${stem}.md`;
   console.log("  " + mdPath);
 })().catch(err => {
   console.error(err);
