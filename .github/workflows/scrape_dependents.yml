@@ -19,7 +19,7 @@ on:
           - mongo-csharp-driver
           - drizzle-orm
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 0 * * 0'  # every Sunday at midnight
 
 jobs:
   generate-matrix:
@@ -54,6 +54,6 @@ jobs:
       language: ${{ matrix.language }}
       type: ${{ matrix.type }}
       package_id: ${{ matrix.package_id }}
-      min-stars: 10
+      min-stars: 100
       max-pages: 0
       output-dir: output
