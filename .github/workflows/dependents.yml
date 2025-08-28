@@ -1,77 +1,56 @@
 name: Scrape Dependents
 
 on:
-  workflow_dispatch:
+  workflow_call:
     inputs:
-      source_repo:
-        description: "Source repo (owner/name)"
+      repo:
         required: true
-        default: "drizzle-team/drizzle-orm"
-      min_stars:
-        description: "Minimum stars"
+        type: string
+      language:
         required: true
-        default: "10"
-      max_pages:
-        description: "Max dependents pages"
+        type: string
+      type:
         required: true
-        default: "0"
-      commit_results:
-        description: "Commit results? (true/false)"
-        required: true
-        default: "true"
-
-  schedule:
-    - cron: "17 6 * * *" # optional daily
-
-permissions:
-  contents: write  # needed only if committing results
+        type: string
+      min-stars:
+        required: false
+        type: number
+        default: 10
+      max-pages:
+        required: false
+        type: number
+        default: 0
+      output-dir:
+        required: false
+        type: string
+        default: output
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
       - name: Install deps
         run: npm ci
-        env:
-          NPM_CONFIG_FUND: "false"
-          NPM_CONFIG_AUDIT: "false"
-
       - name: Run scraper
         env:
           DEPENDENTS_TOKEN: ${{ secrets.DEPENDENTS_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          mkdir -p output
+          mkdir -p ${{ inputs.output-dir }}
           node src/scrape_dependents.mjs \
-            --repo "${{ github.event.inputs.source_repo || 'drizzle-team/drizzle-orm' }}" \
-            --min-stars ${{ github.event.inputs.min_stars || '0' }} \
-            --max-pages ${{ github.event.inputs.max_pages || '0' }} \
-            --output-dir output
-
+            --repo "${{ inputs.repo }}" \
+            --min-stars ${{ inputs.min-stars }} \
+            --max-pages ${{ inputs.max-pages }} \
+            --output-dir ${{ inputs.output-dir }} \
+            --language "${{ inputs.language }}" \
+            --type "${{ inputs.type }}"
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
           name: dependents-output
-          path: output/*
-
-      - name: Commit results (optional)
-        if: ${{ github.event.inputs.commit_results == 'true' }}
-        run: |
-          mkdir -p results
-          cp output/* results/
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add results
-          if ! git diff --cached --quiet; then
-            git commit -m "Update dependents results [${{ github.event.inputs.source_repo }}]"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+          path: ${{ inputs.output-dir }}/*
