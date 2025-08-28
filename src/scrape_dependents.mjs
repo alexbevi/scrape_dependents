@@ -118,7 +118,6 @@ async function crawlDependents(repo, maxPages, sleepMs) {
           flushMarkdown(sorted, {
             repo,
             outputDir: argv["output-dir"],
-  writeFileSync(mdPath, md);
             pagesScraped: page,
             reposFound: results.length,
             reposFiltered: results.length - sorted.length
