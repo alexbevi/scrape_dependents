@@ -219,7 +219,7 @@ function flushMarkdown(rows, meta) {
   // Markdown title
   let md = `# Scraped repository: ${repo}\n`;
   md += `* **Language:** ${language}\n`;
-  md += `* **Type:** ${type}\n`;
+  md += `* **Type:** ${type}\n\n`;
 
   // Table header
   md += `| Owner | Name | Stars | Forks | URL |\n|---|---|---|---|---|\n`;
