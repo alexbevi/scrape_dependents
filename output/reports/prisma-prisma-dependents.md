@@ -4,12 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| Shubhamsaboo | awesome-llm-apps | 63283 | 7676 | [link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| Shubhamsaboo | awesome-llm-apps | 63289 | 7675 | [link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 | t3-oss | create-t3-turbo | 5545 | 495 | [link](https://github.com/t3-oss/create-t3-turbo) |
-| Helicone | helicone | 4391 | 427 | [link](https://github.com/Helicone/helicone) |
+| Helicone | helicone | 4392 | 427 | [link](https://github.com/Helicone/helicone) |
 | kubero-dev | kubero | 3775 | 165 | [link](https://github.com/kubero-dev/kubero) |
-| ocodista | trampar-de-casa | 2907 | 111 | [link](https://github.com/ocodista/trampar-de-casa) |
-| nitrictech | nitric | 1800 | 97 | [link](https://github.com/nitrictech/nitric) |
+| ocodista | trampar-de-casa | 2908 | 111 | [link](https://github.com/ocodista/trampar-de-casa) |
 | junaid33 | opensource.builders | 1263 | 180 | [link](https://github.com/junaid33/opensource.builders) |
 | sam-goodwin | alchemy | 1076 | 65 | [link](https://github.com/sam-goodwin/alchemy) |
 | shortlink-org | shortlink | 768 | 39 | [link](https://github.com/shortlink-org/shortlink) |
@@ -38,9 +37,9 @@
 | c12i | bunge-bits | 111 | 16 | [link](https://github.com/c12i/bunge-bits) |
 
 ---
-* **Last scrape:** 2025-08-28T19:19:38.121Z
-* **Total pages scraped:** 500
-* **Repos found:** 14972
-* **Repos filtered out (< 100 stars):** 14940
-* **Total possible repositories:** 754148
-* **Percent processed:** 2.0%
+* **Last scrape:** 2025-08-28T20:54:10.656Z
+* **Total pages scraped:** 397
+* **Repos found:** 11889
+* **Repos filtered out (< 100 stars):** 11858
+* **Total possible repositories:** 754152
+* **Percent processed:** 1.6%
