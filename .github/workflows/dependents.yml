@@ -32,8 +32,13 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -60,8 +65,19 @@ jobs:
             --package_id "${{ inputs.package_id }}" \
             --language "${{ inputs.language }}" \
             --type "${{ inputs.type }}"
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: dependents-output-${{ steps.run-scraper.outputs.repo_name }}-${{ github.run_id }}
-          path: ${{ inputs.output-dir }}/*
+      - name: Commit and push reports
+        if: always()
+        env:
+          OUTPUT_DIR: ${{ inputs.output-dir }}
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          # Add the output directory (no-op if nothing new)
+          git add "$OUTPUT_DIR" || true
+          # If there are staged changes, commit and push; otherwise skip
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add dependents reports for ${{ inputs.repo }} (run ${{ github.run_id }})"
+            git push
+          fi
