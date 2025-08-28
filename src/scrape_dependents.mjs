@@ -191,7 +191,8 @@ function flushMarkdown(rows, meta) {
     language = '',
     type = ''
   } = meta;
-  const reportsDir = "results/reports";
+  const outputDir = meta.outputDir || 'output';
+  const reportsDir = `${outputDir}/reports`;
   mkdirSync(reportsDir, { recursive: true });
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
@@ -220,11 +221,11 @@ function flushMarkdown(rows, meta) {
   // Force file system sync to ensure the Markdown report is present before updating README
   try { require('fs').fsyncSync(require('fs').openSync(mdPath, 'r')); } catch (e) {}
 
-  // Update results/README.md with a table of all reports, sorted by language and type
-  const readmePath = "results/README.md";
+  // Update output README.md with a table of all reports, sorted by language and type
+  const readmePath = `${outputDir}/README.md`;
   let reports = [];
   try {
-    const files = readdirSync(reportsDir).filter(f => f.endsWith('.md'));
+  const files = readdirSync(reportsDir).filter(f => f.endsWith('.md'));
     for (const file of files) {
       const content = readFileSync(`${reportsDir}/${file}`, 'utf8');
       const repoMatch = content.match(/# Scraped repository: ([^\n]+)/);
@@ -303,7 +304,8 @@ function flushMarkdown(rows, meta) {
     reposFound: allRepos.length,
     reposFiltered: allRepos.length - sorted.length,
     language: argv.language || '',
-    type: argv.type || ''
+    type: argv.type || '',
+    outputDir
   });
 
   console.log("Wrote:");
