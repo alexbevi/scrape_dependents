@@ -143,15 +143,10 @@ function toCSV(rows) {
   mkdirSync(outputDir, { recursive: true });
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
-  const jsonPath = `${outputDir}/${stem}.json`;
   const csvPath = `${outputDir}/${stem}.csv`;
 
-  writeFileSync(jsonPath, JSON.stringify({
-    source_repo: repo,
-    generated_at: new Date().toISOString(),
-    count: dependents.length,
-    items: dependents
-  }, null, 2));
+  // Sort by star count (descending)
+  const sorted = dependents.sort((a, b) => (b.stars ?? 0) - (a.stars ?? 0));
 
   // CSV output: owner,name,full_name,html_url,stars,forks
   const header = ["owner", "name", "full_name", "html_url", "stars", "forks"];
@@ -159,10 +154,9 @@ function toCSV(rows) {
     header.join(","),
     ...rows.map(r => header.map(k => r[k] ?? "").join(","))
   ].join("\n");
-  writeFileSync(csvPath, toCSV(dependents));
+  writeFileSync(csvPath, toCSV(sorted));
 
   console.log("Wrote:");
-  console.log("  " + jsonPath);
   console.log("  " + csvPath);
 })().catch(err => {
   console.error(err);
