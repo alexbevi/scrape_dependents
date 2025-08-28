@@ -28,7 +28,7 @@ jobs:
       matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
     steps:
       - name: Call dependents.yml for each repo
-        uses: alexbevi/scrape_dependents/.github/workflows/dependents.yml@main
+        uses: ./.github/workflows/dependents.yml
         with:
           repo: ${{ matrix.repo }}
           language: ${{ matrix.language }}
