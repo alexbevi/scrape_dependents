@@ -96,7 +96,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
   const seen = new Set();
   const results = [];
   let cursor = null;
-  let page = 1;
+  const stem = `${owner}-${name}-dependents`;
 
   while (true) {
     if (maxPages > 0 && page > maxPages) break;
@@ -118,7 +118,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
           flushMarkdown(sorted, {
             repo,
             outputDir: argv["output-dir"],
-            minStars,
+  writeFileSync(mdPath, md);
             pagesScraped: page,
             reposFound: results.length,
             reposFiltered: results.length - sorted.length
@@ -160,7 +160,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     await sleep(sleepMs);
   }
   return results;
-}
+  writeFileSync(readmePath, readme);
 
 // ---------- Markdown flush helper ----------
 function flushMarkdown(rows, meta) {
