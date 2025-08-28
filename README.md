@@ -35,30 +35,76 @@ Common options:
 - `--output-dir` (string, default `output`) — where reports and README are written
 - `--package_id` (string, optional) — if set, appended to dependents query (used for language-specific package views)
 
-Example with package_id:
+# dependents-scraper
+
+Small Node.js tool to crawl GitHub repository dependents pages and emit per-repo Markdown reports.
+
+Summary
+ - Script: `src/scrape_dependents.mjs`
+ - Per-repo output: `output/reports/*.md`
+ - Aggregated index: `output/README.md` (generated separately)
+
+Requirements
+ - Node.js 18+ recommended
+ - Internet access to GitHub
+
+Install
 
 ```bash
-npm run scrape -- --repo=mongodb/mongo-ruby-driver --package_id=UGFja2FnZS0xMDQwOQ%3D%3D
+# from project root
+npm install
 ```
 
-Notes:
-- You can also pass optional metadata flags (e.g. `--language` and `--type`) — these values are included in the generated per-repo Markdown and top-level `output/README.md`.
+Quick usage
 
-## Output
+Run the scraper for a single repository:
 
-- Per-repo report: `output/reports/OWNER-NAME-dependents.md`
-  - Contains a table of dependents and a summary block with: pages scraped, repos found, repos filtered, total possible repositories (if detected), and percent processed.
-- Aggregate index: `output/README.md` — lists all report files and the extracted summary columns.
+```bash
+npm run scrape -- --repo=OWNER/NAME
+```
 
-## GitHub Actions
+Important CLI options
+- `--repo` (required): source repository `owner/name`
+- `--min-stars` (default 0): filter dependents with fewer stars
+- `--max-pages` (default 0 = unlimited)
+- `--sleep-ms` (default 150 ms)
+- `--output-dir` (default `output`)
+- `--package_id` (optional): appended to dependents query for package-scoped views
 
-This project includes workflows to run the scraper in CI:
+Output
+- Per-repo report: `output/reports/OWNER-NAME-dependents.md` — table of dependents plus a summary (pages scraped, repos found, filtered, total possible, percent processed when available).
+- Aggregate README: `output/README.md` — built from the `output/reports` files.
 
-- `.github/workflows/scrape_dependents.yml` — top-level dispatcher; builds a matrix from `repos.json` and can be triggered manually. It supports picking a single repo to rescrape (dispatch input) or running all repos.
-- `.github/workflows/dependents.yml` — reusable workflow invoked per-repo. It forwards `--package_id` to the scraper and uploads the `output` directory as a per-run artifact (artifact names include the repo slug and run id to avoid collisions).
+CI / Workflows
 
-If you change the workflows, make sure the `output` path and artifact names stay consistent with the script (`--output-dir` flag).
+This repo uses GitHub Actions to run the scraper and publish results.
 
-## Contributing
+- `.github/workflows/dependents.yml` — reusable workflow run per-repo (matrix). Each per-repo job writes its report to `output/reports` and may push that file to the repo. These jobs do not update `output/README.md`.
+- `.github/workflows/scrape_dependents.yml` — top-level dispatcher that builds the matrix from `repos.json` and calls the reusable workflow for each repo.
+- `.github/workflows/finalize_readme.yml` — a separate, reusable workflow that generates `output/README.md` from `output/reports` and commits (or opens a PR if pushing to the branch is not possible). It is called once after the matrix completes, and can also be run manually via Actions → Finalize README → Run workflow.
 
-Open issues or PRs for bugs and improvements. Keep edits small and include a short smoke-test demonstrating the change.ß
+Usage notes
+- Per-repo jobs can safely push their individual report files; the aggregate README is generated once by the finalize workflow to avoid race conditions.
+- If your repo uses branch protection or requires reviews, the finalize workflow will create a PR instead of pushing directly.
+
+Running the finalize step manually
+
+You can regenerate and publish the aggregated README without rerunning all scrapes:
+
+- In the GitHub UI: Actions → Finalize README → Run workflow
+- From the CLI (using gh):
+
+```bash
+gh workflow run finalize_readme.yml --repo <owner>/<repo>
+```
+
+Troubleshooting
+- If pushes are rejected because the branch changed, the finalize workflow will create a PR so you can review and merge.
+- If `output` is in `.gitignore`, consider allowing `output/reports/` with a `.gitignore` exception (e.g. add `!output/reports/`) instead of force-adding ignored files in workflows.
+- If GitHub page markup changes and reports look empty, update selectors in `parseDependents` (`src/scrape_dependents.mjs`).
+
+Contributing
+
+Open issues or PRs for bugs and improvements. Small, focused PRs with a short smoke test are easiest to review.
+
+Generated on: August 28, 2025
