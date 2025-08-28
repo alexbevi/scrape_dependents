@@ -27,6 +27,7 @@ jobs:
     strategy:
       matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
     steps:
+      - uses: actions/checkout@v4
       - name: Call dependents.yml for each repo
         uses: ./.github/workflows/dependents.yml
         with:
