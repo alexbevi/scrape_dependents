@@ -11,7 +11,7 @@ jobs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
       - name: Read repos.json and set matrix
         id: set-matrix
         run: |
@@ -23,17 +23,13 @@ jobs:
 
   scrape:
     needs: generate-matrix
-    runs-on: ubuntu-latest
+    uses: ./.github/workflows/dependents.yml
     strategy:
       matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
-    steps:
-      - uses: actions/checkout@v4
-      - name: Call dependents.yml for each repo
-        uses: alexbevi/scrape_dependents/.github/workflows/dependents.yml@main
-        with:
-          repo: ${{ matrix.repo }}
-          language: ${{ matrix.language }}
-          type: ${{ matrix.type }}
-          min-stars: 10
-          max-pages: 0
-          output-dir: output
+    with:
+      repo: ${{ matrix.repo }}
+      language: ${{ matrix.language }}
+      type: ${{ matrix.type }}
+      min-stars: 10
+      max-pages: 0
+      output-dir: output
