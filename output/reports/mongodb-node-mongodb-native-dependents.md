@@ -4,11 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| danny-avila | LibreChat | 29527 | 5515 | [link](https://github.com/danny-avila/LibreChat) |
+| danny-avila | LibreChat | 29527 | 5517 | [link](https://github.com/danny-avila/LibreChat) |
+| lichess-org | lila | 17023 | 2458 | [link](https://github.com/lichess-org/lila) |
 | vercel | vercel | 14000 | 2840 | [link](https://github.com/vercel/vercel) |
 | midwayjs | midway | 7616 | 586 | [link](https://github.com/midwayjs/midway) |
 | BasedHardware | omi | 6184 | 926 | [link](https://github.com/BasedHardware/omi) |
-| yikart | AiToEarn | 2940 | 480 | [link](https://github.com/yikart/AiToEarn) |
+| yikart | AiToEarn | 2943 | 483 | [link](https://github.com/yikart/AiToEarn) |
 | processing | p5.js-web-editor | 1563 | 1535 | [link](https://github.com/processing/p5.js-web-editor) |
 | AgentDock | AgentDock | 1501 | 94 | [link](https://github.com/AgentDock/AgentDock) |
 | robinkarlberg | transfer.zip-web | 1328 | 84 | [link](https://github.com/robinkarlberg/transfer.zip-web) |
@@ -21,8 +22,10 @@
 | Mentra-Community | MentraOS | 699 | 111 | [link](https://github.com/Mentra-Community/MentraOS) |
 | rush86999 | atom | 593 | 54 | [link](https://github.com/rush86999/atom) |
 | 14790897 | auto-read-liunxdo | 584 | 382 | [link](https://github.com/14790897/auto-read-liunxdo) |
+| AIxBlock-2023 | awesome-ai-dev-platform-opensource | 527 | 138 | [link](https://github.com/AIxBlock-2023/awesome-ai-dev-platform-opensource) |
 | techgod143 | TECH-GOD-BUG-BOT | 516 | 1631 | [link](https://github.com/techgod143/TECH-GOD-BUG-BOT) |
 | aelassas | bookcars | 458 | 274 | [link](https://github.com/aelassas/bookcars) |
+| caddymanager | caddymanager | 441 | 16 | [link](https://github.com/caddymanager/caddymanager) |
 | thewca | worldcubeassociation.org | 372 | 197 | [link](https://github.com/thewca/worldcubeassociation.org) |
 | liblaber | ai | 327 | 8 | [link](https://github.com/liblaber/ai) |
 | miroslavpejic85 | mirotalkwebrtc | 314 | 59 | [link](https://github.com/miroslavpejic85/mirotalkwebrtc) |
@@ -31,22 +34,28 @@
 | existence-master | Sentient | 269 | 34 | [link](https://github.com/existence-master/Sentient) |
 | reconmap | pentest-reports | 265 | 56 | [link](https://github.com/reconmap/pentest-reports) |
 | phellipeandrade | rbac | 263 | 22 | [link](https://github.com/phellipeandrade/rbac) |
-| SilvaTechB | silva-md-bot | 258 | 1232 | [link](https://github.com/SilvaTechB/silva-md-bot) |
+| setube | stb | 263 | 41 | [link](https://github.com/setube/stb) |
+| SilvaTechB | silva-md-bot | 259 | 1232 | [link](https://github.com/SilvaTechB/silva-md-bot) |
+| authsmith | payload-auth-plugin | 256 | 37 | [link](https://github.com/authsmith/payload-auth-plugin) |
+| jmgrd98 | vaguinhas | 256 | 5 | [link](https://github.com/jmgrd98/vaguinhas) |
 | Intervo | Intervo | 253 | 40 | [link](https://github.com/Intervo/Intervo) |
+| Together-100Devs | Together | 188 | 149 | [link](https://github.com/Together-100Devs/Together) |
 | DybyTech | MEGALODON-MD | 182 | 421 | [link](https://github.com/DybyTech/MEGALODON-MD) |
 | aelassas | movinin | 160 | 64 | [link](https://github.com/aelassas/movinin) |
 | itx-alii-raza | ALI-MD | 151 | 1431 | [link](https://github.com/itx-alii-raza/ALI-MD) |
 | miyago9267 | MyGO-Searcher | 137 | 9 | [link](https://github.com/miyago9267/MyGO-Searcher) |
+| oracle-devrel | technology-engineering | 132 | 68 | [link](https://github.com/oracle-devrel/technology-engineering) |
 | eosrio | hyperion-history-api | 131 | 79 | [link](https://github.com/eosrio/hyperion-history-api) |
+| toolsdk-ai | awesome-mcp-registry | 129 | 19 | [link](https://github.com/toolsdk-ai/awesome-mcp-registry) |
 | MartinsMessias | deepsite-locally | 127 | 58 | [link](https://github.com/MartinsMessias/deepsite-locally) |
 | shefing | payload-tools | 113 | 3 | [link](https://github.com/shefing/payload-tools) |
 | Cloudable-dev | netgoat | 104 | 4 | [link](https://github.com/Cloudable-dev/netgoat) |
 | nass59 | turborepo-nextjs | 101 | 12 | [link](https://github.com/nass59/turborepo-nextjs) |
 
 ---
-* **Last scrape:** 2025-08-28T19:22:33.534Z
-* **Total pages scraped:** 500
-* **Repos found:** 14970
-* **Repos filtered out (< 100 stars):** 14932
-* **Total possible repositories:** 5702984
-* **Percent processed:** 0.3%
+* **Last scrape:** 2025-08-28T21:20:03.650Z
+* **Total pages scraped:** 2242
+* **Repos found:** 67084
+* **Repos filtered out (< 100 stars):** 67037
+* **Total possible repositories:** 5702991
+* **Percent processed:** 1.2%
