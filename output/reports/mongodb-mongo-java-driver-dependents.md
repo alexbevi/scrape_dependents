@@ -4,90 +4,153 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
+| eugenp | tutorials | 37246 | 54155 | [link](https://github.com/eugenp/tutorials) |
+| chinabugotech | hutool | 30019 | 7654 | [link](https://github.com/chinabugotech/hutool) |
+| quarkusio | quarkus | 14870 | 2938 | [link](https://github.com/quarkusio/quarkus) |
+| pinpoint-apm | pinpoint | 13703 | 3779 | [link](https://github.com/pinpoint-apm/pinpoint) |
+| trinodb | trino | 11798 | 3311 | [link](https://github.com/trinodb/trino) |
+| debezium | debezium | 11773 | 2735 | [link](https://github.com/debezium/debezium) |
 | flyway | flyway | 9046 | 1562 | [link](https://github.com/flyway/flyway) |
 | langchain4j | langchain4j | 8816 | 1623 | [link](https://github.com/langchain4j/langchain4j) |
-| apache | seatunnel | 8747 | 2058 | [link](https://github.com/apache/seatunnel) |
+| apache | seatunnel | 8748 | 2059 | [link](https://github.com/apache/seatunnel) |
 | risingwavelabs | risingwave | 8295 | 672 | [link](https://github.com/risingwavelabs/risingwave) |
+| TechEmpower | FrameworkBenchmarks | 7942 | 2008 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| Graylog2 | graylog2-server | 7781 | 1088 | [link](https://github.com/Graylog2/graylog2-server) |
 | PowerJob | PowerJob | 7580 | 1333 | [link](https://github.com/PowerJob/PowerJob) |
-| spring-projects | spring-ai | 6568 | 1837 | [link](https://github.com/spring-projects/spring-ai) |
+| spring-projects | spring-ai | 6567 | 1837 | [link](https://github.com/spring-projects/spring-ai) |
 | apache | hertzbeat | 6549 | 1164 | [link](https://github.com/apache/hertzbeat) |
 | hazelcast | hazelcast | 6381 | 1863 | [link](https://github.com/hazelcast/hazelcast) |
 | apache | flink-cdc | 6205 | 2057 | [link](https://github.com/apache/flink-cdc) |
+| apache | camel | 5932 | 5059 | [link](https://github.com/apache/camel) |
 | apache | nifi | 5636 | 2859 | [link](https://github.com/apache/nifi) |
 | alibaba | spring-ai-alibaba | 5586 | 1155 | [link](https://github.com/alibaba/spring-ai-alibaba) |
+| spring-projects | spring-data-examples | 5337 | 3416 | [link](https://github.com/spring-projects/spring-data-examples) |
 | brianfrankcooper | YCSB | 5128 | 2308 | [link](https://github.com/brianfrankcooper/YCSB) |
+| geoserver | geoserver | 4124 | 2242 | [link](https://github.com/geoserver/geoserver) |
 | jetty | jetty.project | 3993 | 1967 | [link](https://github.com/jetty/jetty.project) |
+| lukas-krecan | ShedLock | 3952 | 549 | [link](https://github.com/lukas-krecan/ShedLock) |
 | helidon-io | helidon | 3667 | 580 | [link](https://github.com/helidon-io/helidon) |
+| apache | logging-log4j2 | 3520 | 1681 | [link](https://github.com/apache/logging-log4j2) |
+| immutables | immutables | 3513 | 286 | [link](https://github.com/immutables/immutables) |
 | apache | linkis | 3387 | 1172 | [link](https://github.com/apache/linkis) |
+| javamelody | javamelody | 3019 | 747 | [link](https://github.com/javamelody/javamelody) |
+| spring-projects | spring-batch | 2845 | 2433 | [link](https://github.com/spring-projects/spring-batch) |
 | alldatacenter | alldata | 2835 | 923 | [link](https://github.com/alldatacenter/alldata) |
 | spring-attic | spring-native | 2719 | 350 | [link](https://github.com/spring-attic/spring-native) |
 | bucket4j | bucket4j | 2569 | 300 | [link](https://github.com/bucket4j/bucket4j) |
 | lealone | Lealone | 2519 | 524 | [link](https://github.com/lealone/Lealone) |
+| pac4j | pac4j | 2481 | 697 | [link](https://github.com/pac4j/pac4j) |
 | openzipkin | brave | 2388 | 720 | [link](https://github.com/openzipkin/brave) |
+| spring-projects | spring-integration-samples | 2353 | 2549 | [link](https://github.com/spring-projects/spring-integration-samples) |
 | dromara | x-file-storage | 2061 | 304 | [link](https://github.com/dromara/x-file-storage) |
 | openhab | openhab-addons | 1998 | 3670 | [link](https://github.com/openhab/openhab-addons) |
+| apache | drill | 1990 | 986 | [link](https://github.com/apache/drill) |
+| zfoo-project | zfoo | 1930 | 411 | [link](https://github.com/zfoo-project/zfoo) |
+| MorphiaOrg | morphia | 1673 | 453 | [link](https://github.com/MorphiaOrg/morphia) |
 | bytedance | bitsail | 1669 | 334 | [link](https://github.com/bytedance/bitsail) |
 | spring-projects | spring-data-mongodb | 1658 | 1123 | [link](https://github.com/spring-projects/spring-data-mongodb) |
+| sqlancer | sqlancer | 1631 | 368 | [link](https://github.com/sqlancer/sqlancer) |
 | apache | inlong | 1464 | 572 | [link](https://github.com/apache/inlong) |
 | dremio | dremio-oss | 1439 | 450 | [link](https://github.com/dremio/dremio-oss) |
+| ff4j | ff4j | 1428 | 286 | [link](https://github.com/ff4j/ff4j) |
 | akto-api-security | akto | 1373 | 254 | [link](https://github.com/akto-api-security/akto) |
 | sermant-io | Sermant | 1359 | 184 | [link](https://github.com/sermant-io/Sermant) |
 | GoogleCloudPlatform | DataflowTemplates | 1233 | 1040 | [link](https://github.com/GoogleCloudPlatform/DataflowTemplates) |
 | OpenLiberty | open-liberty | 1211 | 626 | [link](https://github.com/OpenLiberty/open-liberty) |
 | XiaoMi | mone | 1142 | 173 | [link](https://github.com/XiaoMi/mone) |
 | sagframe | sagacity-sqltoy | 1141 | 188 | [link](https://github.com/sagframe/sagacity-sqltoy) |
+| togglz | togglz | 1001 | 261 | [link](https://github.com/togglz/togglz) |
 | devlive-community | datacap | 963 | 114 | [link](https://github.com/devlive-community/datacap) |
+| simon987 | Much-Assembly-Required | 948 | 89 | [link](https://github.com/simon987/Much-Assembly-Required) |
+| spring-projects | spring-data-rest | 935 | 565 | [link](https://github.com/spring-projects/spring-data-rest) |
 | flapdoodle-oss | de.flapdoodle.embed.mongo | 924 | 158 | [link](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo) |
+| PlaytikaOSS | testcontainers-spring-boot | 870 | 242 | [link](https://github.com/PlaytikaOSS/testcontainers-spring-boot) |
+| apache | skywalking-java | 859 | 658 | [link](https://github.com/apache/skywalking-java) |
 | CloudWise-OpenSource | FlyFish | 857 | 188 | [link](https://github.com/CloudWise-OpenSource/FlyFish) |
+| SoftInstigate | restheart | 854 | 170 | [link](https://github.com/SoftInstigate/restheart) |
 | dunwu | spring-tutorial | 850 | 370 | [link](https://github.com/dunwu/spring-tutorial) |
 | structr | structr | 804 | 157 | [link](https://github.com/structr/structr) |
+| Litote | kmongo | 780 | 77 | [link](https://github.com/Litote/kmongo) |
 | mongodb | docs | 753 | 1709 | [link](https://github.com/mongodb/docs) |
 | apache | seatunnel-web | 721 | 319 | [link](https://github.com/apache/seatunnel-web) |
 | nuxeo | nuxeo | 671 | 390 | [link](https://github.com/nuxeo/nuxeo) |
+| OpenHFT | OpenHFT | 671 | 183 | [link](https://github.com/OpenHFT/OpenHFT) |
 | datavane | datavines | 656 | 184 | [link](https://github.com/datavane/datavines) |
 | WebFuzzing | EvoMaster | 606 | 95 | [link](https://github.com/WebFuzzing/EvoMaster) |
+| tapdata | tapdata | 600 | 125 | [link](https://github.com/tapdata/tapdata) |
+| elastic | apm-agent-java | 580 | 324 | [link](https://github.com/elastic/apm-agent-java) |
+| megaease | easeagent | 580 | 126 | [link](https://github.com/megaease/easeagent) |
+| apache | incubator-kie-kogito-runtimes | 578 | 242 | [link](https://github.com/apache/incubator-kie-kogito-runtimes) |
 | hazelcast | hazelcast-code-samples | 559 | 606 | [link](https://github.com/hazelcast/hazelcast-code-samples) |
+| minbox-projects | api-boot | 544 | 150 | [link](https://github.com/minbox-projects/api-boot) |
+| seed4j | seed4j | 539 | 227 | [link](https://github.com/seed4j/seed4j) |
 | arextest | arex-agent-java | 518 | 122 | [link](https://github.com/arextest/arex-agent-java) |
 | nutzam | nutzboot | 505 | 139 | [link](https://github.com/nutzam/nutzboot) |
 | membrane | api-gateway | 491 | 138 | [link](https://github.com/membrane/api-gateway) |
-| AIDC-AI | Agentic-ADK | 478 | 77 | [link](https://github.com/AIDC-AI/Agentic-ADK) |
+| AIDC-AI | Agentic-ADK | 479 | 78 | [link](https://github.com/AIDC-AI/Agentic-ADK) |
 | OpenFeign | querydsl | 478 | 66 | [link](https://github.com/OpenFeign/querydsl) |
+| flamingock | mongock | 474 | 65 | [link](https://github.com/flamingock/mongock) |
 | osalvador | ReplicaDB | 461 | 107 | [link](https://github.com/osalvador/ReplicaDB) |
 | 818000 | bus | 432 | 33 | [link](https://github.com/818000/bus) |
 | apache | jackrabbit-oak | 400 | 418 | [link](https://github.com/apache/jackrabbit-oak) |
 | cerberustesting | cerberus-core | 348 | 105 | [link](https://github.com/cerberustesting/cerberus-core) |
 | springreport | springreport | 346 | 84 | [link](https://github.com/springreport/springreport) |
 | craftercms | craftercms | 322 | 103 | [link](https://github.com/craftercms/craftercms) |
+| vincentrussell | sql-to-mongo-db-query-converter | 313 | 96 | [link](https://github.com/vincentrussell/sql-to-mongo-db-query-converter) |
 | dCache | dcache | 305 | 142 | [link](https://github.com/dCache/dcache) |
 | scale8 | scale8-tag-manager-and-analytics | 302 | 17 | [link](https://github.com/scale8/scale8-tag-manager-and-analytics) |
 | anylineorg | anyline | 300 | 48 | [link](https://github.com/anylineorg/anyline) |
 | sculptor | sculptor | 298 | 78 | [link](https://github.com/sculptor/sculptor) |
+| gravitee-io | gravitee-api-management | 294 | 82 | [link](https://github.com/gravitee-io/gravitee-api-management) |
+| paulcwarren | spring-content | 288 | 71 | [link](https://github.com/paulcwarren/spring-content) |
 | memiiso | debezium-server-iceberg | 283 | 59 | [link](https://github.com/memiiso/debezium-server-iceberg) |
 | gitbitex | gitbitex-new | 276 | 102 | [link](https://github.com/gitbitex/gitbitex-new) |
+| apache | incubator-kie-kogito-examples | 275 | 431 | [link](https://github.com/apache/incubator-kie-kogito-examples) |
+| mongojack | mongojack | 275 | 113 | [link](https://github.com/mongojack/mongojack) |
 | rrd4j | rrd4j | 269 | 73 | [link](https://github.com/rrd4j/rrd4j) |
+| Linxfeng | flow-eda | 263 | 90 | [link](https://github.com/Linxfeng/flow-eda) |
+| shuaishaui | springboot-technology | 251 | 21 | [link](https://github.com/shuaishaui/springboot-technology) |
 | budwk | budwk | 249 | 37 | [link](https://github.com/budwk/budwk) |
 | skrstop | skrstop-components | 234 | 31 | [link](https://github.com/skrstop/skrstop-components) |
 | jd-opensource | joylive-agent | 233 | 33 | [link](https://github.com/jd-opensource/joylive-agent) |
 | wso2 | product-micro-integrator | 226 | 246 | [link](https://github.com/wso2/product-micro-integrator) |
+| ralscha | blog | 224 | 243 | [link](https://github.com/ralscha/blog) |
 | eclipse-ee4j | eclipselink | 222 | 186 | [link](https://github.com/eclipse-ee4j/eclipselink) |
+| johnlpage | POCDriver | 216 | 91 | [link](https://github.com/johnlpage/POCDriver) |
+| fmarchioni | mastertheboss | 204 | 574 | [link](https://github.com/fmarchioni/mastertheboss) |
+| nosqlbench | nosqlbench | 184 | 75 | [link](https://github.com/nosqlbench/nosqlbench) |
 | opencb | opencga | 172 | 100 | [link](https://github.com/opencb/opencga) |
 | microsoft | AzureDataRetrievalAugmentedGenerationSamples | 170 | 82 | [link](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) |
 | sentilo | sentilo | 166 | 66 | [link](https://github.com/sentilo/sentilo) |
+| shulieTech | LinkAgent | 166 | 110 | [link](https://github.com/shulieTech/LinkAgent) |
 | tuyucheng7 | taketoday-tutorial4j | 162 | 4 | [link](https://github.com/tuyucheng7/taketoday-tutorial4j) |
 | jwdeveloper | TikTokLiveJava | 155 | 43 | [link](https://github.com/jwdeveloper/TikTokLiveJava) |
+| DBOS-project | apiary | 155 | 17 | [link](https://github.com/DBOS-project/apiary) |
+| phax | phoss-smp | 155 | 43 | [link](https://github.com/phax/phoss-smp) |
+| johanhaleby | occurrent | 149 | 17 | [link](https://github.com/johanhaleby/occurrent) |
+| frankframework | frankframework | 148 | 81 | [link](https://github.com/frankframework/frankframework) |
+| quarkusio | quarkus-platform | 140 | 93 | [link](https://github.com/quarkusio/quarkus-platform) |
 | ww20081120 | framework | 135 | 73 | [link](https://github.com/ww20081120/framework) |
 | oracle-devrel | technology-engineering | 132 | 68 | [link](https://github.com/oracle-devrel/technology-engineering) |
+| greatbit | quack | 132 | 33 | [link](https://github.com/greatbit/quack) |
 | ProgrammeVitam | vitam | 128 | 45 | [link](https://github.com/ProgrammeVitam/vitam) |
 | anwena | MongoPlus | 119 | 13 | [link](https://github.com/anwena/MongoPlus) |
+| LeeKyoungIl | illuminati | 117 | 20 | [link](https://github.com/LeeKyoungIl/illuminati) |
+| digaomilleniun | backend-java-ebac | 112 | 54 | [link](https://github.com/digaomilleniun/backend-java-ebac) |
+| mongodb-developer | java-spring-boot-mongodb-starter | 112 | 82 | [link](https://github.com/mongodb-developer/java-spring-boot-mongodb-starter) |
+| phax | as2-lib | 109 | 44 | [link](https://github.com/phax/as2-lib) |
+| AlessandroCorradini | MongoDB-University | 109 | 71 | [link](https://github.com/AlessandroCorradini/MongoDB-University) |
+| dashjoin | platform | 108 | 11 | [link](https://github.com/dashjoin/platform) |
 | zfoo-project | tank-game-server | 102 | 65 | [link](https://github.com/zfoo-project/tank-game-server) |
 | debezium | debezium-server | 102 | 112 | [link](https://github.com/debezium/debezium-server) |
 | authzforce | core | 101 | 24 | [link](https://github.com/authzforce/core) |
 | Apress | pro-spring-6 | 100 | 76 | [link](https://github.com/Apress/pro-spring-6) |
+| oracle | json-in-db | 100 | 55 | [link](https://github.com/oracle/json-in-db) |
 
 ---
-* **Last scrape:** 2025-08-28T19:16:37.787Z
-* **Total pages scraped:** 293
-* **Repos found:** 8739
-* **Repos filtered out (< 100 stars):** 8660
+* **Last scrape:** 2025-08-28T20:50:44.569Z
+* **Total pages scraped:** 342
+* **Repos found:** 10187
+* **Repos filtered out (< 100 stars):** 10045
 * **Total possible repositories:** 17781
-* **Percent processed:** 49.1%
+* **Percent processed:** 57.3%
