@@ -195,11 +195,10 @@ function flushMarkdown(rows, meta) {
   // Update results/README.md with a table of all reports, sorted by language and type
   const readmePath = "results/README.md";
   let reports = [];
-  const fs = require('fs');
   try {
-    const files = fs.readdirSync(reportsDir).filter(f => f.endsWith('.md'));
+    const files = readdirSync(reportsDir).filter(f => f.endsWith('.md'));
     for (const file of files) {
-      const content = fs.readFileSync(`${reportsDir}/${file}`, 'utf8');
+      const content = readFileSync(`${reportsDir}/${file}`, 'utf8');
       const repoMatch = content.match(/# Scraped repository: ([^\n]+)/);
       const langMatch = content.match(/\*\*Language:\*\* ([^\n]+)/);
       const typeMatch = content.match(/\*\*Type:\*\* ([^\n]+)/);

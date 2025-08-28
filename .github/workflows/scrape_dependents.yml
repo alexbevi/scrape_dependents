@@ -11,14 +11,15 @@ jobs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       - name: Read repos.json and set matrix
         id: set-matrix
         run: |
-          import json
+          import json, os
           with open('results/repos.json') as f:
               repos = json.load(f)
-          print('::set-output name=matrix::' + json.dumps({'include': repos}))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
+              fh.write(f"matrix={json.dumps({'include': repos})}\n")
         shell: python
 
   scrape:
