@@ -10,19 +10,15 @@ on:
       min_stars:
         description: "Minimum stars"
         required: true
-        default: "50"
+        default: "10"
       max_pages:
         description: "Max dependents pages"
         required: true
-        default: "50"
-      include_forks:
-        description: "Include forks? (true/false)"
-        required: true
-        default: "false"
+        default: "0"
       commit_results:
         description: "Commit results? (true/false)"
         required: true
-        default: "false"
+        default: "true"
 
   schedule:
     - cron: "17 6 * * *" # optional daily
@@ -55,10 +51,9 @@ jobs:
           mkdir -p output
           node src/scrape_dependents.mjs \
             --repo "${{ github.event.inputs.source_repo || 'drizzle-team/drizzle-orm' }}" \
-            --min-stars ${{ github.event.inputs.min_stars || '50' }} \
-            --max-pages ${{ github.event.inputs.max_pages || '50' }} \
-            --output-dir output \
-            $([ "${{ github.event.inputs.include_forks }}" = "true" ] && echo "--include-forks")
+            --min-stars ${{ github.event.inputs.min_stars || '0' }} \
+            --max-pages ${{ github.event.inputs.max_pages || '0' }} \
+            --output-dir output
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
