@@ -21,6 +21,9 @@ on:
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 
+permissions:
+  contents: write
+
 jobs:
   generate-matrix:
     runs-on: ubuntu-latest
