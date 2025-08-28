@@ -68,9 +68,22 @@ function parseDependents(html, sourceRepo) {
   return out;
 }
 
+function extractTotals(html) {
+  const $ = loadHTML(html);
+  // Find the Repositories count in the Box header
+  const repoAnchor = $('.Box-header .table-list-filters .table-list-header-toggle a:contains("Repositories")').first();
+  if (!repoAnchor.length) return { totalRepositories: null };
+  const text = repoAnchor.text();
+  const match = text.match(/([0-9,]+)/);
+  if (!match) return { totalRepositories: null };
+  const total = parseInt(match[1].replace(/,/g, ''), 10);
+  return { totalRepositories: isNaN(total) ? null : total };
+}
+
 async function crawlDependents(repo, maxPages, sleepMs) {
   const seen = new Set();
   const results = [];
+  let totalPossibleRepos = null;
   let cursor = null;
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
@@ -84,6 +97,10 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     while (true) {
       try {
         html = await getHtml(url);
+        if (page === 1) {
+          const totals = extractTotals(html);
+          totalPossibleRepos = totals.totalRepositories;
+        }
         break;
       } catch (err) {
         if (err.message.includes('429')) {
@@ -99,6 +116,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
             pagesScraped: page,
             reposFound: results.length,
             reposFiltered: results.length - sorted.length,
+            totalPossibleRepos,
             language: argv.language || '',
             type: argv.type || ''
           });
@@ -138,7 +156,7 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     page++;
     await sleep(sleepMs);
   }
-  return results;
+  return { results, totalPossibleRepos };
 }
 // ---------- HTML scraping ----------
 function dependentsUrl(repo, cursor = null, package_id = null) {
@@ -183,10 +201,11 @@ async function getHtml(url, attempt = 1) {
 function flushMarkdown(rows, meta) {
   const {
     repo,
-    minStars,
+    minStars = 0,
     pagesScraped,
     reposFound,
     reposFiltered,
+    totalPossibleRepos = null,
     language = '',
     type = ''
   } = meta;
@@ -215,6 +234,14 @@ function flushMarkdown(rows, meta) {
   md += `**Total pages scraped:** ${pagesScraped}\n`;
   md += `**Repos found:** ${reposFound}\n`;
   md += `**Repos filtered out (< ${minStars} stars):** ${reposFiltered}\n`;
+  md += `**Total possible repositories:** ${totalPossibleRepos ?? 'unknown'}\n`;
+  // Percentage processed when totalPossibleRepos is available
+  if (totalPossibleRepos && Number(totalPossibleRepos) > 0) {
+    const pct = ((Number(reposFound) / Number(totalPossibleRepos)) * 100).toFixed(1);
+    md += `**Percent processed:** ${pct}%\n`;
+  } else {
+    md += `**Percent processed:** unknown\n`;
+  }
 
   writeFileSync(mdPath, md);
   // Force file system sync to ensure the Markdown report is present before updating README
@@ -234,6 +261,8 @@ function flushMarkdown(rows, meta) {
       const pagesMatch = content.match(/\*\*Total pages scraped:\*\* ([^\n]+)/);
       const foundMatch = content.match(/\*\*Repos found:\*\* ([^\n]+)/);
       const filteredMatch = content.match(/\*\*Repos filtered out \(< ([^ ]+) stars\):\*\* ([^\n]+)/);
+      const totalPossibleMatch = content.match(/\*\*Total possible repositories:\*\* ([^\n]+)/);
+      const percentMatch = content.match(/\*\*Percent processed:\*\* ([^\n]+)/);
       reports.push({
         file,
         repo: repoMatch ? repoMatch[1] : '',
@@ -244,6 +273,8 @@ function flushMarkdown(rows, meta) {
         found: foundMatch ? foundMatch[1] : '',
         filtered: filteredMatch ? filteredMatch[2] : '',
         minStars: filteredMatch ? filteredMatch[1] : '',
+        totalPossible: totalPossibleMatch ? totalPossibleMatch[1] : '',
+        percent: percentMatch ? percentMatch[1] : '',
       });
     }
   } catch (e) {}
@@ -254,10 +285,10 @@ function flushMarkdown(rows, meta) {
     return a.repo.localeCompare(b.repo);
   });
   let readme = "# Scrape Reports\n\n";
-  readme += "| Repository | Language | Type | Last Scrape | Pages | Found | Filtered |\n";
-  readme += "|---|---|---|---|---|---|---|\n";
+  readme += "| Repository | Language | Type | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |\n";
+  readme += "|---|---|---|---|---|---|---|---:|---:|\n";
   for (const r of reports) {
-    readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} |\n`;
+    readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} | ${r.totalPossible || ''} | ${r.percent || ''} |\n`;
   }
   writeFileSync(readmePath, readme);
 }
@@ -286,10 +317,12 @@ function flushMarkdown(rows, meta) {
     if (/^Page /.test(msg)) pagesScraped++;
     origConsoleLog(msg);
   };
-  dependents = await crawlDependents(repo, maxPages, sleepMs);
+  const crawlRes = await crawlDependents(repo, maxPages, sleepMs);
   console.log = origConsoleLog;
+  dependents = crawlRes.results;
+  const totalPossible = crawlRes.totalPossibleRepos;
   allRepos = dependents;
-  console.log(`Found ${dependents.length} candidate repos`);
+  console.log(`Found ${dependents.length} candidate repos (possible: ${totalPossible ?? 'unknown'})`);
 
   // Filter and sort only once at the end
   const filtered = dependents.filter(r => (r.stars ?? 0) >= minStars);
@@ -302,6 +335,7 @@ function flushMarkdown(rows, meta) {
     pagesScraped,
     reposFound: allRepos.length,
     reposFiltered: allRepos.length - sorted.length,
+    totalPossibleRepos: totalPossible,
     language: argv.language || '',
     type: argv.type || '',
     outputDir
@@ -310,7 +344,7 @@ function flushMarkdown(rows, meta) {
   console.log("Wrote:");
   const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
-  const mdPath = `results/reports/${stem}.md`;
+  const mdPath = `${outputDir}/reports/${stem}.md`;
   console.log("  " + mdPath);
 })().catch(err => {
   console.error(err);
