@@ -37,11 +37,6 @@
     "type": "Driver"
   },
   {
-    "repo": "mongodb/mongo-rust-driver",
-    "language": "Rust",
-    "type": "Driver"
-  },
-  {
     "repo": "mongodb/mongo-csharp-driver",
     "language": ".NET",
     "type": "Driver",

@@ -1,6 +1,23 @@
 name: Scrape All Dependents
 on:
   workflow_dispatch:
+    inputs:
+      repo_choice:
+        description: "Select a repo slug to re-scrape, or 'all' to run all (default: all)"
+        required: false
+        default: all
+        type: choice
+        options:
+          - all
+          - mongoid
+          - mongo-ruby-driver
+          - node-mongodb-native
+          - prisma
+          - mongo-java-driver
+          - mongo-python-driver
+          - mongo-go-driver
+          - mongo-csharp-driver
+          - drizzle-orm
   schedule:
     - cron: '0 3 * * *'
 
@@ -14,10 +31,15 @@ jobs:
         uses: actions/checkout@v3
       - name: Read repos.json and set matrix
         id: set-matrix
+        env:
+          REPO_CHOICE: ${{ github.event.inputs.repo_choice }}
         run: |
           import json, os
+          choice = (os.getenv('REPO_CHOICE') or 'all').strip()
           with open('results/repos.json') as f:
               repos = json.load(f)
+          if choice and choice.lower() != 'all':
+              repos = [r for r in repos if r.get('repo','').split('/')[-1] == choice]
           with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
               fh.write(f"matrix={json.dumps({'include': repos})}\n")
         shell: python
