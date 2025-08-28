@@ -1,0 +1,62 @@
+[
+  {
+    "repo": "mongodb/mongoid",
+    "language": "Ruby",
+    "type": "ODM"
+  },
+  {
+    "repo": "mongodb/mongo-ruby-driver",
+    "language": "Ruby",
+    "type": "ODM"
+  },
+  {
+    "repo": "mongodb/node-mongodb-native",
+    "language": "JavaScript",
+    "type": "Driver"
+  },
+  {
+    "repo": "prisma/prisma",
+    "language": "TypeScript",
+    "type": "ORM"
+  },
+  {
+    "repo": "mongodb/mongo-java-driver",
+    "language": "Java",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-python-driver",
+    "language": "Python",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-c-driver",
+    "language": "C",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-cxx-driver",
+    "language": "C++",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-go-driver",
+    "language": "Go",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-rust-driver",
+    "language": "Rust",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-php-driver",
+    "language": "PHP",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongodb/mongo-csharp-driver",
+    "language": ".NET",
+    "type": "Driver"
+  }
+]
