@@ -1,9 +1,10 @@
 # Scraped repository: mongodb/mongo-ruby-driver
 * **Language:** Ruby
 * **Type:** ODM
+
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| NixOS | nixpkgs | 21625 | 16580 | [link](https://github.com/NixOS/nixpkgs) |
+| NixOS | nixpkgs | 21624 | 16580 | [link](https://github.com/NixOS/nixpkgs) |
 | postalserver | postal | 15860 | 1150 | [link](https://github.com/postalserver/postal) |
 | addyosmani | backbone-fundamentals | 9220 | 1391 | [link](https://github.com/addyosmani/backbone-fundamentals) |
 | antiwork | gumroad | 6893 | 1215 | [link](https://github.com/antiwork/gumroad) |
@@ -154,7 +155,7 @@
 | bmuller | ankusa | 100 | 21 | [link](https://github.com/bmuller/ankusa) |
 
 ---
-* **Last scrape:** 2025-08-28T17:52:01.657Z
+* **Last scrape:** 2025-08-28T18:02:06.911Z
 * **Total pages scraped:** 172
 * **Repos found:** 5069
 * **Repos filtered out (< 100 stars):** 4920
