@@ -148,7 +148,6 @@ function dependentsUrl(repo, cursor = null, package_id = null) {
   if (cursor) params.push(`dependents_after=${cursor}`);
   if (package_id) params.push(`package_id=${package_id}`);
   if (params.length) url += `?${params.join("&")}`;
-  console.log(url);
   return url;
 }
 
