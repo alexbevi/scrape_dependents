@@ -72,8 +72,9 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
-          # Add the output directory (no-op if nothing new)
-          git add "$OUTPUT_DIR" || true
+          # Add the output directory; force-add in case output is in .gitignore
+          echo "Forcing add of $OUTPUT_DIR (may be ignored by .gitignore)"
+          git add -f "$OUTPUT_DIR" || true
           # If there are staged changes, commit and push; otherwise skip
           if git diff --cached --quiet; then
             echo "No changes to commit"
