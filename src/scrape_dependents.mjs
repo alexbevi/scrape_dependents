@@ -25,27 +25,37 @@ const UA = "dependents-scraper-node/1.0";
 // ---------- HTML scraping ----------
 function dependentsUrl(repo, cursor = null) {
   const [owner, name] = repo.split("/");
-  let url = `https://github.com/${owner}/${name}/network/dependents?dependent_type=REPOSITORY`;
-  if (cursor) url += `&dependents_after=${cursor}`;
+  let url = `https://github.com/${owner}/${name}/network/dependents/`;
+  if (cursor) url += `?dependents_after=${cursor}`;
   return url;
 }
 
 async function getHtml(url, attempt = 1) {
-  const res = await httpRequest(url, {
-    method: "GET",
-    headers: {
-      "user-agent": UA,
-      accept: "text/html"
+  try {
+    const res = await httpRequest(url, {
+      method: "GET",
+      headers: {
+        "user-agent": UA,
+        accept: "text/html"
+      }
+    });
+    if (res.statusCode >= 500 || res.statusCode === 429) {
+      if (attempt >= 4) throw new Error(`GET ${url} failed (${res.statusCode})`);
+      const backoff = Math.min(2 ** attempt, 10) * 1000;
+      await sleep(backoff);
+      return getHtml(url, attempt + 1);
     }
-  });
-  if (res.statusCode >= 500 || res.statusCode === 429) {
-    if (attempt >= 4) throw new Error(`GET ${url} failed (${res.statusCode})`);
-    const backoff = Math.min(2 ** attempt, 10) * 1000;
-    await sleep(backoff);
-    return getHtml(url, attempt + 1);
+    if (res.statusCode !== 200) throw new Error(`GET ${url} failed (${res.statusCode})`);
+    return res.body.text();
+  } catch (err) {
+    // Retry on UND_ERR_SOCKET (SocketError: other side closed)
+    if (err.code === 'UND_ERR_SOCKET' && attempt < 4) {
+      const backoff = Math.min(2 ** attempt, 10) * 1000;
+      await sleep(backoff);
+      return getHtml(url, attempt + 1);
+    }
+    throw err;
   }
-  if (res.statusCode !== 200) throw new Error(`GET ${url} failed (${res.statusCode})`);
-  return res.body.text();
 }
 
 function parseDependents(html, sourceRepo) {
