@@ -4,33 +4,49 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
+| danny-avila | LibreChat | 29527 | 5515 | [link](https://github.com/danny-avila/LibreChat) |
 | vercel | vercel | 14000 | 2840 | [link](https://github.com/vercel/vercel) |
 | midwayjs | midway | 7616 | 586 | [link](https://github.com/midwayjs/midway) |
-| yikart | AiToEarn | 2938 | 478 | [link](https://github.com/yikart/AiToEarn) |
+| BasedHardware | omi | 6184 | 926 | [link](https://github.com/BasedHardware/omi) |
+| yikart | AiToEarn | 2940 | 480 | [link](https://github.com/yikart/AiToEarn) |
 | processing | p5.js-web-editor | 1563 | 1535 | [link](https://github.com/processing/p5.js-web-editor) |
 | AgentDock | AgentDock | 1501 | 94 | [link](https://github.com/AgentDock/AgentDock) |
 | robinkarlberg | transfer.zip-web | 1328 | 84 | [link](https://github.com/robinkarlberg/transfer.zip-web) |
+| hashintel | hash | 1322 | 104 | [link](https://github.com/hashintel/hash) |
+| TrafficGuard | typedai | 1139 | 82 | [link](https://github.com/TrafficGuard/typedai) |
+| zxcvbn-ts | zxcvbn | 1055 | 79 | [link](https://github.com/zxcvbn-ts/zxcvbn) |
 | y-scope | clp | 991 | 81 | [link](https://github.com/y-scope/clp) |
 | DataDog | dd-trace-js | 732 | 344 | [link](https://github.com/DataDog/dd-trace-js) |
 | sidequestjs | sidequest | 715 | 11 | [link](https://github.com/sidequestjs/sidequest) |
 | Mentra-Community | MentraOS | 699 | 111 | [link](https://github.com/Mentra-Community/MentraOS) |
+| rush86999 | atom | 593 | 54 | [link](https://github.com/rush86999/atom) |
+| 14790897 | auto-read-liunxdo | 584 | 382 | [link](https://github.com/14790897/auto-read-liunxdo) |
 | techgod143 | TECH-GOD-BUG-BOT | 516 | 1631 | [link](https://github.com/techgod143/TECH-GOD-BUG-BOT) |
+| aelassas | bookcars | 458 | 274 | [link](https://github.com/aelassas/bookcars) |
+| thewca | worldcubeassociation.org | 372 | 197 | [link](https://github.com/thewca/worldcubeassociation.org) |
 | liblaber | ai | 327 | 8 | [link](https://github.com/liblaber/ai) |
+| miroslavpejic85 | mirotalkwebrtc | 314 | 59 | [link](https://github.com/miroslavpejic85/mirotalkwebrtc) |
 | zKillboard | zKillboard | 282 | 82 | [link](https://github.com/zKillboard/zKillboard) |
 | LerianStudio | midaz | 280 | 59 | [link](https://github.com/LerianStudio/midaz) |
 | existence-master | Sentient | 269 | 34 | [link](https://github.com/existence-master/Sentient) |
 | reconmap | pentest-reports | 265 | 56 | [link](https://github.com/reconmap/pentest-reports) |
+| phellipeandrade | rbac | 263 | 22 | [link](https://github.com/phellipeandrade/rbac) |
 | SilvaTechB | silva-md-bot | 258 | 1232 | [link](https://github.com/SilvaTechB/silva-md-bot) |
+| Intervo | Intervo | 253 | 40 | [link](https://github.com/Intervo/Intervo) |
 | DybyTech | MEGALODON-MD | 182 | 421 | [link](https://github.com/DybyTech/MEGALODON-MD) |
+| aelassas | movinin | 160 | 64 | [link](https://github.com/aelassas/movinin) |
+| itx-alii-raza | ALI-MD | 151 | 1431 | [link](https://github.com/itx-alii-raza/ALI-MD) |
 | miyago9267 | MyGO-Searcher | 137 | 9 | [link](https://github.com/miyago9267/MyGO-Searcher) |
+| eosrio | hyperion-history-api | 131 | 79 | [link](https://github.com/eosrio/hyperion-history-api) |
 | MartinsMessias | deepsite-locally | 127 | 58 | [link](https://github.com/MartinsMessias/deepsite-locally) |
 | shefing | payload-tools | 113 | 3 | [link](https://github.com/shefing/payload-tools) |
+| Cloudable-dev | netgoat | 104 | 4 | [link](https://github.com/Cloudable-dev/netgoat) |
 | nass59 | turborepo-nextjs | 101 | 12 | [link](https://github.com/nass59/turborepo-nextjs) |
 
 ---
-* **Last scrape:** 2025-08-28T18:36:33.687Z
-* **Total pages scraped:** 170
-* **Repos found:** 5094
-* **Repos filtered out (< 100 stars):** 5072
-* **Total possible repositories:** 5702981
-* **Percent processed:** 0.1%
+* **Last scrape:** 2025-08-28T19:22:33.534Z
+* **Total pages scraped:** 500
+* **Repos found:** 14970
+* **Repos filtered out (< 100 stars):** 14932
+* **Total possible repositories:** 5702984
+* **Percent processed:** 0.3%
