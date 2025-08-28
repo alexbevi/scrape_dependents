@@ -5,7 +5,7 @@ import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import * as yargs from "yargs";
 import { hideBin } from "yargs/helpers";
-import { CheerioAPI, load as loadHTML } from "cheerio";
+import { load as loadHTML } from "cheerio";
 import { request as httpRequest } from "undici";
 import pLimit from "p-limit";
 
