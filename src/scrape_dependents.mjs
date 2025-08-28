@@ -96,7 +96,9 @@ async function crawlDependents(repo, maxPages, sleepMs) {
   const seen = new Set();
   const results = [];
   let cursor = null;
+  const [owner, name] = repo.split("/");
   const stem = `${owner}-${name}-dependents`;
+  let page = 1;
 
   while (true) {
     if (maxPages > 0 && page > maxPages) break;
@@ -120,7 +122,9 @@ async function crawlDependents(repo, maxPages, sleepMs) {
             outputDir: argv["output-dir"],
             pagesScraped: page,
             reposFound: results.length,
-            reposFiltered: results.length - sorted.length
+            reposFiltered: results.length - sorted.length,
+            language: argv.language || '',
+            type: argv.type || ''
           });
           await sleep(1000);
           attempt++;
@@ -158,12 +162,20 @@ async function crawlDependents(repo, maxPages, sleepMs) {
     page++;
     await sleep(sleepMs);
   }
-  return results;
-  writeFileSync(readmePath, readme);
+    return results;
+  }
 
 // ---------- Markdown flush helper ----------
 function flushMarkdown(rows, meta) {
-  const { repo, minStars, pagesScraped, reposFound, reposFiltered, language, type } = meta;
+  const {
+    repo,
+    minStars,
+    pagesScraped,
+    reposFound,
+    reposFiltered,
+    language = '',
+    type = ''
+  } = meta;
   const reportsDir = "results/reports";
   mkdirSync(reportsDir, { recursive: true });
   const [owner, name] = repo.split("/");
@@ -190,6 +202,8 @@ function flushMarkdown(rows, meta) {
   md += `**Repos filtered out (< ${minStars} stars):** ${reposFiltered}\n`;
 
   writeFileSync(mdPath, md);
+  // Force file system sync to ensure the Markdown report is present before updating README
+  try { require('fs').fsyncSync(require('fs').openSync(mdPath, 'r')); } catch (e) {}
 
   // Update results/README.md with a table of all reports, sorted by language and type
   const readmePath = "results/README.md";
@@ -230,7 +244,7 @@ function flushMarkdown(rows, meta) {
   for (const r of reports) {
     readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} |\n`;
   }
-  fs.writeFileSync(readmePath, readme);
+  writeFileSync(readmePath, readme);
 }
 
 // ---------- Main ----------
