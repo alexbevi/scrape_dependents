@@ -72,6 +72,20 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
+          # Ensure we have the latest remote branch and rebase to avoid push rejections
+          git fetch origin --prune
+          branch="${GITHUB_REF#refs/heads/}"
+          echo "Target branch: $branch"
+          git checkout "$branch" || true
+          echo "Attempting to pull/rebase origin/$branch"
+          if git pull --rebase origin "$branch"; then
+            echo "Successfully updated local branch from origin"
+          else
+            echo "Warning: failed to pull/rebase origin/$branch (possible conflicts). Skipping commit/push to avoid rejected pushes."
+            # Abort any partial rebase state and exit gracefully
+            git rebase --abort 2>/dev/null || true
+            exit 0
+          fi
           # Add the output directory; force-add in case output is in .gitignore
           echo "Forcing add of $OUTPUT_DIR (may be ignored by .gitignore)"
           git add -f "$OUTPUT_DIR" || true
@@ -80,5 +94,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Add dependents reports for ${{ inputs.repo }} (run ${{ github.run_id }})"
-            git push
+            git push origin "$branch"
           fi
