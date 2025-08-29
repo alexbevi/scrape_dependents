@@ -39,6 +39,7 @@ on:
           - mongo-rust-driver
           - mongo-efcore-provider
           - DoctrineMongoDBBundle
+          - django-mongodb-backend
 
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight

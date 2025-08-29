@@ -1,6 +1,6 @@
 # Scraped repository: MorphiaOrg/morphia
 * **Language:** Java
-* **Type:** ODM
+* **Type:** Framework
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 # Scraped repository: spring-projects/spring-data-mongodb
 * **Language:** Java
-* **Type:** ODM
+* **Type:** Framework
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|

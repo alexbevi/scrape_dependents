@@ -112,7 +112,7 @@
   {
     "repo": "doableware/djongo",
     "language": "Python",
-    "type": "Driver"
+    "type": "Framework"
   },
   {
     "repo": "mongo-dart/mongo_dart",
@@ -156,6 +156,11 @@
   {
     "repo": "doctrine/DoctrineMongoDBBundle",
     "language": "PHP",
+    "type": "Framework"
+  },
+  {
+    "repo": "mongodb/django-mongodb-backend",
+    "language": "Python",
     "type": "Framework"
   }
 ]
