@@ -13,7 +13,7 @@
 | primefaces-extensions | primefaces-extensions | 117 | 113 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
 
 ---
-* **Last scrape:** 2025-08-29T08:50:09.661Z
+* **Last scrape:** 2025-08-29T09:11:01.638Z
 * **Total pages scraped:** 7
 * **Repos found:** 184
 * **Repos filtered out (< 100 stars):** 177
