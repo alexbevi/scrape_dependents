@@ -17,7 +17,7 @@ Legend:
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
 | langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2025-08-29T09:11:10.333Z | 23 | 670 | 657 | 974 | 68.8% |
-| langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2025-08-29T09:11:20.312Z | 1 | 30 | 29 | 47363 | 0.1% |
+| langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2025-08-29T14:42:54.384Z | 1123 | 33264 | 32867 | 47365 | 70.2% |
 | run-llama | [llama_index](reports/run-llama-llama_index-dependents.md) | Python | 2025-08-29T09:21:50.228Z | 550 | 16368 | 16083 | 22695 | 72.1% |
 | tmc | [langchaingo](reports/tmc-langchaingo-dependents.md) | Go | 2025-08-29T09:11:22.928Z | 40 | 1129 | 1081 | 1494 | 75.6% |
 
