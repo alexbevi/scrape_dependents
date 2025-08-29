@@ -246,6 +246,60 @@ function flushMarkdown(rows, meta) {
   writeFileSync(mdPath, md);
   // Force file system sync to ensure the Markdown report is present before updating README
   try { require('fs').fsyncSync(require('fs').openSync(mdPath, 'r')); } catch (e) {}
+
+  // Update results/README.md with grouped tables by type
+  const readmePath = `${outputDir}/README.md`;
+  let reports = [];
+  try {
+    const files = readdirSync(reportsDir).filter(f => f.endsWith('.md'));
+    for (const file of files) {
+      const content = readFileSync(`${reportsDir}/${file}`, 'utf8');
+      const repoMatch = content.match(/# Scraped repository: ([^\n]+)/);
+      const langMatch = content.match(/\* \*\*Language:\*\*\* ([^\n]+)/) || content.match(/\* \*Language:\*\* ([^\n]+)/) || content.match(/\* \*Language:\*\*([^\n]+)/);
+      const typeMatch = content.match(/\* \*\*Type:\*\*\* ([^\n]+)/) || content.match(/\* \*Type:\*\* ([^\n]+)/) || content.match(/\* \*Type:\*\*([^\n]+)/);
+      const lastScrapeMatch = content.match(/\* \*\*Last scrape:\*\*\* ([^\n]+)/) || content.match(/\* \*Last scrape:\*\* ([^\n]+)/) || content.match(/\* \*Last scrape:\*\*([^\n]+)/);
+      const pagesMatch = content.match(/\* \*\*Total pages scraped:\*\*\* ([^\n]+)/) || content.match(/\* \*Total pages scraped:\*\* ([^\n]+)/) || content.match(/\* \*Total pages scraped:\*\*([^\n]+)/);
+      const foundMatch = content.match(/\* \*\*Repos found:\*\*\* ([^\n]+)/) || content.match(/\* \*Repos found:\*\* ([^\n]+)/) || content.match(/\* \*Repos found:\*\*([^\n]+)/);
+      const filteredMatch = content.match(/\* \*\*Repos filtered out \(< ([^ ]+) stars\):\*\* ([^\n]+)/) || content.match(/\* \*Repos filtered out \(< ([^ ]+) stars\):\*\* ([^\n]+)/) || content.match(/\* \*Repos filtered out \(< ([^ ]+) stars\):\*\*([^\n]+)/);
+      reports.push({
+        file,
+        repo: repoMatch ? repoMatch[1] : '',
+        language: langMatch ? langMatch[1].trim() : '',
+        type: typeMatch ? typeMatch[1].trim() : '',
+        lastScrape: lastScrapeMatch ? lastScrapeMatch[1].trim() : '',
+        pages: pagesMatch ? pagesMatch[1].trim() : '',
+        found: foundMatch ? foundMatch[1].trim() : '',
+        filtered: filteredMatch ? filteredMatch[2].trim() : ''
+      });
+    }
+  } catch (e) {
+    // ignore
+  }
+
+  // Group by type
+  const groups = {};
+  for (const r of reports) {
+    const t = r.type || 'Unknown';
+    if (!groups[t]) groups[t] = [];
+    groups[t].push(r);
+  }
+
+  const types = Object.keys(groups).sort((a, b) => a.localeCompare(b));
+  let readme = "# Scrape Reports\n\n";
+  for (const t of types) {
+    const list = groups[t].slice().sort((a, b) => (a.repo || '').localeCompare(b.repo || ''));
+    readme += `## ${t}\n\n`;
+    readme += "| Organization | Repository | Language | Last Scrape | Pages | Found | Filtered |\n";
+    readme += "|---|---|---|---|---|---|---|\n";
+    for (const item of list) {
+      const parts = (item.repo || '').split('/');
+      const org = parts[0] || '';
+      const repoName = parts[1] || '';
+      readme += `| ${org} | ${repoName} | ${item.language} | ${item.lastScrape} | ${item.pages} | ${item.found} | ${item.filtered} |\n`;
+    }
+    readme += "\n";
+  }
+  writeFileSync(readmePath, readme);
 }
 
 // ---------- Main ----------
