@@ -31,6 +31,7 @@ Legend:
 | mongodb | [mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | 2025-08-29T09:23:56.025Z | 550 | 16444 | 16406 | 87646 | 18.8% |
 | mongodb | [mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | 2025-08-29T09:43:36.678Z | 1330 | 38777 | 38344 | 97445 | 39.8% |
 | mongodb | [mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | 2025-08-29T09:18:15.777Z | 342 | 10187 | 10045 | 17783 | 57.3% |
+| mongodb | [mongo-php-library](reports/mongodb-mongo-php-library-dependents.md) | PHP | 2025-08-29T15:18:40.376Z | 313 | 9307 | 9237 | 22118 | 42.1% |
 | mongodb | [mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | 2025-08-29T09:19:14.511Z | 349 | 10423 | 10387 | 398796 | 2.6% |
 | mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2025-08-29T11:11:48.080Z | 4803 | 143662 | 143601 | 5703039 | 2.5% |
 | twisted | [txmongo](reports/twisted-txmongo-dependents.md) | Python | 2025-08-29T09:10:59.221Z | 2 | 40 | 38 | 108 | 37.0% |
@@ -42,6 +43,7 @@ Legend:
 | Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2025-08-29T15:01:15.977Z | 5430 | 162149 | 162095 | 5656532 | 2.9% |
 | BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2025-08-29T14:53:17.292Z | 95 | 2824 | 2798 | 4291 | 65.8% |
 | doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2025-08-29T09:11:14.696Z | 33 | 965 | 931 | 3078 | 31.4% |
+| mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2025-08-29T15:17:30.308Z | 104 | 3075 | 3062 | 9335 | 32.9% |
 | mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2025-08-29T09:14:02.052Z | 172 | 5069 | 4920 | 22215 | 22.8% |
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-08-29T14:58:42.036Z | 136 | 4026 | 3894 | 23645 | 17.0% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-08-29T09:18:16.688Z | 374 | 11110 | 10987 | 27276 | 40.7% |
