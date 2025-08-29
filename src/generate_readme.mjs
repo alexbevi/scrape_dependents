@@ -41,14 +41,31 @@ function buildReadme() {
     });
   }
 
-  // Sort by repo
-  reports.sort((a,b) => a.repo.localeCompare(b.repo));
-
-  let readme = '# Scrape Reports\n\n';
-  readme += '| Repository | Language | Type | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |\n';
-  readme += '|---|---|---|---|---|---|---|---:|---:|\n';
+  // Group reports by type and sort by repo within each type
+  const groups = {};
   for (const r of reports) {
-    readme += `| [${r.repo}](reports/${r.file}) | ${r.language} | ${r.type} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} | ${r.totalPossible || ''} | ${r.percent || ''} |\n`;
+    const t = r.type || 'Unknown';
+    if (!groups[t]) groups[t] = [];
+    groups[t].push(r);
+  }
+
+  const types = Object.keys(groups).sort((a, b) => a.localeCompare(b));
+  let readme = '# Scrape Reports\n\n';
+
+  for (const t of types) {
+    const list = groups[t].slice().sort((a, b) => (a.repo || '').localeCompare(b.repo || ''));
+    readme += `## ${t}\n\n`;
+    readme += '| Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |\n';
+    readme += '|---|---|---|---|---|---|---|---:|---:|\n';
+    for (const r of list) {
+      const parts = (r.repo || '').split('/');
+      const org = parts[0] || '';
+      const repoName = parts[1] || '';
+      // Link repository name to its report
+      const repoCell = repoName ? `[${repoName}](reports/${r.file})` : `[${r.repo}](reports/${r.file})`;
+      readme += `| ${org} | ${repoCell} | ${r.language} | ${r.lastScrape} | ${r.pages} | ${r.found} | ${r.filtered} | ${r.totalPossible || ''} | ${r.percent || ''} |\n`;
+    }
+    readme += '\n';
   }
 
   writeFileSync(readmePath, readme);
