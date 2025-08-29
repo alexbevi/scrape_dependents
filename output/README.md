@@ -44,7 +44,7 @@ Legend:
 | mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2025-08-29T09:14:02.052Z | 172 | 5069 | 4920 | 22215 | 22.8% |
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-08-29T09:13:49.467Z | 136 | 4026 | 3894 | 23645 | 17.0% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-08-29T09:18:16.688Z | 374 | 11110 | 10987 | 27276 | 40.7% |
-| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T12:42:24.391Z | 0 | 0 | 0 | unknown | unknown |
+| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T13:10:35.449Z | 18 | 473 | 454 | 2787 | 17.0% |
 | MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T09:11:01.638Z | 7 | 184 | 177 | 321 | 57.3% |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T09:16:46.329Z | 257 | 7641 | 7533 | 29373 | 26.0% |
 
