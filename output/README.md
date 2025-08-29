@@ -33,8 +33,16 @@ Legend:
 | mongodb | [mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | 2025-08-29T09:18:15.777Z | 342 | 10187 | 10045 | 17783 | 57.3% |
 | mongodb | [mongo-php-library](reports/mongodb-mongo-php-library-dependents.md) | PHP | 2025-08-29T15:18:40.376Z | 313 | 9307 | 9237 | 22118 | 42.1% |
 | mongodb | [mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | 2025-08-29T09:19:14.511Z | 349 | 10423 | 10387 | 398796 | 2.6% |
+| mongodb | [mongo-rust-driver](reports/mongodb-mongo-rust-driver-dependents.md) | Rust | 2025-08-29T16:23:35.132Z | 165 | 4879 | 4808 | 10979 | 44.4% |
 | mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2025-08-29T11:11:48.080Z | 4803 | 143662 | 143601 | 5703039 | 2.5% |
 | twisted | [txmongo](reports/twisted-txmongo-dependents.md) | Python | 2025-08-29T09:10:59.221Z | 2 | 40 | 38 | 108 | 37.0% |
+
+## Framework
+
+| Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
+|---|---|---|---|---|---|---|---:|---:|
+| doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2025-08-29T16:20:24.091Z | 27 | 783 | 766 | 2471 | 31.7% |
+| mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2025-08-29T16:20:08.437Z | 0 | 0 | 0 | unknown | unknown |
 
 ## ODM
 
