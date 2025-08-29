@@ -36,6 +36,10 @@ on:
           - langchain4j
           - mongo-php-library
           - laravel-mongodb
+          - mongo-rust-driver
+          - mongo-efcore-provider
+          - DoctrineMongoDBBundle
+
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 

@@ -101,7 +101,7 @@
   {
     "repo": "spring-projects/spring-data-mongodb",
     "language": "Java",
-    "type": "ODM",
+    "type": "Framework",
     "package_id": "UGFja2FnZS0xODAwNzIyMDI%3D"
   },
   {
@@ -122,7 +122,7 @@
   {
     "repo": "MorphiaOrg/morphia",
     "language": "Java",
-    "type": "ODM"
+    "type": "Framework"
   },
   {
     "repo": "langchain4j/langchain4j",
@@ -138,7 +138,24 @@
   {
     "repo": "mongodb/laravel-mongodb",
     "language": "PHP",
-    "type": "ODM",
+    "type": "Framework",
     "package_id": "UGFja2FnZS01NTIwODg3MTE%3D"
+  },
+  {
+    "repo": "mongodb/mongo-rust-driver",
+    "language": "Rust",
+    "type": "Driver",
+    "package_id": "UGFja2FnZS0zMjE2OTgyMTk5"
+  },
+  {
+    "repo": "mongodb/mongo-efcore-provider",
+    "language": "CSharp",
+    "type": "Framework",
+    "package_id": "UGFja2FnZS0zMjE2OTgyMTk1"
+  },
+  {
+    "repo": "doctrine/DoctrineMongoDBBundle",
+    "language": "PHP",
+    "type": "Framework"
   }
 ]
