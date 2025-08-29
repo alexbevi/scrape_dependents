@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| openedx | edx-platform | 7834 | 4134 | [link](https://github.com/openedx/edx-platform) |
-| zilliztech | GPTCache | 7703 | 554 | [link](https://github.com/zilliztech/GPTCache) |
+| openedx | edx-platform | 7834 | 4135 | [link](https://github.com/openedx/edx-platform) |
+| zilliztech | GPTCache | 7705 | 554 | [link](https://github.com/zilliztech/GPTCache) |
 | samuelclay | NewsBlur | 7139 | 1013 | [link](https://github.com/samuelclay/NewsBlur) |
 | guardicore | monkey | 6854 | 807 | [link](https://github.com/guardicore/monkey) |
 | StackStorm | st2 | 6313 | 766 | [link](https://github.com/StackStorm/st2) |
@@ -14,7 +14,7 @@
 | jkbrzt | cloudtunes | 2505 | 233 | [link](https://github.com/jkbrzt/cloudtunes) |
 | alfredfrancis | ai-chatbot-framework | 2111 | 739 | [link](https://github.com/alfredfrancis/ai-chatbot-framework) |
 | pallets-eco | flask-security-3.0 | 1633 | 509 | [link](https://github.com/pallets-eco/flask-security-3.0) |
-| hystax | optscale | 1605 | 242 | [link](https://github.com/hystax/optscale) |
+| hystax | optscale | 1604 | 242 | [link](https://github.com/hystax/optscale) |
 | qinxuye | cola | 1506 | 533 | [link](https://github.com/qinxuye/cola) |
 | sintel-dev | Orion | 1297 | 191 | [link](https://github.com/sintel-dev/Orion) |
 | talkpython | mastering-pycharm-course | 1185 | 735 | [link](https://github.com/talkpython/mastering-pycharm-course) |
@@ -68,9 +68,9 @@
 | xuwei95 | ezdata | 241 | 50 | [link](https://github.com/xuwei95/ezdata) |
 | jazzband | django-mongonaut | 239 | 65 | [link](https://github.com/jazzband/django-mongonaut) |
 | momosecurity | Mloger | 238 | 67 | [link](https://github.com/momosecurity/Mloger) |
+| JavisDiT | JavisDiT | 234 | 11 | [link](https://github.com/JavisDiT/JavisDiT) |
 | UWFlow | rmc | 234 | 73 | [link](https://github.com/UWFlow/rmc) |
 | shogunlab | building-c2-implants-in-cpp | 234 | 41 | [link](https://github.com/shogunlab/building-c2-implants-in-cpp) |
-| JavisDiT | JavisDiT | 233 | 10 | [link](https://github.com/JavisDiT/JavisDiT) |
 | siegfried415 | portia-dashboard | 231 | 76 | [link](https://github.com/siegfried415/portia-dashboard) |
 | scionoftech | FastAPI-Full-Stack-Samples | 218 | 44 | [link](https://github.com/scionoftech/FastAPI-Full-Stack-Samples) |
 | sloria | PythonORMSleepy | 210 | 38 | [link](https://github.com/sloria/PythonORMSleepy) |
@@ -90,7 +90,7 @@
 | marcopaz | is-service-up | 166 | 26 | [link](https://github.com/marcopaz/is-service-up) |
 | Patrowl | PatrowlHears | 165 | 54 | [link](https://github.com/Patrowl/PatrowlHears) |
 | h2oai | wave-apps | 158 | 56 | [link](https://github.com/h2oai/wave-apps) |
-| AlainDaccache | Quantropy | 157 | 33 | [link](https://github.com/AlainDaccache/Quantropy) |
+| AlainDaccache | Quantropy | 158 | 33 | [link](https://github.com/AlainDaccache/Quantropy) |
 | gofynd | flask-full | 157 | 33 | [link](https://github.com/gofynd/flask-full) |
 | AdaCache-DiT | AdaCache | 156 | 8 | [link](https://github.com/AdaCache-DiT/AdaCache) |
 | senghoo | wordai | 156 | 14 | [link](https://github.com/senghoo/wordai) |
@@ -129,9 +129,9 @@
 | omegaml | omegaml | 100 | 14 | [link](https://github.com/omegaml/omegaml) |
 
 ---
-* **Last scrape:** 2025-08-28T23:23:18.878Z
+* **Last scrape:** 2025-08-29T09:18:16.688Z
 * **Total pages scraped:** 374
-* **Repos found:** 11111
-* **Repos filtered out (< 100 stars):** 10988
+* **Repos found:** 11110
+* **Repos filtered out (< 100 stars):** 10987
 * **Total possible repositories:** 27276
 * **Percent processed:** 40.7%
