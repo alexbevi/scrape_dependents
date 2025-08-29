@@ -15,6 +15,19 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
+      - name: Ensure workspace has latest branch from origin
+        run: |
+          set -euo pipefail
+          branch="${GITHUB_REF#refs/heads/}"
+          echo "Ensuring local workspace matches origin/$branch"
+          git fetch origin --prune
+          # If the branch exists remotely, reset to it so files pushed by other jobs are present
+          if git ls-remote --heads origin "$branch" | grep -q "$branch"; then
+            git checkout -B "$branch" "origin/$branch"
+          else
+            # fallback: ensure we're on the same branch name if possible
+            git checkout -B "$branch" || true
+          fi
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
