@@ -13,7 +13,7 @@
 | Simpleyyt | ai-manus | 951 | 224 | [link](https://github.com/Simpleyyt/ai-manus) |
 | opendatalab | LabelLLM | 909 | 96 | [link](https://github.com/opendatalab/LabelLLM) |
 | PythonNest | PyNest | 836 | 56 | [link](https://github.com/PythonNest/PyNest) |
-| jowilf | starlette-admin | 833 | 79 | [link](https://github.com/jowilf/starlette-admin) |
+| jowilf | starlette-admin | 834 | 79 | [link](https://github.com/jowilf/starlette-admin) |
 | baoliay2008 | lccn_predictor | 801 | 28 | [link](https://github.com/baoliay2008/lccn_predictor) |
 | mongodb-labs | full-stack-fastapi-mongodb | 687 | 113 | [link](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) |
 | mhdzumair | MediaFusion | 599 | 80 | [link](https://github.com/mhdzumair/MediaFusion) |
@@ -32,9 +32,9 @@
 | michaelkryukov | mongomock_motor | 117 | 28 | [link](https://github.com/michaelkryukov/mongomock_motor) |
 
 ---
-* **Last scrape:** 2025-08-29T09:13:11.913Z
+* **Last scrape:** 2025-08-29T14:53:17.292Z
 * **Total pages scraped:** 95
-* **Repos found:** 2825
-* **Repos filtered out (< 100 stars):** 2799
+* **Repos found:** 2824
+* **Repos filtered out (< 100 stars):** 2798
 * **Total possible repositories:** 4291
 * **Percent processed:** 65.8%
