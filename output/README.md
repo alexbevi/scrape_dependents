@@ -1,5 +1,17 @@
 # Scrape Reports
 
+Legend:
+
+- Organization: GitHub organization or user owning the repository.
+- Repository: Repository name; links to the per-repo report.
+- Language: Primary language for the repository (from repo metadata).
+- Last Scrape: ISO timestamp of the most recent scrape for that repository.
+- Pages: Number of dependents pages scraped.
+- Found: Total dependents found during the scrape.
+- Filtered: Number of dependents excluded by the min-stars filter.
+- Total Possible: The total number of dependents shown by GitHub (if available).
+- Percent: Percentage of total possible dependents processed.
+
 ## AI
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
@@ -32,7 +44,7 @@
 | mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2025-08-29T09:14:02.052Z | 172 | 5069 | 4920 | 22215 | 22.8% |
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-08-29T09:13:49.467Z | 136 | 4026 | 3894 | 23645 | 17.0% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-08-29T09:18:16.688Z | 374 | 11110 | 10987 | 27276 | 40.7% |
-| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T09:11:13.520Z | 0 | 0 | 0 | unknown | unknown |
+| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T12:42:24.391Z | 0 | 0 | 0 | unknown | unknown |
 | MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T09:11:01.638Z | 7 | 184 | 177 | 321 | 57.3% |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T09:16:46.329Z | 257 | 7641 | 7533 | 29373 | 26.0% |
 
