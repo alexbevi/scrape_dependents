@@ -134,5 +134,11 @@
     "language": "PHP",
     "type": "Driver",
     "package_id": "UGFja2FnZS01NDM1MTQ3ODc%3D"
+  },
+  {
+    "repo": "mongodb/laravel-mongodb",
+    "language": "PHP",
+    "type": "ODM",
+    "package_id": "UGFja2FnZS01NTIwODg3MTE%3D"
   }
 ]
