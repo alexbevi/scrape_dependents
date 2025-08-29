@@ -133,3 +133,7 @@ Running only the finalize step
 ```bash
 gh workflow run finalize_readme.yml --repo <owner>/<repo>
 ```
+
+## License
+
+See [LICENSE](./LICENSE)
