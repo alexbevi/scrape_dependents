@@ -51,6 +51,17 @@ function buildReadme() {
 
   const types = Object.keys(groups).sort((a, b) => a.localeCompare(b));
   let readme = '# Scrape Reports\n\n';
+  // Legend explaining columns
+  readme += 'Legend:\n\n';
+  readme += '- Organization: GitHub organization or user owning the repository.\n';
+  readme += '- Repository: Repository name; links to the per-repo report.\n';
+  readme += '- Language: Primary language for the repository (from repo metadata).\n';
+  readme += '- Last Scrape: ISO timestamp of the most recent scrape for that repository.\n';
+  readme += '- Pages: Number of dependents pages scraped.\n';
+  readme += '- Found: Total dependents found during the scrape.\n';
+  readme += '- Filtered: Number of dependents excluded by the min-stars filter.\n';
+  readme += '- Total Possible: The total number of dependents shown by GitHub (if available).\n';
+  readme += '- Percent: Percentage of total possible dependents processed.\n\n';
 
   for (const t of types) {
     const list = groups[t].slice().sort((a, b) => (a.repo || '').localeCompare(b.repo || ''));
