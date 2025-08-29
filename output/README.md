@@ -26,7 +26,6 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-08-29T14:54:51.622Z | 196 | 5825 | 5819 | 12495 | 46.6% |
 | mongo-dart | [mongo_dart](reports/mongo-dart-mongo_dart-dependents.md) | Dart | 2025-08-29T14:52:13.397Z | 81 | 2405 | 2400 | 5632 | 42.7% |
 | mongodb | [mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | 2025-08-29T09:23:56.025Z | 550 | 16444 | 16406 | 87646 | 18.8% |
 | mongodb | [mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | 2025-08-29T09:43:36.678Z | 1330 | 38777 | 38344 | 97445 | 39.8% |
@@ -41,7 +40,9 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
+| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-08-29T14:54:51.622Z | 196 | 5825 | 5819 | 12495 | 46.6% |
 | doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2025-08-29T16:20:24.091Z | 27 | 783 | 766 | 2471 | 31.7% |
+| mongodb | [django-mongodb-backend](reports/mongodb-django-mongodb-backend-dependents.md) | Python | 2025-08-29T16:55:05.138Z | 2 | 37 | 36 | 49 | 75.5% |
 | mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2025-08-29T16:26:48.338Z | 29 | 857 | 855 | 1179 | 72.7% |
 | MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T14:51:22.738Z | 7 | 184 | 177 | 321 | 57.3% |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T14:57:29.695Z | 257 | 7642 | 7534 | 29373 | 26.0% |
