@@ -34,6 +34,7 @@ on:
           - mongo_dart
           - morphia
           - langchain4j
+          - mongo-php-library
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 

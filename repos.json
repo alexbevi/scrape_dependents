@@ -128,5 +128,11 @@
     "repo": "langchain4j/langchain4j",
     "language": "Java",
     "type": "AI"
+  },
+  {
+    "repo": "mongodb/mongo-php-library",
+    "language": "PHP",
+    "type": "Driver",
+    "package_id": "UGFja2FnZS01NDM1MTQ3ODc%3D"
   }
 ]
