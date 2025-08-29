@@ -18,6 +18,7 @@ Legend:
 |---|---|---|---|---|---|---|---:|---:|
 | langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2025-08-29T09:11:10.333Z | 23 | 670 | 657 | 974 | 68.8% |
 | langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2025-08-29T14:42:54.384Z | 1123 | 33264 | 32867 | 47365 | 70.2% |
+| langchain4j | [langchain4j](reports/langchain4j-langchain4j-dependents.md) | Java | 2025-08-29T14:51:24.268Z | 42 | 1256 | 1218 | 1564 | 80.3% |
 | run-llama | [llama_index](reports/run-llama-llama_index-dependents.md) | Python | 2025-08-29T09:21:50.228Z | 550 | 16368 | 16083 | 22695 | 72.1% |
 | tmc | [langchaingo](reports/tmc-langchaingo-dependents.md) | Go | 2025-08-29T09:11:22.928Z | 40 | 1129 | 1081 | 1494 | 75.6% |
 
@@ -25,8 +26,8 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-08-29T09:13:41.845Z | 196 | 5826 | 5820 | 12495 | 46.6% |
-| mongo-dart | [mongo_dart](reports/mongo-dart-mongo_dart-dependents.md) | Dart | 2025-08-29T09:13:22.614Z | 81 | 2405 | 2400 | 5632 | 42.7% |
+| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-08-29T14:54:51.622Z | 196 | 5825 | 5819 | 12495 | 46.6% |
+| mongo-dart | [mongo_dart](reports/mongo-dart-mongo_dart-dependents.md) | Dart | 2025-08-29T14:52:13.397Z | 81 | 2405 | 2400 | 5632 | 42.7% |
 | mongodb | [mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | 2025-08-29T09:23:56.025Z | 550 | 16444 | 16406 | 87646 | 18.8% |
 | mongodb | [mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | 2025-08-29T09:43:36.678Z | 1330 | 38777 | 38344 | 97445 | 39.8% |
 | mongodb | [mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | 2025-08-29T09:18:15.777Z | 342 | 10187 | 10045 | 17783 | 57.3% |
@@ -39,13 +40,13 @@ Legend:
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
 | Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2025-08-29T10:12:11.498Z | 1552 | 46355 | 46324 | 5656524 | 0.8% |
-| BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2025-08-29T09:13:11.913Z | 95 | 2825 | 2799 | 4291 | 65.8% |
+| BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2025-08-29T14:53:17.292Z | 95 | 2824 | 2798 | 4291 | 65.8% |
 | doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2025-08-29T09:11:14.696Z | 33 | 965 | 931 | 3078 | 31.4% |
 | mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2025-08-29T09:14:02.052Z | 172 | 5069 | 4920 | 22215 | 22.8% |
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-08-29T09:13:49.467Z | 136 | 4026 | 3894 | 23645 | 17.0% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-08-29T09:18:16.688Z | 374 | 11110 | 10987 | 27276 | 40.7% |
 | mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T13:10:35.449Z | 18 | 473 | 454 | 2787 | 17.0% |
-| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T09:11:01.638Z | 7 | 184 | 177 | 321 | 57.3% |
+| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T14:51:22.738Z | 7 | 184 | 177 | 321 | 57.3% |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T09:16:46.329Z | 257 | 7641 | 7533 | 29373 | 26.0% |
 
 ## ORM
