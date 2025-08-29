@@ -4,30 +4,30 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37246 | 54155 | [link](https://github.com/eugenp/tutorials) |
-| chinabugotech | hutool | 30019 | 7654 | [link](https://github.com/chinabugotech/hutool) |
-| quarkusio | quarkus | 14870 | 2938 | [link](https://github.com/quarkusio/quarkus) |
-| pinpoint-apm | pinpoint | 13703 | 3779 | [link](https://github.com/pinpoint-apm/pinpoint) |
-| trinodb | trino | 11798 | 3311 | [link](https://github.com/trinodb/trino) |
-| debezium | debezium | 11773 | 2735 | [link](https://github.com/debezium/debezium) |
-| flyway | flyway | 9046 | 1562 | [link](https://github.com/flyway/flyway) |
-| langchain4j | langchain4j | 8816 | 1623 | [link](https://github.com/langchain4j/langchain4j) |
-| apache | seatunnel | 8748 | 2059 | [link](https://github.com/apache/seatunnel) |
-| risingwavelabs | risingwave | 8295 | 672 | [link](https://github.com/risingwavelabs/risingwave) |
+| eugenp | tutorials | 37246 | 54154 | [link](https://github.com/eugenp/tutorials) |
+| chinabugotech | hutool | 30021 | 7654 | [link](https://github.com/chinabugotech/hutool) |
+| quarkusio | quarkus | 14871 | 2938 | [link](https://github.com/quarkusio/quarkus) |
+| pinpoint-apm | pinpoint | 13704 | 3779 | [link](https://github.com/pinpoint-apm/pinpoint) |
+| trinodb | trino | 11801 | 3311 | [link](https://github.com/trinodb/trino) |
+| debezium | debezium | 11777 | 2737 | [link](https://github.com/debezium/debezium) |
+| flyway | flyway | 9048 | 1562 | [link](https://github.com/flyway/flyway) |
+| langchain4j | langchain4j | 8825 | 1627 | [link](https://github.com/langchain4j/langchain4j) |
+| apache | seatunnel | 8750 | 2061 | [link](https://github.com/apache/seatunnel) |
+| risingwavelabs | risingwave | 8297 | 672 | [link](https://github.com/risingwavelabs/risingwave) |
 | TechEmpower | FrameworkBenchmarks | 7942 | 2008 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
-| Graylog2 | graylog2-server | 7781 | 1088 | [link](https://github.com/Graylog2/graylog2-server) |
+| Graylog2 | graylog2-server | 7780 | 1088 | [link](https://github.com/Graylog2/graylog2-server) |
 | PowerJob | PowerJob | 7580 | 1333 | [link](https://github.com/PowerJob/PowerJob) |
-| spring-projects | spring-ai | 6567 | 1837 | [link](https://github.com/spring-projects/spring-ai) |
+| spring-projects | spring-ai | 6572 | 1836 | [link](https://github.com/spring-projects/spring-ai) |
 | apache | hertzbeat | 6549 | 1164 | [link](https://github.com/apache/hertzbeat) |
 | hazelcast | hazelcast | 6381 | 1863 | [link](https://github.com/hazelcast/hazelcast) |
 | apache | flink-cdc | 6205 | 2057 | [link](https://github.com/apache/flink-cdc) |
-| apache | camel | 5932 | 5059 | [link](https://github.com/apache/camel) |
-| apache | nifi | 5636 | 2859 | [link](https://github.com/apache/nifi) |
-| alibaba | spring-ai-alibaba | 5586 | 1155 | [link](https://github.com/alibaba/spring-ai-alibaba) |
-| spring-projects | spring-data-examples | 5337 | 3416 | [link](https://github.com/spring-projects/spring-data-examples) |
+| apache | camel | 5933 | 5059 | [link](https://github.com/apache/camel) |
+| apache | nifi | 5637 | 2861 | [link](https://github.com/apache/nifi) |
+| alibaba | spring-ai-alibaba | 5598 | 1160 | [link](https://github.com/alibaba/spring-ai-alibaba) |
+| spring-projects | spring-data-examples | 5339 | 3417 | [link](https://github.com/spring-projects/spring-data-examples) |
 | brianfrankcooper | YCSB | 5128 | 2308 | [link](https://github.com/brianfrankcooper/YCSB) |
 | geoserver | geoserver | 4124 | 2242 | [link](https://github.com/geoserver/geoserver) |
-| jetty | jetty.project | 3993 | 1967 | [link](https://github.com/jetty/jetty.project) |
+| jetty | jetty.project | 3994 | 1967 | [link](https://github.com/jetty/jetty.project) |
 | lukas-krecan | ShedLock | 3952 | 549 | [link](https://github.com/lukas-krecan/ShedLock) |
 | helidon-io | helidon | 3667 | 580 | [link](https://github.com/helidon-io/helidon) |
 | apache | logging-log4j2 | 3520 | 1681 | [link](https://github.com/apache/logging-log4j2) |
@@ -35,9 +35,9 @@
 | apache | linkis | 3387 | 1172 | [link](https://github.com/apache/linkis) |
 | javamelody | javamelody | 3019 | 747 | [link](https://github.com/javamelody/javamelody) |
 | spring-projects | spring-batch | 2845 | 2433 | [link](https://github.com/spring-projects/spring-batch) |
-| alldatacenter | alldata | 2835 | 923 | [link](https://github.com/alldatacenter/alldata) |
+| alldatacenter | alldata | 2836 | 923 | [link](https://github.com/alldatacenter/alldata) |
 | spring-attic | spring-native | 2719 | 350 | [link](https://github.com/spring-attic/spring-native) |
-| bucket4j | bucket4j | 2569 | 300 | [link](https://github.com/bucket4j/bucket4j) |
+| bucket4j | bucket4j | 2570 | 300 | [link](https://github.com/bucket4j/bucket4j) |
 | lealone | Lealone | 2519 | 524 | [link](https://github.com/lealone/Lealone) |
 | pac4j | pac4j | 2481 | 697 | [link](https://github.com/pac4j/pac4j) |
 | openzipkin | brave | 2388 | 720 | [link](https://github.com/openzipkin/brave) |
@@ -49,16 +49,16 @@
 | MorphiaOrg | morphia | 1673 | 453 | [link](https://github.com/MorphiaOrg/morphia) |
 | bytedance | bitsail | 1669 | 334 | [link](https://github.com/bytedance/bitsail) |
 | spring-projects | spring-data-mongodb | 1658 | 1123 | [link](https://github.com/spring-projects/spring-data-mongodb) |
-| sqlancer | sqlancer | 1631 | 368 | [link](https://github.com/sqlancer/sqlancer) |
+| sqlancer | sqlancer | 1632 | 369 | [link](https://github.com/sqlancer/sqlancer) |
 | apache | inlong | 1464 | 572 | [link](https://github.com/apache/inlong) |
 | dremio | dremio-oss | 1439 | 450 | [link](https://github.com/dremio/dremio-oss) |
 | ff4j | ff4j | 1428 | 286 | [link](https://github.com/ff4j/ff4j) |
 | akto-api-security | akto | 1373 | 254 | [link](https://github.com/akto-api-security/akto) |
-| sermant-io | Sermant | 1359 | 184 | [link](https://github.com/sermant-io/Sermant) |
+| sermant-io | Sermant | 1360 | 185 | [link](https://github.com/sermant-io/Sermant) |
 | GoogleCloudPlatform | DataflowTemplates | 1233 | 1040 | [link](https://github.com/GoogleCloudPlatform/DataflowTemplates) |
-| OpenLiberty | open-liberty | 1211 | 626 | [link](https://github.com/OpenLiberty/open-liberty) |
+| OpenLiberty | open-liberty | 1212 | 626 | [link](https://github.com/OpenLiberty/open-liberty) |
 | XiaoMi | mone | 1142 | 173 | [link](https://github.com/XiaoMi/mone) |
-| sagframe | sagacity-sqltoy | 1141 | 188 | [link](https://github.com/sagframe/sagacity-sqltoy) |
+| sagframe | sagacity-sqltoy | 1142 | 188 | [link](https://github.com/sagframe/sagacity-sqltoy) |
 | togglz | togglz | 1001 | 261 | [link](https://github.com/togglz/togglz) |
 | devlive-community | datacap | 963 | 114 | [link](https://github.com/devlive-community/datacap) |
 | simon987 | Much-Assembly-Required | 948 | 89 | [link](https://github.com/simon987/Much-Assembly-Required) |
@@ -72,11 +72,11 @@
 | structr | structr | 804 | 157 | [link](https://github.com/structr/structr) |
 | Litote | kmongo | 780 | 77 | [link](https://github.com/Litote/kmongo) |
 | mongodb | docs | 753 | 1709 | [link](https://github.com/mongodb/docs) |
-| apache | seatunnel-web | 721 | 319 | [link](https://github.com/apache/seatunnel-web) |
-| nuxeo | nuxeo | 671 | 390 | [link](https://github.com/nuxeo/nuxeo) |
+| apache | seatunnel-web | 723 | 320 | [link](https://github.com/apache/seatunnel-web) |
+| nuxeo | nuxeo | 671 | 389 | [link](https://github.com/nuxeo/nuxeo) |
 | OpenHFT | OpenHFT | 671 | 183 | [link](https://github.com/OpenHFT/OpenHFT) |
 | datavane | datavines | 656 | 184 | [link](https://github.com/datavane/datavines) |
-| WebFuzzing | EvoMaster | 606 | 95 | [link](https://github.com/WebFuzzing/EvoMaster) |
+| WebFuzzing | EvoMaster | 607 | 95 | [link](https://github.com/WebFuzzing/EvoMaster) |
 | tapdata | tapdata | 600 | 125 | [link](https://github.com/tapdata/tapdata) |
 | elastic | apm-agent-java | 580 | 324 | [link](https://github.com/elastic/apm-agent-java) |
 | megaease | easeagent | 580 | 126 | [link](https://github.com/megaease/easeagent) |
@@ -87,14 +87,14 @@
 | arextest | arex-agent-java | 518 | 122 | [link](https://github.com/arextest/arex-agent-java) |
 | nutzam | nutzboot | 505 | 139 | [link](https://github.com/nutzam/nutzboot) |
 | membrane | api-gateway | 491 | 138 | [link](https://github.com/membrane/api-gateway) |
-| AIDC-AI | Agentic-ADK | 479 | 78 | [link](https://github.com/AIDC-AI/Agentic-ADK) |
+| AIDC-AI | Agentic-ADK | 482 | 80 | [link](https://github.com/AIDC-AI/Agentic-ADK) |
 | OpenFeign | querydsl | 478 | 66 | [link](https://github.com/OpenFeign/querydsl) |
 | flamingock | mongock | 474 | 65 | [link](https://github.com/flamingock/mongock) |
 | osalvador | ReplicaDB | 461 | 107 | [link](https://github.com/osalvador/ReplicaDB) |
 | 818000 | bus | 432 | 33 | [link](https://github.com/818000/bus) |
 | apache | jackrabbit-oak | 400 | 418 | [link](https://github.com/apache/jackrabbit-oak) |
 | cerberustesting | cerberus-core | 348 | 105 | [link](https://github.com/cerberustesting/cerberus-core) |
-| springreport | springreport | 346 | 84 | [link](https://github.com/springreport/springreport) |
+| springreport | springreport | 347 | 84 | [link](https://github.com/springreport/springreport) |
 | craftercms | craftercms | 322 | 103 | [link](https://github.com/craftercms/craftercms) |
 | vincentrussell | sql-to-mongo-db-query-converter | 313 | 96 | [link](https://github.com/vincentrussell/sql-to-mongo-db-query-converter) |
 | dCache | dcache | 305 | 142 | [link](https://github.com/dCache/dcache) |
@@ -116,7 +116,7 @@
 | wso2 | product-micro-integrator | 226 | 246 | [link](https://github.com/wso2/product-micro-integrator) |
 | ralscha | blog | 224 | 243 | [link](https://github.com/ralscha/blog) |
 | eclipse-ee4j | eclipselink | 222 | 186 | [link](https://github.com/eclipse-ee4j/eclipselink) |
-| johnlpage | POCDriver | 216 | 91 | [link](https://github.com/johnlpage/POCDriver) |
+| johnlpage | POCDriver | 216 | 92 | [link](https://github.com/johnlpage/POCDriver) |
 | fmarchioni | mastertheboss | 204 | 574 | [link](https://github.com/fmarchioni/mastertheboss) |
 | nosqlbench | nosqlbench | 184 | 75 | [link](https://github.com/nosqlbench/nosqlbench) |
 | opencb | opencga | 172 | 100 | [link](https://github.com/opencb/opencga) |
@@ -134,7 +134,7 @@
 | oracle-devrel | technology-engineering | 132 | 68 | [link](https://github.com/oracle-devrel/technology-engineering) |
 | greatbit | quack | 132 | 33 | [link](https://github.com/greatbit/quack) |
 | ProgrammeVitam | vitam | 128 | 45 | [link](https://github.com/ProgrammeVitam/vitam) |
-| anwena | MongoPlus | 119 | 13 | [link](https://github.com/anwena/MongoPlus) |
+| anwena | MongoPlus | 118 | 13 | [link](https://github.com/anwena/MongoPlus) |
 | LeeKyoungIl | illuminati | 117 | 20 | [link](https://github.com/LeeKyoungIl/illuminati) |
 | digaomilleniun | backend-java-ebac | 112 | 54 | [link](https://github.com/digaomilleniun/backend-java-ebac) |
 | mongodb-developer | java-spring-boot-mongodb-starter | 112 | 82 | [link](https://github.com/mongodb-developer/java-spring-boot-mongodb-starter) |
@@ -142,15 +142,15 @@
 | AlessandroCorradini | MongoDB-University | 109 | 71 | [link](https://github.com/AlessandroCorradini/MongoDB-University) |
 | dashjoin | platform | 108 | 11 | [link](https://github.com/dashjoin/platform) |
 | zfoo-project | tank-game-server | 102 | 65 | [link](https://github.com/zfoo-project/tank-game-server) |
-| debezium | debezium-server | 102 | 112 | [link](https://github.com/debezium/debezium-server) |
+| debezium | debezium-server | 102 | 113 | [link](https://github.com/debezium/debezium-server) |
 | authzforce | core | 101 | 24 | [link](https://github.com/authzforce/core) |
 | Apress | pro-spring-6 | 100 | 76 | [link](https://github.com/Apress/pro-spring-6) |
 | oracle | json-in-db | 100 | 55 | [link](https://github.com/oracle/json-in-db) |
 
 ---
-* **Last scrape:** 2025-08-28T20:50:44.569Z
+* **Last scrape:** 2025-08-29T09:18:15.777Z
 * **Total pages scraped:** 342
 * **Repos found:** 10187
 * **Repos filtered out (< 100 stars):** 10045
-* **Total possible repositories:** 17781
+* **Total possible repositories:** 17783
 * **Percent processed:** 57.3%
