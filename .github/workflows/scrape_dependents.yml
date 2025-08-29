@@ -20,6 +20,19 @@ on:
           - drizzle-orm
           - typeorm
           - mongoengine
+          - langchaingo
+          - langchainjs
+          - langchain-mongodb
+          - llama_index
+          - mongomapper
+          - beanie
+          - mongodb-odm
+          - mongoose
+          - spring-data-mongodb
+          - txmongo
+          - djongo
+          - mongo_dart
+          - morphia
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 

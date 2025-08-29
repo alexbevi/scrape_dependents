@@ -56,5 +56,71 @@
     "repo": "typeorm/typeorm",
     "language": "JavaScript",
     "type": "ORM"
+  },
+  {
+    "repo": "tmc/langchaingo",
+    "language": "Go",
+    "type": "AI"
+  },
+  {
+    "repo": "langchain-ai/langchainjs",
+    "language": "JavaScript",
+    "type": "AI"
+  },
+  {
+    "repo": "langchain-ai/langchain-mongodb",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "run-llama/llama_index",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "mongomapper/mongomapper",
+    "language": "Ruby",
+    "type": "ODM"
+  },
+  {
+    "repo": "BeanieODM/beanie",
+    "language": "Python",
+    "type": "ODM"
+  },
+  {
+    "repo": "doctrine/mongodb-odm",
+    "language": "PHP",
+    "type": "ODM"
+  },
+  {
+    "repo": "Automattic/mongoose",
+    "language": "JavaScript",
+    "type": "ODM"
+  },
+  {
+    "repo": "spring-projects/spring-data-mongodb",
+    "language": "Java",
+    "type": "ODM",
+    "package_id": "UGFja2FnZS0xODAwNzIyMDI%3D"
+  },
+  {
+    "repo": "twisted/txmongo",
+    "language": "Python",
+    "type": "Driver"
+  },
+  {
+    "repo": "doableware/djongo",
+    "language": "Python",
+    "type": "Driver"
+  },
+  {
+    "repo": "mongo-dart/mongo_dart",
+    "language": "Dart",
+    "type": "Driver"
+  },
+  {
+    "repo": "MorphiaOrg/morphia",
+    "language": "Java",
+    "type": "ODM"
   }
 ]
