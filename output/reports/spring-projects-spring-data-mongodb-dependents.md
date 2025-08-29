@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| appsmithorg | appsmith | 37818 | 4206 | [link](https://github.com/appsmithorg/appsmith) |
-| eugenp | tutorials | 37246 | 54154 | [link](https://github.com/eugenp/tutorials) |
-| spring-projects | spring-ai | 6572 | 1836 | [link](https://github.com/spring-projects/spring-ai) |
+| appsmithorg | appsmith | 37821 | 4206 | [link](https://github.com/appsmithorg/appsmith) |
+| eugenp | tutorials | 37246 | 54152 | [link](https://github.com/eugenp/tutorials) |
+| spring-projects | spring-ai | 6574 | 1836 | [link](https://github.com/spring-projects/spring-ai) |
 | openblocks-dev | openblocks | 6067 | 390 | [link](https://github.com/openblocks-dev/openblocks) |
 | zq2599 | blog_demos | 4714 | 1898 | [link](https://github.com/zq2599/blog_demos) |
 | 981011512 | -- | 4613 | 2254 | [link](https://github.com/981011512/--) |
@@ -14,7 +14,7 @@
 | alibaba | fastjson2 | 4137 | 539 | [link](https://github.com/alibaba/fastjson2) |
 | javamelody | javamelody | 3019 | 747 | [link](https://github.com/javamelody/javamelody) |
 | liuyangming | ByteTCC | 2895 | 911 | [link](https://github.com/liuyangming/ByteTCC) |
-| spring-projects | spring-batch | 2845 | 2433 | [link](https://github.com/spring-projects/spring-batch) |
+| spring-projects | spring-batch | 2846 | 2433 | [link](https://github.com/spring-projects/spring-batch) |
 | spring-attic | spring-native | 2719 | 350 | [link](https://github.com/spring-attic/spring-native) |
 | dromara | raincat | 1908 | 660 | [link](https://github.com/dromara/raincat) |
 | cloudtogo | pageplug | 1871 | 318 | [link](https://github.com/cloudtogo/pageplug) |
@@ -34,7 +34,7 @@
 | sofastack | sofa-tracer | 1126 | 384 | [link](https://github.com/sofastack/sofa-tracer) |
 | Zephery | newblog | 1097 | 343 | [link](https://github.com/Zephery/newblog) |
 | kolorobot | spring-mvc-quickstart-archetype | 1042 | 474 | [link](https://github.com/kolorobot/spring-mvc-quickstart-archetype) |
-| spring-projects | spring-modulith | 976 | 169 | [link](https://github.com/spring-projects/spring-modulith) |
+| spring-projects | spring-modulith | 978 | 169 | [link](https://github.com/spring-projects/spring-modulith) |
 | spring-projects | spring-data-rest | 935 | 565 | [link](https://github.com/spring-projects/spring-data-rest) |
 | spring-projects | spring-tools | 906 | 213 | [link](https://github.com/spring-projects/spring-tools) |
 | PlaytikaOSS | testcontainers-spring-boot | 870 | 242 | [link](https://github.com/PlaytikaOSS/testcontainers-spring-boot) |
@@ -104,7 +104,7 @@
 | xwlcn | Dodder | 111 | 35 | [link](https://github.com/xwlcn/Dodder) |
 | sdeleuze | spring-backbone-todo | 107 | 50 | [link](https://github.com/sdeleuze/spring-backbone-todo) |
 | bitisanop | CryptoExchange_TradingPlatform_CoinExchange | 106 | 82 | [link](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) |
-| xmolecules | jmolecules-integrations | 105 | 25 | [link](https://github.com/xmolecules/jmolecules-integrations) |
+| xmolecules | jmolecules-integrations | 106 | 25 | [link](https://github.com/xmolecules/jmolecules-integrations) |
 | aidanwhiteley | books | 105 | 28 | [link](https://github.com/aidanwhiteley/books) |
 | binghe001 | mykit-transaction-message | 104 | 52 | [link](https://github.com/binghe001/mykit-transaction-message) |
 | zhangwei900808 | awbeci-ssb | 104 | 68 | [link](https://github.com/zhangwei900808/awbeci-ssb) |
@@ -114,9 +114,9 @@
 | ShuaiJunlan | Autumn | 100 | 73 | [link](https://github.com/ShuaiJunlan/Autumn) |
 
 ---
-* **Last scrape:** 2025-08-29T09:16:46.329Z
+* **Last scrape:** 2025-08-29T14:57:29.695Z
 * **Total pages scraped:** 257
-* **Repos found:** 7641
-* **Repos filtered out (< 100 stars):** 7533
+* **Repos found:** 7642
+* **Repos filtered out (< 100 stars):** 7534
 * **Total possible repositories:** 29373
 * **Percent processed:** 26.0%
