@@ -1,6 +1,6 @@
 # Scraped repository: doableware/djongo
 * **Language:** Python
-* **Type:** Driver
+* **Type:** Framework
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
