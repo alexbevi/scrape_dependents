@@ -4,23 +4,23 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| antiwork | gumroad | 6893 | 1215 | [link](https://github.com/antiwork/gumroad) |
+| antiwork | gumroad | 6898 | 1218 | [link](https://github.com/antiwork/gumroad) |
 | alexreisner | geocoder | 6411 | 1205 | [link](https://github.com/alexreisner/geocoder) |
 | ryanb | cancan | 6251 | 779 | [link](https://github.com/ryanb/cancan) |
 | activerecord-hackery | ransack | 5809 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
-| mislav | will_paginate | 5703 | 867 | [link](https://github.com/mislav/will_paginate) |
+| mislav | will_paginate | 5703 | 866 | [link](https://github.com/mislav/will_paginate) |
 | drapergem | draper | 5261 | 527 | [link](https://github.com/drapergem/draper) |
-| ankane | ahoy | 4365 | 380 | [link](https://github.com/ankane/ahoy) |
-| errbit | errbit | 4268 | 997 | [link](https://github.com/errbit/errbit) |
+| ankane | ahoy | 4366 | 380 | [link](https://github.com/ankane/ahoy) |
+| errbit | errbit | 4268 | 996 | [link](https://github.com/errbit/errbit) |
 | lynndylanhurley | devise_token_auth | 3572 | 1139 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
 | public-activity | public_activity | 2987 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2701 | 766 | [link](https://github.com/synthetichealth/synthea) |
+| synthetichealth | synthea | 2702 | 766 | [link](https://github.com/synthetichealth/synthea) |
 | scambra | devise_invitable | 2675 | 552 | [link](https://github.com/scambra/devise_invitable) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2439 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2328 | 622 | [link](https://github.com/locomotivecms/engine) |
 | galetahub | ckeditor | 2230 | 877 | [link](https://github.com/galetahub/ckeditor) |
-| NREL | api-umbrella | 2093 | 347 | [link](https://github.com/NREL/api-umbrella) |
+| NREL | api-umbrella | 2094 | 348 | [link](https://github.com/NREL/api-umbrella) |
 | karmi | retire | 1855 | 529 | [link](https://github.com/karmi/retire) |
 | ankane | lockbox | 1532 | 75 | [link](https://github.com/ankane/lockbox) |
 | tute | merit | 1532 | 198 | [link](https://github.com/tute/merit) |
@@ -59,7 +59,7 @@
 | mrrooijen | mongoid-paperclip | 344 | 118 | [link](https://github.com/mrrooijen/mongoid-paperclip) |
 | artsy | garner | 343 | 24 | [link](https://github.com/artsy/garner) |
 | workarea-commerce | workarea | 327 | 64 | [link](https://github.com/workarea-commerce/workarea) |
-| mongoid | mongoid_search | 318 | 111 | [link](https://github.com/mongoid/mongoid_search) |
+| mongoid | mongoid_search | 318 | 112 | [link](https://github.com/mongoid/mongoid_search) |
 | cloud66-oss | starter | 313 | 55 | [link](https://github.com/cloud66-oss/starter) |
 | puffer | puffer | 301 | 17 | [link](https://github.com/puffer/puffer) |
 | benedikt | mongoid-tree | 300 | 68 | [link](https://github.com/benedikt/mongoid-tree) |
@@ -96,7 +96,7 @@
 | collectiveidea | delayed_job_mongoid | 169 | 120 | [link](https://github.com/collectiveidea/delayed_job_mongoid) |
 | propublica | sunlight-congress | 168 | 68 | [link](https://github.com/propublica/sunlight-congress) |
 | provideal | tabulatr | 159 | 14 | [link](https://github.com/provideal/tabulatr) |
-| stephskardal | rails_admin_import | 158 | 122 | [link](https://github.com/stephskardal/rails_admin_import) |
+| stephskardal | rails_admin_import | 158 | 121 | [link](https://github.com/stephskardal/rails_admin_import) |
 | goshacmd | sleek | 158 | 2 | [link](https://github.com/goshacmd/sleek) |
 | samesystem | graphql_rails | 154 | 11 | [link](https://github.com/samesystem/graphql_rails) |
 | versioneye | versioneye | 150 | 29 | [link](https://github.com/versioneye/versioneye) |
@@ -138,9 +138,9 @@
 | erickreutz | mixturefm | 100 | 28 | [link](https://github.com/erickreutz/mixturefm) |
 
 ---
-* **Last scrape:** 2025-08-28T20:46:05.201Z
+* **Last scrape:** 2025-08-29T09:13:49.467Z
 * **Total pages scraped:** 136
-* **Repos found:** 4029
-* **Repos filtered out (< 100 stars):** 3897
+* **Repos found:** 4026
+* **Repos filtered out (< 100 stars):** 3894
 * **Total possible repositories:** 23645
 * **Percent processed:** 17.0%
