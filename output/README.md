@@ -42,7 +42,7 @@ Legend:
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
 | doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2025-08-29T16:20:24.091Z | 27 | 783 | 766 | 2471 | 31.7% |
-| mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2025-08-29T16:20:08.437Z | 0 | 0 | 0 | unknown | unknown |
+| mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2025-08-29T16:24:36.816Z | 29 | 857 | 855 | 1179 | 72.7% |
 
 ## ODM
 
