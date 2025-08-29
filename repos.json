@@ -7,7 +7,7 @@
   {
     "repo": "mongodb/mongo-ruby-driver",
     "language": "Ruby",
-    "type": "ODM",
+    "type": "Driver",
     "package_id": "UGFja2FnZS0xMDQwOQ%3D%3D"
   },
   {
