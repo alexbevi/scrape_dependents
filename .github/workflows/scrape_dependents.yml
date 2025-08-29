@@ -33,6 +33,7 @@ on:
           - djongo
           - mongo_dart
           - morphia
+          - langchain4j
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
 

@@ -80,7 +80,8 @@
   {
     "repo": "mongomapper/mongomapper",
     "language": "Ruby",
-    "type": "ODM"
+    "type": "ODM",
+    "package_id": "UGFja2FnZS0xNzU0"
   },
   {
     "repo": "BeanieODM/beanie",
@@ -122,5 +123,10 @@
     "repo": "MorphiaOrg/morphia",
     "language": "Java",
     "type": "ODM"
+  },
+  {
+    "repo": "langchain4j/langchain4j",
+    "language": "Java",
+    "type": "AI"
   }
 ]
