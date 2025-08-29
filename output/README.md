@@ -43,6 +43,8 @@ Legend:
 |---|---|---|---|---|---|---|---:|---:|
 | doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2025-08-29T16:20:24.091Z | 27 | 783 | 766 | 2471 | 31.7% |
 | mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2025-08-29T16:26:48.338Z | 29 | 857 | 855 | 1179 | 72.7% |
+| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T14:51:22.738Z | 7 | 184 | 177 | 321 | 57.3% |
+| spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T14:57:29.695Z | 257 | 7642 | 7534 | 29373 | 26.0% |
 
 ## ODM
 
@@ -56,8 +58,6 @@ Legend:
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-08-29T14:58:42.036Z | 136 | 4026 | 3894 | 23645 | 17.0% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-08-29T09:18:16.688Z | 374 | 11110 | 10987 | 27276 | 40.7% |
 | mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-08-29T13:10:35.449Z | 18 | 473 | 454 | 2787 | 17.0% |
-| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2025-08-29T14:51:22.738Z | 7 | 184 | 177 | 321 | 57.3% |
-| spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2025-08-29T14:57:29.695Z | 257 | 7642 | 7534 | 29373 | 26.0% |
 
 ## ORM
 
