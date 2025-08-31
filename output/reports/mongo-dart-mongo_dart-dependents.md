@@ -11,9 +11,9 @@
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 
 ---
-* **Last scrape:** 2025-08-29T14:52:13.397Z
-* **Total pages scraped:** 81
-* **Repos found:** 2405
-* **Repos filtered out (< 100 stars):** 2400
+* **Last scrape:** 2025-08-31T01:46:31.347Z
+* **Total pages scraped:** 80
+* **Repos found:** 2390
+* **Repos filtered out (< 100 stars):** 2385
 * **Total possible repositories:** 5632
-* **Percent processed:** 42.7%
+* **Percent processed:** 42.4%
