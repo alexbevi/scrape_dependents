@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2987 | 335 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2988 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 784 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
@@ -25,7 +25,7 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-08-29T13:10:35.449Z
+* **Last scrape:** 2025-08-31T01:44:29.296Z
 * **Total pages scraped:** 18
 * **Repos found:** 473
 * **Repos filtered out (< 100 stars):** 454
