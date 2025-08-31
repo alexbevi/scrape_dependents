@@ -1,22 +1,22 @@
 # Scraped repository: mongodb/mongo-ruby-driver
 * **Language:** Ruby
-* **Type:** ODM
+* **Type:** Driver
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| NixOS | nixpkgs | 21628 | 16587 | [link](https://github.com/NixOS/nixpkgs) |
-| postalserver | postal | 15861 | 1150 | [link](https://github.com/postalserver/postal) |
+| NixOS | nixpkgs | 21651 | 16594 | [link](https://github.com/NixOS/nixpkgs) |
+| postalserver | postal | 15864 | 1151 | [link](https://github.com/postalserver/postal) |
 | addyosmani | backbone-fundamentals | 9220 | 1391 | [link](https://github.com/addyosmani/backbone-fundamentals) |
-| antiwork | gumroad | 6898 | 1218 | [link](https://github.com/antiwork/gumroad) |
-| urbanadventurer | WhatWeb | 6032 | 956 | [link](https://github.com/urbanadventurer/WhatWeb) |
+| antiwork | gumroad | 6908 | 1221 | [link](https://github.com/antiwork/gumroad) |
+| urbanadventurer | WhatWeb | 6035 | 957 | [link](https://github.com/urbanadventurer/WhatWeb) |
 | backup | backup | 4862 | 673 | [link](https://github.com/backup/backup) |
-| errbit | errbit | 4268 | 996 | [link](https://github.com/errbit/errbit) |
+| errbit | errbit | 4269 | 996 | [link](https://github.com/errbit/errbit) |
 | mongodb | mongoid | 3922 | 1383 | [link](https://github.com/mongodb/mongoid) |
-| flippercloud | flipper | 3843 | 430 | [link](https://github.com/flippercloud/flipper) |
+| flippercloud | flipper | 3842 | 430 | [link](https://github.com/flippercloud/flipper) |
 | inspec | inspec | 2997 | 686 | [link](https://github.com/inspec/inspec) |
-| public-activity | public_activity | 2987 | 335 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2988 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2702 | 766 | [link](https://github.com/synthetichealth/synthea) |
+| synthetichealth | synthea | 2704 | 766 | [link](https://github.com/synthetichealth/synthea) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2439 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2328 | 622 | [link](https://github.com/locomotivecms/engine) |
 | galetahub | ckeditor | 2230 | 877 | [link](https://github.com/galetahub/ckeditor) |
@@ -25,11 +25,11 @@
 | stripe-archive | mosql | 1623 | 223 | [link](https://github.com/stripe-archive/mosql) |
 | chriskite | anemone | 1612 | 323 | [link](https://github.com/chriskite/anemone) |
 | mongomapper | mongomapper | 1603 | 380 | [link](https://github.com/mongomapper/mongomapper) |
-| assaf | vanity | 1538 | 268 | [link](https://github.com/assaf/vanity) |
+| assaf | vanity | 1537 | 268 | [link](https://github.com/assaf/vanity) |
 | gonzalo-bulnes | simple_token_authentication | 1511 | 238 | [link](https://github.com/gonzalo-bulnes/simple_token_authentication) |
 | kontena | kontena | 1463 | 127 | [link](https://github.com/kontena/kontena) |
 | bobthecow | genghis | 1440 | 161 | [link](https://github.com/bobthecow/genghis) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | moneta-rb | moneta | 1117 | 87 | [link](https://github.com/moneta-rb/moneta) |
 | GoogleCloudPlatform | cloud-foundation-toolkit | 1040 | 479 | [link](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) |
 | igrigorik | em-synchrony | 1037 | 149 | [link](https://github.com/igrigorik/em-synchrony) |
@@ -39,13 +39,13 @@
 | code-dot-org | code-dot-org | 865 | 508 | [link](https://github.com/code-dot-org/code-dot-org) |
 | ryanb | railscasts-episodes | 846 | 645 | [link](https://github.com/ryanb/railscasts-episodes) |
 | nasser | --- | 784 | 83 | [link](https://github.com/nasser/---) |
-| danielmahal | Rumpetroll | 767 | 163 | [link](https://github.com/danielmahal/Rumpetroll) |
+| danielmahal | Rumpetroll | 766 | 163 | [link](https://github.com/danielmahal/Rumpetroll) |
 | igrigorik | vimgolf | 736 | 64 | [link](https://github.com/igrigorik/vimgolf) |
 | hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
 | huacnlee | quora | 690 | 197 | [link](https://github.com/huacnlee/quora) |
 | salimt | Courses- | 688 | 701 | [link](https://github.com/salimt/Courses-) |
 | devise-security | devise-security | 632 | 155 | [link](https://github.com/devise-security/devise-security) |
-| fluent | fluentd-ui | 605 | 76 | [link](https://github.com/fluent/fluentd-ui) |
+| fluent | fluentd-ui | 604 | 76 | [link](https://github.com/fluent/fluentd-ui) |
 | forward3d | uphold | 592 | 16 | [link](https://github.com/forward3d/uphold) |
 | mislav | instagram | 586 | 100 | [link](https://github.com/mislav/instagram) |
 | thundercomb | poetrydb | 577 | 41 | [link](https://github.com/thundercomb/poetrydb) |
@@ -84,7 +84,7 @@
 | unageanu | jiji2 | 246 | 57 | [link](https://github.com/unageanu/jiji2) |
 | mitre | heimdall2 | 235 | 69 | [link](https://github.com/mitre/heimdall2) |
 | janko | tus-ruby-server | 235 | 27 | [link](https://github.com/janko/tus-ruby-server) |
-| ExamProCo | AWS-Examples | 232 | 214 | [link](https://github.com/ExamProCo/AWS-Examples) |
+| ExamProCo | AWS-Examples | 233 | 214 | [link](https://github.com/ExamProCo/AWS-Examples) |
 | assaf | rack-oauth2-server | 229 | 75 | [link](https://github.com/assaf/rack-oauth2-server) |
 | StephenOTT | GitHub-Time-Tracking | 220 | 19 | [link](https://github.com/StephenOTT/GitHub-Time-Tracking) |
 | jeffkreeftmeijer | navvy | 215 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -103,7 +103,7 @@
 | hummingbird-me | kitsu-server | 184 | 140 | [link](https://github.com/hummingbird-me/kitsu-server) |
 | fluent | fluent-plugin-mongo | 175 | 59 | [link](https://github.com/fluent/fluent-plugin-mongo) |
 | tdiary | tdiary-core | 173 | 69 | [link](https://github.com/tdiary/tdiary-core) |
-| elastic | apm-agent-ruby | 172 | 137 | [link](https://github.com/elastic/apm-agent-ruby) |
+| elastic | apm-agent-ruby | 172 | 138 | [link](https://github.com/elastic/apm-agent-ruby) |
 | derailed | rackamole | 171 | 8 | [link](https://github.com/derailed/rackamole) |
 | Section9Labs | Cartero | 171 | 32 | [link](https://github.com/Section9Labs/Cartero) |
 | tyage | slack-patron | 170 | 41 | [link](https://github.com/tyage/slack-patron) |
@@ -138,13 +138,13 @@
 | chrisroberts | dav4rack | 115 | 54 | [link](https://github.com/chrisroberts/dav4rack) |
 | shirasagi | shirasagi | 112 | 76 | [link](https://github.com/shirasagi/shirasagi) |
 | chloerei | campo1 | 111 | 10 | [link](https://github.com/chloerei/campo1) |
-| open-telemetry | opentelemetry-ruby-contrib | 110 | 208 | [link](https://github.com/open-telemetry/opentelemetry-ruby-contrib) |
+| open-telemetry | opentelemetry-ruby-contrib | 110 | 209 | [link](https://github.com/open-telemetry/opentelemetry-ruby-contrib) |
 | skinandbones | rack-gridfs | 110 | 34 | [link](https://github.com/skinandbones/rack-gridfs) |
 | lizarb | lizarb | 109 | 18 | [link](https://github.com/lizarb/lizarb) |
 | bagwanpankaj | humongous | 109 | 17 | [link](https://github.com/bagwanpankaj/humongous) |
 | bjorntrondsen | rails_exception_handler | 108 | 26 | [link](https://github.com/bjorntrondsen/rails_exception_handler) |
 | openstreetmap | chef | 105 | 76 | [link](https://github.com/openstreetmap/chef) |
-| umdio | umdio | 104 | 24 | [link](https://github.com/umdio/umdio) |
+| umdio | umdio | 105 | 24 | [link](https://github.com/umdio/umdio) |
 | flyingmachine | whoops | 103 | 16 | [link](https://github.com/flyingmachine/whoops) |
 | mongomapper | plucky | 102 | 45 | [link](https://github.com/mongomapper/plucky) |
 | palavatv | palava-machine | 102 | 15 | [link](https://github.com/palavatv/palava-machine) |
@@ -155,9 +155,9 @@
 | bmuller | ankusa | 100 | 21 | [link](https://github.com/bmuller/ankusa) |
 
 ---
-* **Last scrape:** 2025-08-29T09:14:02.052Z
+* **Last scrape:** 2025-08-31T01:48:23.569Z
 * **Total pages scraped:** 172
-* **Repos found:** 5069
-* **Repos filtered out (< 100 stars):** 4920
-* **Total possible repositories:** 22215
-* **Percent processed:** 22.8%
+* **Repos found:** 5052
+* **Repos filtered out (< 100 stars):** 4903
+* **Total possible repositories:** 22219
+* **Percent processed:** 22.7%
