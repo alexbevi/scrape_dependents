@@ -5,8 +5,8 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | doctrine-extensions | DoctrineExtensions | 4093 | 1254 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2825 | 226 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2524 | 929 | [link](https://github.com/api-platform/core) |
+| doctrine | data-fixtures | 2824 | 226 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2524 | 928 | [link](https://github.com/api-platform/core) |
 | illacceptanything | illacceptanything | 1971 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1886 | 518 | [link](https://github.com/dustin10/VichUploaderBundle) |
 | FriendsOfSymfony | FOSElasticaBundle | 1259 | 788 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
@@ -20,10 +20,10 @@
 | sonata-project | SonataMediaBundle | 454 | 489 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 440 | 88 | [link](https://github.com/sonata-project/exporter) |
 | lexik | LexikTranslationBundle | 430 | 270 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| BabDev | Pagerfanta | 406 | 169 | [link](https://github.com/BabDev/Pagerfanta) |
+| BabDev | Pagerfanta | 407 | 169 | [link](https://github.com/BabDev/Pagerfanta) |
 | doctrine | DoctrineModule | 398 | 265 | [link](https://github.com/doctrine/DoctrineModule) |
 | doctrine | DoctrineMongoDBBundle | 384 | 232 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
-| thephpleague | flysystem-bundle | 377 | 73 | [link](https://github.com/thephpleague/flysystem-bundle) |
+| thephpleague | flysystem-bundle | 378 | 73 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | sonata-project | SonataUserBundle | 347 | 480 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 328 | 28 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 319 | 74 | [link](https://github.com/theofidry/AliceDataFixtures) |
@@ -40,9 +40,9 @@
 | zfcampus | zf-apigility-doctrine | 105 | 49 | [link](https://github.com/zfcampus/zf-apigility-doctrine) |
 
 ---
-* **Last scrape:** 2025-08-29T09:11:14.696Z
+* **Last scrape:** 2025-08-31T01:44:09.827Z
 * **Total pages scraped:** 33
-* **Repos found:** 965
-* **Repos filtered out (< 100 stars):** 931
+* **Repos found:** 961
+* **Repos filtered out (< 100 stars):** 927
 * **Total possible repositories:** 3078
-* **Percent processed:** 31.4%
+* **Percent processed:** 31.2%
