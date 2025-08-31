@@ -4,18 +4,18 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| antiwork | gumroad | 6898 | 1219 | [link](https://github.com/antiwork/gumroad) |
+| antiwork | gumroad | 6908 | 1221 | [link](https://github.com/antiwork/gumroad) |
 | alexreisner | geocoder | 6411 | 1205 | [link](https://github.com/alexreisner/geocoder) |
 | ryanb | cancan | 6251 | 779 | [link](https://github.com/ryanb/cancan) |
 | activerecord-hackery | ransack | 5809 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
 | mislav | will_paginate | 5703 | 866 | [link](https://github.com/mislav/will_paginate) |
 | drapergem | draper | 5261 | 527 | [link](https://github.com/drapergem/draper) |
 | ankane | ahoy | 4367 | 380 | [link](https://github.com/ankane/ahoy) |
-| errbit | errbit | 4268 | 996 | [link](https://github.com/errbit/errbit) |
+| errbit | errbit | 4269 | 996 | [link](https://github.com/errbit/errbit) |
 | lynndylanhurley | devise_token_auth | 3572 | 1139 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
-| public-activity | public_activity | 2987 | 335 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2988 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2702 | 766 | [link](https://github.com/synthetichealth/synthea) |
+| synthetichealth | synthea | 2704 | 766 | [link](https://github.com/synthetichealth/synthea) |
 | scambra | devise_invitable | 2675 | 552 | [link](https://github.com/scambra/devise_invitable) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2439 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2328 | 622 | [link](https://github.com/locomotivecms/engine) |
@@ -138,9 +138,9 @@
 | erickreutz | mixturefm | 100 | 28 | [link](https://github.com/erickreutz/mixturefm) |
 
 ---
-* **Last scrape:** 2025-08-29T14:58:42.036Z
+* **Last scrape:** 2025-08-31T01:45:25.188Z
 * **Total pages scraped:** 136
-* **Repos found:** 4026
-* **Repos filtered out (< 100 stars):** 3894
+* **Repos found:** 4015
+* **Repos filtered out (< 100 stars):** 3883
 * **Total possible repositories:** 23645
 * **Percent processed:** 17.0%
