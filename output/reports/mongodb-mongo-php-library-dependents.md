@@ -4,20 +4,20 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| Seldaek | monolog | 21314 | 1907 | [link](https://github.com/Seldaek/monolog) |
-| thephpleague | flysystem | 13500 | 842 | [link](https://github.com/thephpleague/flysystem) |
+| Seldaek | monolog | 21316 | 1907 | [link](https://github.com/Seldaek/monolog) |
+| thephpleague | flysystem | 13499 | 842 | [link](https://github.com/thephpleague/flysystem) |
 | TechEmpower | FrameworkBenchmarks | 7942 | 2008 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
 | doctrine | cache | 7898 | 216 | [link](https://github.com/doctrine/cache) |
 | mongodb | laravel-mongodb | 7085 | 1450 | [link](https://github.com/mongodb/laravel-mongodb) |
 | agentejo | cockpit | 5406 | 514 | [link](https://github.com/agentejo/cockpit) |
 | bshaffer | oauth2-server-php | 3274 | 950 | [link](https://github.com/bshaffer/oauth2-server-php) |
 | KnpLabs | Gaufrette | 2470 | 355 | [link](https://github.com/KnpLabs/Gaufrette) |
-| PHPSocialNetwork | phpfastcache | 2392 | 452 | [link](https://github.com/PHPSocialNetwork/phpfastcache) |
+| PHPSocialNetwork | phpfastcache | 2393 | 452 | [link](https://github.com/PHPSocialNetwork/phpfastcache) |
 | php-enqueue | enqueue-dev | 2202 | 442 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1971 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1816 | 369 | [link](https://github.com/lxerxa/actionview) |
 | perftools | xhgui | 1669 | 346 | [link](https://github.com/perftools/xhgui) |
-| dreamfactorysoftware | dreamfactory | 1656 | 334 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1659 | 334 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | ipfspics | ipfspics-server | 1120 | 110 | [link](https://github.com/ipfspics/ipfspics-server) |
 | doctrine | mongodb-odm | 1098 | 513 | [link](https://github.com/doctrine/mongodb-odm) |
 | laynefyc | xhgui-branch | 901 | 126 | [link](https://github.com/laynefyc/xhgui-branch) |
@@ -31,7 +31,7 @@
 | jdorn | php-reports | 482 | 236 | [link](https://github.com/jdorn/php-reports) |
 | c9s | maghead | 480 | 25 | [link](https://github.com/c9s/maghead) |
 | alcaeus | mongo-php-adapter | 467 | 131 | [link](https://github.com/alcaeus/mongo-php-adapter) |
-| xibosignage | xibo-cms | 431 | 306 | [link](https://github.com/xibosignage/xibo-cms) |
+| xibosignage | xibo-cms | 432 | 306 | [link](https://github.com/xibosignage/xibo-cms) |
 | lexik | LexikTranslationBundle | 430 | 270 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | riclolsen | json-scada | 357 | 95 | [link](https://github.com/riclolsen/json-scada) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
@@ -46,7 +46,7 @@
 | flowjs | flow-php-server | 247 | 42 | [link](https://github.com/flowjs/flow-php-server) |
 | leroy-merlin-br | mongolid-laravel | 240 | 38 | [link](https://github.com/leroy-merlin-br/mongolid-laravel) |
 | mjphaynes | php-resque | 222 | 48 | [link](https://github.com/mjphaynes/php-resque) |
-| aternosorg | mclogs | 219 | 42 | [link](https://github.com/aternosorg/mclogs) |
+| aternosorg | mclogs | 220 | 42 | [link](https://github.com/aternosorg/mclogs) |
 | pi-engine | pi | 218 | 117 | [link](https://github.com/pi-engine/pi) |
 | Minds | engine | 202 | 92 | [link](https://github.com/Minds/engine) |
 | doctrine | KeyValueStore | 200 | 55 | [link](https://github.com/doctrine/KeyValueStore) |
@@ -76,9 +76,9 @@
 | Nebo15 | gandalf.api | 101 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
 
 ---
-* **Last scrape:** 2025-08-29T15:18:40.376Z
-* **Total pages scraped:** 313
-* **Repos found:** 9307
-* **Repos filtered out (< 100 stars):** 9237
-* **Total possible repositories:** 22118
-* **Percent processed:** 42.1%
+* **Last scrape:** 2025-08-31T01:50:35.264Z
+* **Total pages scraped:** 312
+* **Repos found:** 9276
+* **Repos filtered out (< 100 stars):** 9206
+* **Total possible repositories:** 22119
+* **Percent processed:** 41.9%
