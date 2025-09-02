@@ -179,8 +179,13 @@ async function getHtml(url, attempt = 1) {
       }
     });
     if (res.statusCode >= 500 || res.statusCode === 429) {
-      if (attempt >= 4) throw new Error(`GET ${url} failed (${res.statusCode})`);
-      const backoff = Math.min(2 ** attempt, 10) * 1000;
+      const maxAttempts = 5; // be more resilient to transient server errors like 504
+      if (attempt >= maxAttempts) throw new Error(`GET ${url} failed (${res.statusCode})`);
+      // Use a longer backoff for 504 Gateway Timeout
+      let backoffSeconds = Math.min(2 ** attempt, 30);
+      if (res.statusCode === 504) backoffSeconds = Math.min(backoffSeconds * 3, 90);
+      const backoff = backoffSeconds * 1000;
+      console.warn(`GET ${url} returned ${res.statusCode}, retrying after ${backoffSeconds}s (attempt ${attempt}/${maxAttempts})`);
       await sleep(backoff);
       return getHtml(url, attempt + 1);
     }
