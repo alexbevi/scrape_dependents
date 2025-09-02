@@ -72,8 +72,12 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
+          # Stash any local changes before pull --rebase
+          git stash push --include-untracked -m "pre-scrape-output" || true
           git fetch origin main
           git pull --rebase origin main
+          # Restore stashed changes
+          git stash pop --index || true
           git add $OUTPUT_DIR
           if git diff --cached --quiet; then
             echo "No changes to commit"
