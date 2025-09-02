@@ -76,6 +76,7 @@ jobs:
       contents: write
     uses: ./.github/workflows/dependents.yml
     strategy:
+      max-parallel: 5
       matrix: ${{fromJson(needs.generate-matrix.outputs.matrix)}}
     with:
       repo: ${{ matrix.repo }}
