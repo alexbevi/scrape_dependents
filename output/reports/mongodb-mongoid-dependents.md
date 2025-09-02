@@ -4,29 +4,29 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| antiwork | gumroad | 6908 | 1221 | [link](https://github.com/antiwork/gumroad) |
-| alexreisner | geocoder | 6411 | 1205 | [link](https://github.com/alexreisner/geocoder) |
+| antiwork | gumroad | 6921 | 1228 | [link](https://github.com/antiwork/gumroad) |
+| alexreisner | geocoder | 6411 | 1204 | [link](https://github.com/alexreisner/geocoder) |
 | ryanb | cancan | 6251 | 779 | [link](https://github.com/ryanb/cancan) |
-| activerecord-hackery | ransack | 5809 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
+| activerecord-hackery | ransack | 5808 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
 | mislav | will_paginate | 5703 | 866 | [link](https://github.com/mislav/will_paginate) |
 | drapergem | draper | 5261 | 527 | [link](https://github.com/drapergem/draper) |
-| ankane | ahoy | 4367 | 380 | [link](https://github.com/ankane/ahoy) |
-| errbit | errbit | 4269 | 996 | [link](https://github.com/errbit/errbit) |
-| lynndylanhurley | devise_token_auth | 3572 | 1139 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
+| ankane | ahoy | 4367 | 379 | [link](https://github.com/ankane/ahoy) |
+| errbit | errbit | 4269 | 997 | [link](https://github.com/errbit/errbit) |
+| lynndylanhurley | devise_token_auth | 3573 | 1139 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
 | public-activity | public_activity | 2988 | 335 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2704 | 766 | [link](https://github.com/synthetichealth/synthea) |
-| scambra | devise_invitable | 2675 | 552 | [link](https://github.com/scambra/devise_invitable) |
+| DatabaseCleaner | database_cleaner | 2953 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| synthetichealth | synthea | 2705 | 766 | [link](https://github.com/synthetichealth/synthea) |
+| scambra | devise_invitable | 2674 | 551 | [link](https://github.com/scambra/devise_invitable) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2439 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2328 | 622 | [link](https://github.com/locomotivecms/engine) |
 | galetahub | ckeditor | 2230 | 877 | [link](https://github.com/galetahub/ckeditor) |
-| NREL | api-umbrella | 2094 | 348 | [link](https://github.com/NREL/api-umbrella) |
+| NREL | api-umbrella | 2095 | 348 | [link](https://github.com/NREL/api-umbrella) |
 | karmi | retire | 1855 | 529 | [link](https://github.com/karmi/retire) |
 | ankane | lockbox | 1532 | 75 | [link](https://github.com/ankane/lockbox) |
 | tute | merit | 1532 | 198 | [link](https://github.com/tute/merit) |
 | gonzalo-bulnes | simple_token_authentication | 1511 | 238 | [link](https://github.com/gonzalo-bulnes/simple_token_authentication) |
 | kontena | kontena | 1463 | 127 | [link](https://github.com/kontena/kontena) |
-| bogdan | datagrid | 1095 | 117 | [link](https://github.com/bogdan/datagrid) |
+| bogdan | datagrid | 1096 | 116 | [link](https://github.com/bogdan/datagrid) |
 | radar | by_star | 1052 | 73 | [link](https://github.com/radar/by_star) |
 | rsl | stringex | 987 | 157 | [link](https://github.com/rsl/stringex) |
 | chloerei | writings | 941 | 311 | [link](https://github.com/chloerei/writings) |
@@ -35,7 +35,7 @@
 | ryanb | railscasts-episodes | 846 | 645 | [link](https://github.com/ryanb/railscasts-episodes) |
 | igrigorik | vimgolf | 736 | 64 | [link](https://github.com/igrigorik/vimgolf) |
 | huacnlee | quora | 690 | 197 | [link](https://github.com/huacnlee/quora) |
-| salimt | Courses- | 688 | 701 | [link](https://github.com/salimt/Courses-) |
+| salimt | Courses- | 690 | 702 | [link](https://github.com/salimt/Courses-) |
 | devise-security | devise-security | 632 | 155 | [link](https://github.com/devise-security/devise-security) |
 | tombh | peas | 598 | 29 | [link](https://github.com/tombh/peas) |
 | forward3d | uphold | 592 | 16 | [link](https://github.com/forward3d/uphold) |
@@ -90,13 +90,13 @@
 | wilkerlucio | mongoid_taggable | 194 | 73 | [link](https://github.com/wilkerlucio/mongoid_taggable) |
 | ruilisi | rails-pangu | 189 | 24 | [link](https://github.com/ruilisi/rails-pangu) |
 | sasha-id | rails4-bootstrap-devise-cancan-omniauth | 187 | 83 | [link](https://github.com/sasha-id/rails4-bootstrap-devise-cancan-omniauth) |
-| thetron | mongoid_token | 181 | 91 | [link](https://github.com/thetron/mongoid_token) |
+| thetron | mongoid_token | 181 | 90 | [link](https://github.com/thetron/mongoid_token) |
 | tdiary | tdiary-core | 173 | 69 | [link](https://github.com/tdiary/tdiary-core) |
 | Section9Labs | Cartero | 171 | 32 | [link](https://github.com/Section9Labs/Cartero) |
 | collectiveidea | delayed_job_mongoid | 169 | 120 | [link](https://github.com/collectiveidea/delayed_job_mongoid) |
 | propublica | sunlight-congress | 168 | 68 | [link](https://github.com/propublica/sunlight-congress) |
 | provideal | tabulatr | 159 | 14 | [link](https://github.com/provideal/tabulatr) |
-| stephskardal | rails_admin_import | 158 | 121 | [link](https://github.com/stephskardal/rails_admin_import) |
+| stephskardal | rails_admin_import | 158 | 120 | [link](https://github.com/stephskardal/rails_admin_import) |
 | goshacmd | sleek | 158 | 2 | [link](https://github.com/goshacmd/sleek) |
 | samesystem | graphql_rails | 154 | 11 | [link](https://github.com/samesystem/graphql_rails) |
 | versioneye | versioneye | 150 | 29 | [link](https://github.com/versioneye/versioneye) |
@@ -138,9 +138,9 @@
 | erickreutz | mixturefm | 100 | 28 | [link](https://github.com/erickreutz/mixturefm) |
 
 ---
-* **Last scrape:** 2025-08-31T01:45:25.188Z
+* **Last scrape:** 2025-09-02T16:59:22.296Z
 * **Total pages scraped:** 136
-* **Repos found:** 4015
-* **Repos filtered out (< 100 stars):** 3883
-* **Total possible repositories:** 23645
+* **Repos found:** 4013
+* **Repos filtered out (< 100 stars):** 3881
+* **Total possible repositories:** 23646
 * **Percent processed:** 17.0%
