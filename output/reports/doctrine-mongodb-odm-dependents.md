@@ -40,7 +40,7 @@
 | zfcampus | zf-apigility-doctrine | 105 | 49 | [link](https://github.com/zfcampus/zf-apigility-doctrine) |
 
 ---
-* **Last scrape:** 2025-09-02T09:11:48.729Z
+* **Last scrape:** 2025-09-02T09:38:16.444Z
 * **Total pages scraped:** 33
 * **Repos found:** 961
 * **Repos filtered out (< 100 stars):** 927
