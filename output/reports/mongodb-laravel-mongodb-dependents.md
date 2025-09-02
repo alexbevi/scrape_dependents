@@ -5,10 +5,10 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1971 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1816 | 369 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1659 | 334 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| lxerxa | actionview | 1817 | 369 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1658 | 334 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 482 | 265 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 481 | 265 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -19,9 +19,9 @@
 | Nebo15 | gandalf.api | 101 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
 
 ---
-* **Last scrape:** 2025-08-31T01:46:46.212Z
+* **Last scrape:** 2025-09-02T18:22:44.452Z
 * **Total pages scraped:** 103
-* **Repos found:** 3063
-* **Repos filtered out (< 100 stars):** 3050
-* **Total possible repositories:** 9335
+* **Repos found:** 3062
+* **Repos filtered out (< 100 stars):** 3049
+* **Total possible repositories:** 9336
 * **Percent processed:** 32.8%
