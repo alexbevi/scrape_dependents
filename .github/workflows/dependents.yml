@@ -72,44 +72,12 @@ jobs:
         run: |
           git config user.email "actions@github.com"
           git config user.name "github-actions[bot]"
-          # Ensure we have the latest remote branch and rebase to avoid push rejections
-          git fetch origin --prune
-          branch="${GITHUB_REF#refs/heads/}"
-          echo "Target branch: $branch"
-          git checkout "$branch" || true
-          echo "Attempting to pull/rebase origin/$branch"
-          # Stash any local changes (including untracked) so pull --rebase can proceed
-          prev_stash=$(git rev-parse --verify refs/stash 2>/dev/null || echo '')
-          git stash push --include-untracked -m "pre-scrape-output" || true
-          new_stash=$(git rev-parse --verify refs/stash 2>/dev/null || echo '')
-          STASHED=0
-          if [ "$new_stash" != "$prev_stash" ]; then STASHED=1; fi
-
-          if git pull --rebase origin "$branch"; then
-            echo "Successfully updated local branch from origin"
-          else
-            echo "Warning: failed to pull/rebase origin/$branch (possible conflicts). Skipping commit/push to avoid rejected pushes."
-            # Try to restore stash state then abort
-            if [ "$STASHED" -eq 1 ]; then git stash pop --index 2>/dev/null || true; fi
-            git rebase --abort 2>/dev/null || true
-            exit 0
-          fi
-
-          # Restore stashed changes, if any. If stash pop fails, avoid committing to prevent conflicts.
-          if [ "$STASHED" -eq 1 ]; then
-            if ! git stash pop --index; then
-              echo "Warning: stash pop failed (merge conflicts). Skipping commit/push to avoid corrupting the branch."
-              git rebase --abort 2>/dev/null || true
-              exit 0
-            fi
-          fi
-          # Add the output directory; force-add in case output is in .gitignore
-          echo "Forcing add of $OUTPUT_DIR (may be ignored by .gitignore)"
-          git add -f "$OUTPUT_DIR" || true
-          # If there are staged changes, commit and push; otherwise skip
+          git fetch origin main
+          git pull --rebase origin main
+          git add $OUTPUT_DIR
           if git diff --cached --quiet; then
             echo "No changes to commit"
-          else
-            git commit -m "Add dependents reports for ${{ inputs.repo }} (run ${{ github.run_id }})"
-            git push origin "$branch"
+            exit 0
           fi
+          git commit -m "Add dependents reports for ${{ inputs.repo }} (run ${{ github.run_id }})"
+          git push origin main
