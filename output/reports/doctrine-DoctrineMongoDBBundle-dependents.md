@@ -8,7 +8,7 @@
 | php-enqueue | enqueue-dev | 2202 | 442 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1971 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
 | FriendsOfSymfony | FOSElasticaBundle | 1260 | 788 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 865 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| Cocolabs-SAS | cocorico | 865 | 607 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 746 | 98 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 693 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 431 | 270 | [link](https://github.com/lexik/LexikTranslationBundle) |
@@ -23,7 +23,7 @@
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
 
 ---
-* **Last scrape:** 2025-09-02T09:11:39.628Z
+* **Last scrape:** 2025-09-02T18:25:44.170Z
 * **Total pages scraped:** 27
 * **Repos found:** 779
 * **Repos filtered out (< 100 stars):** 762
