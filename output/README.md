@@ -53,7 +53,7 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2025-09-02T18:19:53.077Z | 1383 | 41299 | 41268 | 5656794 | 0.7% |
+| Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2025-09-03T12:34:27.950Z | 6540 | 195207 | 195142 | 5656841 | 3.5% |
 | BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2025-09-02T17:57:46.824Z | 95 | 2814 | 2788 | 4295 | 65.5% |
 | doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2025-09-02T17:58:22.186Z | 33 | 961 | 927 | 3078 | 31.2% |
 | mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-09-03T09:41:15.636Z | 136 | 4013 | 3881 | 23646 | 17.0% |
