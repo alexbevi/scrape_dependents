@@ -4,23 +4,23 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| antiwork | gumroad | 6921 | 1228 | [link](https://github.com/antiwork/gumroad) |
+| antiwork | gumroad | 6925 | 1229 | [link](https://github.com/antiwork/gumroad) |
 | alexreisner | geocoder | 6411 | 1204 | [link](https://github.com/alexreisner/geocoder) |
 | ryanb | cancan | 6251 | 779 | [link](https://github.com/ryanb/cancan) |
 | activerecord-hackery | ransack | 5808 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
 | mislav | will_paginate | 5703 | 866 | [link](https://github.com/mislav/will_paginate) |
 | drapergem | draper | 5261 | 527 | [link](https://github.com/drapergem/draper) |
-| ankane | ahoy | 4367 | 379 | [link](https://github.com/ankane/ahoy) |
+| ankane | ahoy | 4369 | 379 | [link](https://github.com/ankane/ahoy) |
 | errbit | errbit | 4269 | 997 | [link](https://github.com/errbit/errbit) |
 | lynndylanhurley | devise_token_auth | 3573 | 1139 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
 | public-activity | public_activity | 2988 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2953 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2705 | 766 | [link](https://github.com/synthetichealth/synthea) |
+| synthetichealth | synthea | 2706 | 766 | [link](https://github.com/synthetichealth/synthea) |
 | scambra | devise_invitable | 2674 | 551 | [link](https://github.com/scambra/devise_invitable) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2439 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
-| locomotivecms | engine | 2328 | 622 | [link](https://github.com/locomotivecms/engine) |
+| locomotivecms | engine | 2329 | 622 | [link](https://github.com/locomotivecms/engine) |
 | galetahub | ckeditor | 2230 | 877 | [link](https://github.com/galetahub/ckeditor) |
-| NREL | api-umbrella | 2095 | 348 | [link](https://github.com/NREL/api-umbrella) |
+| NREL | api-umbrella | 2096 | 348 | [link](https://github.com/NREL/api-umbrella) |
 | karmi | retire | 1855 | 529 | [link](https://github.com/karmi/retire) |
 | ankane | lockbox | 1532 | 75 | [link](https://github.com/ankane/lockbox) |
 | tute | merit | 1532 | 198 | [link](https://github.com/tute/merit) |
@@ -75,7 +75,7 @@
 | RailsApps | rails3-subdomains | 269 | 47 | [link](https://github.com/RailsApps/rails3-subdomains) |
 | slack-ruby | slack-ruby-bot-server | 268 | 74 | [link](https://github.com/slack-ruby/slack-ruby-bot-server) |
 | y9v | carrierwave-base64 | 266 | 80 | [link](https://github.com/y9v/carrierwave-base64) |
-| theSteveMitchell | after_party | 256 | 50 | [link](https://github.com/theSteveMitchell/after_party) |
+| theSteveMitchell | after_party | 256 | 49 | [link](https://github.com/theSteveMitchell/after_party) |
 | bugsnag | bugsnag-ruby | 254 | 176 | [link](https://github.com/bugsnag/bugsnag-ruby) |
 | paulrayner | ddd_sample_app_ruby | 248 | 43 | [link](https://github.com/paulrayner/ddd_sample_app_ruby) |
 | diowa | icare | 248 | 142 | [link](https://github.com/diowa/icare) |
@@ -122,7 +122,7 @@
 | kristianmandrup | mongoid-geo | 119 | 14 | [link](https://github.com/kristianmandrup/mongoid-geo) |
 | DataDog | trace-examples | 116 | 74 | [link](https://github.com/DataDog/trace-examples) |
 | jwood | tenacity | 116 | 17 | [link](https://github.com/jwood/tenacity) |
-| chrisroberts | dav4rack | 115 | 54 | [link](https://github.com/chrisroberts/dav4rack) |
+| chrisroberts | dav4rack | 115 | 53 | [link](https://github.com/chrisroberts/dav4rack) |
 | thetron | mongoid-enum | 115 | 167 | [link](https://github.com/thetron/mongoid-enum) |
 | shirasagi | shirasagi | 112 | 76 | [link](https://github.com/shirasagi/shirasagi) |
 | jugyo | sunspot_mongoid | 112 | 60 | [link](https://github.com/jugyo/sunspot_mongoid) |
@@ -138,7 +138,7 @@
 | erickreutz | mixturefm | 100 | 28 | [link](https://github.com/erickreutz/mixturefm) |
 
 ---
-* **Last scrape:** 2025-09-02T16:59:22.296Z
+* **Last scrape:** 2025-09-03T09:41:15.636Z
 * **Total pages scraped:** 136
 * **Repos found:** 4013
 * **Repos filtered out (< 100 stars):** 3881
