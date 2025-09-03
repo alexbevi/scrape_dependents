@@ -34,7 +34,7 @@ Legend:
 | mongodb | [mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | 2025-09-02T19:06:35.535Z | 5127 | 148979 | 148493 | 398911 | 37.3% |
 | mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2025-09-02T16:59:04.549Z | 172 | 5056 | 4907 | 22226 | 22.7% |
 | mongodb | [mongo-rust-driver](reports/mongodb-mongo-rust-driver-dependents.md) | Rust | 2025-09-02T18:25:29.000Z | 165 | 4874 | 4803 | 10985 | 44.4% |
-| mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2025-09-02T17:19:08.315Z | 898 | 26875 | 26832 | 5703393 | 0.5% |
+| mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2025-09-03T15:13:53.341Z | 12651 | 378089 | 377969 | 5703458 | 6.6% |
 | twisted | [txmongo](reports/twisted-txmongo-dependents.md) | Python | 2025-09-02T18:11:47.931Z | 2 | 40 | 38 | 108 | 37.0% |
 
 ## Framework
