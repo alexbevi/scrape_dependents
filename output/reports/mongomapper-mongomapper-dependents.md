@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2989 | 335 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2990 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 785 | 83 | [link](https://github.com/nasser/---) |
+| nasser | --- | 786 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 358 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
@@ -25,7 +25,7 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-09-14T03:22:38.999Z
+* **Last scrape:** 2025-09-21T03:07:40.140Z
 * **Total pages scraped:** 18
 * **Repos found:** 473
 * **Repos filtered out (< 100 stars):** 454
