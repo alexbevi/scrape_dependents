@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1970 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1817 | 369 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1668 | 336 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1669 | 336 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 482 | 265 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 483 | 265 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -19,9 +19,9 @@
 | Nebo15 | gandalf.api | 101 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
 
 ---
-* **Last scrape:** 2025-09-21T03:36:34.198Z
+* **Last scrape:** 2025-09-28T04:04:12.152Z
 * **Total pages scraped:** 101
-* **Repos found:** 3006
-* **Repos filtered out (< 100 stars):** 2993
+* **Repos found:** 2996
+* **Repos filtered out (< 100 stars):** 2983
 * **Total possible repositories:** 9336
-* **Percent processed:** 32.2%
+* **Percent processed:** 32.1%
