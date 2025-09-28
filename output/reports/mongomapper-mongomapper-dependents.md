@@ -12,7 +12,7 @@
 | hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 358 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 297 | 110 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 297 | 111 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 39 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 215 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -25,9 +25,9 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-09-21T03:07:40.140Z
+* **Last scrape:** 2025-09-28T03:40:08.473Z
 * **Total pages scraped:** 18
-* **Repos found:** 473
-* **Repos filtered out (< 100 stars):** 454
-* **Total possible repositories:** 2789
+* **Repos found:** 475
+* **Repos filtered out (< 100 stars):** 456
+* **Total possible repositories:** 2791
 * **Percent processed:** 17.0%
