@@ -8,12 +8,12 @@
 | DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 786 | 83 | [link](https://github.com/nasser/---) |
+| nasser | --- | 786 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 358 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
+| omniauth | omniauth-identity | 362 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 297 | 111 | [link](https://github.com/0x000NULL/CSSR) |
-| stripe-archive | gaps | 285 | 39 | [link](https://github.com/stripe-archive/gaps) |
+| 0x000NULL | CSSR | 298 | 111 | [link](https://github.com/0x000NULL/CSSR) |
+| stripe-archive | gaps | 285 | 38 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 215 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
@@ -25,7 +25,7 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-09-28T03:40:08.473Z
+* **Last scrape:** 2025-10-05T03:29:31.314Z
 * **Total pages scraped:** 18
 * **Repos found:** 475
 * **Repos filtered out (< 100 stars):** 456
