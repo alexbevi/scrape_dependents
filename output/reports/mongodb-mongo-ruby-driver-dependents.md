@@ -4,65 +4,65 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| NixOS | nixpkgs | 21946 | 16871 | [link](https://github.com/NixOS/nixpkgs) |
-| postalserver | postal | 15944 | 1165 | [link](https://github.com/postalserver/postal) |
-| addyosmani | backbone-fundamentals | 9217 | 1389 | [link](https://github.com/addyosmani/backbone-fundamentals) |
-| antiwork | gumroad | 7111 | 1313 | [link](https://github.com/antiwork/gumroad) |
-| urbanadventurer | WhatWeb | 6105 | 964 | [link](https://github.com/urbanadventurer/WhatWeb) |
-| backup | backup | 4857 | 674 | [link](https://github.com/backup/backup) |
-| errbit | errbit | 4272 | 996 | [link](https://github.com/errbit/errbit) |
-| mongodb | mongoid | 3922 | 1384 | [link](https://github.com/mongodb/mongoid) |
-| flippercloud | flipper | 3856 | 430 | [link](https://github.com/flippercloud/flipper) |
-| inspec | inspec | 3005 | 685 | [link](https://github.com/inspec/inspec) |
-| public-activity | public_activity | 2990 | 335 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2954 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2761 | 776 | [link](https://github.com/synthetichealth/synthea) |
+| NixOS | nixpkgs | 22033 | 16946 | [link](https://github.com/NixOS/nixpkgs) |
+| postalserver | postal | 15959 | 1164 | [link](https://github.com/postalserver/postal) |
+| addyosmani | backbone-fundamentals | 9218 | 1389 | [link](https://github.com/addyosmani/backbone-fundamentals) |
+| antiwork | gumroad | 7177 | 1336 | [link](https://github.com/antiwork/gumroad) |
+| urbanadventurer | WhatWeb | 6127 | 963 | [link](https://github.com/urbanadventurer/WhatWeb) |
+| backup | backup | 4859 | 674 | [link](https://github.com/backup/backup) |
+| errbit | errbit | 4272 | 997 | [link](https://github.com/errbit/errbit) |
+| mongodb | mongoid | 3921 | 1383 | [link](https://github.com/mongodb/mongoid) |
+| flippercloud | flipper | 3861 | 430 | [link](https://github.com/flippercloud/flipper) |
+| inspec | inspec | 3008 | 684 | [link](https://github.com/inspec/inspec) |
+| public-activity | public_activity | 2991 | 335 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2955 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| synthetichealth | synthea | 2770 | 783 | [link](https://github.com/synthetichealth/synthea) |
 | ankane | the-ultimate-guide-to-ruby-timeouts | 2441 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2327 | 621 | [link](https://github.com/locomotivecms/engine) |
 | galetahub | ckeditor | 2231 | 878 | [link](https://github.com/galetahub/ckeditor) |
 | NREL | api-umbrella | 2108 | 350 | [link](https://github.com/NREL/api-umbrella) |
-| mrdoob | glsl-sandbox | 1637 | 274 | [link](https://github.com/mrdoob/glsl-sandbox) |
+| mrdoob | glsl-sandbox | 1637 | 275 | [link](https://github.com/mrdoob/glsl-sandbox) |
 | stripe-archive | mosql | 1621 | 223 | [link](https://github.com/stripe-archive/mosql) |
 | chriskite | anemone | 1612 | 322 | [link](https://github.com/chriskite/anemone) |
 | mongomapper | mongomapper | 1603 | 380 | [link](https://github.com/mongomapper/mongomapper) |
-| assaf | vanity | 1538 | 268 | [link](https://github.com/assaf/vanity) |
-| gonzalo-bulnes | simple_token_authentication | 1510 | 238 | [link](https://github.com/gonzalo-bulnes/simple_token_authentication) |
+| assaf | vanity | 1537 | 268 | [link](https://github.com/assaf/vanity) |
+| gonzalo-bulnes | simple_token_authentication | 1509 | 238 | [link](https://github.com/gonzalo-bulnes/simple_token_authentication) |
 | kontena | kontena | 1465 | 125 | [link](https://github.com/kontena/kontena) |
 | bobthecow | genghis | 1440 | 161 | [link](https://github.com/bobthecow/genghis) |
-| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
 | moneta-rb | moneta | 1118 | 87 | [link](https://github.com/moneta-rb/moneta) |
-| GoogleCloudPlatform | cloud-foundation-toolkit | 1050 | 480 | [link](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) |
+| GoogleCloudPlatform | cloud-foundation-toolkit | 1053 | 481 | [link](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit) |
 | igrigorik | em-synchrony | 1036 | 149 | [link](https://github.com/igrigorik/em-synchrony) |
 | crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| reidmorrison | semantic_logger | 901 | 135 | [link](https://github.com/reidmorrison/semantic_logger) |
+| reidmorrison | semantic_logger | 904 | 135 | [link](https://github.com/reidmorrison/semantic_logger) |
 | openshift | origin-server | 886 | 510 | [link](https://github.com/openshift/origin-server) |
-| code-dot-org | code-dot-org | 870 | 519 | [link](https://github.com/code-dot-org/code-dot-org) |
+| code-dot-org | code-dot-org | 871 | 521 | [link](https://github.com/code-dot-org/code-dot-org) |
 | ryanb | railscasts-episodes | 845 | 643 | [link](https://github.com/ryanb/railscasts-episodes) |
 | nasser | --- | 786 | 84 | [link](https://github.com/nasser/---) |
 | danielmahal | Rumpetroll | 765 | 163 | [link](https://github.com/danielmahal/Rumpetroll) |
-| igrigorik | vimgolf | 740 | 64 | [link](https://github.com/igrigorik/vimgolf) |
-| hotsh | rstat.us | 718 | 214 | [link](https://github.com/hotsh/rstat.us) |
-| salimt | Courses- | 693 | 703 | [link](https://github.com/salimt/Courses-) |
+| igrigorik | vimgolf | 741 | 64 | [link](https://github.com/igrigorik/vimgolf) |
+| hotsh | rstat.us | 718 | 213 | [link](https://github.com/hotsh/rstat.us) |
+| salimt | Courses- | 696 | 703 | [link](https://github.com/salimt/Courses-) |
 | huacnlee | quora | 690 | 196 | [link](https://github.com/huacnlee/quora) |
-| devise-security | devise-security | 632 | 155 | [link](https://github.com/devise-security/devise-security) |
-| fluent | fluentd-ui | 604 | 73 | [link](https://github.com/fluent/fluentd-ui) |
+| devise-security | devise-security | 631 | 155 | [link](https://github.com/devise-security/devise-security) |
+| fluent | fluentd-ui | 605 | 74 | [link](https://github.com/fluent/fluentd-ui) |
 | forward3d | uphold | 592 | 16 | [link](https://github.com/forward3d/uphold) |
-| mislav | instagram | 587 | 100 | [link](https://github.com/mislav/instagram) |
+| mislav | instagram | 584 | 100 | [link](https://github.com/mislav/instagram) |
 | thundercomb | poetrydb | 584 | 43 | [link](https://github.com/thundercomb/poetrydb) |
 | gousiosg | github-mirror | 566 | 106 | [link](https://github.com/gousiosg/github-mirror) |
 | ricodigo | shapado | 530 | 115 | [link](https://github.com/ricodigo/shapado) |
 | simukappu | activity_notification | 511 | 80 | [link](https://github.com/simukappu/activity_notification) |
 | CrossRef | pdfextract | 510 | 87 | [link](https://github.com/CrossRef/pdfextract) |
 | bkeepers | qu | 508 | 49 | [link](https://github.com/bkeepers/qu) |
-| exercism | website | 503 | 150 | [link](https://github.com/exercism/website) |
+| exercism | website | 505 | 152 | [link](https://github.com/exercism/website) |
 | addyosmani | backbone-boilerplates | 488 | 170 | [link](https://github.com/addyosmani/backbone-boilerplates) |
-| technoweenie | guillotine | 485 | 49 | [link](https://github.com/technoweenie/guillotine) |
-| cenit-io | cenit | 483 | 133 | [link](https://github.com/cenit-io/cenit) |
+| technoweenie | guillotine | 486 | 49 | [link](https://github.com/technoweenie/guillotine) |
+| cenit-io | cenit | 484 | 133 | [link](https://github.com/cenit-io/cenit) |
 | sunitparekh | data-anonymization | 465 | 100 | [link](https://github.com/sunitparekh/data-anonymization) |
 | derailed | mongo3 | 442 | 63 | [link](https://github.com/derailed/mongo3) |
 | BaseSecrete | rorvswild | 371 | 10 | [link](https://github.com/BaseSecrete/rorvswild) |
 | huacnlee | imax.im | 365 | 118 | [link](https://github.com/huacnlee/imax.im) |
-| omniauth | omniauth-identity | 362 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
+| omniauth | omniauth-identity | 361 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | tomatoes-app | tomatoes | 351 | 90 | [link](https://github.com/tomatoes-app/tomatoes) |
 | mrrooijen | mongoid-paperclip | 344 | 118 | [link](https://github.com/mrrooijen/mongoid-paperclip) |
 | Azure | kubernetes-hackfest | 333 | 538 | [link](https://github.com/Azure/kubernetes-hackfest) |
@@ -70,7 +70,7 @@
 | anlek | mongify | 316 | 82 | [link](https://github.com/anlek/mongify) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
 | jcrosby | cloudkit | 305 | 25 | [link](https://github.com/jcrosby/cloudkit) |
-| 0x000NULL | CSSR | 298 | 111 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 297 | 111 | [link](https://github.com/0x000NULL/CSSR) |
 | assembler | attachinary | 294 | 129 | [link](https://github.com/assembler/attachinary) |
 | chloerei | code_campo | 291 | 66 | [link](https://github.com/chloerei/code_campo) |
 | fortuity | rails3-mongoid-devise | 286 | 26 | [link](https://github.com/fortuity/rails3-mongoid-devise) |
@@ -79,12 +79,12 @@
 | stripe-contrib | pagerbot | 277 | 90 | [link](https://github.com/stripe-contrib/pagerbot) |
 | lelylan | rest-oauth2-server | 275 | 44 | [link](https://github.com/lelylan/rest-oauth2-server) |
 | chrismccord | labrador | 252 | 15 | [link](https://github.com/chrismccord/labrador) |
-| ExamProCo | AWS-Examples | 249 | 231 | [link](https://github.com/ExamProCo/AWS-Examples) |
+| ExamProCo | AWS-Examples | 251 | 233 | [link](https://github.com/ExamProCo/AWS-Examples) |
 | paulrayner | ddd_sample_app_ruby | 248 | 43 | [link](https://github.com/paulrayner/ddd_sample_app_ruby) |
 | unageanu | jiji2 | 247 | 56 | [link](https://github.com/unageanu/jiji2) |
 | diowa | icare | 247 | 142 | [link](https://github.com/diowa/icare) |
 | mitre | heimdall2 | 237 | 70 | [link](https://github.com/mitre/heimdall2) |
-| janko | tus-ruby-server | 235 | 27 | [link](https://github.com/janko/tus-ruby-server) |
+| janko | tus-ruby-server | 236 | 27 | [link](https://github.com/janko/tus-ruby-server) |
 | assaf | rack-oauth2-server | 229 | 75 | [link](https://github.com/assaf/rack-oauth2-server) |
 | StephenOTT | GitHub-Time-Tracking | 220 | 19 | [link](https://github.com/StephenOTT/GitHub-Time-Tracking) |
 | jeffkreeftmeijer | navvy | 215 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -93,7 +93,7 @@
 | demandforce | rack-oauth2-server | 207 | 44 | [link](https://github.com/demandforce/rack-oauth2-server) |
 | erwinjunker | regressor | 206 | 33 | [link](https://github.com/erwinjunker/regressor) |
 | sbellity | futon4mongo | 206 | 21 | [link](https://github.com/sbellity/futon4mongo) |
-| ruby-passkeys | devise-passkeys | 201 | 14 | [link](https://github.com/ruby-passkeys/devise-passkeys) |
+| ruby-passkeys | devise-passkeys | 203 | 14 | [link](https://github.com/ruby-passkeys/devise-passkeys) |
 | StephenOTT | GitHub-Analytics | 200 | 22 | [link](https://github.com/StephenOTT/GitHub-Analytics) |
 | saltstack-formulas | salt-formula | 196 | 418 | [link](https://github.com/saltstack-formulas/salt-formula) |
 | activeadmin | activeadmin-mongoid | 194 | 207 | [link](https://github.com/activeadmin/activeadmin-mongoid) |
@@ -109,7 +109,7 @@
 | tyage | slack-patron | 170 | 41 | [link](https://github.com/tyage/slack-patron) |
 | hacketyhack | hackety-hack.com | 167 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | testcontainers | testcontainers-ruby | 163 | 22 | [link](https://github.com/testcontainers/testcontainers-ruby) |
-| saltstack-formulas | nginx-formula | 162 | 418 | [link](https://github.com/saltstack-formulas/nginx-formula) |
+| saltstack-formulas | nginx-formula | 163 | 418 | [link](https://github.com/saltstack-formulas/nginx-formula) |
 | stephskardal | rails_admin_import | 158 | 120 | [link](https://github.com/stephskardal/rails_admin_import) |
 | stripe-archive | mongoriver | 154 | 31 | [link](https://github.com/stripe-archive/mongoriver) |
 | samesystem | graphql_rails | 154 | 11 | [link](https://github.com/samesystem/graphql_rails) |
@@ -128,24 +128,24 @@
 | elastic | logstash-contrib | 127 | 133 | [link](https://github.com/elastic/logstash-contrib) |
 | TEA-ebook | teabook-open-reader | 125 | 32 | [link](https://github.com/TEA-ebook/teabook-open-reader) |
 | mongoid | echo | 125 | 35 | [link](https://github.com/mongoid/echo) |
-| saltstack-formulas | template-formula | 123 | 86 | [link](https://github.com/saltstack-formulas/template-formula) |
+| saltstack-formulas | template-formula | 124 | 86 | [link](https://github.com/saltstack-formulas/template-formula) |
 | gdb | embedded-mongo | 123 | 10 | [link](https://github.com/gdb/embedded-mongo) |
 | ryanza | stateflow | 122 | 40 | [link](https://github.com/ryanza/stateflow) |
 | static-publisher | static-publisher | 121 | 14 | [link](https://github.com/static-publisher/static-publisher) |
-| rjurado01 | rails_jwt_auth | 121 | 25 | [link](https://github.com/rjurado01/rails_jwt_auth) |
+| rjurado01 | rails_jwt_auth | 121 | 26 | [link](https://github.com/rjurado01/rails_jwt_auth) |
 | DataDog | trace-examples | 116 | 75 | [link](https://github.com/DataDog/trace-examples) |
 | jwood | tenacity | 116 | 17 | [link](https://github.com/jwood/tenacity) |
 | chrisroberts | dav4rack | 115 | 53 | [link](https://github.com/chrisroberts/dav4rack) |
+| open-telemetry | opentelemetry-ruby-contrib | 114 | 215 | [link](https://github.com/open-telemetry/opentelemetry-ruby-contrib) |
 | lizarb | lizarb | 112 | 18 | [link](https://github.com/lizarb/lizarb) |
-| open-telemetry | opentelemetry-ruby-contrib | 112 | 213 | [link](https://github.com/open-telemetry/opentelemetry-ruby-contrib) |
 | shirasagi | shirasagi | 112 | 75 | [link](https://github.com/shirasagi/shirasagi) |
 | chloerei | campo1 | 111 | 10 | [link](https://github.com/chloerei/campo1) |
 | bagwanpankaj | humongous | 109 | 17 | [link](https://github.com/bagwanpankaj/humongous) |
 | skinandbones | rack-gridfs | 109 | 34 | [link](https://github.com/skinandbones/rack-gridfs) |
 | bjorntrondsen | rails_exception_handler | 108 | 27 | [link](https://github.com/bjorntrondsen/rails_exception_handler) |
-| openstreetmap | chef | 106 | 77 | [link](https://github.com/openstreetmap/chef) |
+| openstreetmap | chef | 106 | 78 | [link](https://github.com/openstreetmap/chef) |
 | umdio | umdio | 106 | 24 | [link](https://github.com/umdio/umdio) |
-| public-accountability | littlesis-rails | 104 | 14 | [link](https://github.com/public-accountability/littlesis-rails) |
+| public-accountability | littlesis-rails | 105 | 14 | [link](https://github.com/public-accountability/littlesis-rails) |
 | flyingmachine | whoops | 103 | 16 | [link](https://github.com/flyingmachine/whoops) |
 | mongomapper | plucky | 102 | 45 | [link](https://github.com/mongomapper/plucky) |
 | palavatv | palava-machine | 102 | 15 | [link](https://github.com/palavatv/palava-machine) |
@@ -155,9 +155,9 @@
 | bmuller | ankusa | 100 | 21 | [link](https://github.com/bmuller/ankusa) |
 
 ---
-* **Last scrape:** 2025-10-05T01:47:29.235Z
-* **Total pages scraped:** 172
-* **Repos found:** 5079
-* **Repos filtered out (< 100 stars):** 4930
-* **Total possible repositories:** 22331
-* **Percent processed:** 22.7%
+* **Last scrape:** 2025-10-12T01:42:54.227Z
+* **Total pages scraped:** 173
+* **Repos found:** 5086
+* **Repos filtered out (< 100 stars):** 4937
+* **Total possible repositories:** 22350
+* **Percent processed:** 22.8%
