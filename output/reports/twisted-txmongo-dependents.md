@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| Scille | umongo | 449 | 68 | [link](https://github.com/Scille/umongo) |
-| medialab | hyphe | 358 | 64 | [link](https://github.com/medialab/hyphe) |
+| Scille | umongo | 450 | 68 | [link](https://github.com/Scille/umongo) |
+| medialab | hyphe | 360 | 64 | [link](https://github.com/medialab/hyphe) |
 
 ---
-* **Last scrape:** 2025-10-05T03:34:20.043Z
+* **Last scrape:** 2025-10-19T04:11:17.568Z
 * **Total pages scraped:** 2
 * **Repos found:** 40
 * **Repos filtered out (< 100 stars):** 38
