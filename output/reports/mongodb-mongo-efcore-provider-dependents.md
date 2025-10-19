@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| AlphaYu | adnc | 1468 | 391 | [link](https://github.com/AlphaYu/adnc) |
+| AlphaYu | adnc | 1470 | 391 | [link](https://github.com/AlphaYu/adnc) |
 | thisisnabi | Notify | 162 | 46 | [link](https://github.com/thisisnabi/Notify) |
 
 ---
-* **Last scrape:** 2025-10-12T03:51:44.995Z
+* **Last scrape:** 2025-10-19T04:19:27.640Z
 * **Total pages scraped:** 29
-* **Repos found:** 852
-* **Repos filtered out (< 100 stars):** 850
-* **Total possible repositories:** 1186
-* **Percent processed:** 71.8%
+* **Repos found:** 850
+* **Repos filtered out (< 100 stars):** 848
+* **Total possible repositories:** 1187
+* **Percent processed:** 71.6%
