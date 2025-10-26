@@ -9,25 +9,25 @@
 | maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 786 | 84 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 718 | 213 | [link](https://github.com/hotsh/rstat.us) |
+| hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 361 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
-| opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 298 | 110 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 304 | 237 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 297 | 110 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 38 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 167 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | bratta | fikus | 134 | 22 | [link](https://github.com/bratta/fikus) |
-| jnunemaker | joint | 127 | 30 | [link](https://github.com/jnunemaker/joint) |
+| jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
 | jwood | tenacity | 116 | 17 | [link](https://github.com/jwood/tenacity) |
 | dcrec1 | acts_as_solr_reloaded | 102 | 29 | [link](https://github.com/dcrec1/acts_as_solr_reloaded) |
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-10-19T03:58:23.363Z
+* **Last scrape:** 2025-10-26T04:05:55.226Z
 * **Total pages scraped:** 18
-* **Repos found:** 476
-* **Repos filtered out (< 100 stars):** 457
-* **Total possible repositories:** 2793
-* **Percent processed:** 17.0%
+* **Repos found:** 479
+* **Repos filtered out (< 100 stars):** 460
+* **Total possible repositories:** 2796
+* **Percent processed:** 17.1%
