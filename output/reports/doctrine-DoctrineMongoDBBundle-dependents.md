@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2533 | 934 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2534 | 935 | [link](https://github.com/api-platform/core) |
 | php-enqueue | enqueue-dev | 2204 | 440 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1966 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
-| FriendsOfSymfony | FOSElasticaBundle | 1260 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1259 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 867 | 607 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 756 | 103 | [link](https://github.com/zenstruck/foundry) |
+| zenstruck | foundry | 756 | 104 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 698 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 431 | 270 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 28 | [link](https://github.com/Elao/PhpEnums) |
@@ -23,9 +23,9 @@
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
 
 ---
-* **Last scrape:** 2025-10-19T04:20:03.122Z
+* **Last scrape:** 2025-10-26T04:28:38.801Z
 * **Total pages scraped:** 26
-* **Repos found:** 763
-* **Repos filtered out (< 100 stars):** 746
-* **Total possible repositories:** 2476
-* **Percent processed:** 30.8%
+* **Repos found:** 761
+* **Repos filtered out (< 100 stars):** 744
+* **Total possible repositories:** 2477
+* **Percent processed:** 30.7%
