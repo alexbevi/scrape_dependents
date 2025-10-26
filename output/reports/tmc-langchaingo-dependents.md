@@ -4,61 +4,61 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mudler | LocalAI | 35905 | 2845 | [link](https://github.com/mudler/LocalAI) |
-| Wox-launcher | Wox | 26220 | 2421 | [link](https://github.com/Wox-launcher/Wox) |
-| dapr | dapr | 25193 | 2012 | [link](https://github.com/dapr/dapr) |
-| googleapis | genai-toolbox | 10990 | 908 | [link](https://github.com/googleapis/genai-toolbox) |
-| ag-ui-protocol | ag-ui | 9012 | 829 | [link](https://github.com/ag-ui-protocol/ag-ui) |
-| redpanda-data | connect | 8473 | 897 | [link](https://github.com/redpanda-data/connect) |
-| chaitin | PandaWiki | 6548 | 595 | [link](https://github.com/chaitin/PandaWiki) |
-| cloudquery | cloudquery | 6239 | 541 | [link](https://github.com/cloudquery/cloudquery) |
-| nilsherzig | LLocalSearch | 5950 | 374 | [link](https://github.com/nilsherzig/LLocalSearch) |
-| testcontainers | testcontainers-go | 4412 | 581 | [link](https://github.com/testcontainers/testcontainers-go) |
-| golang | example | 2879 | 975 | [link](https://github.com/golang/example) |
-| vearch | vearch | 2231 | 350 | [link](https://github.com/vearch/vearch) |
-| matrixorigin | matrixone | 1856 | 285 | [link](https://github.com/matrixorigin/matrixone) |
-| eliben | code-for-blog | 1669 | 742 | [link](https://github.com/eliben/code-for-blog) |
-| kagent-dev | kagent | 1653 | 291 | [link](https://github.com/kagent-dev/kagent) |
-| openmeterio | openmeter | 1633 | 122 | [link](https://github.com/openmeterio/openmeter) |
-| icereed | paperless-gpt | 1491 | 79 | [link](https://github.com/icereed/paperless-gpt) |
-| zhimaAi | chatwiki | 1311 | 204 | [link](https://github.com/zhimaAi/chatwiki) |
-| mudler | LocalAGI | 1249 | 182 | [link](https://github.com/mudler/LocalAGI) |
-| vxcontrol | pentagi | 731 | 121 | [link](https://github.com/vxcontrol/pentagi) |
-| alibaba | loongsuite-go-agent | 715 | 90 | [link](https://github.com/alibaba/loongsuite-go-agent) |
-| yincongcyincong | MuseBot | 669 | 99 | [link](https://github.com/yincongcyincong/MuseBot) |
-| docker | compose-for-agents | 659 | 257 | [link](https://github.com/docker/compose-for-agents) |
-| oriondesign2015 | SetupOrion | 627 | 246 | [link](https://github.com/oriondesign2015/SetupOrion) |
-| 0x4D31 | galah | 598 | 58 | [link](https://github.com/0x4D31/galah) |
-| dapr | components-contrib | 582 | 541 | [link](https://github.com/dapr/components-contrib) |
-| ConduitIO | conduit | 561 | 55 | [link](https://github.com/ConduitIO/conduit) |
+| mudler | LocalAI | 36022 | 2859 | [link](https://github.com/mudler/LocalAI) |
+| Wox-launcher | Wox | 26260 | 2425 | [link](https://github.com/Wox-launcher/Wox) |
+| dapr | dapr | 25208 | 2013 | [link](https://github.com/dapr/dapr) |
+| googleapis | genai-toolbox | 11076 | 925 | [link](https://github.com/googleapis/genai-toolbox) |
+| ag-ui-protocol | ag-ui | 9169 | 842 | [link](https://github.com/ag-ui-protocol/ag-ui) |
+| redpanda-data | connect | 8481 | 897 | [link](https://github.com/redpanda-data/connect) |
+| chaitin | PandaWiki | 6715 | 613 | [link](https://github.com/chaitin/PandaWiki) |
+| cloudquery | cloudquery | 6244 | 540 | [link](https://github.com/cloudquery/cloudquery) |
+| nilsherzig | LLocalSearch | 5953 | 373 | [link](https://github.com/nilsherzig/LLocalSearch) |
+| testcontainers | testcontainers-go | 4429 | 584 | [link](https://github.com/testcontainers/testcontainers-go) |
+| golang | example | 2882 | 975 | [link](https://github.com/golang/example) |
+| vearch | vearch | 2234 | 350 | [link](https://github.com/vearch/vearch) |
+| matrixorigin | matrixone | 1857 | 285 | [link](https://github.com/matrixorigin/matrixone) |
+| kagent-dev | kagent | 1703 | 303 | [link](https://github.com/kagent-dev/kagent) |
+| eliben | code-for-blog | 1672 | 742 | [link](https://github.com/eliben/code-for-blog) |
+| openmeterio | openmeter | 1641 | 124 | [link](https://github.com/openmeterio/openmeter) |
+| icereed | paperless-gpt | 1515 | 80 | [link](https://github.com/icereed/paperless-gpt) |
+| zhimaAi | chatwiki | 1329 | 205 | [link](https://github.com/zhimaAi/chatwiki) |
+| mudler | LocalAGI | 1266 | 186 | [link](https://github.com/mudler/LocalAGI) |
+| yincongcyincong | MuseBot | 824 | 108 | [link](https://github.com/yincongcyincong/MuseBot) |
+| vxcontrol | pentagi | 744 | 125 | [link](https://github.com/vxcontrol/pentagi) |
+| alibaba | loongsuite-go-agent | 722 | 91 | [link](https://github.com/alibaba/loongsuite-go-agent) |
+| docker | compose-for-agents | 672 | 266 | [link](https://github.com/docker/compose-for-agents) |
+| oriondesign2015 | SetupOrion | 636 | 247 | [link](https://github.com/oriondesign2015/SetupOrion) |
+| 0x4D31 | galah | 603 | 58 | [link](https://github.com/0x4D31/galah) |
+| dapr | components-contrib | 584 | 542 | [link](https://github.com/dapr/components-contrib) |
+| ConduitIO | conduit | 562 | 55 | [link](https://github.com/ConduitIO/conduit) |
 | swuecho | chat | 558 | 94 | [link](https://github.com/swuecho/chat) |
-| onexstack | onex | 549 | 100 | [link](https://github.com/onexstack/onex) |
+| onexstack | onex | 553 | 101 | [link](https://github.com/onexstack/onex) |
 | helixml | helix | 521 | 58 | [link](https://github.com/helixml/helix) |
-| Azure | azure-dev | 478 | 255 | [link](https://github.com/Azure/azure-dev) |
+| Azure | azure-dev | 480 | 259 | [link](https://github.com/Azure/azure-dev) |
+| compozy | compozy | 395 | 7 | [link](https://github.com/compozy/compozy) |
 | IceBearAI | LLM-And-More | 386 | 60 | [link](https://github.com/IceBearAI/LLM-And-More) |
-| dapr | cli | 341 | 210 | [link](https://github.com/dapr/cli) |
-| compozy | compozy | 321 | 7 | [link](https://github.com/compozy/compozy) |
+| dapr | cli | 341 | 209 | [link](https://github.com/dapr/cli) |
 | wesql | wescale | 309 | 13 | [link](https://github.com/wesql/wescale) |
-| apache | dubbo-go-samples | 273 | 215 | [link](https://github.com/apache/dubbo-go-samples) |
+| apache | dubbo-go-samples | 272 | 216 | [link](https://github.com/apache/dubbo-go-samples) |
+| humanlayer | agentcontrolplane | 237 | 40 | [link](https://github.com/humanlayer/agentcontrolplane) |
 | toheart | goanalysis | 234 | 29 | [link](https://github.com/toheart/goanalysis) |
-| humanlayer | agentcontrolplane | 230 | 40 | [link](https://github.com/humanlayer/agentcontrolplane) |
-| Southclaws | storyden | 226 | 23 | [link](https://github.com/Southclaws/storyden) |
-| tmc | langgraphgo | 196 | 27 | [link](https://github.com/tmc/langgraphgo) |
+| Southclaws | storyden | 231 | 24 | [link](https://github.com/Southclaws/storyden) |
+| tmc | langgraphgo | 198 | 27 | [link](https://github.com/tmc/langgraphgo) |
+| trpc-group | trpc-a2a-go | 197 | 36 | [link](https://github.com/trpc-group/trpc-a2a-go) |
 | apache | dubbo-kubernetes | 195 | 85 | [link](https://github.com/apache/dubbo-kubernetes) |
-| trpc-group | trpc-a2a-go | 193 | 35 | [link](https://github.com/trpc-group/trpc-a2a-go) |
-| mattermost | mattermost-plugin-agents | 187 | 59 | [link](https://github.com/mattermost/mattermost-plugin-agents) |
+| mattermost | mattermost-plugin-agents | 188 | 59 | [link](https://github.com/mattermost/mattermost-plugin-agents) |
 | cottongeeks | podscript | 171 | 8 | [link](https://github.com/cottongeeks/podscript) |
 | aaronchen2k | deeptest | 153 | 67 | [link](https://github.com/aaronchen2k/deeptest) |
-| firebase-studio | templates | 149 | 59 | [link](https://github.com/firebase-studio/templates) |
-| tuannvm | slack-mcp-client | 132 | 25 | [link](https://github.com/tuannvm/slack-mcp-client) |
+| firebase-studio | templates | 150 | 61 | [link](https://github.com/firebase-studio/templates) |
+| tuannvm | slack-mcp-client | 137 | 27 | [link](https://github.com/tuannvm/slack-mcp-client) |
 | rezible | rezible | 126 | 4 | [link](https://github.com/rezible/rezible) |
 | infinilabs | coco-server | 116 | 28 | [link](https://github.com/infinilabs/coco-server) |
 | tmc | righthand | 112 | 12 | [link](https://github.com/tmc/righthand) |
 
 ---
-* **Last scrape:** 2025-10-19T03:39:04.680Z
+* **Last scrape:** 2025-10-26T03:36:59.141Z
 * **Total pages scraped:** 41
-* **Repos found:** 1175
-* **Repos filtered out (< 100 stars):** 1125
-* **Total possible repositories:** 1557
-* **Percent processed:** 75.5%
+* **Repos found:** 1179
+* **Repos filtered out (< 100 stars):** 1129
+* **Total possible repositories:** 1565
+* **Percent processed:** 75.3%
