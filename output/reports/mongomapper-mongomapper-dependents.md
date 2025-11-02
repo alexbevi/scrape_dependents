@@ -5,14 +5,14 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2992 | 335 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2956 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| DatabaseCleaner | database_cleaner | 2957 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 913 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 786 | 84 | [link](https://github.com/nasser/---) |
+| crowdint | rails3-jquery-autocomplete | 909 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| nasser | --- | 786 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 361 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 304 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 297 | 110 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 298 | 110 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 38 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -25,9 +25,9 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 
 ---
-* **Last scrape:** 2025-10-26T04:05:55.226Z
+* **Last scrape:** 2025-11-02T03:09:48.827Z
 * **Total pages scraped:** 18
-* **Repos found:** 479
-* **Repos filtered out (< 100 stars):** 460
+* **Repos found:** 478
+* **Repos filtered out (< 100 stars):** 459
 * **Total possible repositories:** 2796
 * **Percent processed:** 17.1%
