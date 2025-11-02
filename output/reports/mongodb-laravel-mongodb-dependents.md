@@ -4,24 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1966 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1816 | 370 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1692 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
-| doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 485 | 269 | [link](https://github.com/jikan-me/jikan-rest) |
-| jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
-| GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
-| laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
-| danielme85 | laravel-log-to-db | 138 | 29 | [link](https://github.com/danielme85/laravel-log-to-db) |
-| purocean | laravel-template | 124 | 35 | [link](https://github.com/purocean/laravel-template) |
-| mostafamaklad | laravel-permission-mongodb | 113 | 80 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
+| illacceptanything | illacceptanything | 1963 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
+| jikan-me | jikan-rest | 486 | 270 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | laravel-api-starter | 104 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
-| Nebo15 | gandalf.api | 101 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
 
 ---
-* **Last scrape:** 2025-10-26T04:25:35.916Z
-* **Total pages scraped:** 98
-* **Repos found:** 2922
-* **Repos filtered out (< 100 stars):** 2909
+* **Last scrape:** 2025-11-02T03:34:42.866Z
+* **Total pages scraped:** 73
+* **Repos found:** 2176
+* **Repos filtered out (< 100 stars):** 2173
 * **Total possible repositories:** 9338
-* **Percent processed:** 31.3%
+* **Percent processed:** 23.3%
