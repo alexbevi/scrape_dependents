@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mongodb-developer | GenAI-Showcase | 4118 | 694 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
+| mongodb-developer | GenAI-Showcase | 4125 | 696 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
 
 ---
-* **Last scrape:** 2025-10-26T04:29:00.789Z
+* **Last scrape:** 2025-11-02T03:37:02.067Z
 * **Total pages scraped:** 2
 * **Repos found:** 37
 * **Repos filtered out (< 100 stars):** 36
