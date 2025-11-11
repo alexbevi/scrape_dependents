@@ -83,7 +83,7 @@ jobs:
       language: ${{ matrix.language }}
       type: ${{ matrix.type }}
       package_id: ${{ matrix.package_id }}
-      min-stars: 100
+      min-stars: 25
       max-pages: 0
       output-dir: output
 
