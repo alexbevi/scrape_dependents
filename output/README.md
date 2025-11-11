@@ -41,7 +41,7 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-11-11T17:54:40.366Z | 187 | 5570 | 5564 | 12513 | 44.5% |
+| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2025-11-11T18:24:09.479Z | 187 | 5570 | 5549 | 12513 | 44.5% |
 | doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2025-11-09T03:48:02.319Z | 26 | 756 | 739 | 2479 | 30.5% |
 | mongodb | [django-mongodb-backend](reports/mongodb-django-mongodb-backend-dependents.md) | Python | 2025-11-09T03:47:46.921Z | 2 | 37 | 36 | 50 | 74.0% |
 | mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2025-11-09T03:42:35.017Z | 97 | 2884 | 2871 | 9339 | 30.9% |
