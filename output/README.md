@@ -56,7 +56,7 @@ Legend:
 | Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2025-11-09T04:35:00.347Z | 2442 | 72836 | 72788 | 5661055 | 1.3% |
 | BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2025-11-09T03:29:56.114Z | 92 | 2729 | 2702 | 4345 | 62.8% |
 | doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2025-11-09T03:30:37.050Z | 32 | 934 | 900 | 3088 | 30.2% |
-| mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-11-09T01:48:27.219Z | 133 | 3946 | 3813 | 23671 | 16.7% |
+| mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2025-11-11T18:27:45.409Z | 133 | 3946 | 3634 | 23672 | 16.7% |
 | MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2025-11-09T02:44:28.205Z | 360 | 10680 | 10560 | 27333 | 39.1% |
 | mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2025-11-09T03:28:36.355Z | 18 | 478 | 459 | 2796 | 17.1% |
 
