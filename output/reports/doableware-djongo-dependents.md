@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OWASP | crAPI | 1366 | 477 | [link](https://github.com/OWASP/crAPI) |
-| damklis | DataEngineeringProject | 1348 | 269 | [link](https://github.com/damklis/DataEngineeringProject) |
+| OWASP | crAPI | 1368 | 478 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1349 | 269 | [link](https://github.com/damklis/DataEngineeringProject) |
 | sajib1066 | django-event-management | 177 | 90 | [link](https://github.com/sajib1066/django-event-management) |
 | cyantarek | django-microservices | 166 | 90 | [link](https://github.com/cyantarek/django-microservices) |
 | frg-fossee | eSim-Cloud | 161 | 231 | [link](https://github.com/frg-fossee/eSim-Cloud) |
@@ -27,9 +27,9 @@
 | hexo-theme-Acrylic | Hexo-Theme-Acrylic-Server | 25 | 7 | [link](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Server) |
 
 ---
-* **Last scrape:** 2025-11-11T18:24:09.479Z
-* **Total pages scraped:** 187
-* **Repos found:** 5570
-* **Repos filtered out (< 25 stars):** 5549
+* **Last scrape:** 2025-11-16T04:28:56.600Z
+* **Total pages scraped:** 186
+* **Repos found:** 5544
+* **Repos filtered out (< 25 stars):** 5523
 * **Total possible repositories:** 12513
-* **Percent processed:** 44.5%
+* **Percent processed:** 44.3%
