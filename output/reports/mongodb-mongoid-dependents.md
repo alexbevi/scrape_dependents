@@ -4,38 +4,38 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| heartcombo | devise | 24283 | 5528 | [link](https://github.com/heartcombo/devise) |
-| antiwork | gumroad | 7536 | 1415 | [link](https://github.com/antiwork/gumroad) |
-| alexreisner | geocoder | 6435 | 1209 | [link](https://github.com/alexreisner/geocoder) |
+| heartcombo | devise | 24287 | 5528 | [link](https://github.com/heartcombo/devise) |
+| antiwork | gumroad | 7558 | 1427 | [link](https://github.com/antiwork/gumroad) |
+| alexreisner | geocoder | 6434 | 1210 | [link](https://github.com/alexreisner/geocoder) |
 | ryanb | cancan | 6245 | 780 | [link](https://github.com/ryanb/cancan) |
-| activerecord-hackery | ransack | 5839 | 830 | [link](https://github.com/activerecord-hackery/ransack) |
-| mislav | will_paginate | 5705 | 866 | [link](https://github.com/mislav/will_paginate) |
-| drapergem | draper | 5265 | 528 | [link](https://github.com/drapergem/draper) |
-| ankane | ahoy | 4402 | 380 | [link](https://github.com/ankane/ahoy) |
-| errbit | errbit | 4273 | 994 | [link](https://github.com/errbit/errbit) |
+| activerecord-hackery | ransack | 5837 | 829 | [link](https://github.com/activerecord-hackery/ransack) |
+| mislav | will_paginate | 5704 | 866 | [link](https://github.com/mislav/will_paginate) |
+| drapergem | draper | 5265 | 527 | [link](https://github.com/drapergem/draper) |
+| ankane | ahoy | 4405 | 380 | [link](https://github.com/ankane/ahoy) |
+| errbit | errbit | 4272 | 994 | [link](https://github.com/errbit/errbit) |
 | lynndylanhurley | devise_token_auth | 3574 | 1138 | [link](https://github.com/lynndylanhurley/devise_token_auth) |
-| public-activity | public_activity | 2993 | 335 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2959 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| synthetichealth | synthea | 2814 | 796 | [link](https://github.com/synthetichealth/synthea) |
+| public-activity | public_activity | 2992 | 335 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2960 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| synthetichealth | synthea | 2818 | 798 | [link](https://github.com/synthetichealth/synthea) |
 | scambra | devise_invitable | 2677 | 547 | [link](https://github.com/scambra/devise_invitable) |
-| ankane | the-ultimate-guide-to-ruby-timeouts | 2445 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
+| ankane | the-ultimate-guide-to-ruby-timeouts | 2466 | 98 | [link](https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts) |
 | locomotivecms | engine | 2328 | 621 | [link](https://github.com/locomotivecms/engine) |
-| galetahub | ckeditor | 2232 | 877 | [link](https://github.com/galetahub/ckeditor) |
-| NREL | api-umbrella | 2119 | 353 | [link](https://github.com/NREL/api-umbrella) |
+| galetahub | ckeditor | 2231 | 877 | [link](https://github.com/galetahub/ckeditor) |
+| NREL | api-umbrella | 2121 | 355 | [link](https://github.com/NREL/api-umbrella) |
 | karmi | retire | 1854 | 528 | [link](https://github.com/karmi/retire) |
-| ankane | lockbox | 1550 | 76 | [link](https://github.com/ankane/lockbox) |
+| ankane | lockbox | 1552 | 76 | [link](https://github.com/ankane/lockbox) |
 | tute | merit | 1533 | 197 | [link](https://github.com/tute/merit) |
 | gonzalo-bulnes | simple_token_authentication | 1510 | 239 | [link](https://github.com/gonzalo-bulnes/simple_token_authentication) |
 | kontena | kontena | 1463 | 125 | [link](https://github.com/kontena/kontena) |
-| bogdan | datagrid | 1100 | 115 | [link](https://github.com/bogdan/datagrid) |
+| bogdan | datagrid | 1101 | 115 | [link](https://github.com/bogdan/datagrid) |
 | radar | by_star | 1051 | 73 | [link](https://github.com/radar/by_star) |
 | rsl | stringex | 988 | 157 | [link](https://github.com/rsl/stringex) |
 | chloerei | writings | 941 | 309 | [link](https://github.com/chloerei/writings) |
-| crowdint | rails3-jquery-autocomplete | 908 | 364 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| crowdint | rails3-jquery-autocomplete | 908 | 363 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | openshift | origin-server | 885 | 510 | [link](https://github.com/openshift/origin-server) |
 | ryanb | railscasts-episodes | 844 | 642 | [link](https://github.com/ryanb/railscasts-episodes) |
 | igrigorik | vimgolf | 748 | 64 | [link](https://github.com/igrigorik/vimgolf) |
-| salimt | Courses- | 697 | 703 | [link](https://github.com/salimt/Courses-) |
+| salimt | Courses- | 697 | 702 | [link](https://github.com/salimt/Courses-) |
 | huacnlee | quora | 690 | 196 | [link](https://github.com/huacnlee/quora) |
 | devise-security | devise-security | 633 | 156 | [link](https://github.com/devise-security/devise-security) |
 | tombh | peas | 598 | 29 | [link](https://github.com/tombh/peas) |
@@ -47,7 +47,7 @@
 | mongoid | mongoid-rspec | 497 | 176 | [link](https://github.com/mongoid/mongoid-rspec) |
 | mongoid | mongoid-slug | 491 | 164 | [link](https://github.com/mongoid/mongoid-slug) |
 | addyosmani | backbone-boilerplates | 488 | 170 | [link](https://github.com/addyosmani/backbone-boilerplates) |
-| cenit-io | cenit | 486 | 133 | [link](https://github.com/cenit-io/cenit) |
+| cenit-io | cenit | 487 | 133 | [link](https://github.com/cenit-io/cenit) |
 | reidmorrison | symmetric-encryption | 476 | 91 | [link](https://github.com/reidmorrison/symmetric-encryption) |
 | mdeering | attribute_normalizer | 475 | 52 | [link](https://github.com/mdeering/attribute_normalizer) |
 | lwe | simple_enum | 416 | 60 | [link](https://github.com/lwe/simple_enum) |
@@ -79,7 +79,7 @@
 | theSteveMitchell | after_party | 258 | 48 | [link](https://github.com/theSteveMitchell/after_party) |
 | bugsnag | bugsnag-ruby | 254 | 177 | [link](https://github.com/bugsnag/bugsnag-ruby) |
 | diowa | icare | 250 | 142 | [link](https://github.com/diowa/icare) |
-| unageanu | jiji2 | 248 | 56 | [link](https://github.com/unageanu/jiji2) |
+| unageanu | jiji2 | 249 | 56 | [link](https://github.com/unageanu/jiji2) |
 | paulrayner | ddd_sample_app_ruby | 247 | 43 | [link](https://github.com/paulrayner/ddd_sample_app_ruby) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -215,18 +215,17 @@
 | MongoHQ | authful | 50 | 3 | [link](https://github.com/MongoHQ/authful) |
 | sunlightlabs | scout | 50 | 27 | [link](https://github.com/sunlightlabs/scout) |
 | NREL | OpenStudio-server | 50 | 25 | [link](https://github.com/NREL/OpenStudio-server) |
-| waterjump | volca-share | 50 | 6 | [link](https://github.com/waterjump/volca-share) |
 | ebeigarts | database_flusher | 50 | 1 | [link](https://github.com/ebeigarts/database_flusher) |
 | joscas | base_app | 49 | 17 | [link](https://github.com/joscas/base_app) |
 | cvincent | elite-command | 49 | 6 | [link](https://github.com/cvincent/elite-command) |
 | jffjs | mongoid_auto_inc | 49 | 43 | [link](https://github.com/jffjs/mongoid_auto_inc) |
 | brighton36 | CoinPost | 49 | 26 | [link](https://github.com/brighton36/CoinPost) |
 | tsuwatch | nazrin | 48 | 16 | [link](https://github.com/tsuwatch/nazrin) |
+| alphagov | publisher | 48 | 42 | [link](https://github.com/alphagov/publisher) |
 | testerhome | testerhome | 48 | 19 | [link](https://github.com/testerhome/testerhome) |
 | jhu-ep-coursera | fullstack-course3-module1-zips | 48 | 90 | [link](https://github.com/jhu-ep-coursera/fullstack-course3-module1-zips) |
 | mgolovnia | mongoid_commentable | 48 | 26 | [link](https://github.com/mgolovnia/mongoid_commentable) |
 | mrbrutti | Cartero | 48 | 45 | [link](https://github.com/mrbrutti/Cartero) |
-| alphagov | publisher | 47 | 42 | [link](https://github.com/alphagov/publisher) |
 | sporkd | mongoid-metastamp | 47 | 12 | [link](https://github.com/sporkd/mongoid-metastamp) |
 | ticktricktrack | mongoid_tree | 46 | 2 | [link](https://github.com/ticktricktrack/mongoid_tree) |
 | sonots | haikanko | 46 | 5 | [link](https://github.com/sonots/haikanko) |
@@ -275,11 +274,11 @@
 | RyuPiT | SharePla | 34 | 3 | [link](https://github.com/RyuPiT/SharePla) |
 | nviennot | mongoid_lazy_migration | 34 | 7 | [link](https://github.com/nviennot/mongoid_lazy_migration) |
 | withassociates | slices | 34 | 16 | [link](https://github.com/withassociates/slices) |
+| hoangsonww | Task-Manager-ReactNative | 33 | 16 | [link](https://github.com/hoangsonww/Task-Manager-ReactNative) |
 | cartoque | cartoque | 33 | 13 | [link](https://github.com/cartoque/cartoque) |
 | tombh | dharma-api | 33 | 8 | [link](https://github.com/tombh/dharma-api) |
 | bowsersenior | workflow_on_mongoid | 33 | 17 | [link](https://github.com/bowsersenior/workflow_on_mongoid) |
 | brocoders | jwt_authentication | 33 | 11 | [link](https://github.com/brocoders/jwt_authentication) |
-| hoangsonww | Task-Manager-ReactNative | 32 | 16 | [link](https://github.com/hoangsonww/Task-Manager-ReactNative) |
 | saks | mongoid_acts_as_tree | 32 | 16 | [link](https://github.com/saks/mongoid_acts_as_tree) |
 | dblock | slack-market | 32 | 16 | [link](https://github.com/dblock/slack-market) |
 | hhba | mapa76 | 31 | 8 | [link](https://github.com/hhba/mapa76) |
@@ -318,9 +317,9 @@
 | aaw | mongoid_collection_snapshot | 25 | 8 | [link](https://github.com/aaw/mongoid_collection_snapshot) |
 
 ---
-* **Last scrape:** 2025-11-11T18:27:45.409Z
+* **Last scrape:** 2025-11-16T01:52:34.126Z
 * **Total pages scraped:** 133
-* **Repos found:** 3946
-* **Repos filtered out (< 25 stars):** 3634
-* **Total possible repositories:** 23672
-* **Percent processed:** 16.7%
+* **Repos found:** 3937
+* **Repos filtered out (< 25 stars):** 3626
+* **Total possible repositories:** 23673
+* **Percent processed:** 16.6%
