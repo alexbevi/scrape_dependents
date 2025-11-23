@@ -4,18 +4,18 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2992 | 335 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2991 | 335 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2960 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 363 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 786 | 85 | [link](https://github.com/nasser/---) |
+| nasser | --- | 788 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 361 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 300 | 110 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 301 | 110 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 38 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
-| risuiowa | rails-jquery-autocomplete | 211 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
+| risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 167 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | bratta | fikus | 134 | 22 | [link](https://github.com/bratta/fikus) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2025-11-16T04:06:37.296Z
+* **Last scrape:** 2025-11-23T03:39:31.036Z
 * **Total pages scraped:** 18
-* **Repos found:** 477
-* **Repos filtered out (< 25 stars):** 422
+* **Repos found:** 476
+* **Repos filtered out (< 25 stars):** 421
 * **Total possible repositories:** 2796
-* **Percent processed:** 17.1%
+* **Percent processed:** 17.0%
