@@ -4,20 +4,20 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2537 | 940 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2207 | 439 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2540 | 941 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2209 | 440 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1962 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
-| FriendsOfSymfony | FOSElasticaBundle | 1260 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1261 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 867 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 758 | 107 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 698 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 432 | 267 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| markitosgv | JWTRefreshTokenBundle | 699 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| lexik | LexikTranslationBundle | 433 | 267 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 324 | 75 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 34 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 195 | 74 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
-| liip | LiipTestFixturesBundle | 175 | 45 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 176 | 45 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
@@ -40,12 +40,12 @@
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
 | SpiriitLabs | form-filter-bundle | 32 | 16 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
-| automagistre | automagistre | 29 | 8 | [link](https://github.com/automagistre/automagistre) |
+| automagistre | automagistre | 29 | 7 | [link](https://github.com/automagistre/automagistre) |
 | guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2025-11-16T04:50:45.574Z
+* **Last scrape:** 2025-11-23T04:21:00.973Z
 * **Total pages scraped:** 26
 * **Repos found:** 755
 * **Repos filtered out (< 25 stars):** 716
