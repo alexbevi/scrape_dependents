@@ -4,62 +4,62 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| appsmithorg | appsmith | 38489 | 4368 | [link](https://github.com/appsmithorg/appsmith) |
-| eugenp | tutorials | 37300 | 54007 | [link](https://github.com/eugenp/tutorials) |
-| spring-projects | spring-ai | 7232 | 2059 | [link](https://github.com/spring-projects/spring-ai) |
-| openblocks-dev | openblocks | 6163 | 397 | [link](https://github.com/openblocks-dev/openblocks) |
-| zq2599 | blog_demos | 4735 | 1908 | [link](https://github.com/zq2599/blog_demos) |
+| appsmithorg | appsmith | 38533 | 4374 | [link](https://github.com/appsmithorg/appsmith) |
+| eugenp | tutorials | 37307 | 53994 | [link](https://github.com/eugenp/tutorials) |
+| spring-projects | spring-ai | 7282 | 2076 | [link](https://github.com/spring-projects/spring-ai) |
+| openblocks-dev | openblocks | 6164 | 398 | [link](https://github.com/openblocks-dev/openblocks) |
+| zq2599 | blog_demos | 4735 | 1906 | [link](https://github.com/zq2599/blog_demos) |
 | 981011512 | -- | 4647 | 2259 | [link](https://github.com/981011512/--) |
-| alibaba | fastjson2 | 4200 | 538 | [link](https://github.com/alibaba/fastjson2) |
-| dromara | hmily | 4195 | 1404 | [link](https://github.com/dromara/hmily) |
-| javamelody | javamelody | 3030 | 754 | [link](https://github.com/javamelody/javamelody) |
+| alibaba | fastjson2 | 4205 | 539 | [link](https://github.com/alibaba/fastjson2) |
+| dromara | hmily | 4205 | 1404 | [link](https://github.com/dromara/hmily) |
+| javamelody | javamelody | 3031 | 753 | [link](https://github.com/javamelody/javamelody) |
+| spring-projects | spring-batch | 2893 | 2459 | [link](https://github.com/spring-projects/spring-batch) |
 | liuyangming | ByteTCC | 2893 | 910 | [link](https://github.com/liuyangming/ByteTCC) |
-| spring-projects | spring-batch | 2887 | 2460 | [link](https://github.com/spring-projects/spring-batch) |
 | spring-attic | spring-native | 2714 | 346 | [link](https://github.com/spring-attic/spring-native) |
-| cloudtogo | pageplug | 1926 | 330 | [link](https://github.com/cloudtogo/pageplug) |
+| cloudtogo | pageplug | 1943 | 332 | [link](https://github.com/cloudtogo/pageplug) |
 | dromara | raincat | 1911 | 657 | [link](https://github.com/dromara/raincat) |
-| jammy928 | CoinExchange_CryptoExchange_Java | 1618 | 1270 | [link](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) |
-| wfh45678 | radar | 1569 | 502 | [link](https://github.com/wfh45678/radar) |
+| jammy928 | CoinExchange_CryptoExchange_Java | 1629 | 1271 | [link](https://github.com/jammy928/CoinExchange_CryptoExchange_Java) |
+| wfh45678 | radar | 1571 | 502 | [link](https://github.com/wfh45678/radar) |
 | dromara | myth | 1486 | 594 | [link](https://github.com/dromara/myth) |
+| lowcoder-org | lowcoder | 1437 | 286 | [link](https://github.com/lowcoder-org/lowcoder) |
 | kaaproject | kaa | 1432 | 469 | [link](https://github.com/kaaproject/kaa) |
-| lowcoder-org | lowcoder | 1425 | 286 | [link](https://github.com/lowcoder-org/lowcoder) |
-| OWASP | SecurityShepherd | 1411 | 491 | [link](https://github.com/OWASP/SecurityShepherd) |
+| OWASP | SecurityShepherd | 1413 | 492 | [link](https://github.com/OWASP/SecurityShepherd) |
 | spring-attic | spring-data-book | 1380 | 1132 | [link](https://github.com/spring-attic/spring-data-book) |
 | hantsy | spring-reactive-sample | 1361 | 463 | [link](https://github.com/hantsy/spring-reactive-sample) |
 | superhj1987 | pragmatic-java-engineer | 1344 | 235 | [link](https://github.com/superhj1987/pragmatic-java-engineer) |
-| WebJournal | journaldev | 1334 | 1953 | [link](https://github.com/WebJournal/journaldev) |
+| WebJournal | journaldev | 1332 | 1952 | [link](https://github.com/WebJournal/journaldev) |
 | dubboclub | dubbokeeper | 1281 | 681 | [link](https://github.com/dubboclub/dubbokeeper) |
-| VideoData | DY-Data | 1267 | 370 | [link](https://github.com/VideoData/DY-Data) |
-| SonarSource | sonar-java | 1186 | 705 | [link](https://github.com/SonarSource/sonar-java) |
-| sagframe | sagacity-sqltoy | 1145 | 189 | [link](https://github.com/sagframe/sagacity-sqltoy) |
+| VideoData | DY-Data | 1271 | 370 | [link](https://github.com/VideoData/DY-Data) |
+| SonarSource | sonar-java | 1186 | 707 | [link](https://github.com/SonarSource/sonar-java) |
+| sagframe | sagacity-sqltoy | 1146 | 189 | [link](https://github.com/sagframe/sagacity-sqltoy) |
 | sofastack | sofa-tracer | 1128 | 383 | [link](https://github.com/sofastack/sofa-tracer) |
 | Zephery | newblog | 1101 | 342 | [link](https://github.com/Zephery/newblog) |
 | kolorobot | spring-mvc-quickstart-archetype | 1044 | 471 | [link](https://github.com/kolorobot/spring-mvc-quickstart-archetype) |
-| spring-projects | spring-modulith | 1029 | 174 | [link](https://github.com/spring-projects/spring-modulith) |
-| spring-projects | spring-data-rest | 942 | 563 | [link](https://github.com/spring-projects/spring-data-rest) |
-| spring-projects | spring-tools | 930 | 220 | [link](https://github.com/spring-projects/spring-tools) |
+| spring-projects | spring-modulith | 1030 | 176 | [link](https://github.com/spring-projects/spring-modulith) |
+| spring-projects | spring-data-rest | 943 | 563 | [link](https://github.com/spring-projects/spring-data-rest) |
+| spring-projects | spring-tools | 931 | 219 | [link](https://github.com/spring-projects/spring-tools) |
 | PlaytikaOSS | testcontainers-spring-boot | 872 | 244 | [link](https://github.com/PlaytikaOSS/testcontainers-spring-boot) |
-| CloudWise-OpenSource | FlyFish | 870 | 193 | [link](https://github.com/CloudWise-OpenSource/FlyFish) |
+| CloudWise-OpenSource | FlyFish | 871 | 192 | [link](https://github.com/CloudWise-OpenSource/FlyFish) |
 | lyj8330328 | leyou | 636 | 438 | [link](https://github.com/lyj8330328/leyou) |
-| KouShenhai | KCloud-Platform-IoT | 621 | 147 | [link](https://github.com/KouShenhai/KCloud-Platform-IoT) |
-| tapdata | tapdata | 613 | 125 | [link](https://github.com/tapdata/tapdata) |
-| pnoker | iot-dc3 | 611 | 204 | [link](https://github.com/pnoker/iot-dc3) |
-| exchange-server | CoinExchange | 578 | 316 | [link](https://github.com/exchange-server/CoinExchange) |
+| KouShenhai | KCloud-Platform-IoT | 622 | 148 | [link](https://github.com/KouShenhai/KCloud-Platform-IoT) |
+| tapdata | tapdata | 614 | 125 | [link](https://github.com/tapdata/tapdata) |
+| pnoker | iot-dc3 | 612 | 203 | [link](https://github.com/pnoker/iot-dc3) |
+| exchange-server | CoinExchange | 582 | 318 | [link](https://github.com/exchange-server/CoinExchange) |
 | minbox-projects | api-boot | 544 | 150 | [link](https://github.com/minbox-projects/api-boot) |
-| fakemongo | fongo | 526 | 157 | [link](https://github.com/fakemongo/fongo) |
+| fakemongo | fongo | 526 | 156 | [link](https://github.com/fakemongo/fongo) |
 | mongobee | mongobee | 504 | 168 | [link](https://github.com/mongobee/mongobee) |
 | heibaiying | spring-samples-for-all | 478 | 247 | [link](https://github.com/heibaiying/spring-samples-for-all) |
 | flamingock | flamingock-java | 475 | 65 | [link](https://github.com/flamingock/flamingock-java) |
 | dianping | camel | 453 | 172 | [link](https://github.com/dianping/camel) |
-| spring-ai-alibaba | JManus | 419 | 107 | [link](https://github.com/spring-ai-alibaba/JManus) |
-| fuzui | StudentInfo | 410 | 111 | [link](https://github.com/fuzui/StudentInfo) |
+| spring-ai-alibaba | JManus | 446 | 119 | [link](https://github.com/spring-ai-alibaba/JManus) |
+| fuzui | StudentInfo | 411 | 111 | [link](https://github.com/fuzui/StudentInfo) |
 | leonindy | camel | 408 | 114 | [link](https://github.com/leonindy/camel) |
 | lordofthejars | nosql-unit | 384 | 121 | [link](https://github.com/lordofthejars/nosql-unit) |
 | yuanmabiji | spring-boot-2.1.0.RELEASE | 361 | 121 | [link](https://github.com/yuanmabiji/spring-boot-2.1.0.RELEASE) |
 | idugalic | micro-ecommerce | 354 | 189 | [link](https://github.com/idugalic/micro-ecommerce) |
-| gravitee-io | gravitee-api-management | 345 | 90 | [link](https://github.com/gravitee-io/gravitee-api-management) |
+| gravitee-io | gravitee-api-management | 347 | 92 | [link](https://github.com/gravitee-io/gravitee-api-management) |
 | SequoiaDB | SequoiaDB_OLD | 333 | 123 | [link](https://github.com/SequoiaDB/SequoiaDB_OLD) |
-| shiyindaxiaojie | eden-architect | 321 | 81 | [link](https://github.com/shiyindaxiaojie/eden-architect) |
+| shiyindaxiaojie | eden-architect | 322 | 81 | [link](https://github.com/shiyindaxiaojie/eden-architect) |
 | paulcwarren | spring-content | 293 | 73 | [link](https://github.com/paulcwarren/spring-content) |
 | turkraft | springfilter | 265 | 36 | [link](https://github.com/turkraft/springfilter) |
 | vmware-archive | springsource-cloudfoundry-samples | 260 | 180 | [link](https://github.com/vmware-archive/springsource-cloudfoundry-samples) |
@@ -72,8 +72,8 @@
 | Kurento | kurento-java | 200 | 128 | [link](https://github.com/Kurento/kurento-java) |
 | huangkangyuan | xcEdu | 197 | 81 | [link](https://github.com/huangkangyuan/xcEdu) |
 | xiangxik | castle-platform | 196 | 123 | [link](https://github.com/xiangxik/castle-platform) |
-| moonbig | Exchange | 193 | 93 | [link](https://github.com/moonbig/Exchange) |
-| SevenEX | bitrade-parent | 193 | 113 | [link](https://github.com/SevenEX/bitrade-parent) |
+| moonbig | Exchange | 194 | 93 | [link](https://github.com/moonbig/Exchange) |
+| SevenEX | bitrade-parent | 192 | 113 | [link](https://github.com/SevenEX/bitrade-parent) |
 | 360digitech | chronus | 185 | 63 | [link](https://github.com/360digitech/chronus) |
 | ttrelle | spring-data-examples | 181 | 162 | [link](https://github.com/ttrelle/spring-data-examples) |
 | camunda-community-hub | zeebe-simple-monitor | 177 | 109 | [link](https://github.com/camunda-community-hub/zeebe-simple-monitor) |
@@ -82,7 +82,7 @@
 | Nirman-Rathod | Spring | 173 | 146 | [link](https://github.com/Nirman-Rathod/Spring) |
 | HongZhaoHua | jstarcraft-core | 172 | 47 | [link](https://github.com/HongZhaoHua/jstarcraft-core) |
 | flash-dog | flash-dog | 172 | 108 | [link](https://github.com/flash-dog/flash-dog) |
-| sentilo | sentilo | 167 | 67 | [link](https://github.com/sentilo/sentilo) |
+| sentilo | sentilo | 166 | 67 | [link](https://github.com/sentilo/sentilo) |
 | caijiahao | springMvcPlusMongo | 165 | 73 | [link](https://github.com/caijiahao/springMvcPlusMongo) |
 | tuyucheng7 | taketoday-tutorial4j | 162 | 6 | [link](https://github.com/tuyucheng7/taketoday-tutorial4j) |
 | johanhaleby | occurrent | 152 | 19 | [link](https://github.com/johanhaleby/occurrent) |
@@ -92,29 +92,29 @@
 | mmnaseri | spring-data-mock | 139 | 43 | [link](https://github.com/mmnaseri/spring-data-mock) |
 | lipengming | rule-engine | 138 | 109 | [link](https://github.com/lipengming/rule-engine) |
 | 2bcoin | zheshiyigeniubidexiangmu | 137 | 92 | [link](https://github.com/2bcoin/zheshiyigeniubidexiangmu) |
-| Tukks | Cogito | 133 | 2 | [link](https://github.com/Tukks/Cogito) |
+| Tukks | Cogito | 135 | 2 | [link](https://github.com/Tukks/Cogito) |
 | greatbit | quack | 133 | 33 | [link](https://github.com/greatbit/quack) |
 | skprasadu | spring-mvc-examples | 132 | 198 | [link](https://github.com/skprasadu/spring-mvc-examples) |
 | vladmihalcea | vladmihalcea.wordpress.com | 125 | 88 | [link](https://github.com/vladmihalcea/vladmihalcea.wordpress.com) |
 | keets2012 | Lottor | 124 | 46 | [link](https://github.com/keets2012/Lottor) |
 | shuhongfan | heima-leadnews | 122 | 36 | [link](https://github.com/shuhongfan/heima-leadnews) |
+| digaomilleniun | backend-java-ebac | 121 | 59 | [link](https://github.com/digaomilleniun/backend-java-ebac) |
 | resthub | resthub-spring-stack | 121 | 65 | [link](https://github.com/resthub/resthub-spring-stack) |
-| digaomilleniun | backend-java-ebac | 120 | 59 | [link](https://github.com/digaomilleniun/backend-java-ebac) |
 | rcherara | microservice-architecture | 118 | 58 | [link](https://github.com/rcherara/microservice-architecture) |
 | danielgerlag | jworkflow | 116 | 35 | [link](https://github.com/danielgerlag/jworkflow) |
 | bitisanop | CryptoExchange_TradingPlatform_CoinExchange | 113 | 81 | [link](https://github.com/bitisanop/CryptoExchange_TradingPlatform_CoinExchange) |
 | xwlcn | Dodder | 112 | 35 | [link](https://github.com/xwlcn/Dodder) |
-| xmolecules | jmolecules-integrations | 110 | 27 | [link](https://github.com/xmolecules/jmolecules-integrations) |
+| xmolecules | jmolecules-integrations | 110 | 28 | [link](https://github.com/xmolecules/jmolecules-integrations) |
 | sdeleuze | spring-backbone-todo | 107 | 50 | [link](https://github.com/sdeleuze/spring-backbone-todo) |
 | aidanwhiteley | books | 106 | 28 | [link](https://github.com/aidanwhiteley/books) |
-| binghe001 | mykit-transaction-message | 105 | 52 | [link](https://github.com/binghe001/mykit-transaction-message) |
+| binghe001 | mykit-transaction-message | 106 | 52 | [link](https://github.com/binghe001/mykit-transaction-message) |
 | PWB97 | carrent | 105 | 25 | [link](https://github.com/PWB97/carrent) |
 | zhangwei900808 | awbeci-ssb | 104 | 68 | [link](https://github.com/zhangwei900808/awbeci-ssb) |
 | BIZZAN-Exchange | BIZZAN | 102 | 72 | [link](https://github.com/BIZZAN-Exchange/BIZZAN) |
 | Apress | pro-spring-6 | 102 | 78 | [link](https://github.com/Apress/pro-spring-6) |
 | rhiot | rhiot | 102 | 23 | [link](https://github.com/rhiot/rhiot) |
 | ShuaiJunlan | Autumn | 100 | 73 | [link](https://github.com/ShuaiJunlan/Autumn) |
-| bizzancoin | btc-eth-fil-contract-Exchange---ztuo | 97 | 87 | [link](https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo) |
+| bizzancoin | btc-eth-fil-contract-Exchange---ztuo | 98 | 88 | [link](https://github.com/bizzancoin/btc-eth-fil-contract-Exchange---ztuo) |
 | EBISPOT | OLS | 95 | 40 | [link](https://github.com/EBISPOT/OLS) |
 | ldcsaa | hp-soa | 93 | 11 | [link](https://github.com/ldcsaa/hp-soa) |
 | srecon | ignite-book-code-samples | 93 | 58 | [link](https://github.com/srecon/ignite-book-code-samples) |
@@ -125,7 +125,7 @@
 | srecon | the-apache-ignite-book | 85 | 50 | [link](https://github.com/srecon/the-apache-ignite-book) |
 | jknack | modern-web-app | 84 | 38 | [link](https://github.com/jknack/modern-web-app) |
 | maguangzu | Parking-Management-System | 83 | 20 | [link](https://github.com/maguangzu/Parking-Management-System) |
-| hantsy | spring6-sandbox | 82 | 18 | [link](https://github.com/hantsy/spring6-sandbox) |
+| hantsy | spring6-sandbox | 82 | 19 | [link](https://github.com/hantsy/spring6-sandbox) |
 | spring-attic | spring-init | 81 | 17 | [link](https://github.com/spring-attic/spring-init) |
 | chengbinbbs | spider | 78 | 42 | [link](https://github.com/chengbinbbs/spider) |
 | PAcee1 | xcEduService | 77 | 28 | [link](https://github.com/PAcee1/xcEduService) |
@@ -137,9 +137,10 @@
 | spring-attic | html5expense | 70 | 38 | [link](https://github.com/spring-attic/html5expense) |
 | sgq0085 | learn | 69 | 45 | [link](https://github.com/sgq0085/learn) |
 | hygieia | ExecDashboard | 68 | 74 | [link](https://github.com/hygieia/ExecDashboard) |
-| FAIRDataTeam | FAIRDataPoint | 68 | 36 | [link](https://github.com/FAIRDataTeam/FAIRDataPoint) |
+| FAIRDataTeam | FAIRDataPoint | 68 | 37 | [link](https://github.com/FAIRDataTeam/FAIRDataPoint) |
 | BinXUU | xc-online-backend | 67 | 48 | [link](https://github.com/BinXUU/xc-online-backend) |
 | researchstudio-sat | webofneeds | 66 | 20 | [link](https://github.com/researchstudio-sat/webofneeds) |
+| queritylib | querity | 65 | 7 | [link](https://github.com/queritylib/querity) |
 | SaiUpadhyayula | SpringAngularEcommerce | 65 | 49 | [link](https://github.com/SaiUpadhyayula/SpringAngularEcommerce) |
 | xuminwlt | j360-trace | 62 | 39 | [link](https://github.com/xuminwlt/j360-trace) |
 | xpadro | spring-rest | 62 | 103 | [link](https://github.com/xpadro/spring-rest) |
@@ -153,19 +154,18 @@
 | geosdi | geo-platform | 58 | 28 | [link](https://github.com/geosdi/geo-platform) |
 | hantsy | spring4-sandbox | 58 | 25 | [link](https://github.com/hantsy/spring4-sandbox) |
 | linagora | linshare-core | 58 | 31 | [link](https://github.com/linagora/linshare-core) |
-| respondnow | respondnow | 56 | 6 | [link](https://github.com/respondnow/respondnow) |
+| respondnow | respondnow | 56 | 7 | [link](https://github.com/respondnow/respondnow) |
 | quebic-source | microservices-sample-project | 56 | 38 | [link](https://github.com/quebic-source/microservices-sample-project) |
 | joshlong | a-walking-tour-of-all-of-springdom | 56 | 42 | [link](https://github.com/joshlong/a-walking-tour-of-all-of-springdom) |
 | noseparte | paymentServer | 55 | 31 | [link](https://github.com/noseparte/paymentServer) |
 | fmbenhassine | spring-batch-lab | 53 | 26 | [link](https://github.com/fmbenhassine/spring-batch-lab) |
 | kaiso | relmongo | 53 | 10 | [link](https://github.com/kaiso/relmongo) |
-| cloudjee | wavemaker | 53 | 64 | [link](https://github.com/cloudjee/wavemaker) |
+| cloudjee | wavemaker | 53 | 63 | [link](https://github.com/cloudjee/wavemaker) |
 | heutelbeck | sapl-policy-engine | 52 | 18 | [link](https://github.com/heutelbeck/sapl-policy-engine) |
-| queritylib | querity | 52 | 6 | [link](https://github.com/queritylib/querity) |
 | clowee | OpenSZZ-Cloud-Native | 52 | 45 | [link](https://github.com/clowee/OpenSZZ-Cloud-Native) |
+| ZenWave360 | zenwave-sdk | 51 | 6 | [link](https://github.com/ZenWave360/zenwave-sdk) |
 | jhipster | jhipster-loaded | 51 | 9 | [link](https://github.com/jhipster/jhipster-loaded) |
 | bhdrkn | Java-Examples | 51 | 36 | [link](https://github.com/bhdrkn/Java-Examples) |
-| ZenWave360 | zenwave-sdk | 50 | 6 | [link](https://github.com/ZenWave360/zenwave-sdk) |
 | lukaozi | gameserver | 49 | 26 | [link](https://github.com/lukaozi/gameserver) |
 | onsoul | saas-db | 49 | 27 | [link](https://github.com/onsoul/saas-db) |
 | HuangLiwis | educationalManagementSystem- | 48 | 21 | [link](https://github.com/HuangLiwis/educationalManagementSystem-) |
@@ -174,24 +174,24 @@
 | Zhhi4145 | CoinExchange | 46 | 22 | [link](https://github.com/Zhhi4145/CoinExchange) |
 | openshift-roadshow | nationalparks | 46 | 920 | [link](https://github.com/openshift-roadshow/nationalparks) |
 | wkspower | wks-platform | 45 | 20 | [link](https://github.com/wkspower/wks-platform) |
+| diging | citesphere | 44 | 4 | [link](https://github.com/diging/citesphere) |
 | osiris-indoor | osiris | 44 | 14 | [link](https://github.com/osiris-indoor/osiris) |
 | eGovFramework | egovframe-runtime | 43 | 61 | [link](https://github.com/eGovFramework/egovframe-runtime) |
-| diging | citesphere | 43 | 4 | [link](https://github.com/diging/citesphere) |
 | krams915 | spring-mongodb-tutorial | 43 | 78 | [link](https://github.com/krams915/spring-mongodb-tutorial) |
 | Whoopsunix | PPPVULNS | 42 | 7 | [link](https://github.com/Whoopsunix/PPPVULNS) |
 | spring-attic | spring-hadoop-samples-old | 42 | 50 | [link](https://github.com/spring-attic/spring-hadoop-samples-old) |
 | wlesniak | effective-oauth2-with-spring-security-and-spring-boot | 42 | 50 | [link](https://github.com/wlesniak/effective-oauth2-with-spring-security-and-spring-boot) |
+| WebFuzzing | Dataset | 41 | 22 | [link](https://github.com/WebFuzzing/Dataset) |
 | debop | debop4k | 41 | 11 | [link](https://github.com/debop/debop4k) |
 | melthaw | spring-file-storage-service | 41 | 18 | [link](https://github.com/melthaw/spring-file-storage-service) |
 | fernandospr | spring-jetty-example | 41 | 23 | [link](https://github.com/fernandospr/spring-jetty-example) |
-| WebFuzzing | Dataset | 39 | 22 | [link](https://github.com/WebFuzzing/Dataset) |
 | appNG | appng | 39 | 17 | [link](https://github.com/appNG/appng) |
 | pkainulainen | java-advent-2014 | 39 | 37 | [link](https://github.com/pkainulainen/java-advent-2014) |
 | Waterball-Software-Academy | WSA-Utopia-Discord-Bot | 38 | 18 | [link](https://github.com/Waterball-Software-Academy/WSA-Utopia-Discord-Bot) |
+| flapdoodle-oss | de.flapdoodle.embed.mongo.spring | 38 | 7 | [link](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) |
 | sourcesense | joyce | 38 | 0 | [link](https://github.com/sourcesense/joyce) |
 | hantsy | spring-sandbox | 38 | 22 | [link](https://github.com/hantsy/spring-sandbox) |
 | fits | try_samples | 38 | 23 | [link](https://github.com/fits/try_samples) |
-| flapdoodle-oss | de.flapdoodle.embed.mongo.spring | 37 | 7 | [link](https://github.com/flapdoodle-oss/de.flapdoodle.embed.mongo.spring) |
 | bjornharvold | bearchoke | 37 | 18 | [link](https://github.com/bjornharvold/bearchoke) |
 | howsun | howsun-javaee-framework | 37 | 46 | [link](https://github.com/howsun/howsun-javaee-framework) |
 | americanexpress | synapse | 36 | 19 | [link](https://github.com/americanexpress/synapse) |
@@ -210,12 +210,12 @@
 | xiaoyun94 | weapp-java-tunnel-demo | 31 | 12 | [link](https://github.com/xiaoyun94/weapp-java-tunnel-demo) |
 | shekhargulati | day22-spring-angularjs-demo-app | 30 | 19 | [link](https://github.com/shekhargulati/day22-spring-angularjs-demo-app) |
 | mumusenlingongyuan | mm-vcoinSDK | 30 | 21 | [link](https://github.com/mumusenlingongyuan/mm-vcoinSDK) |
+| edu-sharing | edu-sharing-community-repository | 29 | 18 | [link](https://github.com/edu-sharing/edu-sharing-community-repository) |
 | hygieia | hygieia-core | 29 | 204 | [link](https://github.com/hygieia/hygieia-core) |
 | shiroyk | cowork | 29 | 8 | [link](https://github.com/shiroyk/cowork) |
 | hello-shf | spring-boot-2.0.4.RELEASE | 29 | 14 | [link](https://github.com/hello-shf/spring-boot-2.0.4.RELEASE) |
 | raedbh | spring-outbox | 28 | 2 | [link](https://github.com/raedbh/spring-outbox) |
 | wujun728 | jun_product_center | 28 | 12 | [link](https://github.com/wujun728/jun_product_center) |
-| edu-sharing | edu-sharing-community-repository | 28 | 18 | [link](https://github.com/edu-sharing/edu-sharing-community-repository) |
 | dozd | mongo-mapper | 28 | 9 | [link](https://github.com/dozd/mongo-mapper) |
 | swapnildipankar | java_jersey_spring_hibernate_maven | 28 | 23 | [link](https://github.com/swapnildipankar/java_jersey_spring_hibernate_maven) |
 | noisky | xcOnline | 27 | 8 | [link](https://github.com/noisky/xcOnline) |
@@ -239,9 +239,9 @@
 | shekhargulati | day23-timelinejs-demo | 25 | 8 | [link](https://github.com/shekhargulati/day23-timelinejs-demo) |
 
 ---
-* **Last scrape:** 2025-11-23T03:56:17.919Z
-* **Total pages scraped:** 247
-* **Repos found:** 7335
-* **Repos filtered out (< 25 stars):** 7102
-* **Total possible repositories:** 29407
+* **Last scrape:** 2025-11-30T02:58:38.123Z
+* **Total pages scraped:** 246
+* **Repos found:** 7313
+* **Repos filtered out (< 25 stars):** 7080
+* **Total possible repositories:** 29408
 * **Percent processed:** 24.9%
