@@ -10,9 +10,9 @@
 | finlabsuk | open-banking-connector | 31 | 8 | [link](https://github.com/finlabsuk/open-banking-connector) |
 
 ---
-* **Last scrape:** 2025-11-23T04:20:31.009Z
+* **Last scrape:** 2025-11-30T02:59:06.089Z
 * **Total pages scraped:** 29
 * **Repos found:** 852
 * **Repos filtered out (< 25 stars):** 848
-* **Total possible repositories:** 1194
-* **Percent processed:** 71.4%
+* **Total possible repositories:** 1195
+* **Percent processed:** 71.3%
