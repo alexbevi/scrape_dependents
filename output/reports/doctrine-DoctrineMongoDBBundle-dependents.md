@@ -4,18 +4,18 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2540 | 941 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2209 | 440 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2542 | 944 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2210 | 440 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1962 | 592 | [link](https://github.com/illacceptanything/illacceptanything) |
-| FriendsOfSymfony | FOSElasticaBundle | 1261 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1261 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 867 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 758 | 107 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 699 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 433 | 267 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| Elao | PhpEnums | 329 | 29 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 324 | 75 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| markitosgv | JWTRefreshTokenBundle | 699 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| lexik | LexikTranslationBundle | 433 | 266 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
+| theofidry | AliceDataFixtures | 324 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 34 | [link](https://github.com/php-enqueue/enqueue-bundle) |
-| TheBigBrainsCompany | TbbcMoneyBundle | 195 | 74 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
+| TheBigBrainsCompany | TbbcMoneyBundle | 195 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 176 | 45 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
@@ -26,7 +26,7 @@
 | Terraform-GUI | terraform-gui | 72 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 93 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 29 | [link](https://github.com/henter/HenterGEO) |
-| nucleos | NucleosUserBundle | 60 | 18 | [link](https://github.com/nucleos/NucleosUserBundle) |
+| nucleos | NucleosUserBundle | 60 | 17 | [link](https://github.com/nucleos/NucleosUserBundle) |
 | khepin | KhepinYamlFixturesBundle | 59 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | anyx | LoginGateBundle | 59 | 25 | [link](https://github.com/anyx/LoginGateBundle) |
 | pumukit | PuMuKIT | 58 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
@@ -45,9 +45,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2025-11-23T04:21:00.973Z
+* **Last scrape:** 2025-11-30T02:59:04.364Z
 * **Total pages scraped:** 26
-* **Repos found:** 755
-* **Repos filtered out (< 25 stars):** 716
-* **Total possible repositories:** 2480
+* **Repos found:** 753
+* **Repos filtered out (< 25 stars):** 714
+* **Total possible repositories:** 2481
 * **Percent processed:** 30.4%
