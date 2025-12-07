@@ -4,16 +4,16 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 335 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2960 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| public-activity | public_activity | 2990 | 334 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2960 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 908 | 363 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 789 | 85 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 362 | 100 | [link](https://github.com/omniauth/omniauth-identity) |
-| opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 301 | 112 | [link](https://github.com/0x000NULL/CSSR) |
-| stripe-archive | gaps | 285 | 38 | [link](https://github.com/stripe-archive/gaps) |
+| hotsh | rstat.us | 716 | 213 | [link](https://github.com/hotsh/rstat.us) |
+| omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
+| opengovernment | opengovernment | 305 | 238 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 301 | 114 | [link](https://github.com/0x000NULL/CSSR) |
+| stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
@@ -46,7 +46,7 @@
 | jookyboi | rss2webhook | 34 | 6 | [link](https://github.com/jookyboi/rss2webhook) |
 | kunal | sinatra-mongodb-sample | 34 | 5 | [link](https://github.com/kunal/sinatra-mongodb-sample) |
 | hassox | veneer | 34 | 2 | [link](https://github.com/hassox/veneer) |
-| padrino | padrino-web-classic | 33 | 11 | [link](https://github.com/padrino/padrino-web-classic) |
+| padrino | padrino-web-classic | 33 | 10 | [link](https://github.com/padrino/padrino-web-classic) |
 | dennmart | mongoshort | 33 | 9 | [link](https://github.com/dennmart/mongoshort) |
 | MLH | mlh-no-light | 33 | 25 | [link](https://github.com/MLH/mlh-no-light) |
 | ramdiv | mongo_mapper_acts_as_tree | 31 | 30 | [link](https://github.com/ramdiv/mongo_mapper_acts_as_tree) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2025-11-30T02:45:50.203Z
+* **Last scrape:** 2025-12-07T02:21:18.547Z
 * **Total pages scraped:** 18
-* **Repos found:** 475
-* **Repos filtered out (< 25 stars):** 420
-* **Total possible repositories:** 2796
-* **Percent processed:** 17.0%
+* **Repos found:** 473
+* **Repos filtered out (< 25 stars):** 418
+* **Total possible repositories:** 2808
+* **Percent processed:** 16.8%
