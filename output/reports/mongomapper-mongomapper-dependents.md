@@ -5,12 +5,12 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2990 | 334 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2960 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 789 | 85 | [link](https://github.com/nasser/---) |
+| nasser | --- | 787 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 716 | 213 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
+| omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 238 | [link](https://github.com/opengovernment/opengovernment) |
 | 0x000NULL | CSSR | 301 | 114 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
@@ -28,7 +28,7 @@
 | nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
 | brianhempel | mongo_session_store | 77 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
-| caged | portlandcrime | 67 | 4 | [link](https://github.com/caged/portlandcrime) |
+| caged | portlandcrime | 65 | 4 | [link](https://github.com/caged/portlandcrime) |
 | arfon | fidgit | 62 | 47 | [link](https://github.com/arfon/fidgit) |
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2025-12-07T02:21:18.547Z
+* **Last scrape:** 2025-12-14T02:29:54.206Z
 * **Total pages scraped:** 18
-* **Repos found:** 473
-* **Repos filtered out (< 25 stars):** 418
-* **Total possible repositories:** 2808
-* **Percent processed:** 16.8%
+* **Repos found:** 470
+* **Repos filtered out (< 25 stars):** 415
+* **Total possible repositories:** 2810
+* **Percent processed:** 16.7%
