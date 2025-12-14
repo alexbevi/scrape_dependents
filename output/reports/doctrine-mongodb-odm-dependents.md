@@ -4,33 +4,33 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4104 | 1257 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2844 | 228 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2545 | 950 | [link](https://github.com/api-platform/core) |
+| doctrine-extensions | DoctrineExtensions | 4106 | 1256 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2846 | 228 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2546 | 950 | [link](https://github.com/api-platform/core) |
 | illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1898 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| FriendsOfSymfony | FOSElasticaBundle | 1262 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 449 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
+| dustin10 | VichUploaderBundle | 1900 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 447 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
 | Cocolabs-SAS | cocorico | 867 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | KnpLabs | knp-components | 769 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| zenstruck | foundry | 760 | 107 | [link](https://github.com/zenstruck/foundry) |
+| zenstruck | foundry | 761 | 107 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 700 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | phpstan | phpstan-doctrine | 647 | 112 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 341 | [link](https://github.com/APY/APYDataGridBundle) |
 | sonata-project | SonataMediaBundle | 458 | 485 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
 | lexik | LexikTranslationBundle | 433 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| BabDev | Pagerfanta | 415 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
+| BabDev | Pagerfanta | 417 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
 | doctrine | DoctrineModule | 396 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
-| thephpleague | flysystem-bundle | 390 | 73 | [link](https://github.com/thephpleague/flysystem-bundle) |
+| thephpleague | flysystem-bundle | 390 | 75 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineMongoDBBundle | 385 | 232 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
-| sonata-project | SonataUserBundle | 347 | 479 | [link](https://github.com/sonata-project/SonataUserBundle) |
+| sonata-project | SonataUserBundle | 347 | 478 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 324 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 297 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| theofidry | AliceDataFixtures | 324 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| Baldinof | roadrunner-bundle | 299 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 269 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 195 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
-| liip | LiipTestFixturesBundle | 176 | 45 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | sonata-project | SonataNewsBundle | 151 | 128 | [link](https://github.com/sonata-project/SonataNewsBundle) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | cross-solution | YAWIK | 131 | 67 | [link](https://github.com/cross-solution/YAWIK) |
@@ -43,13 +43,13 @@
 | rectorphp | rector-doctrine | 79 | 62 | [link](https://github.com/rectorphp/rector-doctrine) |
 | h4cc | AliceFixturesBundle | 75 | 25 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
-| Terraform-GUI | terraform-gui | 72 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
+| Terraform-GUI | terraform-gui | 73 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 93 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 29 | [link](https://github.com/henter/HenterGEO) |
 | nucleos | NucleosUserBundle | 60 | 17 | [link](https://github.com/nucleos/NucleosUserBundle) |
 | khepin | KhepinYamlFixturesBundle | 59 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
-| anyx | LoginGateBundle | 59 | 24 | [link](https://github.com/anyx/LoginGateBundle) |
-| pumukit | PuMuKIT | 58 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
+| anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
+| pumukit | PuMuKIT | 57 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
 | teamdeeson | warden | 51 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 47 | 18 | [link](https://github.com/Zeega/Zeega) |
 | pixelhumain | GoGoCarto | 44 | 10 | [link](https://github.com/pixelhumain/GoGoCarto) |
@@ -66,9 +66,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2025-12-07T02:23:33.711Z
+* **Last scrape:** 2025-12-14T02:33:57.598Z
 * **Total pages scraped:** 32
-* **Repos found:** 928
-* **Repos filtered out (< 25 stars):** 868
-* **Total possible repositories:** 3099
+* **Repos found:** 927
+* **Repos filtered out (< 25 stars):** 867
+* **Total possible repositories:** 3100
 * **Percent processed:** 29.9%
