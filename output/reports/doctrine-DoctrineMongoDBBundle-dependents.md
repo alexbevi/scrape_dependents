@@ -4,18 +4,18 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2546 | 950 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2213 | 439 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| api-platform | core | 2547 | 954 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2213 | 438 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1963 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 867 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 761 | 107 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 700 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| markitosgv | JWTRefreshTokenBundle | 699 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 433 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 324 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 33 | [link](https://github.com/php-enqueue/enqueue-bundle) |
-| TheBigBrainsCompany | TbbcMoneyBundle | 195 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
+| TheBigBrainsCompany | TbbcMoneyBundle | 196 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
@@ -45,7 +45,7 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2025-12-14T02:46:56.729Z
+* **Last scrape:** 2025-12-21T02:39:49.868Z
 * **Total pages scraped:** 26
 * **Repos found:** 752
 * **Repos filtered out (< 25 stars):** 713
