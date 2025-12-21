@@ -4,31 +4,31 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1819 | 370 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1722 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| illacceptanything | illacceptanything | 1963 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1818 | 370 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1725 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 491 | 270 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 493 | 270 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
-| danielme85 | laravel-log-to-db | 138 | 29 | [link](https://github.com/danielme85/laravel-log-to-db) |
+| danielme85 | laravel-log-to-db | 137 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 125 | 35 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 114 | 80 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
 | jiannei | laravel-api-starter | 107 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
-| Nebo15 | gandalf.api | 101 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
+| Nebo15 | gandalf.api | 102 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
 | jenssegers | laravel-mongodb-session | 77 | 27 | [link](https://github.com/jenssegers/laravel-mongodb-session) |
 | 233sec | laravel-src | 69 | 31 | [link](https://github.com/233sec/laravel-src) |
 | huijimuhe | monolog-web | 68 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
 | merlosy | laravel-restful-api-starter | 67 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
 | designmynight | laravel-mongodb-passport | 67 | 77 | [link](https://github.com/designmynight/laravel-mongodb-passport) |
+| hoangsonww | Moodify-Emotion-Music-App | 60 | 19 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
-| hoangsonww | Moodify-Emotion-Music-App | 57 | 18 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
-| elcobvg | lumen-realworld-example-app | 50 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | piordev555 | runeruby-casino | 49 | 29 | [link](https://github.com/piordev555/runeruby-casino) |
+| elcobvg | lumen-realworld-example-app | 49 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
 | LibreClass | libreclass | 32 | 19 | [link](https://github.com/LibreClass/libreclass) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 28 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2025-12-14T02:43:15.483Z
-* **Total pages scraped:** 93
-* **Repos found:** 2769
-* **Repos filtered out (< 25 stars):** 2739
+* **Last scrape:** 2025-12-21T02:38:55.564Z
+* **Total pages scraped:** 92
+* **Repos found:** 2730
+* **Repos filtered out (< 25 stars):** 2700
 * **Total possible repositories:** 9344
-* **Percent processed:** 29.6%
+* **Percent processed:** 29.2%
