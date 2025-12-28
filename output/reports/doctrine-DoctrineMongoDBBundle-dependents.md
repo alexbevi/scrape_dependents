@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2547 | 954 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2213 | 438 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1963 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| api-platform | core | 2548 | 958 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2214 | 438 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1964 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | FriendsOfSymfony | FOSElasticaBundle | 1263 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 867 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| Cocolabs-SAS | cocorico | 868 | 607 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 761 | 107 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 699 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 433 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
@@ -18,7 +18,6 @@
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
 | h4cc | AliceFixturesBundle | 75 | 25 | [link](https://github.com/h4cc/AliceFixturesBundle) |
@@ -29,6 +28,7 @@
 | nucleos | NucleosUserBundle | 60 | 17 | [link](https://github.com/nucleos/NucleosUserBundle) |
 | khepin | KhepinYamlFixturesBundle | 59 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
+| MacPaw | symfony-health-check-bundle | 58 | 7 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 57 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
 | teamdeeson | warden | 51 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 47 | 18 | [link](https://github.com/Zeega/Zeega) |
@@ -45,9 +45,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2025-12-21T02:39:49.868Z
+* **Last scrape:** 2025-12-28T02:59:40.143Z
 * **Total pages scraped:** 26
-* **Repos found:** 752
-* **Repos filtered out (< 25 stars):** 713
-* **Total possible repositories:** 2492
-* **Percent processed:** 30.2%
+* **Repos found:** 750
+* **Repos filtered out (< 25 stars):** 711
+* **Total possible repositories:** 2493
+* **Percent processed:** 30.1%
