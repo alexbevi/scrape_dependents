@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| TechEmpower | FrameworkBenchmarks | 8028 | 2026 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
-| pd4d10 | unpub | 469 | 153 | [link](https://github.com/pd4d10/unpub) |
-| Jaguar-dart | jaguar | 469 | 34 | [link](https://github.com/Jaguar-dart/jaguar) |
-| dart-backend | angel | 176 | 24 | [link](https://github.com/dart-backend/angel) |
+| TechEmpower | FrameworkBenchmarks | 8030 | 2026 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| pd4d10 | unpub | 470 | 153 | [link](https://github.com/pd4d10/unpub) |
+| Jaguar-dart | jaguar | 469 | 33 | [link](https://github.com/Jaguar-dart/jaguar) |
+| dart-backend | angel | 176 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 170 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 93 | 20 | [link](https://github.com/rgroult/MobDistTool) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2025-12-21T02:36:33.324Z
+* **Last scrape:** 2025-12-28T02:52:55.918Z
 * **Total pages scraped:** 74
-* **Repos found:** 2210
-* **Repos filtered out (< 25 stars):** 2194
-* **Total possible repositories:** 5648
-* **Percent processed:** 39.1%
+* **Repos found:** 2194
+* **Repos filtered out (< 25 stars):** 2178
+* **Total possible repositories:** 5649
+* **Percent processed:** 38.8%
