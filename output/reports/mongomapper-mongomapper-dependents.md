@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2990 | 334 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
+| public-activity | public_activity | 2991 | 334 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 787 | 85 | [link](https://github.com/nasser/---) |
+| nasser | --- | 788 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 716 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
 | opengovernment | opengovernment | 305 | 238 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 303 | 114 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 304 | 114 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -61,7 +61,7 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2025-12-21T02:26:41.659Z
+* **Last scrape:** 2025-12-28T02:44:46.561Z
 * **Total pages scraped:** 18
 * **Repos found:** 469
 * **Repos filtered out (< 25 stars):** 414
