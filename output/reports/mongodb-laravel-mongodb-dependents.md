@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1963 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1818 | 370 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1725 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| illacceptanything | illacceptanything | 1964 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1817 | 370 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1726 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 493 | 270 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 495 | 271 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -27,7 +27,7 @@
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
-| piordev555 | runeruby-casino | 49 | 29 | [link](https://github.com/piordev555/runeruby-casino) |
+| piordev555 | runeruby-casino | 49 | 28 | [link](https://github.com/piordev555/runeruby-casino) |
 | elcobvg | lumen-realworld-example-app | 49 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 28 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2025-12-21T02:38:55.564Z
+* **Last scrape:** 2025-12-28T02:56:06.369Z
 * **Total pages scraped:** 92
-* **Repos found:** 2730
-* **Repos filtered out (< 25 stars):** 2700
+* **Repos found:** 2718
+* **Repos filtered out (< 25 stars):** 2688
 * **Total possible repositories:** 9344
-* **Percent processed:** 29.2%
+* **Percent processed:** 29.1%
