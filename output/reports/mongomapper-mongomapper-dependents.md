@@ -8,11 +8,11 @@
 | DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 788 | 85 | [link](https://github.com/nasser/---) |
+| nasser | --- | 789 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 716 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
+| 0x000NULL | CSSR | 306 | 114 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 305 | 238 | [link](https://github.com/opengovernment/opengovernment) |
-| 0x000NULL | CSSR | 304 | 114 | [link](https://github.com/0x000NULL/CSSR) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2025-12-28T02:44:46.561Z
+* **Last scrape:** 2026-01-04T02:37:06.116Z
 * **Total pages scraped:** 18
-* **Repos found:** 469
-* **Repos filtered out (< 25 stars):** 414
+* **Repos found:** 465
+* **Repos filtered out (< 25 stars):** 410
 * **Total possible repositories:** 2810
-* **Percent processed:** 16.7%
+* **Percent processed:** 16.5%
