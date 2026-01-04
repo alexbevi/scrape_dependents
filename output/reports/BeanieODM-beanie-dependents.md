@@ -4,38 +4,38 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenBMB | XAgent | 8483 | 892 | [link](https://github.com/OpenBMB/XAgent) |
-| serge-chat | serge | 5753 | 403 | [link](https://github.com/serge-chat/serge) |
-| chatpire | chatgpt-web-share | 4288 | 666 | [link](https://github.com/chatpire/chatgpt-web-share) |
-| Agenta-AI | agenta | 3561 | 426 | [link](https://github.com/Agenta-AI/agenta) |
-| tgdrive | teldrive | 2540 | 371 | [link](https://github.com/tgdrive/teldrive) |
-| litestar-org | polyfactory | 1373 | 107 | [link](https://github.com/litestar-org/polyfactory) |
-| Simpleyyt | ai-manus | 1237 | 284 | [link](https://github.com/Simpleyyt/ai-manus) |
-| opendatalab | LabelLLM | 1140 | 116 | [link](https://github.com/opendatalab/LabelLLM) |
-| jowilf | starlette-admin | 959 | 83 | [link](https://github.com/jowilf/starlette-admin) |
+| OpenBMB | XAgent | 8484 | 891 | [link](https://github.com/OpenBMB/XAgent) |
+| serge-chat | serge | 5754 | 402 | [link](https://github.com/serge-chat/serge) |
+| chatpire | chatgpt-web-share | 4286 | 667 | [link](https://github.com/chatpire/chatgpt-web-share) |
+| Agenta-AI | agenta | 3581 | 432 | [link](https://github.com/Agenta-AI/agenta) |
+| tgdrive | teldrive | 2548 | 371 | [link](https://github.com/tgdrive/teldrive) |
+| litestar-org | polyfactory | 1375 | 107 | [link](https://github.com/litestar-org/polyfactory) |
+| Simpleyyt | ai-manus | 1275 | 298 | [link](https://github.com/Simpleyyt/ai-manus) |
+| opendatalab | LabelLLM | 1147 | 118 | [link](https://github.com/opendatalab/LabelLLM) |
+| jowilf | starlette-admin | 961 | 84 | [link](https://github.com/jowilf/starlette-admin) |
 | PythonNest | PyNest | 845 | 59 | [link](https://github.com/PythonNest/PyNest) |
-| baoliay2008 | lccn_predictor | 830 | 30 | [link](https://github.com/baoliay2008/lccn_predictor) |
-| mongodb-labs | full-stack-fastapi-mongodb | 803 | 120 | [link](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) |
-| mhdzumair | MediaFusion | 711 | 104 | [link](https://github.com/mhdzumair/MediaFusion) |
-| Youngestdev | fastapi-mongo | 538 | 106 | [link](https://github.com/Youngestdev/fastapi-mongo) |
-| PallasBot | Pallas-Bot | 447 | 80 | [link](https://github.com/PallasBot/Pallas-Bot) |
-| AOT-Technologies | forms-flow-ai | 393 | 206 | [link](https://github.com/AOT-Technologies/forms-flow-ai) |
-| PacktPublishing | Building-Python-Microservices-with-FastAPI | 390 | 179 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
-| arthurio | fastapi-filter | 296 | 41 | [link](https://github.com/arthurio/fastapi-filter) |
-| qrev-ai | qrev | 270 | 40 | [link](https://github.com/qrev-ai/qrev) |
-| PacktPublishing | Building-Python-Web-APIs-with-FastAPI | 236 | 95 | [link](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI) |
+| baoliay2008 | lccn_predictor | 832 | 30 | [link](https://github.com/baoliay2008/lccn_predictor) |
+| mongodb-labs | full-stack-fastapi-mongodb | 804 | 120 | [link](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) |
+| mhdzumair | MediaFusion | 722 | 105 | [link](https://github.com/mhdzumair/MediaFusion) |
+| Youngestdev | fastapi-mongo | 540 | 106 | [link](https://github.com/Youngestdev/fastapi-mongo) |
+| PallasBot | Pallas-Bot | 451 | 80 | [link](https://github.com/PallasBot/Pallas-Bot) |
+| AOT-Technologies | forms-flow-ai | 392 | 206 | [link](https://github.com/AOT-Technologies/forms-flow-ai) |
+| PacktPublishing | Building-Python-Microservices-with-FastAPI | 390 | 180 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
+| arthurio | fastapi-filter | 294 | 40 | [link](https://github.com/arthurio/fastapi-filter) |
+| qrev-ai | qrev | 271 | 40 | [link](https://github.com/qrev-ai/qrev) |
+| PacktPublishing | Building-Python-Web-APIs-with-FastAPI | 237 | 95 | [link](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI) |
 | devdupont | fastapi-beanie-jwt | 199 | 38 | [link](https://github.com/devdupont/fastapi-beanie-jwt) |
-| adithya-s-k | RAG-SaaS | 169 | 27 | [link](https://github.com/adithya-s-k/RAG-SaaS) |
-| exospherehost | exospherehost | 164 | 38 | [link](https://github.com/exospherehost/exospherehost) |
-| IHosseini083 | Shortify | 135 | 12 | [link](https://github.com/IHosseini083/Shortify) |
+| exospherehost | exospherehost | 171 | 39 | [link](https://github.com/exospherehost/exospherehost) |
+| adithya-s-k | RAG-SaaS | 170 | 27 | [link](https://github.com/adithya-s-k/RAG-SaaS) |
+| IHosseini083 | Shortify | 134 | 12 | [link](https://github.com/IHosseini083/Shortify) |
 | OCR-D | core | 132 | 33 | [link](https://github.com/OCR-D/core) |
-| jonasrenault | fastapi-react-mongodb-docker | 128 | 48 | [link](https://github.com/jonasrenault/fastapi-react-mongodb-docker) |
+| jonasrenault | fastapi-react-mongodb-docker | 129 | 48 | [link](https://github.com/jonasrenault/fastapi-react-mongodb-docker) |
 | michaelkryukov | mongomock_motor | 120 | 28 | [link](https://github.com/michaelkryukov/mongomock_motor) |
 | jerry-git | daily-dose-of-python | 91 | 8 | [link](https://github.com/jerry-git/daily-dose-of-python) |
-| XnneHangLab | XnneHangLab | 86 | 9 | [link](https://github.com/XnneHangLab/XnneHangLab) |
+| XnneHangLab | XnneHangLab | 88 | 9 | [link](https://github.com/XnneHangLab/XnneHangLab) |
 | tonybaloney | ants-azure-demos | 72 | 29 | [link](https://github.com/tonybaloney/ants-azure-demos) |
 | beaucarnes | farm-stack-course | 58 | 29 | [link](https://github.com/beaucarnes/farm-stack-course) |
-| Azure-Samples | todo-python-mongo | 57 | 38 | [link](https://github.com/Azure-Samples/todo-python-mongo) |
+| Azure-Samples | todo-python-mongo | 57 | 39 | [link](https://github.com/Azure-Samples/todo-python-mongo) |
 | nyrkio | nyrkio | 55 | 7 | [link](https://github.com/nyrkio/nyrkio) |
 | talkpython | audio-ai-with-assemblyai-course | 51 | 40 | [link](https://github.com/talkpython/audio-ai-with-assemblyai-course) |
 | hanbit | web-with-fastapi | 48 | 27 | [link](https://github.com/hanbit/web-with-fastapi) |
@@ -63,9 +63,9 @@
 | talkpython | mongodb-for-async-python-course | 25 | 19 | [link](https://github.com/talkpython/mongodb-for-async-python-course) |
 
 ---
-* **Last scrape:** 2025-12-28T02:45:54.022Z
+* **Last scrape:** 2026-01-04T02:38:16.301Z
 * **Total pages scraped:** 89
-* **Repos found:** 2656
-* **Repos filtered out (< 25 stars):** 2599
-* **Total possible repositories:** 4367
-* **Percent processed:** 60.8%
+* **Repos found:** 2653
+* **Repos filtered out (< 25 stars):** 2596
+* **Total possible repositories:** 4371
+* **Percent processed:** 60.7%
