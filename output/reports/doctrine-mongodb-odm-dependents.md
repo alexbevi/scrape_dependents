@@ -4,30 +4,30 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4114 | 1257 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2851 | 228 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2548 | 958 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1964 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| doctrine-extensions | DoctrineExtensions | 4115 | 1256 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2850 | 228 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2546 | 956 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1964 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1900 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1262 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 447 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 868 | 607 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| Cocolabs-SAS | cocorico | 868 | 606 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | KnpLabs | knp-components | 771 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| zenstruck | foundry | 761 | 107 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 699 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| zenstruck | foundry | 763 | 107 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 700 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | phpstan | phpstan-doctrine | 653 | 112 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 341 | [link](https://github.com/APY/APYDataGridBundle) |
-| sonata-project | SonataMediaBundle | 459 | 484 | [link](https://github.com/sonata-project/SonataMediaBundle) |
+| sonata-project | SonataMediaBundle | 460 | 484 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
-| lexik | LexikTranslationBundle | 433 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| lexik | LexikTranslationBundle | 433 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | BabDev | Pagerfanta | 420 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
 | doctrine | DoctrineModule | 396 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
-| thephpleague | flysystem-bundle | 392 | 77 | [link](https://github.com/thephpleague/flysystem-bundle) |
-| doctrine | DoctrineMongoDBBundle | 385 | 232 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
+| thephpleague | flysystem-bundle | 393 | 77 | [link](https://github.com/thephpleague/flysystem-bundle) |
+| doctrine | DoctrineMongoDBBundle | 385 | 231 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
 | sonata-project | SonataUserBundle | 347 | 478 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 324 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 299 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| Baldinof | roadrunner-bundle | 298 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 269 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 75 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
@@ -67,9 +67,9 @@
 | klapaudius | symfony-mcp-server | 25 | 2 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 
 ---
-* **Last scrape:** 2025-12-28T02:46:19.681Z
+* **Last scrape:** 2026-01-04T02:38:49.668Z
 * **Total pages scraped:** 32
-* **Repos found:** 924
-* **Repos filtered out (< 25 stars):** 863
-* **Total possible repositories:** 3101
+* **Repos found:** 925
+* **Repos filtered out (< 25 stars):** 864
+* **Total possible repositories:** 3104
 * **Percent processed:** 29.8%
