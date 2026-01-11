@@ -11,8 +11,8 @@
 | nasser | --- | 789 | 85 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 716 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 306 | 114 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 305 | 238 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 309 | 114 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -26,7 +26,7 @@
 | alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
 | maccman | push | 81 | 4 | [link](https://github.com/maccman/push) |
 | nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
-| brianhempel | mongo_session_store | 77 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
+| brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
 | caged | portlandcrime | 65 | 4 | [link](https://github.com/caged/portlandcrime) |
 | arfon | fidgit | 62 | 47 | [link](https://github.com/arfon/fidgit) |
@@ -61,7 +61,7 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-01-04T02:37:06.116Z
+* **Last scrape:** 2026-01-11T02:23:49.488Z
 * **Total pages scraped:** 18
 * **Repos found:** 465
 * **Repos filtered out (< 25 stars):** 410
