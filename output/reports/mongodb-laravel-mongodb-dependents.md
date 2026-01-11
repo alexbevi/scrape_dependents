@@ -4,16 +4,16 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1964 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| illacceptanything | illacceptanything | 1965 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1818 | 370 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1731 | 342 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1732 | 343 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 494 | 272 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 495 | 273 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 60 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 137 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
-| purocean | laravel-template | 125 | 35 | [link](https://github.com/purocean/laravel-template) |
+| purocean | laravel-template | 124 | 35 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 114 | 80 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
 | jiannei | laravel-api-starter | 107 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | Nebo15 | gandalf.api | 102 | 47 | [link](https://github.com/Nebo15/gandalf.api) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 28 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2026-01-04T02:49:09.012Z
-* **Total pages scraped:** 91
-* **Repos found:** 2704
-* **Repos filtered out (< 25 stars):** 2674
-* **Total possible repositories:** 9346
-* **Percent processed:** 28.9%
+* **Last scrape:** 2026-01-11T02:36:10.620Z
+* **Total pages scraped:** 90
+* **Repos found:** 2681
+* **Repos filtered out (< 25 stars):** 2651
+* **Total possible repositories:** 9350
+* **Percent processed:** 28.7%
