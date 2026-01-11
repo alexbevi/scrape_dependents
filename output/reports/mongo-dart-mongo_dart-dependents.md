@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| TechEmpower | FrameworkBenchmarks | 8038 | 2027 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| TechEmpower | FrameworkBenchmarks | 8041 | 2029 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
 | pd4d10 | unpub | 470 | 153 | [link](https://github.com/pd4d10/unpub) |
 | Jaguar-dart | jaguar | 469 | 33 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 176 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 170 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 93 | 20 | [link](https://github.com/rgroult/MobDistTool) |
-| vedfi | mondroid | 89 | 10 | [link](https://github.com/vedfi/mondroid) |
+| vedfi | mondroid | 90 | 10 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 24 | [link](https://github.com/angel-example/flutter) |
 | Scorpiion | vane | 60 | 11 | [link](https://github.com/Scorpiion/vane) |
 | sdeleuze | opensnap-polymer | 37 | 5 | [link](https://github.com/sdeleuze/opensnap-polymer) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-01-04T02:47:21.143Z
+* **Last scrape:** 2026-01-11T02:34:55.444Z
 * **Total pages scraped:** 73
-* **Repos found:** 2179
-* **Repos filtered out (< 25 stars):** 2163
-* **Total possible repositories:** 5649
-* **Percent processed:** 38.6%
+* **Repos found:** 2169
+* **Repos filtered out (< 25 stars):** 2153
+* **Total possible repositories:** 5650
+* **Percent processed:** 38.4%
