@@ -4,30 +4,30 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4117 | 1255 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2851 | 228 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2549 | 958 | [link](https://github.com/api-platform/core) |
+| doctrine-extensions | DoctrineExtensions | 4117 | 1257 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2850 | 228 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2552 | 958 | [link](https://github.com/api-platform/core) |
 | illacceptanything | illacceptanything | 1965 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1900 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 784 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| dustin10 | VichUploaderBundle | 1902 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
 | Cocolabs-SAS | cocorico | 868 | 603 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | KnpLabs | knp-components | 771 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| zenstruck | foundry | 764 | 107 | [link](https://github.com/zenstruck/foundry) |
+| zenstruck | foundry | 765 | 109 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 700 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 655 | 112 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| phpstan | phpstan-doctrine | 656 | 112 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 341 | [link](https://github.com/APY/APYDataGridBundle) |
 | sonata-project | SonataMediaBundle | 460 | 482 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
-| lexik | LexikTranslationBundle | 433 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| lexik | LexikTranslationBundle | 433 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | BabDev | Pagerfanta | 420 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
-| doctrine | DoctrineModule | 396 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
+| doctrine | DoctrineModule | 395 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
 | thephpleague | flysystem-bundle | 393 | 78 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineMongoDBBundle | 385 | 231 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
-| sonata-project | SonataUserBundle | 346 | 478 | [link](https://github.com/sonata-project/SonataUserBundle) |
+| sonata-project | SonataUserBundle | 346 | 479 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 324 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 299 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| Baldinof | roadrunner-bundle | 301 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 269 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
@@ -43,7 +43,7 @@
 | rectorphp | rector-doctrine | 79 | 62 | [link](https://github.com/rectorphp/rector-doctrine) |
 | h4cc | AliceFixturesBundle | 75 | 25 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
-| Terraform-GUI | terraform-gui | 74 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
+| Terraform-GUI | terraform-gui | 73 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 93 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 29 | [link](https://github.com/henter/HenterGEO) |
 | nucleos | NucleosUserBundle | 60 | 17 | [link](https://github.com/nucleos/NucleosUserBundle) |
@@ -67,9 +67,9 @@
 | klapaudius | symfony-mcp-server | 25 | 2 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 
 ---
-* **Last scrape:** 2026-01-11T02:25:35.267Z
+* **Last scrape:** 2026-01-18T02:48:57.145Z
 * **Total pages scraped:** 32
-* **Repos found:** 922
-* **Repos filtered out (< 25 stars):** 861
-* **Total possible repositories:** 3104
-* **Percent processed:** 29.7%
+* **Repos found:** 919
+* **Repos filtered out (< 25 stars):** 858
+* **Total possible repositories:** 3105
+* **Percent processed:** 29.6%
