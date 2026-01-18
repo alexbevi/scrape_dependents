@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| TechEmpower | FrameworkBenchmarks | 8041 | 2029 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| TechEmpower | FrameworkBenchmarks | 8042 | 2028 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
 | pd4d10 | unpub | 470 | 153 | [link](https://github.com/pd4d10/unpub) |
-| Jaguar-dart | jaguar | 469 | 33 | [link](https://github.com/Jaguar-dart/jaguar) |
+| Jaguar-dart | jaguar | 470 | 33 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 176 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 170 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-01-11T02:34:55.444Z
+* **Last scrape:** 2026-01-18T02:56:18.660Z
 * **Total pages scraped:** 73
-* **Repos found:** 2169
-* **Repos filtered out (< 25 stars):** 2153
+* **Repos found:** 2164
+* **Repos filtered out (< 25 stars):** 2148
 * **Total possible repositories:** 5650
-* **Percent processed:** 38.4%
+* **Percent processed:** 38.3%
