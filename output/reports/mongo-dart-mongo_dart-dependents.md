@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| TechEmpower | FrameworkBenchmarks | 8042 | 2028 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| TechEmpower | FrameworkBenchmarks | 8048 | 2027 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
 | pd4d10 | unpub | 470 | 153 | [link](https://github.com/pd4d10/unpub) |
 | Jaguar-dart | jaguar | 470 | 33 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 176 | 23 | [link](https://github.com/dart-backend/angel) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-01-18T02:56:18.660Z
-* **Total pages scraped:** 73
-* **Repos found:** 2164
-* **Repos filtered out (< 25 stars):** 2148
-* **Total possible repositories:** 5650
-* **Percent processed:** 38.3%
+* **Last scrape:** 2026-01-25T02:42:18.562Z
+* **Total pages scraped:** 72
+* **Repos found:** 2147
+* **Repos filtered out (< 25 stars):** 2131
+* **Total possible repositories:** 5651
+* **Percent processed:** 38.0%
