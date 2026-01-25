@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37331 | 53911 | [link](https://github.com/eugenp/tutorials) |
-| ant-media | Ant-Media-Server | 4613 | 677 | [link](https://github.com/ant-media/Ant-Media-Server) |
-| XiaoMi | mone | 1151 | 178 | [link](https://github.com/XiaoMi/mone) |
-| OpenFeign | querydsl | 557 | 75 | [link](https://github.com/OpenFeign/querydsl) |
+| eugenp | tutorials | 37335 | 53893 | [link](https://github.com/eugenp/tutorials) |
+| ant-media | Ant-Media-Server | 4619 | 677 | [link](https://github.com/ant-media/Ant-Media-Server) |
+| XiaoMi | mone | 1152 | 178 | [link](https://github.com/XiaoMi/mone) |
+| OpenFeign | querydsl | 560 | 76 | [link](https://github.com/OpenFeign/querydsl) |
 | skrstop | skrstop-components | 226 | 30 | [link](https://github.com/skrstop/skrstop-components) |
 | liujiaqi7998 | GrasscuttersWebDashboard | 220 | 33 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
-| primefaces-extensions | primefaces-extensions | 117 | 113 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
+| primefaces-extensions | primefaces-extensions | 117 | 112 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
 | svenkubiak | mangooio | 59 | 12 | [link](https://github.com/svenkubiak/mangooio) |
 | evanchooly | javabot | 56 | 30 | [link](https://github.com/evanchooly/javabot) |
 | aws-samples | amazon-documentdb-samples | 54 | 36 | [link](https://github.com/aws-samples/amazon-documentdb-samples) |
@@ -19,9 +19,9 @@
 | europeana | metis-framework | 25 | 9 | [link](https://github.com/europeana/metis-framework) |
 
 ---
-* **Last scrape:** 2026-01-18T02:56:31.764Z
+* **Last scrape:** 2026-01-25T02:42:34.446Z
 * **Total pages scraped:** 6
-* **Repos found:** 173
-* **Repos filtered out (< 25 stars):** 160
+* **Repos found:** 172
+* **Repos filtered out (< 25 stars):** 159
 * **Total possible repositories:** 328
-* **Percent processed:** 52.7%
+* **Percent processed:** 52.4%
