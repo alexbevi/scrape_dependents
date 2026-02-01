@@ -4,33 +4,33 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4118 | 1259 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine-extensions | DoctrineExtensions | 4119 | 1259 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
 | doctrine | data-fixtures | 2849 | 229 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2551 | 957 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1966 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| api-platform | core | 2552 | 959 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1965 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1902 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| FriendsOfSymfony | FOSElasticaBundle | 1264 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
 | Cocolabs-SAS | cocorico | 868 | 602 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | KnpLabs | knp-components | 771 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| zenstruck | foundry | 767 | 109 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 700 | 180 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 656 | 112 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| zenstruck | foundry | 769 | 109 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 701 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| phpstan | phpstan-doctrine | 658 | 114 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 341 | [link](https://github.com/APY/APYDataGridBundle) |
-| sonata-project | SonataMediaBundle | 460 | 483 | [link](https://github.com/sonata-project/SonataMediaBundle) |
+| sonata-project | SonataMediaBundle | 460 | 485 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
-| lexik | LexikTranslationBundle | 433 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| lexik | LexikTranslationBundle | 433 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | BabDev | Pagerfanta | 422 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
 | doctrine | DoctrineModule | 395 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
-| thephpleague | flysystem-bundle | 393 | 78 | [link](https://github.com/thephpleague/flysystem-bundle) |
+| thephpleague | flysystem-bundle | 393 | 79 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineMongoDBBundle | 385 | 230 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
-| sonata-project | SonataUserBundle | 346 | 479 | [link](https://github.com/sonata-project/SonataUserBundle) |
+| sonata-project | SonataUserBundle | 346 | 478 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 324 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 302 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| Baldinof | roadrunner-bundle | 304 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 269 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
-| liip | LiipTestFixturesBundle | 177 | 46 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 177 | 47 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | sonata-project | SonataNewsBundle | 151 | 128 | [link](https://github.com/sonata-project/SonataNewsBundle) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | cross-solution | YAWIK | 131 | 66 | [link](https://github.com/cross-solution/YAWIK) |
@@ -50,10 +50,10 @@
 | khepin | KhepinYamlFixturesBundle | 59 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | pumukit | PuMuKIT | 57 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
-| teamdeeson | warden | 51 | 18 | [link](https://github.com/teamdeeson/warden) |
+| teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 47 | 18 | [link](https://github.com/Zeega/Zeega) |
 | pixelhumain | GoGoCarto | 44 | 10 | [link](https://github.com/pixelhumain/GoGoCarto) |
-| jbouzekri | free-bet | 43 | 32 | [link](https://github.com/jbouzekri/free-bet) |
+| jbouzekri | free-bet | 43 | 33 | [link](https://github.com/jbouzekri/free-bet) |
 | makasim | PayumBundleSandbox | 36 | 29 | [link](https://github.com/makasim/PayumBundleSandbox) |
 | doctrine | mongodb-odm-softdelete | 35 | 10 | [link](https://github.com/doctrine/mongodb-odm-softdelete) |
 | romainneutron | MongoDB-ODM-Silex-Provider | 35 | 15 | [link](https://github.com/romainneutron/MongoDB-ODM-Silex-Provider) |
@@ -67,9 +67,9 @@
 | klapaudius | symfony-mcp-server | 25 | 2 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 
 ---
-* **Last scrape:** 2026-01-25T02:34:23.073Z
-* **Total pages scraped:** 32
-* **Repos found:** 913
-* **Repos filtered out (< 25 stars):** 852
-* **Total possible repositories:** 3108
-* **Percent processed:** 29.4%
+* **Last scrape:** 2026-02-01T03:22:29.692Z
+* **Total pages scraped:** 31
+* **Repos found:** 912
+* **Repos filtered out (< 25 stars):** 851
+* **Total possible repositories:** 3110
+* **Percent processed:** 29.3%
