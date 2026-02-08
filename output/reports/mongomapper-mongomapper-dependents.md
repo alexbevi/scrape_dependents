@@ -4,20 +4,20 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2992 | 333 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
+| public-activity | public_activity | 2993 | 334 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2960 | 484 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 791 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 315 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 317 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
-| hacketyhack | hackety-hack.com | 167 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
+| hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | bratta | fikus | 134 | 22 | [link](https://github.com/bratta/fikus) |
 | jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
 | jwood | tenacity | 116 | 17 | [link](https://github.com/jwood/tenacity) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-02-01T03:22:01.016Z
+* **Last scrape:** 2026-02-08T03:12:17.017Z
 * **Total pages scraped:** 18
 * **Repos found:** 463
 * **Repos filtered out (< 25 stars):** 408
-* **Total possible repositories:** 2810
+* **Total possible repositories:** 2811
 * **Percent processed:** 16.5%
