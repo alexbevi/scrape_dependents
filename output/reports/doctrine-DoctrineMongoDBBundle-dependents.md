@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2552 | 960 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2551 | 961 | [link](https://github.com/api-platform/core) |
 | php-enqueue | enqueue-dev | 2214 | 437 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1964 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
 | FriendsOfSymfony | FOSElasticaBundle | 1263 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 868 | 601 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 771 | 110 | [link](https://github.com/zenstruck/foundry) |
+| Cocolabs-SAS | cocorico | 867 | 601 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 772 | 108 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 701 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 433 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
@@ -17,11 +17,11 @@
 | php-enqueue | enqueue-bundle | 274 | 33 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
-| liip | LiipTestFixturesBundle | 177 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 176 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 173 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
-| h4cc | AliceFixturesBundle | 75 | 25 | [link](https://github.com/h4cc/AliceFixturesBundle) |
+| h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 12 | [link](https://github.com/Terraform-GUI/terraform-gui) |
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 93 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-02-08T03:34:52.388Z
+* **Last scrape:** 2026-02-15T03:25:43.752Z
 * **Total pages scraped:** 26
-* **Repos found:** 738
-* **Repos filtered out (< 25 stars):** 698
+* **Repos found:** 737
+* **Repos filtered out (< 25 stars):** 697
 * **Total possible repositories:** 2499
 * **Percent processed:** 29.5%
