@@ -4,17 +4,17 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2993 | 334 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2960 | 484 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| public-activity | public_activity | 2993 | 333 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2955 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 791 | 84 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 717 | 213 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 317 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
+| 0x000NULL | CSSR | 320 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
-| jeffkreeftmeijer | navvy | 214 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
+| jeffkreeftmeijer | navvy | 212 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
@@ -33,8 +33,8 @@
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
 | zooniverse-glacier | Scribe | 49 | 10 | [link](https://github.com/zooniverse-glacier/Scribe) |
-| mepatterson | acts_as_mongo_taggable | 49 | 15 | [link](https://github.com/mepatterson/acts_as_mongo_taggable) |
 | brighton36 | CoinPost | 49 | 26 | [link](https://github.com/brighton36/CoinPost) |
+| mepatterson | acts_as_mongo_taggable | 48 | 15 | [link](https://github.com/mepatterson/acts_as_mongo_taggable) |
 | kristianmandrup | mm-devise | 46 | 14 | [link](https://github.com/kristianmandrup/mm-devise) |
 | DGaffney | stop_sign_project | 45 | 10 | [link](https://github.com/DGaffney/stop_sign_project) |
 | adamwiggins | clockwork-sinatra-beanstalk | 44 | 3 | [link](https://github.com/adamwiggins/clockwork-sinatra-beanstalk) |
@@ -53,17 +53,16 @@
 | obfuscurity | lipstick | 29 | 2 | [link](https://github.com/obfuscurity/lipstick) |
 | lastomato | mongo_followable | 28 | 10 | [link](https://github.com/lastomato/mongo_followable) |
 | yalcin | ruby-imdb | 27 | 9 | [link](https://github.com/yalcin/ruby-imdb) |
-| fearoffish | aether | 26 | 3 | [link](https://github.com/fearoffish/aether) |
 | sunlightlabs | poligraft | 26 | 2 | [link](https://github.com/sunlightlabs/poligraft) |
 | dcu | mongomapper_ext | 26 | 4 | [link](https://github.com/dcu/mongomapper_ext) |
 | logankoester | errship | 26 | 5 | [link](https://github.com/logankoester/errship) |
 | djsun | sinatra_resource | 26 | 2 | [link](https://github.com/djsun/sinatra_resource) |
-| mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
+| fearoffish | aether | 25 | 3 | [link](https://github.com/fearoffish/aether) |
 
 ---
-* **Last scrape:** 2026-02-08T03:12:17.017Z
+* **Last scrape:** 2026-02-15T03:09:15.659Z
 * **Total pages scraped:** 18
-* **Repos found:** 463
-* **Repos filtered out (< 25 stars):** 408
+* **Repos found:** 461
+* **Repos filtered out (< 25 stars):** 407
 * **Total possible repositories:** 2811
-* **Percent processed:** 16.5%
+* **Percent processed:** 16.4%
