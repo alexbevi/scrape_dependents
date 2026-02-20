@@ -16,6 +16,7 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
+| langchain-ai | [langchain](reports/langchain-ai-langchain-dependents.md) | Python | 2026-02-20T16:39:09.885Z | 101 | 2999 | 2840 | 276512 | 1.1% |
 | langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2026-02-15T02:59:56.042Z | 25 | 723 | 697 | 1058 | 68.3% |
 | langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2026-02-15T03:16:21.875Z | 1146 | 33895 | 33002 | 49418 | 68.6% |
 | langchain4j | [langchain4j](reports/langchain4j-langchain4j-dependents.md) | Java | 2026-02-15T03:20:47.328Z | 45 | 1338 | 1251 | 1685 | 79.4% |
