@@ -68,6 +68,11 @@
     "type": "AI"
   },
   {
+    "repo": "langchain-ai/langchain",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
     "repo": "langchain-ai/langchain-mongodb",
     "language": "Python",
     "type": "AI"
