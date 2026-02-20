@@ -23,6 +23,7 @@ on:
           - langchaingo
           - langchainjs
           - langchain-mongodb
+          - langchain
           - llama_index
           - mongomapper
           - beanie
