@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2551 | 961 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2551 | 962 | [link](https://github.com/api-platform/core) |
 | php-enqueue | enqueue-dev | 2214 | 437 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1964 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 867 | 601 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 772 | 108 | [link](https://github.com/zenstruck/foundry) |
+| illacceptanything | illacceptanything | 1965 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 869 | 601 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 775 | 108 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 701 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 433 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
@@ -17,7 +17,7 @@
 | php-enqueue | enqueue-bundle | 274 | 33 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
-| liip | LiipTestFixturesBundle | 176 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 176 | 49 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 173 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 123 | 72 | [link](https://github.com/floriansemm/SolrBundle) |
@@ -33,7 +33,7 @@
 | pumukit | PuMuKIT | 57 | 18 | [link](https://github.com/pumukit/PuMuKIT) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 47 | 18 | [link](https://github.com/Zeega/Zeega) |
-| V-labs | VlabsMediaBundle | 44 | 18 | [link](https://github.com/V-labs/VlabsMediaBundle) |
+| V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
 | pixelhumain | GoGoCarto | 44 | 10 | [link](https://github.com/pixelhumain/GoGoCarto) |
 | jbouzekri | free-bet | 43 | 33 | [link](https://github.com/jbouzekri/free-bet) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-02-15T03:25:43.752Z
+* **Last scrape:** 2026-02-22T03:09:46.111Z
 * **Total pages scraped:** 26
-* **Repos found:** 737
-* **Repos filtered out (< 25 stars):** 697
-* **Total possible repositories:** 2499
+* **Repos found:** 739
+* **Repos filtered out (< 25 stars):** 699
+* **Total possible repositories:** 2501
 * **Percent processed:** 29.5%
