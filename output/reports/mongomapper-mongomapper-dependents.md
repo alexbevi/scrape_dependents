@@ -5,16 +5,16 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2993 | 333 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2955 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 908 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 791 | 84 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 320 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| DatabaseCleaner | database_cleaner | 2957 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| maccman | abba | 1350 | 71 | [link](https://github.com/maccman/abba) |
+| crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| nasser | --- | 792 | 84 | [link](https://github.com/nasser/---) |
+| hotsh | rstat.us | 716 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
+| 0x000NULL | CSSR | 319 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
-| jeffkreeftmeijer | navvy | 212 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
+| jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
@@ -58,11 +58,12 @@
 | logankoester | errship | 26 | 5 | [link](https://github.com/logankoester/errship) |
 | djsun | sinatra_resource | 26 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 | fearoffish | aether | 25 | 3 | [link](https://github.com/fearoffish/aether) |
+| mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-02-15T03:09:15.659Z
+* **Last scrape:** 2026-02-22T02:58:23.351Z
 * **Total pages scraped:** 18
-* **Repos found:** 461
+* **Repos found:** 462
 * **Repos filtered out (< 25 stars):** 407
-* **Total possible repositories:** 2811
+* **Total possible repositories:** 2812
 * **Percent processed:** 16.4%
