@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| dotnet | aspire | 5433 | 802 | [link](https://github.com/dotnet/aspire) |
-| BrighterCommand | Brighter | 2379 | 282 | [link](https://github.com/BrighterCommand/Brighter) |
+| dotnet | aspire | 5458 | 808 | [link](https://github.com/dotnet/aspire) |
+| BrighterCommand | Brighter | 2383 | 282 | [link](https://github.com/BrighterCommand/Brighter) |
 | AlphaYu | adnc | 1476 | 392 | [link](https://github.com/AlphaYu/adnc) |
 | netcorepal | netcorepal-cloud-framework | 401 | 89 | [link](https://github.com/netcorepal/netcorepal-cloud-framework) |
 | thisisnabi | Notify | 168 | 49 | [link](https://github.com/thisisnabi/Notify) |
@@ -15,9 +15,9 @@
 | Fcakiroglu16 | UdemyNewMicroservice | 25 | 9 | [link](https://github.com/Fcakiroglu16/UdemyNewMicroservice) |
 
 ---
-* **Last scrape:** 2026-02-15T03:25:19.037Z
+* **Last scrape:** 2026-02-22T03:09:21.980Z
 * **Total pages scraped:** 29
-* **Repos found:** 859
-* **Repos filtered out (< 25 stars):** 850
+* **Repos found:** 860
+* **Repos filtered out (< 25 stars):** 851
 * **Total possible repositories:** 1212
-* **Percent processed:** 70.9%
+* **Percent processed:** 71.0%
