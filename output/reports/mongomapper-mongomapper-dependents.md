@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2993 | 333 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2957 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| public-activity | public_activity | 2994 | 333 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2958 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1350 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 792 | 84 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 716 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 319 | 118 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 305 | 237 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 321 | 119 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 305 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -43,7 +43,7 @@
 | jnunemaker | hunt | 38 | 8 | [link](https://github.com/jnunemaker/hunt) |
 | hide2 | wenda.it | 37 | 5 | [link](https://github.com/hide2/wenda.it) |
 | mcmillan | feeling_cagey | 36 | 5 | [link](https://github.com/mcmillan/feeling_cagey) |
-| jookyboi | rss2webhook | 34 | 6 | [link](https://github.com/jookyboi/rss2webhook) |
+| jookyboi | rss2webhook | 35 | 6 | [link](https://github.com/jookyboi/rss2webhook) |
 | kunal | sinatra-mongodb-sample | 34 | 5 | [link](https://github.com/kunal/sinatra-mongodb-sample) |
 | hassox | veneer | 34 | 2 | [link](https://github.com/hassox/veneer) |
 | padrino | padrino-web-classic | 33 | 10 | [link](https://github.com/padrino/padrino-web-classic) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-02-22T02:58:23.351Z
+* **Last scrape:** 2026-03-01T02:58:06.837Z
 * **Total pages scraped:** 18
-* **Repos found:** 462
-* **Repos filtered out (< 25 stars):** 407
+* **Repos found:** 460
+* **Repos filtered out (< 25 stars):** 405
 * **Total possible repositories:** 2812
 * **Percent processed:** 16.4%
