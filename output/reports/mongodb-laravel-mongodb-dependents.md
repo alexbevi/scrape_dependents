@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1965 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1816 | 369 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1741 | 346 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
-| doubleleft | hook | 769 | 84 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 500 | 276 | [link](https://github.com/jikan-me/jikan-rest) |
+| illacceptanything | illacceptanything | 1966 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1815 | 369 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1745 | 346 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| doubleleft | hook | 770 | 81 | [link](https://github.com/doubleleft/hook) |
+| jikan-me | jikan-rest | 501 | 275 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 59 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 27 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2026-02-22T03:08:57.769Z
-* **Total pages scraped:** 86
-* **Repos found:** 2550
-* **Repos filtered out (< 25 stars):** 2520
+* **Last scrape:** 2026-03-01T03:08:26.315Z
+* **Total pages scraped:** 85
+* **Repos found:** 2524
+* **Repos filtered out (< 25 stars):** 2494
 * **Total possible repositories:** 9353
-* **Percent processed:** 27.3%
+* **Percent processed:** 27.0%
