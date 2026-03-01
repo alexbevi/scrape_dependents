@@ -4,25 +4,26 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4120 | 1255 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2850 | 230 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2551 | 962 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1965 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1903 | 521 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| doctrine-extensions | DoctrineExtensions | 4123 | 1254 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2851 | 230 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2551 | 958 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1966 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
+| dustin10 | VichUploaderBundle | 1904 | 522 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| LLPhant | LLPhant | 1436 | 150 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1265 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 869 | 601 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 775 | 108 | [link](https://github.com/zenstruck/foundry) |
+| Cocolabs-SAS | cocorico | 869 | 600 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 778 | 108 | [link](https://github.com/zenstruck/foundry) |
 | KnpLabs | knp-components | 772 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| markitosgv | JWTRefreshTokenBundle | 701 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 660 | 114 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| markitosgv | JWTRefreshTokenBundle | 702 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| phpstan | phpstan-doctrine | 662 | 116 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 340 | [link](https://github.com/APY/APYDataGridBundle) |
-| sonata-project | SonataMediaBundle | 460 | 484 | [link](https://github.com/sonata-project/SonataMediaBundle) |
+| sonata-project | SonataMediaBundle | 460 | 482 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
-| lexik | LexikTranslationBundle | 433 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| BabDev | Pagerfanta | 422 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
+| lexik | LexikTranslationBundle | 434 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| BabDev | Pagerfanta | 423 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
 | thephpleague | flysystem-bundle | 398 | 78 | [link](https://github.com/thephpleague/flysystem-bundle) |
-| doctrine | DoctrineModule | 395 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
+| doctrine | DoctrineModule | 395 | 262 | [link](https://github.com/doctrine/DoctrineModule) |
 | doctrine | DoctrineMongoDBBundle | 385 | 230 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
 | sonata-project | SonataUserBundle | 346 | 477 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
@@ -67,9 +68,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-02-22T03:00:02.106Z
+* **Last scrape:** 2026-03-01T03:00:05.296Z
 * **Total pages scraped:** 31
-* **Repos found:** 910
-* **Repos filtered out (< 25 stars):** 849
-* **Total possible repositories:** 3115
-* **Percent processed:** 29.2%
+* **Repos found:** 912
+* **Repos filtered out (< 25 stars):** 850
+* **Total possible repositories:** 3117
+* **Percent processed:** 29.3%
