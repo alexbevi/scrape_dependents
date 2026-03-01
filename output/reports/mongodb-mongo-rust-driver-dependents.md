@@ -4,86 +4,86 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pathwaycom | pathway | 59653 | 1609 | [link](https://github.com/pathwaycom/pathway) |
-| rwf2 | Rocket | 25673 | 1618 | [link](https://github.com/rwf2/Rocket) |
-| tokio-rs | axum | 25051 | 1348 | [link](https://github.com/tokio-rs/axum) |
-| NixOS | nixpkgs | 23551 | 18066 | [link](https://github.com/NixOS/nixpkgs) |
-| vectordotdev | vector | 21352 | 2010 | [link](https://github.com/vectordotdev/vector) |
-| moghtech | komodo | 10312 | 273 | [link](https://github.com/moghtech/komodo) |
-| yutiansut | QUANTAXIS | 9960 | 3277 | [link](https://github.com/yutiansut/QUANTAXIS) |
-| risingwavelabs | risingwave | 8805 | 735 | [link](https://github.com/risingwavelabs/risingwave) |
-| TechEmpower | FrameworkBenchmarks | 8061 | 2034 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
-| 0xPlaygrounds | rig | 6068 | 662 | [link](https://github.com/0xPlaygrounds/rig) |
-| apache | opendal | 4900 | 715 | [link](https://github.com/apache/opendal) |
-| poem-web | poem | 4350 | 348 | [link](https://github.com/poem-web/poem) |
-| salvo-rs | salvo | 4243 | 261 | [link](https://github.com/salvo-rs/salvo) |
-| actix | examples | 3950 | 812 | [link](https://github.com/actix/examples) |
-| documentdb | documentdb | 3206 | 212 | [link](https://github.com/documentdb/documentdb) |
-| gluesql | gluesql | 3037 | 246 | [link](https://github.com/gluesql/gluesql) |
-| spiceai | spiceai | 2803 | 172 | [link](https://github.com/spiceai/spiceai) |
-| stoatchat | stoatchat | 2666 | 293 | [link](https://github.com/stoatchat/stoatchat) |
-| near | nearcore | 2566 | 760 | [link](https://github.com/near/nearcore) |
-| stumpapp | stump | 1935 | 92 | [link](https://github.com/stumpapp/stump) |
-| rustsec | rustsec | 1840 | 172 | [link](https://github.com/rustsec/rustsec) |
-| evilsocket | legba | 1800 | 110 | [link](https://github.com/evilsocket/legba) |
-| getdozer | dozer | 1575 | 125 | [link](https://github.com/getdozer/dozer) |
-| Totodore | socketioxide | 1559 | 75 | [link](https://github.com/Totodore/socketioxide) |
-| robustmq | robustmq | 1518 | 213 | [link](https://github.com/robustmq/robustmq) |
-| TraceMachina | nativelink | 1486 | 207 | [link](https://github.com/TraceMachina/nativelink) |
-| picahq | pica | 1453 | 91 | [link](https://github.com/picahq/pica) |
-| teodevgroup | teo | 1444 | 46 | [link](https://github.com/teodevgroup/teo) |
-| buckyos | CYFS | 1438 | 201 | [link](https://github.com/buckyos/CYFS) |
-| prisma | prisma-engines | 1319 | 294 | [link](https://github.com/prisma/prisma-engines) |
-| drasi-project | drasi-platform | 1211 | 76 | [link](https://github.com/drasi-project/drasi-platform) |
-| PoloDB | PoloDB | 1174 | 56 | [link](https://github.com/PoloDB/PoloDB) |
-| owasp-noir | noir | 1103 | 99 | [link](https://github.com/owasp-noir/noir) |
-| piotrostr | listen | 1086 | 165 | [link](https://github.com/piotrostr/listen) |
+| pathwaycom | pathway | 59572 | 1609 | [link](https://github.com/pathwaycom/pathway) |
+| rwf2 | Rocket | 25683 | 1618 | [link](https://github.com/rwf2/Rocket) |
+| tokio-rs | axum | 25137 | 1351 | [link](https://github.com/tokio-rs/axum) |
+| NixOS | nixpkgs | 23634 | 18133 | [link](https://github.com/NixOS/nixpkgs) |
+| vectordotdev | vector | 21401 | 2023 | [link](https://github.com/vectordotdev/vector) |
+| moghtech | komodo | 10406 | 276 | [link](https://github.com/moghtech/komodo) |
+| yutiansut | QUANTAXIS | 9993 | 3283 | [link](https://github.com/yutiansut/QUANTAXIS) |
+| risingwavelabs | risingwave | 8825 | 735 | [link](https://github.com/risingwavelabs/risingwave) |
+| TechEmpower | FrameworkBenchmarks | 8070 | 2040 | [link](https://github.com/TechEmpower/FrameworkBenchmarks) |
+| 0xPlaygrounds | rig | 6177 | 671 | [link](https://github.com/0xPlaygrounds/rig) |
+| apache | opendal | 4914 | 719 | [link](https://github.com/apache/opendal) |
+| poem-web | poem | 4359 | 348 | [link](https://github.com/poem-web/poem) |
+| salvo-rs | salvo | 4254 | 262 | [link](https://github.com/salvo-rs/salvo) |
+| actix | examples | 3948 | 810 | [link](https://github.com/actix/examples) |
+| gluesql | gluesql | 3040 | 246 | [link](https://github.com/gluesql/gluesql) |
+| spiceai | spiceai | 2809 | 173 | [link](https://github.com/spiceai/spiceai) |
+| stoatchat | stoatchat | 2757 | 313 | [link](https://github.com/stoatchat/stoatchat) |
+| near | nearcore | 2569 | 763 | [link](https://github.com/near/nearcore) |
+| stumpapp | stump | 1942 | 93 | [link](https://github.com/stumpapp/stump) |
+| rustsec | rustsec | 1847 | 171 | [link](https://github.com/rustsec/rustsec) |
+| evilsocket | legba | 1804 | 110 | [link](https://github.com/evilsocket/legba) |
+| getdozer | dozer | 1576 | 124 | [link](https://github.com/getdozer/dozer) |
+| Totodore | socketioxide | 1563 | 75 | [link](https://github.com/Totodore/socketioxide) |
+| robustmq | robustmq | 1523 | 214 | [link](https://github.com/robustmq/robustmq) |
+| TraceMachina | nativelink | 1493 | 207 | [link](https://github.com/TraceMachina/nativelink) |
+| picahq | pica | 1455 | 93 | [link](https://github.com/picahq/pica) |
+| teodevgroup | teo | 1443 | 46 | [link](https://github.com/teodevgroup/teo) |
+| buckyos | CYFS | 1437 | 201 | [link](https://github.com/buckyos/CYFS) |
+| prisma | prisma-engines | 1321 | 296 | [link](https://github.com/prisma/prisma-engines) |
+| drasi-project | drasi-platform | 1213 | 79 | [link](https://github.com/drasi-project/drasi-platform) |
+| PoloDB | PoloDB | 1176 | 56 | [link](https://github.com/PoloDB/PoloDB) |
+| owasp-noir | noir | 1108 | 99 | [link](https://github.com/owasp-noir/noir) |
+| piotrostr | listen | 1085 | 166 | [link](https://github.com/piotrostr/listen) |
 | khonsulabs | bonsaidb | 1056 | 38 | [link](https://github.com/khonsulabs/bonsaidb) |
-| y-scope | clp | 1034 | 88 | [link](https://github.com/y-scope/clp) |
-| solana-playground | solana-playground | 918 | 394 | [link](https://github.com/solana-playground/solana-playground) |
-| mongodb | kingfisher | 824 | 64 | [link](https://github.com/mongodb/kingfisher) |
-| mongodb | docs | 768 | 1707 | [link](https://github.com/mongodb/docs) |
+| y-scope | clp | 1045 | 88 | [link](https://github.com/y-scope/clp) |
+| solana-playground | solana-playground | 924 | 398 | [link](https://github.com/solana-playground/solana-playground) |
+| mongodb | kingfisher | 846 | 66 | [link](https://github.com/mongodb/kingfisher) |
+| mongodb | docs | 768 | 1706 | [link](https://github.com/mongodb/docs) |
 | CSML-by-Clevy | csml-engine | 721 | 65 | [link](https://github.com/CSML-by-Clevy/csml-engine) |
-| thalo-rs | thalo | 675 | 17 | [link](https://github.com/thalo-rs/thalo) |
-| rnadigital | agentcloud | 672 | 143 | [link](https://github.com/rnadigital/agentcloud) |
-| category-labs | monad-bft | 652 | 320 | [link](https://github.com/category-labs/monad-bft) |
-| merlinfuchs | embed-generator | 636 | 58 | [link](https://github.com/merlinfuchs/embed-generator) |
-| apecloud | ape-dts | 550 | 88 | [link](https://github.com/apecloud/ape-dts) |
+| thalo-rs | thalo | 674 | 17 | [link](https://github.com/thalo-rs/thalo) |
+| rnadigital | agentcloud | 673 | 142 | [link](https://github.com/rnadigital/agentcloud) |
+| category-labs | monad-bft | 653 | 319 | [link](https://github.com/category-labs/monad-bft) |
+| merlinfuchs | embed-generator | 639 | 57 | [link](https://github.com/merlinfuchs/embed-generator) |
+| apecloud | ape-dts | 553 | 88 | [link](https://github.com/apecloud/ape-dts) |
+| Bayselonarrend | OpenIntegrations | 550 | 67 | [link](https://github.com/Bayselonarrend/OpenIntegrations) |
 | ndelvalle | rustapi | 540 | 65 | [link](https://github.com/ndelvalle/rustapi) |
 | DelphinusLab | zkWasm | 539 | 130 | [link](https://github.com/DelphinusLab/zkWasm) |
-| Bayselonarrend | OpenIntegrations | 536 | 65 | [link](https://github.com/Bayselonarrend/OpenIntegrations) |
-| zevnda | steam-game-idler | 476 | 25 | [link](https://github.com/zevnda/steam-game-idler) |
+| zevnda | steam-game-idler | 489 | 25 | [link](https://github.com/zevnda/steam-game-idler) |
 | metatypedev | metatype | 403 | 15 | [link](https://github.com/metatypedev/metatype) |
-| maxcountryman | tower-sessions | 393 | 58 | [link](https://github.com/maxcountryman/tower-sessions) |
-| klpod221 | kerminal | 392 | 35 | [link](https://github.com/klpod221/kerminal) |
+| klpod221 | kerminal | 393 | 35 | [link](https://github.com/klpod221/kerminal) |
+| maxcountryman | tower-sessions | 392 | 60 | [link](https://github.com/maxcountryman/tower-sessions) |
 | adams322111233221 | solana-mev-bot | 383 | 119 | [link](https://github.com/adams322111233221/solana-mev-bot) |
 | PacktPublishing | Hands-On-Microservices-with-Rust | 374 | 117 | [link](https://github.com/PacktPublishing/Hands-On-Microservices-with-Rust) |
 | thedodd | wither | 349 | 43 | [link](https://github.com/thedodd/wither) |
-| ZingerLittleBee | server_bee-backend | 327 | 15 | [link](https://github.com/ZingerLittleBee/server_bee-backend) |
+| ZingerLittleBee | server_bee-backend | 328 | 15 | [link](https://github.com/ZingerLittleBee/server_bee-backend) |
 | mat-1 | matscan | 302 | 13 | [link](https://github.com/mat-1/matscan) |
-| Rock-Candy-Tea | hexo-circle-of-friends | 300 | 489 | [link](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) |
+| Rock-Candy-Tea | hexo-circle-of-friends | 300 | 490 | [link](https://github.com/Rock-Candy-Tea/hexo-circle-of-friends) |
 | fcoury | oxide | 284 | 6 | [link](https://github.com/fcoury/oxide) |
 | gluesql | glues | 263 | 13 | [link](https://github.com/gluesql/glues) |
 | apibara | dna | 213 | 34 | [link](https://github.com/apibara/dna) |
-| polytope-labs | hyperbridge | 199 | 91 | [link](https://github.com/polytope-labs/hyperbridge) |
+| gotempsh | temps | 204 | 7 | [link](https://github.com/gotempsh/temps) |
+| polytope-labs | hyperbridge | 198 | 90 | [link](https://github.com/polytope-labs/hyperbridge) |
 | niuhuan | rust_proc_qq | 197 | 17 | [link](https://github.com/niuhuan/rust_proc_qq) |
-| l0rd | containerspatterns | 197 | 23 | [link](https://github.com/l0rd/containerspatterns) |
-| AscendingCreations | AxumSession | 195 | 42 | [link](https://github.com/AscendingCreations/AxumSession) |
-| rodrigorodrigues | microservices-design-patterns | 179 | 66 | [link](https://github.com/rodrigorodrigues/microservices-design-patterns) |
-| SevenTV | SevenTV | 176 | 34 | [link](https://github.com/SevenTV/SevenTV) |
-| joaquinbejar | OptionStratLib | 167 | 30 | [link](https://github.com/joaquinbejar/OptionStratLib) |
-| alexichepura | bevy_garage | 165 | 15 | [link](https://github.com/alexichepura/bevy_garage) |
+| AscendingCreations | AxumSession | 196 | 44 | [link](https://github.com/AscendingCreations/AxumSession) |
+| l0rd | containerspatterns | 195 | 23 | [link](https://github.com/l0rd/containerspatterns) |
+| rodrigorodrigues | microservices-design-patterns | 180 | 66 | [link](https://github.com/rodrigorodrigues/microservices-design-patterns) |
+| SevenTV | SevenTV | 177 | 36 | [link](https://github.com/SevenTV/SevenTV) |
+| joaquinbejar | OptionStratLib | 170 | 30 | [link](https://github.com/joaquinbejar/OptionStratLib) |
+| alexichepura | bevy_garage | 167 | 15 | [link](https://github.com/alexichepura/bevy_garage) |
 | testcontainers | testcontainers-rs-modules-community | 161 | 75 | [link](https://github.com/testcontainers/testcontainers-rs-modules-community) |
 | emreyalvac | actix-web-jwt | 156 | 21 | [link](https://github.com/emreyalvac/actix-web-jwt) |
+| zavora-ai | adk-rust | 148 | 22 | [link](https://github.com/zavora-ai/adk-rust) |
 | llamafolio | evm-indexer | 142 | 29 | [link](https://github.com/llamafolio/evm-indexer) |
-| soybeanjs | soybean-admin-rust | 137 | 23 | [link](https://github.com/soybeanjs/soybean-admin-rust) |
-| AscendingCreations | AxumSessionAuth | 129 | 15 | [link](https://github.com/AscendingCreations/AxumSessionAuth) |
-| zavora-ai | adk-rust | 126 | 19 | [link](https://github.com/zavora-ai/adk-rust) |
+| soybeanjs | soybean-admin-rust | 139 | 23 | [link](https://github.com/soybeanjs/soybean-admin-rust) |
+| AscendingCreations | AxumSessionAuth | 129 | 16 | [link](https://github.com/AscendingCreations/AxumSessionAuth) |
 | flashbots | hindsight | 126 | 18 | [link](https://github.com/flashbots/hindsight) |
 | madara-alliance | madara | 121 | 75 | [link](https://github.com/madara-alliance/madara) |
 | valeth | javelin | 114 | 11 | [link](https://github.com/valeth/javelin) |
-| tanksys | AlloyStack | 111 | 13 | [link](https://github.com/tanksys/AlloyStack) |
-| yutiansut | qaaccount-rs | 104 | 58 | [link](https://github.com/yutiansut/qaaccount-rs) |
+| tanksys | AlloyStack | 105 | 13 | [link](https://github.com/tanksys/AlloyStack) |
+| yutiansut | qaaccount-rs | 104 | 59 | [link](https://github.com/yutiansut/qaaccount-rs) |
 | JasonThon | lightflus | 100 | 10 | [link](https://github.com/JasonThon/lightflus) |
 | Xu-Mj | sandcat-backend | 95 | 17 | [link](https://github.com/Xu-Mj/sandcat-backend) |
 | eabz | evm-indexer | 87 | 8 | [link](https://github.com/eabz/evm-indexer) |
@@ -95,12 +95,12 @@
 | yutiansut | qaexchange-rs | 71 | 46 | [link](https://github.com/yutiansut/qaexchange-rs) |
 | drewzemke | tongo | 68 | 4 | [link](https://github.com/drewzemke/tongo) |
 | mehmetsefabalik | rust-mongodb-example | 68 | 12 | [link](https://github.com/mehmetsefabalik/rust-mongodb-example) |
-| gotempsh | temps | 67 | 0 | [link](https://github.com/gotempsh/temps) |
+| keep-starknet-strange | snos | 67 | 37 | [link](https://github.com/keep-starknet-strange/snos) |
 | mominul | packhub | 67 | 3 | [link](https://github.com/mominul/packhub) |
 | haaarshsingh | snip | 67 | 2 | [link](https://github.com/haaarshsingh/snip) |
-| TaeyoonKwon | rust-rocket-sample | 66 | 18 | [link](https://github.com/TaeyoonKwon/rust-rocket-sample) |
+| TaeyoonKwon | rust-rocket-sample | 67 | 19 | [link](https://github.com/TaeyoonKwon/rust-rocket-sample) |
 | alumet-dev | alumet | 65 | 18 | [link](https://github.com/alumet-dev/alumet) |
-| dirien | quick-bites | 58 | 5 | [link](https://github.com/dirien/quick-bites) |
+| dirien | quick-bites | 59 | 5 | [link](https://github.com/dirien/quick-bites) |
 | Borber | Whisperer | 58 | 5 | [link](https://github.com/Borber/Whisperer) |
 | lukidoescode | yew-fullstack-boilerplate | 58 | 4 | [link](https://github.com/lukidoescode/yew-fullstack-boilerplate) |
 | snipsco | sda | 58 | 19 | [link](https://github.com/snipsco/sda) |
@@ -119,18 +119,18 @@
 | diem | whackadep | 50 | 13 | [link](https://github.com/diem/whackadep) |
 | yutiansut | qatrader-rs | 50 | 52 | [link](https://github.com/yutiansut/qatrader-rs) |
 | WSOL12 | Solana-Relayer | 49 | 18 | [link](https://github.com/WSOL12/Solana-Relayer) |
-| firegloves | Hexagonal-Sandwich-Recipes | 48 | 3 | [link](https://github.com/firegloves/Hexagonal-Sandwich-Recipes) |
 | Paul-Folbrecht | algo-trading | 47 | 13 | [link](https://github.com/Paul-Folbrecht/algo-trading) |
+| maxcountryman | tower-sessions-stores | 47 | 31 | [link](https://github.com/maxcountryman/tower-sessions-stores) |
+| firegloves | Hexagonal-Sandwich-Recipes | 47 | 3 | [link](https://github.com/firegloves/Hexagonal-Sandwich-Recipes) |
 | getong | rust_example | 46 | 8 | [link](https://github.com/getong/rust_example) |
-| stoatchat | rust-authifier | 46 | 20 | [link](https://github.com/stoatchat/rust-authifier) |
-| maxcountryman | tower-sessions-stores | 45 | 31 | [link](https://github.com/maxcountryman/tower-sessions-stores) |
+| stoatchat | rust-authifier | 46 | 21 | [link](https://github.com/stoatchat/rust-authifier) |
 | zzy | tide-async-graphql-mongodb | 45 | 10 | [link](https://github.com/zzy/tide-async-graphql-mongodb) |
 | chojs23 | realworld-axum-prisma | 44 | 1 | [link](https://github.com/chojs23/realworld-axum-prisma) |
 | Blobscan | blobscan-indexer.rs | 44 | 12 | [link](https://github.com/Blobscan/blobscan-indexer.rs) |
+| Cassielxd | cassie_axum | 44 | 7 | [link](https://github.com/Cassielxd/cassie_axum) |
 | auth0-blog | rust-api-example | 44 | 18 | [link](https://github.com/auth0-blog/rust-api-example) |
 | AxelAramburu | MEV_Bot_Solana | 43 | 16 | [link](https://github.com/AxelAramburu/MEV_Bot_Solana) |
-| Cassielxd | cassie_axum | 43 | 7 | [link](https://github.com/Cassielxd/cassie_axum) |
-| mehmetsefabalik | keci-mobile-api | 43 | 3 | [link](https://github.com/mehmetsefabalik/keci-mobile-api) |
+| mehmetsefabalik | keci-mobile-api | 42 | 3 | [link](https://github.com/mehmetsefabalik/keci-mobile-api) |
 | Milo123459 | Spencer | 41 | 19 | [link](https://github.com/Milo123459/Spencer) |
 | anharu2394 | multiplay-grpc-server | 41 | 2 | [link](https://github.com/anharu2394/multiplay-grpc-server) |
 | caphindsight | ergothic | 41 | 5 | [link](https://github.com/caphindsight/ergothic) |
@@ -138,9 +138,9 @@
 | Azure | mec-app-solution-accelerator | 40 | 13 | [link](https://github.com/Azure/mec-app-solution-accelerator) |
 | auguwu | ume | 39 | 7 | [link](https://github.com/auguwu/ume) |
 | PureSci | nori | 39 | 4 | [link](https://github.com/PureSci/nori) |
+| surrealdb | crud-bench | 38 | 8 | [link](https://github.com/surrealdb/crud-bench) |
 | MCOfficer | odcrawler-discovery | 38 | 3 | [link](https://github.com/MCOfficer/odcrawler-discovery) |
 | fits | try_samples | 38 | 22 | [link](https://github.com/fits/try_samples) |
-| surrealdb | crud-bench | 36 | 8 | [link](https://github.com/surrealdb/crud-bench) |
 | torikushiii | hoyoverse-api | 35 | 3 | [link](https://github.com/torikushiii/hoyoverse-api) |
 | sniper00 | moon_rs | 34 | 1 | [link](https://github.com/sniper00/moon_rs) |
 | Devolutions | mongodm-rs | 34 | 11 | [link](https://github.com/Devolutions/mongodm-rs) |
@@ -151,6 +151,7 @@
 | shiroyk | cowork | 31 | 8 | [link](https://github.com/shiroyk/cowork) |
 | wpcodevo | rust-axum-mongodb | 31 | 10 | [link](https://github.com/wpcodevo/rust-axum-mongodb) |
 | aelgohar | rusty-connect4 | 31 | 9 | [link](https://github.com/aelgohar/rusty-connect4) |
+| SaadxSalman | Architect-s-Vault | 30 | 2 | [link](https://github.com/SaadxSalman/Architect-s-Vault) |
 | MozillaIndia | RustIndia | 30 | 25 | [link](https://github.com/MozillaIndia/RustIndia) |
 | ArkProjectNFTs | ark-project | 29 | 29 | [link](https://github.com/ArkProjectNFTs/ark-project) |
 | louis030195 | rustlang-rocket-mongodb | 29 | 10 | [link](https://github.com/louis030195/rustlang-rocket-mongodb) |
@@ -168,9 +169,9 @@
 | Mr-Malomz | actix-mongo-api | 25 | 4 | [link](https://github.com/Mr-Malomz/actix-mongo-api) |
 
 ---
-* **Last scrape:** 2026-02-22T03:11:36.531Z
-* **Total pages scraped:** 159
-* **Repos found:** 4685
-* **Repos filtered out (< 25 stars):** 4523
-* **Total possible repositories:** 11492
-* **Percent processed:** 40.8%
+* **Last scrape:** 2026-03-01T03:15:09.929Z
+* **Total pages scraped:** 158
+* **Repos found:** 4649
+* **Repos filtered out (< 25 stars):** 4486
+* **Total possible repositories:** 11509
+* **Percent processed:** 40.4%
