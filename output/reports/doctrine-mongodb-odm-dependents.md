@@ -5,23 +5,23 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | doctrine-extensions | DoctrineExtensions | 4123 | 1254 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2851 | 230 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2551 | 958 | [link](https://github.com/api-platform/core) |
+| doctrine | data-fixtures | 2853 | 230 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2551 | 959 | [link](https://github.com/api-platform/core) |
 | illacceptanything | illacceptanything | 1966 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1904 | 522 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1436 | 150 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| dustin10 | VichUploaderBundle | 1903 | 522 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| LLPhant | LLPhant | 1439 | 150 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1080 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
 | Cocolabs-SAS | cocorico | 869 | 600 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 778 | 108 | [link](https://github.com/zenstruck/foundry) |
-| KnpLabs | knp-components | 772 | 138 | [link](https://github.com/KnpLabs/knp-components) |
+| zenstruck | foundry | 780 | 108 | [link](https://github.com/zenstruck/foundry) |
+| KnpLabs | knp-components | 773 | 138 | [link](https://github.com/KnpLabs/knp-components) |
 | markitosgv | JWTRefreshTokenBundle | 702 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 662 | 116 | [link](https://github.com/phpstan/phpstan-doctrine) |
-| APY | APYDataGridBundle | 492 | 340 | [link](https://github.com/APY/APYDataGridBundle) |
+| phpstan | phpstan-doctrine | 663 | 116 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| APY | APYDataGridBundle | 492 | 341 | [link](https://github.com/APY/APYDataGridBundle) |
 | sonata-project | SonataMediaBundle | 460 | 482 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
 | lexik | LexikTranslationBundle | 434 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| BabDev | Pagerfanta | 423 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
+| BabDev | Pagerfanta | 424 | 168 | [link](https://github.com/BabDev/Pagerfanta) |
 | thephpleague | flysystem-bundle | 398 | 78 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineModule | 395 | 262 | [link](https://github.com/doctrine/DoctrineModule) |
 | doctrine | DoctrineMongoDBBundle | 385 | 230 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
@@ -32,7 +32,7 @@
 | sonata-project | sonata-doctrine-extensions | 269 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | liip | LiipTestFixturesBundle | 176 | 49 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| sonata-project | SonataNewsBundle | 151 | 128 | [link](https://github.com/sonata-project/SonataNewsBundle) |
+| sonata-project | SonataNewsBundle | 151 | 127 | [link](https://github.com/sonata-project/SonataNewsBundle) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | cross-solution | YAWIK | 131 | 66 | [link](https://github.com/cross-solution/YAWIK) |
 | mmucklo | DtcQueueBundle | 120 | 38 | [link](https://github.com/mmucklo/DtcQueueBundle) |
@@ -63,14 +63,14 @@
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
 | automagistre | automagistre | 29 | 7 | [link](https://github.com/automagistre/automagistre) |
 | guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
+| klapaudius | symfony-mcp-server | 27 | 3 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
-| klapaudius | symfony-mcp-server | 26 | 3 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-03-01T03:00:05.296Z
+* **Last scrape:** 2026-03-08T02:48:19.495Z
 * **Total pages scraped:** 31
-* **Repos found:** 912
-* **Repos filtered out (< 25 stars):** 850
-* **Total possible repositories:** 3117
-* **Percent processed:** 29.3%
+* **Repos found:** 911
+* **Repos filtered out (< 25 stars):** 849
+* **Total possible repositories:** 3118
+* **Percent processed:** 29.2%
