@@ -5,14 +5,14 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2994 | 333 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2958 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| DatabaseCleaner | database_cleaner | 2959 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1350 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 792 | 84 | [link](https://github.com/nasser/---) |
+| nasser | --- | 793 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 321 | 119 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 305 | 236 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 323 | 119 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 306 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -51,8 +51,8 @@
 | MLH | mlh-no-light | 33 | 25 | [link](https://github.com/MLH/mlh-no-light) |
 | ramdiv | mongo_mapper_acts_as_tree | 31 | 30 | [link](https://github.com/ramdiv/mongo_mapper_acts_as_tree) |
 | obfuscurity | lipstick | 29 | 2 | [link](https://github.com/obfuscurity/lipstick) |
+| yalcin | ruby-imdb | 28 | 9 | [link](https://github.com/yalcin/ruby-imdb) |
 | lastomato | mongo_followable | 28 | 10 | [link](https://github.com/lastomato/mongo_followable) |
-| yalcin | ruby-imdb | 27 | 9 | [link](https://github.com/yalcin/ruby-imdb) |
 | sunlightlabs | poligraft | 26 | 2 | [link](https://github.com/sunlightlabs/poligraft) |
 | dcu | mongomapper_ext | 26 | 4 | [link](https://github.com/dcu/mongomapper_ext) |
 | logankoester | errship | 26 | 5 | [link](https://github.com/logankoester/errship) |
@@ -61,7 +61,7 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-03-01T02:58:06.837Z
+* **Last scrape:** 2026-03-08T02:46:05.528Z
 * **Total pages scraped:** 18
 * **Repos found:** 460
 * **Repos filtered out (< 25 stars):** 405
