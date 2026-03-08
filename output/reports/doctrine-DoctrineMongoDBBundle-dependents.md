@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2551 | 958 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2214 | 437 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2551 | 959 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2216 | 437 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1966 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1436 | 150 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| LLPhant | LLPhant | 1439 | 150 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 869 | 600 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 778 | 108 | [link](https://github.com/zenstruck/foundry) |
+| zenstruck | foundry | 780 | 108 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 702 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 434 | 264 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
@@ -19,7 +19,7 @@
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 176 | 49 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| getparthenon | parthenon | 173 | 12 | [link](https://github.com/getparthenon/parthenon) |
+| getparthenon | parthenon | 173 | 13 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 123 | 71 | [link](https://github.com/floriansemm/SolrBundle) |
 | h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
@@ -47,9 +47,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-03-01T03:12:06.201Z
+* **Last scrape:** 2026-03-08T03:03:49.684Z
 * **Total pages scraped:** 26
 * **Repos found:** 741
 * **Repos filtered out (< 25 stars):** 700
-* **Total possible repositories:** 2503
+* **Total possible repositories:** 2504
 * **Percent processed:** 29.6%
