@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1966 | 588 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1814 | 369 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1747 | 346 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| illacceptanything | illacceptanything | 1967 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1814 | 368 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1751 | 348 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 770 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 504 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 506 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 59 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -22,7 +22,7 @@
 | merlosy | laravel-restful-api-starter | 68 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
 | designmynight | laravel-mongodb-passport | 67 | 77 | [link](https://github.com/designmynight/laravel-mongodb-passport) |
 | huijimuhe | monolog-web | 66 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
-| hoangsonww | Moodify-Emotion-Music-App | 61 | 22 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
+| hoangsonww | Moodify-Emotion-Music-App | 61 | 21 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 27 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2026-03-08T02:59:50.447Z
-* **Total pages scraped:** 85
-* **Repos found:** 2502
-* **Repos filtered out (< 25 stars):** 2472
-* **Total possible repositories:** 9353
-* **Percent processed:** 26.8%
+* **Last scrape:** 2026-03-15T03:10:35.537Z
+* **Total pages scraped:** 84
+* **Repos found:** 2490
+* **Repos filtered out (< 25 stars):** 2460
+* **Total possible repositories:** 9354
+* **Percent processed:** 26.6%
