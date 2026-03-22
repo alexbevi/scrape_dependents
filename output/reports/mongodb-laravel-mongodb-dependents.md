@@ -6,12 +6,12 @@
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1967 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1814 | 368 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1751 | 348 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1755 | 348 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 770 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 506 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 508 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 59 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
-| laynefyc | php-monitor | 237 | 34 | [link](https://github.com/laynefyc/php-monitor) |
+| laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 135 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 125 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
@@ -26,19 +26,19 @@
 | CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
-| piordev555 | runeruby-casino | 51 | 28 | [link](https://github.com/piordev555/runeruby-casino) |
+| piordev555 | runeruby-casino | 51 | 27 | [link](https://github.com/piordev555/runeruby-casino) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
 | elcobvg | lumen-realworld-example-app | 49 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
 | huijimuhe | lottery-web | 29 | 16 | [link](https://github.com/huijimuhe/lottery-web) |
-| FogosPT | fogosapi | 27 | 4 | [link](https://github.com/FogosPT/fogosapi) |
+| FogosPT | fogosapi | 28 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2026-03-15T03:10:35.537Z
-* **Total pages scraped:** 84
-* **Repos found:** 2490
-* **Repos filtered out (< 25 stars):** 2460
+* **Last scrape:** 2026-03-22T02:54:42.393Z
+* **Total pages scraped:** 83
+* **Repos found:** 2466
+* **Repos filtered out (< 25 stars):** 2436
 * **Total possible repositories:** 9354
-* **Percent processed:** 26.6%
+* **Percent processed:** 26.4%
