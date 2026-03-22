@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2992 | 333 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2989 | 332 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2959 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1350 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 793 | 84 | [link](https://github.com/nasser/---) |
+| nasser | --- | 795 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 323 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 325 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 306 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -20,7 +20,7 @@
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | bratta | fikus | 134 | 22 | [link](https://github.com/bratta/fikus) |
 | jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
-| jwood | tenacity | 116 | 17 | [link](https://github.com/jwood/tenacity) |
+| jwood | tenacity | 115 | 16 | [link](https://github.com/jwood/tenacity) |
 | dcrec1 | acts_as_solr_reloaded | 102 | 29 | [link](https://github.com/dcrec1/acts_as_solr_reloaded) |
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 | alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
@@ -28,7 +28,7 @@
 | nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
 | brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
-| caged | portlandcrime | 65 | 4 | [link](https://github.com/caged/portlandcrime) |
+| caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
 | arfon | fidgit | 62 | 47 | [link](https://github.com/arfon/fidgit) |
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
@@ -61,9 +61,9 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-03-15T02:52:48.846Z
+* **Last scrape:** 2026-03-22T02:43:59.082Z
 * **Total pages scraped:** 18
 * **Repos found:** 460
 * **Repos filtered out (< 25 stars):** 405
-* **Total possible repositories:** 2812
-* **Percent processed:** 16.4%
+* **Total possible repositories:** 2814
+* **Percent processed:** 16.3%
