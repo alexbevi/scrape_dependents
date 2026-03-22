@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OWASP | crAPI | 1449 | 532 | [link](https://github.com/OWASP/crAPI) |
-| damklis | DataEngineeringProject | 1394 | 275 | [link](https://github.com/damklis/DataEngineeringProject) |
-| sajib1066 | django-event-management | 180 | 96 | [link](https://github.com/sajib1066/django-event-management) |
-| cyantarek | django-microservices | 166 | 90 | [link](https://github.com/cyantarek/django-microservices) |
-| frg-fossee | eSim-Cloud | 161 | 233 | [link](https://github.com/frg-fossee/eSim-Cloud) |
+| OWASP | crAPI | 1457 | 535 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1397 | 274 | [link](https://github.com/damklis/DataEngineeringProject) |
+| sajib1066 | django-event-management | 180 | 97 | [link](https://github.com/sajib1066/django-event-management) |
+| cyantarek | django-microservices | 166 | 89 | [link](https://github.com/cyantarek/django-microservices) |
+| frg-fossee | eSim-Cloud | 161 | 232 | [link](https://github.com/frg-fossee/eSim-Cloud) |
 | drshahizan | special-topic-data-engineering | 126 | 80 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
 | diyframework | django-microservice | 83 | 42 | [link](https://github.com/diyframework/django-microservice) |
 | drshahizan | SECP3843 | 62 | 59 | [link](https://github.com/drshahizan/SECP3843) |
@@ -25,9 +25,9 @@
 | pranavcode | consul-demo | 26 | 23 | [link](https://github.com/pranavcode/consul-demo) |
 
 ---
-* **Last scrape:** 2026-03-15T03:07:57.955Z
-* **Total pages scraped:** 174
-* **Repos found:** 5167
-* **Repos filtered out (< 25 stars):** 5148
-* **Total possible repositories:** 12577
-* **Percent processed:** 41.1%
+* **Last scrape:** 2026-03-22T02:51:57.393Z
+* **Total pages scraped:** 173
+* **Repos found:** 5143
+* **Repos filtered out (< 25 stars):** 5124
+* **Total possible repositories:** 12579
+* **Percent processed:** 40.9%
