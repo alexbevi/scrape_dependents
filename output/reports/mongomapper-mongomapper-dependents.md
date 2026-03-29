@@ -6,12 +6,12 @@
 |---|---|---|---|---|
 | public-activity | public_activity | 2989 | 332 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2959 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1350 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 795 | 83 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 715 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| nasser | --- | 794 | 83 | [link](https://github.com/nasser/---) |
+| hotsh | rstat.us | 716 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 325 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 329 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 306 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -25,7 +25,7 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 | alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
 | maccman | push | 81 | 4 | [link](https://github.com/maccman/push) |
-| nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
+| nmerouze | machinist_mongo | 79 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
 | brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
 | caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
@@ -61,7 +61,7 @@
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
 
 ---
-* **Last scrape:** 2026-03-22T02:43:59.082Z
+* **Last scrape:** 2026-03-29T02:47:27.838Z
 * **Total pages scraped:** 18
 * **Repos found:** 460
 * **Repos filtered out (< 25 stars):** 405
