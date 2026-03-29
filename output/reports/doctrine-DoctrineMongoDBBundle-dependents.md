@@ -4,17 +4,17 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2555 | 960 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2556 | 961 | [link](https://github.com/api-platform/core) |
 | php-enqueue | enqueue-dev | 2214 | 435 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1967 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1445 | 150 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1448 | 150 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1264 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 869 | 600 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 781 | 109 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 703 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| zenstruck | foundry | 782 | 110 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 705 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 435 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 329 | 30 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 326 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| theofidry | AliceDataFixtures | 325 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 32 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
@@ -28,7 +28,7 @@
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 93 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 29 | [link](https://github.com/henter/HenterGEO) |
 | nucleos | NucleosUserBundle | 60 | 17 | [link](https://github.com/nucleos/NucleosUserBundle) |
-| MacPaw | symfony-health-check-bundle | 59 | 8 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
+| MacPaw | symfony-health-check-bundle | 59 | 9 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | pumukit | PuMuKIT | 57 | 18 | [link](https://github.com/pumukit/PuMuKIT) |
@@ -47,9 +47,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-03-22T02:55:36.063Z
+* **Last scrape:** 2026-03-29T03:07:36.874Z
 * **Total pages scraped:** 26
-* **Repos found:** 742
-* **Repos filtered out (< 25 stars):** 701
-* **Total possible repositories:** 2506
+* **Repos found:** 741
+* **Repos filtered out (< 25 stars):** 700
+* **Total possible repositories:** 2507
 * **Percent processed:** 29.6%
