@@ -5,10 +5,10 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1967 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1814 | 368 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1755 | 348 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| lxerxa | actionview | 1813 | 368 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1757 | 348 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 770 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 508 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 507 | 274 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 356 | 59 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -18,11 +18,11 @@
 | jiannei | laravel-api-starter | 107 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | Nebo15 | gandalf.api | 102 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
 | jenssegers | laravel-mongodb-session | 76 | 27 | [link](https://github.com/jenssegers/laravel-mongodb-session) |
-| 233sec | laravel-src | 69 | 31 | [link](https://github.com/233sec/laravel-src) |
+| 233sec | laravel-src | 68 | 31 | [link](https://github.com/233sec/laravel-src) |
 | merlosy | laravel-restful-api-starter | 68 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
 | designmynight | laravel-mongodb-passport | 67 | 77 | [link](https://github.com/designmynight/laravel-mongodb-passport) |
 | huijimuhe | monolog-web | 66 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
-| hoangsonww | Moodify-Emotion-Music-App | 61 | 21 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
+| hoangsonww | Moodify-Emotion-Music-App | 62 | 21 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
@@ -36,9 +36,9 @@
 | FogosPT | fogosapi | 28 | 4 | [link](https://github.com/FogosPT/fogosapi) |
 
 ---
-* **Last scrape:** 2026-03-22T02:54:42.393Z
+* **Last scrape:** 2026-03-29T03:04:03.284Z
 * **Total pages scraped:** 83
-* **Repos found:** 2466
-* **Repos filtered out (< 25 stars):** 2436
+* **Repos found:** 2452
+* **Repos filtered out (< 25 stars):** 2422
 * **Total possible repositories:** 9354
-* **Percent processed:** 26.4%
+* **Percent processed:** 26.2%
