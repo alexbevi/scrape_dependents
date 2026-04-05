@@ -10,11 +10,11 @@
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 794 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 716 | 212 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 364 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 329 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| omniauth | omniauth-identity | 364 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
+| 0x000NULL | CSSR | 334 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 306 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
-| jeffkreeftmeijer | navvy | 213 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
+| jeffkreeftmeijer | navvy | 212 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
@@ -38,7 +38,6 @@
 | kristianmandrup | mm-devise | 46 | 14 | [link](https://github.com/kristianmandrup/mm-devise) |
 | DGaffney | stop_sign_project | 45 | 10 | [link](https://github.com/DGaffney/stop_sign_project) |
 | adamwiggins | clockwork-sinatra-beanstalk | 44 | 3 | [link](https://github.com/adamwiggins/clockwork-sinatra-beanstalk) |
-| oisin | plink | 44 | 2 | [link](https://github.com/oisin/plink) |
 | divshot | alloy | 40 | 4 | [link](https://github.com/divshot/alloy) |
 | jnunemaker | hunt | 38 | 8 | [link](https://github.com/jnunemaker/hunt) |
 | hide2 | wenda.it | 37 | 5 | [link](https://github.com/hide2/wenda.it) |
@@ -56,14 +55,14 @@
 | sunlightlabs | poligraft | 26 | 2 | [link](https://github.com/sunlightlabs/poligraft) |
 | dcu | mongomapper_ext | 26 | 4 | [link](https://github.com/dcu/mongomapper_ext) |
 | logankoester | errship | 26 | 5 | [link](https://github.com/logankoester/errship) |
-| djsun | sinatra_resource | 26 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 | fearoffish | aether | 25 | 3 | [link](https://github.com/fearoffish/aether) |
 | mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
+| djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-03-29T02:47:27.838Z
+* **Last scrape:** 2026-04-05T03:14:41.357Z
 * **Total pages scraped:** 18
-* **Repos found:** 460
-* **Repos filtered out (< 25 stars):** 405
+* **Repos found:** 458
+* **Repos filtered out (< 25 stars):** 404
 * **Total possible repositories:** 2814
 * **Percent processed:** 16.3%
