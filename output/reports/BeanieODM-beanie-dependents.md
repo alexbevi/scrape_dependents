@@ -4,36 +4,36 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenBMB | XAgent | 8522 | 896 | [link](https://github.com/OpenBMB/XAgent) |
-| litestar-org | litestar | 8121 | 526 | [link](https://github.com/litestar-org/litestar) |
-| serge-chat | serge | 5738 | 396 | [link](https://github.com/serge-chat/serge) |
-| chatpire | chatgpt-web-share | 4274 | 661 | [link](https://github.com/chatpire/chatgpt-web-share) |
-| tgdrive | teldrive | 2762 | 398 | [link](https://github.com/tgdrive/teldrive) |
-| uriyyo | fastapi-pagination | 1638 | 154 | [link](https://github.com/uriyyo/fastapi-pagination) |
-| Simpleyyt | ai-manus | 1501 | 371 | [link](https://github.com/Simpleyyt/ai-manus) |
-| litestar-org | polyfactory | 1435 | 111 | [link](https://github.com/litestar-org/polyfactory) |
-| opendatalab | LabelLLM | 1197 | 123 | [link](https://github.com/opendatalab/LabelLLM) |
-| jowilf | starlette-admin | 982 | 88 | [link](https://github.com/jowilf/starlette-admin) |
-| PythonNest | PyNest | 848 | 61 | [link](https://github.com/PythonNest/PyNest) |
+| OpenBMB | XAgent | 8517 | 900 | [link](https://github.com/OpenBMB/XAgent) |
+| litestar-org | litestar | 8134 | 530 | [link](https://github.com/litestar-org/litestar) |
+| serge-chat | serge | 5736 | 397 | [link](https://github.com/serge-chat/serge) |
+| chatpire | chatgpt-web-share | 4271 | 660 | [link](https://github.com/chatpire/chatgpt-web-share) |
+| tgdrive | teldrive | 2782 | 401 | [link](https://github.com/tgdrive/teldrive) |
+| uriyyo | fastapi-pagination | 1638 | 155 | [link](https://github.com/uriyyo/fastapi-pagination) |
+| Simpleyyt | ai-manus | 1508 | 377 | [link](https://github.com/Simpleyyt/ai-manus) |
+| litestar-org | polyfactory | 1443 | 110 | [link](https://github.com/litestar-org/polyfactory) |
+| opendatalab | LabelLLM | 1203 | 123 | [link](https://github.com/opendatalab/LabelLLM) |
+| jowilf | starlette-admin | 983 | 87 | [link](https://github.com/jowilf/starlette-admin) |
+| PythonNest | PyNest | 848 | 60 | [link](https://github.com/PythonNest/PyNest) |
 | baoliay2008 | lccn_predictor | 838 | 30 | [link](https://github.com/baoliay2008/lccn_predictor) |
-| mhdzumair | MediaFusion | 816 | 118 | [link](https://github.com/mhdzumair/MediaFusion) |
-| mongodb-labs | full-stack-fastapi-mongodb | 811 | 122 | [link](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) |
+| mhdzumair | MediaFusion | 822 | 116 | [link](https://github.com/mhdzumair/MediaFusion) |
+| mongodb-labs | full-stack-fastapi-mongodb | 812 | 122 | [link](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) |
 | Youngestdev | fastapi-mongo | 545 | 104 | [link](https://github.com/Youngestdev/fastapi-mongo) |
 | PallasBot | Pallas-Bot | 455 | 81 | [link](https://github.com/PallasBot/Pallas-Bot) |
-| AOT-Technologies | forms-flow-ai | 400 | 210 | [link](https://github.com/AOT-Technologies/forms-flow-ai) |
-| PacktPublishing | Building-Python-Microservices-with-FastAPI | 400 | 183 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
-| qrev-ai | qrev | 362 | 70 | [link](https://github.com/qrev-ai/qrev) |
-| arthurio | fastapi-filter | 308 | 43 | [link](https://github.com/arthurio/fastapi-filter) |
+| AOT-Technologies | forms-flow-ai | 400 | 209 | [link](https://github.com/AOT-Technologies/forms-flow-ai) |
+| PacktPublishing | Building-Python-Microservices-with-FastAPI | 400 | 184 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
+| qrev-ai | qrev | 361 | 69 | [link](https://github.com/qrev-ai/qrev) |
+| arthurio | fastapi-filter | 307 | 43 | [link](https://github.com/arthurio/fastapi-filter) |
 | PacktPublishing | Building-Python-Web-APIs-with-FastAPI | 242 | 96 | [link](https://github.com/PacktPublishing/Building-Python-Web-APIs-with-FastAPI) |
 | devdupont | fastapi-beanie-jwt | 201 | 38 | [link](https://github.com/devdupont/fastapi-beanie-jwt) |
-| exospherehost | runtime | 187 | 42 | [link](https://github.com/exospherehost/runtime) |
+| exospherehost | runtime | 188 | 42 | [link](https://github.com/exospherehost/runtime) |
 | adithya-s-k | RAG-SaaS | 183 | 30 | [link](https://github.com/adithya-s-k/RAG-SaaS) |
 | IHosseini083 | Shortify | 138 | 13 | [link](https://github.com/IHosseini083/Shortify) |
-| yasirarism | MissKatyPyro | 135 | 150 | [link](https://github.com/yasirarism/MissKatyPyro) |
+| yasirarism | MissKatyPyro | 135 | 149 | [link](https://github.com/yasirarism/MissKatyPyro) |
+| jonasrenault | fastapi-react-mongodb-docker | 134 | 48 | [link](https://github.com/jonasrenault/fastapi-react-mongodb-docker) |
 | OCR-D | core | 133 | 32 | [link](https://github.com/OCR-D/core) |
-| jonasrenault | fastapi-react-mongodb-docker | 133 | 48 | [link](https://github.com/jonasrenault/fastapi-react-mongodb-docker) |
 | michaelkryukov | mongomock_motor | 122 | 28 | [link](https://github.com/michaelkryukov/mongomock_motor) |
-| FAIRmat-NFDI | nomad | 109 | 28 | [link](https://github.com/FAIRmat-NFDI/nomad) |
+| FAIRmat-NFDI | nomad | 109 | 31 | [link](https://github.com/FAIRmat-NFDI/nomad) |
 | uriyyo | fastapi-filters | 93 | 6 | [link](https://github.com/uriyyo/fastapi-filters) |
 | jerry-git | daily-dose-of-python | 91 | 8 | [link](https://github.com/jerry-git/daily-dose-of-python) |
 | tonybaloney | ants-azure-demos | 72 | 28 | [link](https://github.com/tonybaloney/ants-azure-demos) |
@@ -52,27 +52,27 @@
 | mburaksayici | FinancialAdvisorGPT | 43 | 9 | [link](https://github.com/mburaksayici/FinancialAdvisorGPT) |
 | rajagurunath | lakehouse-sharing | 42 | 11 | [link](https://github.com/rajagurunath/lakehouse-sharing) |
 | Azure-Samples | todo-python-mongo-swa-func | 41 | 30 | [link](https://github.com/Azure-Samples/todo-python-mongo-swa-func) |
-| depictio | depictio | 39 | 1 | [link](https://github.com/depictio/depictio) |
+| depictio | depictio | 40 | 1 | [link](https://github.com/depictio/depictio) |
 | mhdzumair | tamilblasters_stremio_addon | 39 | 7 | [link](https://github.com/mhdzumair/tamilblasters_stremio_addon) |
 | Azure-Samples | todo-python-mongo-terraform | 36 | 21 | [link](https://github.com/Azure-Samples/todo-python-mongo-terraform) |
 | volcengine | veaiops | 35 | 14 | [link](https://github.com/volcengine/veaiops) |
+| sajanv88 | full_stack_fastapi_react_template | 34 | 8 | [link](https://github.com/sajanv88/full_stack_fastapi_react_template) |
 | prog-le | stock-llm | 32 | 3 | [link](https://github.com/prog-le/stock-llm) |
-| sajanv88 | full_stack_fastapi_react_template | 31 | 7 | [link](https://github.com/sajanv88/full_stack_fastapi_react_template) |
 | BrickSchema | brick-example-server | 31 | 16 | [link](https://github.com/BrickSchema/brick-example-server) |
 | edenartlab | eve | 29 | 7 | [link](https://github.com/edenartlab/eve) |
 | ofey404 | WalkingShadows | 29 | 3 | [link](https://github.com/ofey404/WalkingShadows) |
 | ethz-spylab | satml-llm-ctf | 28 | 7 | [link](https://github.com/ethz-spylab/satml-llm-ctf) |
-| joonas-yoon | fastapi-react-oauth2 | 27 | 3 | [link](https://github.com/joonas-yoon/fastapi-react-oauth2) |
 | damienallen | urban-heat | 26 | 6 | [link](https://github.com/damienallen/urban-heat) |
+| joonas-yoon | fastapi-react-oauth2 | 26 | 3 | [link](https://github.com/joonas-yoon/fastapi-react-oauth2) |
 | talkpython | rock-solid-python-with-type-hints-course | 25 | 16 | [link](https://github.com/talkpython/rock-solid-python-with-type-hints-course) |
 | bettercollected | bettercollected | 25 | 6 | [link](https://github.com/bettercollected/bettercollected) |
 | talkpython | mongodb-for-async-python-course | 25 | 19 | [link](https://github.com/talkpython/mongodb-for-async-python-course) |
 | CodeGrind-Team | CodeGrind-Bot | 25 | 9 | [link](https://github.com/CodeGrind-Team/CodeGrind-Bot) |
 
 ---
-* **Last scrape:** 2026-03-29T02:49:03.205Z
+* **Last scrape:** 2026-04-05T03:15:50.180Z
 * **Total pages scraped:** 86
-* **Repos found:** 2546
-* **Repos filtered out (< 25 stars):** 2482
-* **Total possible repositories:** 4439
-* **Percent processed:** 57.4%
+* **Repos found:** 2543
+* **Repos filtered out (< 25 stars):** 2479
+* **Total possible repositories:** 4450
+* **Percent processed:** 57.1%
