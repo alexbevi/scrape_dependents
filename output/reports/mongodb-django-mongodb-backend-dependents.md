@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mongodb-developer | GenAI-Showcase | 4221 | 726 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
-| Qexo | Qexo | 1947 | 412 | [link](https://github.com/Qexo/Qexo) |
+| mongodb-developer | GenAI-Showcase | 4223 | 726 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
+| Qexo | Qexo | 1947 | 410 | [link](https://github.com/Qexo/Qexo) |
 
 ---
-* **Last scrape:** 2026-04-12T03:36:42.455Z
+* **Last scrape:** 2026-04-19T03:40:36.561Z
 * **Total pages scraped:** 2
 * **Repos found:** 52
 * **Repos filtered out (< 25 stars):** 50
