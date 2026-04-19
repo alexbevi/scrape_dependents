@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| Scille | umongo | 449 | 68 | [link](https://github.com/Scille/umongo) |
-| medialab | hyphe | 377 | 62 | [link](https://github.com/medialab/hyphe) |
+| Scille | umongo | 449 | 67 | [link](https://github.com/Scille/umongo) |
+| medialab | hyphe | 378 | 62 | [link](https://github.com/medialab/hyphe) |
 | canonical-ols | conn-check | 56 | 3 | [link](https://github.com/canonical-ols/conn-check) |
 | mobishift2011 | data007 | 29 | 10 | [link](https://github.com/mobishift2011/data007) |
 
 ---
-* **Last scrape:** 2026-04-12T03:29:25.961Z
+* **Last scrape:** 2026-04-19T03:33:38.068Z
 * **Total pages scraped:** 2
 * **Repos found:** 39
 * **Repos filtered out (< 25 stars):** 35
