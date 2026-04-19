@@ -5,15 +5,15 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | api-platform | core | 2557 | 962 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2214 | 435 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| php-enqueue | enqueue-dev | 2215 | 436 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1458 | 149 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1459 | 151 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1263 | 788 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 868 | 599 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 784 | 110 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 705 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| Cocolabs-SAS | cocorico | 868 | 598 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 784 | 111 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 705 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 436 | 265 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| Elao | PhpEnums | 327 | 30 | [link](https://github.com/Elao/PhpEnums) |
+| Elao | PhpEnums | 328 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 325 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 32 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
@@ -30,11 +30,11 @@
 | MacPaw | symfony-health-check-bundle | 60 | 9 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
-| pumukit | PuMuKIT | 58 | 18 | [link](https://github.com/pumukit/PuMuKIT) |
+| pumukit | PuMuKIT | 58 | 17 | [link](https://github.com/pumukit/PuMuKIT) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 47 | 18 | [link](https://github.com/Zeega/Zeega) |
+| V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
 | pixelhumain | GoGoCarto | 44 | 10 | [link](https://github.com/pixelhumain/GoGoCarto) |
-| V-labs | VlabsMediaBundle | 43 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
 | jbouzekri | free-bet | 43 | 33 | [link](https://github.com/jbouzekri/free-bet) |
 | SpiriitLabs | form-filter-bundle | 36 | 16 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-04-12T03:36:24.156Z
+* **Last scrape:** 2026-04-19T03:40:21.531Z
 * **Total pages scraped:** 25
-* **Repos found:** 734
-* **Repos filtered out (< 25 stars):** 694
+* **Repos found:** 732
+* **Repos filtered out (< 25 stars):** 692
 * **Total possible repositories:** 2508
-* **Percent processed:** 29.3%
+* **Percent processed:** 29.2%
