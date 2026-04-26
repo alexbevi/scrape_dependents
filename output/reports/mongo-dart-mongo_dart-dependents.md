@@ -12,7 +12,7 @@
 | rgroult | MobDistTool | 93 | 20 | [link](https://github.com/rgroult/MobDistTool) |
 | vedfi | mondroid | 90 | 11 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 23 | [link](https://github.com/angel-example/flutter) |
-| aortem | dartstream | 66 | 72 | [link](https://github.com/aortem/dartstream) |
+| aortem | dartstream | 66 | 71 | [link](https://github.com/aortem/dartstream) |
 | Scorpiion | vane | 60 | 11 | [link](https://github.com/Scorpiion/vane) |
 | sdeleuze | opensnap-polymer | 37 | 5 | [link](https://github.com/sdeleuze/opensnap-polymer) |
 | martin-robert-fink | oauth_server_demo | 35 | 5 | [link](https://github.com/martin-robert-fink/oauth_server_demo) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-04-19T03:35:19.815Z
-* **Total pages scraped:** 67
-* **Repos found:** 1991
-* **Repos filtered out (< 25 stars):** 1975
+* **Last scrape:** 2026-04-26T03:15:31.503Z
+* **Total pages scraped:** 66
+* **Repos found:** 1971
+* **Repos filtered out (< 25 stars):** 1955
 * **Total possible repositories:** 5658
-* **Percent processed:** 35.2%
+* **Percent processed:** 34.8%
