@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2992 | 331 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2991 | 331 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2961 | 484 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 795 | 83 | [link](https://github.com/nasser/---) |
+| nasser | --- | 796 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 714 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 336 | 118 | [link](https://github.com/0x000NULL/CSSR) |
@@ -60,7 +60,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-04-19T03:24:51.882Z
+* **Last scrape:** 2026-04-26T03:12:19.298Z
 * **Total pages scraped:** 18
 * **Repos found:** 459
 * **Repos filtered out (< 25 stars):** 405
