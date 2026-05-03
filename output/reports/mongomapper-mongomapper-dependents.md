@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 331 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2991 | 332 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2961 | 484 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 362 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 796 | 83 | [link](https://github.com/nasser/---) |
+| nasser | --- | 798 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 714 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 364 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 336 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 337 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 306 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 212 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -36,7 +36,7 @@
 | brighton36 | CoinPost | 49 | 26 | [link](https://github.com/brighton36/CoinPost) |
 | mepatterson | acts_as_mongo_taggable | 48 | 15 | [link](https://github.com/mepatterson/acts_as_mongo_taggable) |
 | kristianmandrup | mm-devise | 46 | 14 | [link](https://github.com/kristianmandrup/mm-devise) |
-| DGaffney | stop_sign_project | 45 | 10 | [link](https://github.com/DGaffney/stop_sign_project) |
+| DGaffney | stop_sign_project | 45 | 11 | [link](https://github.com/DGaffney/stop_sign_project) |
 | adamwiggins | clockwork-sinatra-beanstalk | 44 | 3 | [link](https://github.com/adamwiggins/clockwork-sinatra-beanstalk) |
 | divshot | alloy | 40 | 4 | [link](https://github.com/divshot/alloy) |
 | jnunemaker | hunt | 38 | 8 | [link](https://github.com/jnunemaker/hunt) |
@@ -60,9 +60,9 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-04-26T03:12:19.298Z
+* **Last scrape:** 2026-05-03T03:46:16.387Z
 * **Total pages scraped:** 18
-* **Repos found:** 459
-* **Repos filtered out (< 25 stars):** 405
-* **Total possible repositories:** 2815
+* **Repos found:** 460
+* **Repos filtered out (< 25 stars):** 406
+* **Total possible repositories:** 2816
 * **Percent processed:** 16.3%
