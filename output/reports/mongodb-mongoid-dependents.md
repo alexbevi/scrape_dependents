@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 
 ---
-* **Last scrape:** 2026-05-03T03:29:05.323Z
+* **Last scrape:** 2026-05-10T03:31:41.143Z
 * **Total pages scraped:** 3
-* **Repos found:** 68
-* **Repos filtered out (< 25 stars):** 68
+* **Repos found:** 67
+* **Repos filtered out (< 25 stars):** 67
 * **Total possible repositories:** 23813
 * **Percent processed:** 0.3%
