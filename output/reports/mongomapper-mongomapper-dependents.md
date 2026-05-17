@@ -4,17 +4,17 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2990 | 332 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
+| public-activity | public_activity | 2991 | 332 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 909 | 360 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 798 | 83 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 714 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| nasser | --- | 797 | 83 | [link](https://github.com/nasser/---) |
+| hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 365 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 336 | 118 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 307 | 236 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 337 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 307 | 235 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
-| jeffkreeftmeijer | navvy | 212 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
+| jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 195 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
@@ -60,7 +60,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-05-10T03:49:09.062Z
+* **Last scrape:** 2026-05-17T03:55:01.938Z
 * **Total pages scraped:** 18
 * **Repos found:** 459
 * **Repos filtered out (< 25 stars):** 405
