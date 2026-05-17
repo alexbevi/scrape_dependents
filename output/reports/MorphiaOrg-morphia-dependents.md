@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37353 | 53581 | [link](https://github.com/eugenp/tutorials) |
-| ant-media | Ant-Media-Server | 4671 | 681 | [link](https://github.com/ant-media/Ant-Media-Server) |
-| OpenFeign | querydsl | 608 | 85 | [link](https://github.com/OpenFeign/querydsl) |
+| eugenp | tutorials | 37348 | 53570 | [link](https://github.com/eugenp/tutorials) |
+| ant-media | Ant-Media-Server | 4680 | 679 | [link](https://github.com/ant-media/Ant-Media-Server) |
+| OpenFeign | querydsl | 610 | 86 | [link](https://github.com/OpenFeign/querydsl) |
 | skrstop | skrstop-components | 241 | 30 | [link](https://github.com/skrstop/skrstop-components) |
-| liujiaqi7998 | GrasscuttersWebDashboard | 217 | 32 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
+| liujiaqi7998 | GrasscuttersWebDashboard | 215 | 32 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
 | primefaces-extensions | primefaces-extensions | 116 | 112 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
 | svenkubiak | mangooio | 61 | 14 | [link](https://github.com/svenkubiak/mangooio) |
 | evanchooly | javabot | 57 | 30 | [link](https://github.com/evanchooly/javabot) |
@@ -19,9 +19,9 @@
 | europeana | metis-framework | 27 | 9 | [link](https://github.com/europeana/metis-framework) |
 
 ---
-* **Last scrape:** 2026-05-10T03:51:52.616Z
+* **Last scrape:** 2026-05-17T04:02:07.865Z
 * **Total pages scraped:** 6
-* **Repos found:** 156
-* **Repos filtered out (< 25 stars):** 143
+* **Repos found:** 155
+* **Repos filtered out (< 25 stars):** 142
 * **Total possible repositories:** 329
-* **Percent processed:** 47.4%
+* **Percent processed:** 47.1%
