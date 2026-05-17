@@ -5,13 +5,13 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1967 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1811 | 368 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1765 | 347 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| lxerxa | actionview | 1811 | 367 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1767 | 349 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 771 | 81 | [link](https://github.com/doubleleft/hook) |
 | jikan-me | jikan-rest | 527 | 281 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 354 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
-| laynefyc | php-monitor | 235 | 34 | [link](https://github.com/laynefyc/php-monitor) |
+| laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 135 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 125 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
@@ -19,10 +19,10 @@
 | Nebo15 | gandalf.api | 103 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
 | jenssegers | laravel-mongodb-session | 75 | 27 | [link](https://github.com/jenssegers/laravel-mongodb-session) |
 | merlosy | laravel-restful-api-starter | 68 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
+| hoangsonww | Moodify-Emotion-Music-App | 67 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | 233sec | laravel-src | 67 | 31 | [link](https://github.com/233sec/laravel-src) |
 | designmynight | laravel-mongodb-passport | 67 | 77 | [link](https://github.com/designmynight/laravel-mongodb-passport) |
 | huijimuhe | monolog-web | 66 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
-| hoangsonww | Moodify-Emotion-Music-App | 65 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
@@ -34,11 +34,12 @@
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
 | FogosPT | fogosapi | 30 | 5 | [link](https://github.com/FogosPT/fogosapi) |
 | huijimuhe | lottery-web | 29 | 16 | [link](https://github.com/huijimuhe/lottery-web) |
+| PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-05-10T03:54:33.211Z
-* **Total pages scraped:** 79
-* **Repos found:** 2334
-* **Repos filtered out (< 25 stars):** 2304
+* **Last scrape:** 2026-05-17T04:03:37.359Z
+* **Total pages scraped:** 78
+* **Repos found:** 2306
+* **Repos filtered out (< 25 stars):** 2275
 * **Total possible repositories:** 9355
-* **Percent processed:** 24.9%
+* **Percent processed:** 24.6%
