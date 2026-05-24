@@ -4,16 +4,16 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2558 | 966 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2218 | 433 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1967 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1676 | 166 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1262 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 869 | 598 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 786 | 111 | [link](https://github.com/zenstruck/foundry) |
+| api-platform | core | 2561 | 967 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2217 | 433 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1968 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1677 | 165 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1262 | 788 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 869 | 597 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 787 | 111 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 707 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 436 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| Elao | PhpEnums | 326 | 30 | [link](https://github.com/Elao/PhpEnums) |
+| Elao | PhpEnums | 327 | 30 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 323 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 32 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
@@ -28,9 +28,9 @@
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 27 | [link](https://github.com/henter/HenterGEO) |
 | MacPaw | symfony-health-check-bundle | 60 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
+| pumukit | PuMuKIT | 60 | 16 | [link](https://github.com/pumukit/PuMuKIT) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
-| pumukit | PuMuKIT | 58 | 16 | [link](https://github.com/pumukit/PuMuKIT) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 48 | 18 | [link](https://github.com/Zeega/Zeega) |
 | V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-05-17T04:04:34.245Z
+* **Last scrape:** 2026-05-24T04:49:03.197Z
 * **Total pages scraped:** 25
-* **Repos found:** 716
-* **Repos filtered out (< 25 stars):** 676
-* **Total possible repositories:** 2512
-* **Percent processed:** 28.5%
+* **Repos found:** 714
+* **Repos filtered out (< 25 stars):** 674
+* **Total possible repositories:** 2513
+* **Percent processed:** 28.4%
