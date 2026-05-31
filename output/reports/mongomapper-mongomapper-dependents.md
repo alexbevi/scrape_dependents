@@ -4,19 +4,19 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 332 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2992 | 332 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2963 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1346 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 909 | 360 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| crowdint | rails3-jquery-autocomplete | 908 | 360 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 797 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 364 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 338 | 118 | [link](https://github.com/0x000NULL/CSSR) |
+| omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
+| 0x000NULL | CSSR | 339 | 118 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 307 | 235 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
-| ianwhite | orm_adapter | 197 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
+| ianwhite | orm_adapter | 207 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 168 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | bratta | fikus | 134 | 22 | [link](https://github.com/bratta/fikus) |
 | jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
@@ -49,7 +49,7 @@
 | dennmart | mongoshort | 33 | 9 | [link](https://github.com/dennmart/mongoshort) |
 | MLH | mlh-no-light | 33 | 25 | [link](https://github.com/MLH/mlh-no-light) |
 | ramdiv | mongo_mapper_acts_as_tree | 31 | 30 | [link](https://github.com/ramdiv/mongo_mapper_acts_as_tree) |
-| obfuscurity | lipstick | 28 | 2 | [link](https://github.com/obfuscurity/lipstick) |
+| obfuscurity | lipstick | 29 | 2 | [link](https://github.com/obfuscurity/lipstick) |
 | yalcin | ruby-imdb | 28 | 9 | [link](https://github.com/yalcin/ruby-imdb) |
 | lastomato | mongo_followable | 28 | 10 | [link](https://github.com/lastomato/mongo_followable) |
 | sunlightlabs | poligraft | 26 | 2 | [link](https://github.com/sunlightlabs/poligraft) |
@@ -60,7 +60,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-05-24T04:32:51.775Z
+* **Last scrape:** 2026-05-31T04:39:57.118Z
 * **Total pages scraped:** 18
 * **Repos found:** 459
 * **Repos filtered out (< 25 stars):** 405
