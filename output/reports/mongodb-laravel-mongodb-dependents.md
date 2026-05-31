@@ -5,15 +5,15 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1968 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1811 | 367 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1770 | 349 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| lxerxa | actionview | 1812 | 368 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1773 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 772 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 528 | 284 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 529 | 285 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 354 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 135 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
-| purocean | laravel-template | 125 | 36 | [link](https://github.com/purocean/laravel-template) |
+| purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
 | jiannei | laravel-api-starter | 107 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | Nebo15 | gandalf.api | 103 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
@@ -37,9 +37,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-05-24T04:47:35.080Z
+* **Last scrape:** 2026-05-31T04:50:10.458Z
 * **Total pages scraped:** 77
-* **Repos found:** 2276
-* **Repos filtered out (< 25 stars):** 2245
-* **Total possible repositories:** 9355
-* **Percent processed:** 24.3%
+* **Repos found:** 2260
+* **Repos filtered out (< 25 stars):** 2229
+* **Total possible repositories:** 9357
+* **Percent processed:** 24.2%
