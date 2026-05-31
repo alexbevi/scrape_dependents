@@ -4,66 +4,66 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mudler | LocalAI | 46436 | 4099 | [link](https://github.com/mudler/LocalAI) |
-| Wox-launcher | Wox | 26923 | 2410 | [link](https://github.com/Wox-launcher/Wox) |
-| dapr | dapr | 25782 | 2077 | [link](https://github.com/dapr/dapr) |
-| vxcontrol | pentagi | 17184 | 2354 | [link](https://github.com/vxcontrol/pentagi) |
-| googleapis | mcp-toolbox | 15325 | 1562 | [link](https://github.com/googleapis/mcp-toolbox) |
-| ag-ui-protocol | ag-ui | 13769 | 1235 | [link](https://github.com/ag-ui-protocol/ag-ui) |
-| chaitin | PandaWiki | 9655 | 943 | [link](https://github.com/chaitin/PandaWiki) |
+| mudler | LocalAI | 46554 | 4122 | [link](https://github.com/mudler/LocalAI) |
+| Wox-launcher | Wox | 26978 | 2411 | [link](https://github.com/Wox-launcher/Wox) |
+| dapr | dapr | 25799 | 2080 | [link](https://github.com/dapr/dapr) |
+| vxcontrol | pentagi | 17341 | 2377 | [link](https://github.com/vxcontrol/pentagi) |
+| googleapis | mcp-toolbox | 15395 | 1570 | [link](https://github.com/googleapis/mcp-toolbox) |
+| ag-ui-protocol | ag-ui | 13926 | 1248 | [link](https://github.com/ag-ui-protocol/ag-ui) |
+| chaitin | PandaWiki | 9692 | 949 | [link](https://github.com/chaitin/PandaWiki) |
 | redpanda-data | connect | 8675 | 944 | [link](https://github.com/redpanda-data/connect) |
-| cloudquery | cloudquery | 6412 | 545 | [link](https://github.com/cloudquery/cloudquery) |
-| testcontainers | testcontainers-go | 4848 | 605 | [link](https://github.com/testcontainers/testcontainers-go) |
-| golang | example | 2958 | 998 | [link](https://github.com/golang/example) |
-| icereed | paperless-gpt | 2365 | 165 | [link](https://github.com/icereed/paperless-gpt) |
-| vearch | vearch | 2307 | 359 | [link](https://github.com/vearch/vearch) |
-| cortezaproject | corteza | 2079 | 502 | [link](https://github.com/cortezaproject/corteza) |
-| glebkudr | shotgun_code | 2003 | 230 | [link](https://github.com/glebkudr/shotgun_code) |
-| openmeterio | openmeter | 2002 | 177 | [link](https://github.com/openmeterio/openmeter) |
-| zhimaAi | chatwiki | 1944 | 308 | [link](https://github.com/zhimaAi/chatwiki) |
+| cloudquery | cloudquery | 6416 | 544 | [link](https://github.com/cloudquery/cloudquery) |
+| testcontainers | testcontainers-go | 4859 | 605 | [link](https://github.com/testcontainers/testcontainers-go) |
+| golang | example | 2959 | 998 | [link](https://github.com/golang/example) |
+| icereed | paperless-gpt | 2384 | 166 | [link](https://github.com/icereed/paperless-gpt) |
+| vearch | vearch | 2309 | 359 | [link](https://github.com/vearch/vearch) |
+| cortezaproject | corteza | 2082 | 502 | [link](https://github.com/cortezaproject/corteza) |
+| openmeterio | openmeter | 2015 | 179 | [link](https://github.com/openmeterio/openmeter) |
+| glebkudr | shotgun_code | 2004 | 229 | [link](https://github.com/glebkudr/shotgun_code) |
+| zhimaAi | chatwiki | 1958 | 307 | [link](https://github.com/zhimaAi/chatwiki) |
 | matrixorigin | matrixone | 1842 | 297 | [link](https://github.com/matrixorigin/matrixone) |
-| mudler | LocalAGI | 1801 | 271 | [link](https://github.com/mudler/LocalAGI) |
-| eliben | code-for-blog | 1692 | 737 | [link](https://github.com/eliben/code-for-blog) |
-| yincongcyincong | MuseBot | 1590 | 234 | [link](https://github.com/yincongcyincong/MuseBot) |
-| docker | compose-for-agents | 962 | 423 | [link](https://github.com/docker/compose-for-agents) |
-| alibaba | loongsuite-go-agent | 857 | 112 | [link](https://github.com/alibaba/loongsuite-go-agent) |
-| oriondesign2015 | SetupOrion | 734 | 262 | [link](https://github.com/oriondesign2015/SetupOrion) |
-| 0x4D31 | galah | 647 | 68 | [link](https://github.com/0x4D31/galah) |
-| dapr | components-contrib | 599 | 561 | [link](https://github.com/dapr/components-contrib) |
-| ConduitIO | conduit | 597 | 58 | [link](https://github.com/ConduitIO/conduit) |
+| mudler | LocalAGI | 1811 | 274 | [link](https://github.com/mudler/LocalAGI) |
+| eliben | code-for-blog | 1692 | 735 | [link](https://github.com/eliben/code-for-blog) |
+| yincongcyincong | MuseBot | 1589 | 234 | [link](https://github.com/yincongcyincong/MuseBot) |
+| docker | compose-for-agents | 968 | 426 | [link](https://github.com/docker/compose-for-agents) |
+| alibaba | loongsuite-go-agent | 859 | 112 | [link](https://github.com/alibaba/loongsuite-go-agent) |
+| oriondesign2015 | SetupOrion | 735 | 262 | [link](https://github.com/oriondesign2015/SetupOrion) |
+| 0x4D31 | galah | 648 | 68 | [link](https://github.com/0x4D31/galah) |
+| dapr | components-contrib | 599 | 562 | [link](https://github.com/dapr/components-contrib) |
+| ConduitIO | conduit | 598 | 58 | [link](https://github.com/ConduitIO/conduit) |
 | onexstack | onex | 589 | 108 | [link](https://github.com/onexstack/onex) |
+| TrisenYu | b0gus | 573 | 40 | [link](https://github.com/TrisenYu/b0gus) |
 | swuecho | chat | 570 | 93 | [link](https://github.com/swuecho/chat) |
-| Azure | azure-dev | 534 | 308 | [link](https://github.com/Azure/azure-dev) |
-| the-dev-tools | dev-tools | 410 | 23 | [link](https://github.com/the-dev-tools/dev-tools) |
-| humanlayer | agentcontrolplane | 410 | 57 | [link](https://github.com/humanlayer/agentcontrolplane) |
-| IceBearAI | LLM-And-More | 385 | 61 | [link](https://github.com/IceBearAI/LLM-And-More) |
-| dapr | cli | 351 | 212 | [link](https://github.com/dapr/cli) |
+| Azure | azure-dev | 538 | 311 | [link](https://github.com/Azure/azure-dev) |
+| humanlayer | agentcontrolplane | 414 | 57 | [link](https://github.com/humanlayer/agentcontrolplane) |
+| the-dev-tools | dev-tools | 412 | 23 | [link](https://github.com/the-dev-tools/dev-tools) |
+| IceBearAI | LLM-And-More | 386 | 61 | [link](https://github.com/IceBearAI/LLM-And-More) |
+| dapr | cli | 351 | 213 | [link](https://github.com/dapr/cli) |
 | wesql | wescale | 315 | 14 | [link](https://github.com/wesql/wescale) |
-| Southclaws | storyden | 311 | 35 | [link](https://github.com/Southclaws/storyden) |
+| Southclaws | storyden | 312 | 35 | [link](https://github.com/Southclaws/storyden) |
 | hashgraph-online | standards-sdk-go | 299 | 0 | [link](https://github.com/hashgraph-online/standards-sdk-go) |
-| apache | dubbo-go-samples | 293 | 237 | [link](https://github.com/apache/dubbo-go-samples) |
-| Colin-XKL | FeedCraft | 291 | 10 | [link](https://github.com/Colin-XKL/FeedCraft) |
-| tmc | langgraphgo | 265 | 38 | [link](https://github.com/tmc/langgraphgo) |
-| theopenlane | core | 245 | 44 | [link](https://github.com/theopenlane/core) |
-| toheart | goanalysis | 238 | 30 | [link](https://github.com/toheart/goanalysis) |
+| apache | dubbo-go-samples | 294 | 239 | [link](https://github.com/apache/dubbo-go-samples) |
+| Colin-XKL | FeedCraft | 292 | 10 | [link](https://github.com/Colin-XKL/FeedCraft) |
+| tmc | langgraphgo | 266 | 38 | [link](https://github.com/tmc/langgraphgo) |
+| theopenlane | core | 251 | 45 | [link](https://github.com/theopenlane/core) |
+| toheart | goanalysis | 238 | 31 | [link](https://github.com/toheart/goanalysis) |
 | trpc-group | trpc-a2a-go | 229 | 36 | [link](https://github.com/trpc-group/trpc-a2a-go) |
-| mattermost | mattermost-plugin-agents | 226 | 89 | [link](https://github.com/mattermost/mattermost-plugin-agents) |
-| TrisenYu | b0gus | 221 | 20 | [link](https://github.com/TrisenYu/b0gus) |
-| OperantAI | woodpecker | 209 | 11 | [link](https://github.com/OperantAI/woodpecker) |
-| taipei-doit | Taipei-City-Dashboard | 202 | 689 | [link](https://github.com/taipei-doit/Taipei-City-Dashboard) |
+| mattermost | mattermost-plugin-agents | 228 | 88 | [link](https://github.com/mattermost/mattermost-plugin-agents) |
+| OperantAI | woodpecker | 211 | 11 | [link](https://github.com/OperantAI/woodpecker) |
+| taipei-doit | Taipei-City-Dashboard | 202 | 688 | [link](https://github.com/taipei-doit/Taipei-City-Dashboard) |
 | apache | dubbo-kubernetes | 197 | 88 | [link](https://github.com/apache/dubbo-kubernetes) |
 | firebase-studio | templates | 194 | 80 | [link](https://github.com/firebase-studio/templates) |
 | BalanceBalls | nekot | 193 | 14 | [link](https://github.com/BalanceBalls/nekot) |
-| simple-container-com | api | 168 | 1 | [link](https://github.com/simple-container-com/api) |
-| VictoriaMetrics | mcp-victoriametrics | 168 | 23 | [link](https://github.com/VictoriaMetrics/mcp-victoriametrics) |
+| VictoriaMetrics | mcp-victoriametrics | 173 | 24 | [link](https://github.com/VictoriaMetrics/mcp-victoriametrics) |
 | aaronchen2k | deeptest | 153 | 67 | [link](https://github.com/aaronchen2k/deeptest) |
-| infinilabs | coco-server | 141 | 30 | [link](https://github.com/infinilabs/coco-server) |
+| simple-container-com | api | 147 | 1 | [link](https://github.com/simple-container-com/api) |
+| infinilabs | coco-server | 142 | 30 | [link](https://github.com/infinilabs/coco-server) |
 | lemoony | snipkit | 117 | 6 | [link](https://github.com/lemoony/snipkit) |
 | tmc | righthand | 114 | 11 | [link](https://github.com/tmc/righthand) |
 | qiniu | reviewbot | 106 | 24 | [link](https://github.com/qiniu/reviewbot) |
 | Sriram-PR | doc-scraper | 91 | 9 | [link](https://github.com/Sriram-PR/doc-scraper) |
 | tgulacsi | go | 80 | 20 | [link](https://github.com/tgulacsi/go) |
-| VictoriaMetrics | mcp-victorialogs | 76 | 20 | [link](https://github.com/VictoriaMetrics/mcp-victorialogs) |
+| VictoriaMetrics | mcp-victorialogs | 77 | 20 | [link](https://github.com/VictoriaMetrics/mcp-victorialogs) |
 | lunabrain-ai | lunabrain | 70 | 2 | [link](https://github.com/lunabrain-ai/lunabrain) |
 | tmc | smol-dev-go | 70 | 5 | [link](https://github.com/tmc/smol-dev-go) |
 | jackmcguire1 | alexa-chatgpt | 69 | 6 | [link](https://github.com/jackmcguire1/alexa-chatgpt) |
@@ -72,19 +72,19 @@
 | ibuilding-X | driver-box | 58 | 8 | [link](https://github.com/ibuilding-X/driver-box) |
 | yubing744 | trading-gpt | 57 | 14 | [link](https://github.com/yubing744/trading-gpt) |
 | united-manufacturing-hub | benthos-umh | 56 | 26 | [link](https://github.com/united-manufacturing-hub/benthos-umh) |
-| wombatwisdom | wombat | 54 | 6 | [link](https://github.com/wombatwisdom/wombat) |
+| wombatwisdom | wombat | 55 | 6 | [link](https://github.com/wombatwisdom/wombat) |
 | build-on-aws | rag-golang-postgresql-langchain | 50 | 12 | [link](https://github.com/build-on-aws/rag-golang-postgresql-langchain) |
 | geekr-dev | gpt-engineer | 50 | 5 | [link](https://github.com/geekr-dev/gpt-engineer) |
 | i2y | langchaingo-mcp-adapter | 49 | 9 | [link](https://github.com/i2y/langchaingo-mcp-adapter) |
 | xavidop | dialogflow-cx-cli | 49 | 7 | [link](https://github.com/xavidop/dialogflow-cx-cli) |
-| tjhop | prometheus-mcp-server | 46 | 14 | [link](https://github.com/tjhop/prometheus-mcp-server) |
+| tjhop | prometheus-mcp-server | 47 | 14 | [link](https://github.com/tjhop/prometheus-mcp-server) |
 | christian-gama | autocommit | 46 | 1 | [link](https://github.com/christian-gama/autocommit) |
 | eryajf | langchaingo-ollama-rag | 46 | 9 | [link](https://github.com/eryajf/langchaingo-ollama-rag) |
 | gemini-cli-extensions | cicd | 44 | 8 | [link](https://github.com/gemini-cli-extensions/cicd) |
 | chai2010 | llmgo-book | 44 | 5 | [link](https://github.com/chai2010/llmgo-book) |
-| vfarcic | youtube-automation | 43 | 30 | [link](https://github.com/vfarcic/youtube-automation) |
+| doITmagic | rag-code-mcp | 43 | 8 | [link](https://github.com/doITmagic/rag-code-mcp) |
+| vfarcic | youtube-automation | 43 | 31 | [link](https://github.com/vfarcic/youtube-automation) |
 | jakopako | goskyr | 41 | 6 | [link](https://github.com/jakopako/goskyr) |
-| doITmagic | rag-code-mcp | 41 | 8 | [link](https://github.com/doITmagic/rag-code-mcp) |
 | sausheong | breeze | 39 | 11 | [link](https://github.com/sausheong/breeze) |
 | grafana | plugin-validator | 38 | 9 | [link](https://github.com/grafana/plugin-validator) |
 | lmorg | ttyphoon | 38 | 1 | [link](https://github.com/lmorg/ttyphoon) |
@@ -93,12 +93,12 @@
 | ardanlabs | usdl | 36 | 11 | [link](https://github.com/ardanlabs/usdl) |
 | SecFathy | Flash | 33 | 2 | [link](https://github.com/SecFathy/Flash) |
 | ml2068 | ollamagoweb | 33 | 2 | [link](https://github.com/ml2068/ollamagoweb) |
+| wallentx | jobscout | 32 | 2 | [link](https://github.com/wallentx/jobscout) |
+| HexmosTech | LiveReview | 32 | 9 | [link](https://github.com/HexmosTech/LiveReview) |
 | kdeps | kdeps | 32 | 4 | [link](https://github.com/kdeps/kdeps) |
-| HexmosTech | LiveReview | 31 | 7 | [link](https://github.com/HexmosTech/LiveReview) |
 | Rugz007 | liha | 31 | 3 | [link](https://github.com/Rugz007/liha) |
-| wallentx | jobscout | 30 | 2 | [link](https://github.com/wallentx/jobscout) |
+| langfuse | langfuse-examples | 29 | 20 | [link](https://github.com/langfuse/langfuse-examples) |
 | instill-ai | pipeline-backend | 29 | 25 | [link](https://github.com/instill-ai/pipeline-backend) |
-| langfuse | langfuse-examples | 28 | 20 | [link](https://github.com/langfuse/langfuse-examples) |
 | milosgajdos | bot-banter | 28 | 4 | [link](https://github.com/milosgajdos/bot-banter) |
 | NethermindEth | teeception | 27 | 4 | [link](https://github.com/NethermindEth/teeception) |
 | GoSimplicity | AICoreOps | 27 | 14 | [link](https://github.com/GoSimplicity/AICoreOps) |
@@ -108,9 +108,9 @@
 | devinyf | dashscopego | 25 | 14 | [link](https://github.com/devinyf/dashscopego) |
 
 ---
-* **Last scrape:** 2026-05-24T04:03:39.377Z
+* **Last scrape:** 2026-05-31T04:20:33.015Z
 * **Total pages scraped:** 46
-* **Repos found:** 1301
-* **Repos filtered out (< 25 stars):** 1199
-* **Total possible repositories:** 1830
-* **Percent processed:** 71.1%
+* **Repos found:** 1311
+* **Repos filtered out (< 25 stars):** 1209
+* **Total possible repositories:** 1846
+* **Percent processed:** 71.0%
