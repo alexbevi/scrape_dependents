@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pd4d10 | unpub | 474 | 154 | [link](https://github.com/pd4d10/unpub) |
+| pd4d10 | unpub | 475 | 155 | [link](https://github.com/pd4d10/unpub) |
 | Jaguar-dart | jaguar | 469 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 170 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
@@ -12,7 +12,7 @@
 | rgroult | MobDistTool | 93 | 20 | [link](https://github.com/rgroult/MobDistTool) |
 | vedfi | mondroid | 90 | 11 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 23 | [link](https://github.com/angel-example/flutter) |
-| aortem | dartstream | 66 | 71 | [link](https://github.com/aortem/dartstream) |
+| aortem | dartstream | 65 | 71 | [link](https://github.com/aortem/dartstream) |
 | Scorpiion | vane | 61 | 11 | [link](https://github.com/Scorpiion/vane) |
 | sdeleuze | opensnap-polymer | 37 | 5 | [link](https://github.com/sdeleuze/opensnap-polymer) |
 | martin-robert-fink | oauth_server_demo | 35 | 5 | [link](https://github.com/martin-robert-fink/oauth_server_demo) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-05-24T04:43:46.427Z
+* **Last scrape:** 2026-05-31T04:47:25.740Z
 * **Total pages scraped:** 64
-* **Repos found:** 1903
-* **Repos filtered out (< 25 stars):** 1887
+* **Repos found:** 1882
+* **Repos filtered out (< 25 stars):** 1866
 * **Total possible repositories:** 5661
-* **Percent processed:** 33.6%
+* **Percent processed:** 33.2%
