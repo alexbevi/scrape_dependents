@@ -4,73 +4,73 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| voxel51 | fiftyone | 10742 | 765 | [link](https://github.com/voxel51/fiftyone) |
-| openedx | openedx-platform | 8107 | 4296 | [link](https://github.com/openedx/openedx-platform) |
-| zilliztech | GPTCache | 8045 | 581 | [link](https://github.com/zilliztech/GPTCache) |
-| samuelclay | NewsBlur | 7477 | 1038 | [link](https://github.com/samuelclay/NewsBlur) |
-| guardicore | monkey | 7007 | 821 | [link](https://github.com/guardicore/monkey) |
-| StackStorm | st2 | 6473 | 780 | [link](https://github.com/StackStorm/st2) |
-| pallets-eco | flask-admin | 6057 | 1637 | [link](https://github.com/pallets-eco/flask-admin) |
-| CarterPerez-dev | Cybersecurity-Projects | 2582 | 312 | [link](https://github.com/CarterPerez-dev/Cybersecurity-Projects) |
-| jkbrzt | cloudtunes | 2502 | 229 | [link](https://github.com/jkbrzt/cloudtunes) |
-| alfredfrancis | ai-chatbot-framework | 2155 | 748 | [link](https://github.com/alfredfrancis/ai-chatbot-framework) |
-| hystax | optscale | 2082 | 316 | [link](https://github.com/hystax/optscale) |
-| uriyyo | fastapi-pagination | 1658 | 160 | [link](https://github.com/uriyyo/fastapi-pagination) |
-| pallets-eco | flask-security-3.0 | 1629 | 504 | [link](https://github.com/pallets-eco/flask-security-3.0) |
-| pixeltable | pixeltable | 1564 | 214 | [link](https://github.com/pixeltable/pixeltable) |
-| sintel-dev | Orion | 1355 | 203 | [link](https://github.com/sintel-dev/Orion) |
-| talkpython | mastering-pycharm-course | 1211 | 725 | [link](https://github.com/talkpython/mastering-pycharm-course) |
+| voxel51 | fiftyone | 10764 | 766 | [link](https://github.com/voxel51/fiftyone) |
+| openedx | openedx-platform | 8116 | 4300 | [link](https://github.com/openedx/openedx-platform) |
+| zilliztech | GPTCache | 8057 | 582 | [link](https://github.com/zilliztech/GPTCache) |
+| samuelclay | NewsBlur | 7488 | 1039 | [link](https://github.com/samuelclay/NewsBlur) |
+| guardicore | monkey | 7012 | 820 | [link](https://github.com/guardicore/monkey) |
+| StackStorm | st2 | 6478 | 780 | [link](https://github.com/StackStorm/st2) |
+| pallets-eco | flask-admin | 6089 | 1640 | [link](https://github.com/pallets-eco/flask-admin) |
+| CarterPerez-dev | Cybersecurity-Projects | 2818 | 353 | [link](https://github.com/CarterPerez-dev/Cybersecurity-Projects) |
+| jkbrzt | cloudtunes | 2503 | 230 | [link](https://github.com/jkbrzt/cloudtunes) |
+| alfredfrancis | ai-chatbot-framework | 2157 | 749 | [link](https://github.com/alfredfrancis/ai-chatbot-framework) |
+| hystax | optscale | 2089 | 319 | [link](https://github.com/hystax/optscale) |
+| uriyyo | fastapi-pagination | 1662 | 160 | [link](https://github.com/uriyyo/fastapi-pagination) |
+| pallets-eco | flask-security-3.0 | 1628 | 504 | [link](https://github.com/pallets-eco/flask-security-3.0) |
+| pixeltable | pixeltable | 1569 | 214 | [link](https://github.com/pixeltable/pixeltable) |
+| sintel-dev | Orion | 1356 | 203 | [link](https://github.com/sintel-dev/Orion) |
+| talkpython | mastering-pycharm-course | 1213 | 724 | [link](https://github.com/talkpython/mastering-pycharm-course) |
 | lingthio | Flask-User | 1074 | 298 | [link](https://github.com/lingthio/Flask-User) |
 | voilet | cmdb | 1066 | 586 | [link](https://github.com/voilet/cmdb) |
-| seasonstar | bibi | 1017 | 308 | [link](https://github.com/seasonstar/bibi) |
-| jowilf | starlette-admin | 991 | 95 | [link](https://github.com/jowilf/starlette-admin) |
+| seasonstar | bibi | 1018 | 307 | [link](https://github.com/seasonstar/bibi) |
+| jowilf | starlette-admin | 992 | 94 | [link](https://github.com/jowilf/starlette-admin) |
+| 51bitquant | binance_grid_trader | 958 | 294 | [link](https://github.com/51bitquant/binance_grid_trader) |
 | klen | mixer | 956 | 94 | [link](https://github.com/klen/mixer) |
-| 51bitquant | binance_grid_trader | 954 | 294 | [link](https://github.com/51bitquant/binance_grid_trader) |
 | scottrogowski | mongita | 923 | 27 | [link](https://github.com/scottrogowski/mongita) |
-| ristekoss | susunjadwal-backend | 881 | 11 | [link](https://github.com/ristekoss/susunjadwal-backend) |
-| huggingface | dataset-viewer | 864 | 115 | [link](https://github.com/huggingface/dataset-viewer) |
+| ristekoss | susunjadwal-backend | 880 | 11 | [link](https://github.com/ristekoss/susunjadwal-backend) |
+| huggingface | dataset-viewer | 867 | 114 | [link](https://github.com/huggingface/dataset-viewer) |
 | MongoEngine | flask-mongoengine | 830 | 247 | [link](https://github.com/MongoEngine/flask-mongoengine) |
 | MongoEngine | django-mongoengine | 748 | 196 | [link](https://github.com/MongoEngine/django-mongoengine) |
-| ztosec | secscan-authcheck | 744 | 158 | [link](https://github.com/ztosec/secscan-authcheck) |
+| ztosec | secscan-authcheck | 745 | 158 | [link](https://github.com/ztosec/secscan-authcheck) |
 | pallets-eco | flask-security | 698 | 164 | [link](https://github.com/pallets-eco/flask-security) |
+| DataDog | dd-trace-py | 641 | 513 | [link](https://github.com/DataDog/dd-trace-py) |
 | syrusakbary | Flask-SuperAdmin | 640 | 130 | [link](https://github.com/syrusakbary/Flask-SuperAdmin) |
-| DataDog | dd-trace-py | 639 | 509 | [link](https://github.com/DataDog/dd-trace-py) |
 | wyounas | homer | 634 | 35 | [link](https://github.com/wyounas/homer) |
 | gl4ssesbo1 | Nebula | 631 | 106 | [link](https://github.com/gl4ssesbo1/Nebula) |
+| xbow-engineering | validation-benchmarks | 620 | 190 | [link](https://github.com/xbow-engineering/validation-benchmarks) |
 | umutbozkurt | django-rest-framework-mongoengine | 619 | 170 | [link](https://github.com/umutbozkurt/django-rest-framework-mongoengine) |
 | davidlatwe | montydb | 618 | 37 | [link](https://github.com/davidlatwe/montydb) |
-| xbow-engineering | validation-benchmarks | 613 | 189 | [link](https://github.com/xbow-engineering/validation-benchmarks) |
-| talkpython | data-driven-web-apps-with-flask | 543 | 500 | [link](https://github.com/talkpython/data-driven-web-apps-with-flask) |
+| talkpython | data-driven-web-apps-with-flask | 543 | 499 | [link](https://github.com/talkpython/data-driven-web-apps-with-flask) |
 | closeio | flask-mongorest | 519 | 86 | [link](https://github.com/closeio/flask-mongorest) |
 | pulp | pulp | 510 | 164 | [link](https://github.com/pulp/pulp) |
-| DingGuodong | LinuxBashShellScriptForOps | 475 | 314 | [link](https://github.com/DingGuodong/LinuxBashShellScriptForOps) |
-| clearml | clearml-server | 461 | 159 | [link](https://github.com/clearml/clearml-server) |
+| DingGuodong | LinuxBashShellScriptForOps | 474 | 314 | [link](https://github.com/DingGuodong/LinuxBashShellScriptForOps) |
+| clearml | clearml-server | 463 | 159 | [link](https://github.com/clearml/clearml-server) |
 | EthTx | ethtx | 457 | 73 | [link](https://github.com/EthTx/ethtx) |
 | flyhigher139 | OctBlog | 442 | 143 | [link](https://github.com/flyhigher139/OctBlog) |
 | TeamvisionCorp | TeamVision | 407 | 145 | [link](https://github.com/TeamvisionCorp/TeamVision) |
 | jtushman | state_machine | 407 | 27 | [link](https://github.com/jtushman/state_machine) |
-| PacktPublishing | Building-Python-Microservices-with-FastAPI | 403 | 184 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
-| e-m-b-a | embark | 385 | 65 | [link](https://github.com/e-m-b-a/embark) |
-| JavisVerse | JavisDiT | 368 | 30 | [link](https://github.com/JavisVerse/JavisDiT) |
+| PacktPublishing | Building-Python-Microservices-with-FastAPI | 404 | 186 | [link](https://github.com/PacktPublishing/Building-Python-Microservices-with-FastAPI) |
+| e-m-b-a | embark | 388 | 65 | [link](https://github.com/e-m-b-a/embark) |
+| JavisVerse | JavisDiT | 369 | 30 | [link](https://github.com/JavisVerse/JavisDiT) |
 | Den1al | JSShell | 366 | 70 | [link](https://github.com/Den1al/JSShell) |
 | ant4g0nist | Susanoo | 327 | 56 | [link](https://github.com/ant4g0nist/Susanoo) |
-| arthurio | fastapi-filter | 315 | 43 | [link](https://github.com/arthurio/fastapi-filter) |
+| arthurio | fastapi-filter | 316 | 43 | [link](https://github.com/arthurio/fastapi-filter) |
 | mikeckennedy | mongodb-quickstart-course | 312 | 302 | [link](https://github.com/mikeckennedy/mongodb-quickstart-course) |
-| CyberCX-STA | PurpleOps | 306 | 52 | [link](https://github.com/CyberCX-STA/PurpleOps) |
-| sahildua2305 | hackIDE | 303 | 125 | [link](https://github.com/sahildua2305/hackIDE) |
+| CyberCX-STA | PurpleOps | 307 | 52 | [link](https://github.com/CyberCX-STA/PurpleOps) |
+| sahildua2305 | hackIDE | 303 | 126 | [link](https://github.com/sahildua2305/hackIDE) |
 | graphql-python | graphene-mongo | 287 | 112 | [link](https://github.com/graphql-python/graphene-mongo) |
-| beer-garden | beer-garden | 281 | 38 | [link](https://github.com/beer-garden/beer-garden) |
 | we45 | ThreatPlaybook | 281 | 62 | [link](https://github.com/we45/ThreatPlaybook) |
+| beer-garden | beer-garden | 280 | 38 | [link](https://github.com/beer-garden/beer-garden) |
 | digiteinfotech | kairon | 276 | 85 | [link](https://github.com/digiteinfotech/kairon) |
 | zhanggao2013 | AmazingQuant | 275 | 79 | [link](https://github.com/zhanggao2013/AmazingQuant) |
 | mitre | cascade-server | 273 | 53 | [link](https://github.com/mitre/cascade-server) |
+| opendatateam | udata | 265 | 91 | [link](https://github.com/opendatateam/udata) |
 | EthTx | ethtx_ce | 265 | 61 | [link](https://github.com/EthTx/ethtx_ce) |
-| opendatateam | udata | 264 | 92 | [link](https://github.com/opendatateam/udata) |
 | hmarr | django-mumblr | 253 | 40 | [link](https://github.com/hmarr/django-mumblr) |
 | jazzband | django-mongonaut | 240 | 62 | [link](https://github.com/jazzband/django-mongonaut) |
 | momosecurity | Mloger | 237 | 66 | [link](https://github.com/momosecurity/Mloger) |
-| shogunlab | building-c2-implants-in-cpp | 236 | 41 | [link](https://github.com/shogunlab/building-c2-implants-in-cpp) |
-| swiftsketch | SwiftSketch | 234 | 10 | [link](https://github.com/swiftsketch/SwiftSketch) |
+| swiftsketch | SwiftSketch | 235 | 10 | [link](https://github.com/swiftsketch/SwiftSketch) |
+| shogunlab | building-c2-implants-in-cpp | 235 | 41 | [link](https://github.com/shogunlab/building-c2-implants-in-cpp) |
 | INGInious | INGInious | 233 | 149 | [link](https://github.com/INGInious/INGInious) |
 | UWFlow | rmc | 232 | 72 | [link](https://github.com/UWFlow/rmc) |
 | siegfried415 | portia-dashboard | 230 | 76 | [link](https://github.com/siegfried415/portia-dashboard) |
@@ -79,10 +79,10 @@
 | sloria | PythonORMSleepy | 210 | 38 | [link](https://github.com/sloria/PythonORMSleepy) |
 | albert-feng | blade-fury | 205 | 93 | [link](https://github.com/albert-feng/blade-fury) |
 | cap-ntu | ML-Model-CI | 198 | 34 | [link](https://github.com/cap-ntu/ML-Model-CI) |
-| baichuan-inc | Baichuan-Omni-1.5 | 190 | 9 | [link](https://github.com/baichuan-inc/Baichuan-Omni-1.5) |
-| fredfeng0326 | Scraping | 190 | 37 | [link](https://github.com/fredfeng0326/Scraping) |
+| baichuan-inc | Baichuan-Omni-1.5 | 191 | 9 | [link](https://github.com/baichuan-inc/Baichuan-Omni-1.5) |
+| fredfeng0326 | Scraping | 191 | 37 | [link](https://github.com/fredfeng0326/Scraping) |
 | omegaml | minibatch | 189 | 16 | [link](https://github.com/omegaml/minibatch) |
-| openelections | openelections-core | 189 | 107 | [link](https://github.com/openelections/openelections-core) |
+| openelections | openelections-core | 189 | 106 | [link](https://github.com/openelections/openelections-core) |
 | flink-extended | ai-flow | 183 | 33 | [link](https://github.com/flink-extended/ai-flow) |
 | python-cn | firefly | 181 | 46 | [link](https://github.com/python-cn/firefly) |
 | AlainDaccache | Quantropy | 179 | 39 | [link](https://github.com/AlainDaccache/Quantropy) |
@@ -92,11 +92,10 @@
 | Patrowl | PatrowlHears | 167 | 53 | [link](https://github.com/Patrowl/PatrowlHears) |
 | rozza | flask-tumblelog | 166 | 60 | [link](https://github.com/rozza/flask-tumblelog) |
 | marcopaz | is-service-up | 166 | 26 | [link](https://github.com/marcopaz/is-service-up) |
-| h2oai | wave-apps | 165 | 58 | [link](https://github.com/h2oai/wave-apps) |
 | thu-nics | ViDiT-Q | 161 | 27 | [link](https://github.com/thu-nics/ViDiT-Q) |
 | senghoo | wordai | 161 | 15 | [link](https://github.com/senghoo/wordai) |
 | MolSSI | QCFractal | 161 | 55 | [link](https://github.com/MolSSI/QCFractal) |
-| BasedLabs | NoLabs | 158 | 14 | [link](https://github.com/BasedLabs/NoLabs) |
+| BasedLabs | NoLabs | 160 | 14 | [link](https://github.com/BasedLabs/NoLabs) |
 | day0market | pyalgotrader | 158 | 55 | [link](https://github.com/day0market/pyalgotrader) |
 | mrjoes | flask-admin | 155 | 79 | [link](https://github.com/mrjoes/flask-admin) |
 | ML-TANGO | TANGO | 153 | 42 | [link](https://github.com/ML-TANGO/TANGO) |
@@ -104,7 +103,7 @@
 | potpie-ai | momentum-core | 149 | 17 | [link](https://github.com/potpie-ai/momentum-core) |
 | benjihillard | English-Dictionary-Database | 149 | 21 | [link](https://github.com/benjihillard/English-Dictionary-Database) |
 | jamf | JAWA | 146 | 11 | [link](https://github.com/jamf/JAWA) |
-| paurakhsharma | flask-rest-api-blog-series | 146 | 97 | [link](https://github.com/paurakhsharma/flask-rest-api-blog-series) |
+| paurakhsharma | flask-rest-api-blog-series | 145 | 97 | [link](https://github.com/paurakhsharma/flask-rest-api-blog-series) |
 | hansonkd | FlaskBootstrapSecurity | 144 | 35 | [link](https://github.com/hansonkd/FlaskBootstrapSecurity) |
 | cyhex | streamcrab | 144 | 45 | [link](https://github.com/cyhex/streamcrab) |
 | eai-lab | On-device-Sora | 137 | 19 | [link](https://github.com/eai-lab/On-device-Sora) |
@@ -113,8 +112,8 @@
 | jakobowsky | AmazonPriceTracker | 124 | 59 | [link](https://github.com/jakobowsky/AmazonPriceTracker) |
 | JoMingyu | Flask-Large-Application-Example | 117 | 12 | [link](https://github.com/JoMingyu/Flask-Large-Application-Example) |
 | ip-tools | patzilla | 117 | 29 | [link](https://github.com/ip-tools/patzilla) |
-| FAIRmat-NFDI | nomad | 115 | 29 | [link](https://github.com/FAIRmat-NFDI/nomad) |
-| Mykrobe-tools | mykrobe | 115 | 30 | [link](https://github.com/Mykrobe-tools/mykrobe) |
+| FAIRmat-NFDI | nomad | 116 | 29 | [link](https://github.com/FAIRmat-NFDI/nomad) |
+| Mykrobe-tools | mykrobe | 116 | 31 | [link](https://github.com/Mykrobe-tools/mykrobe) |
 | KCarretto | Arsenal | 112 | 39 | [link](https://github.com/KCarretto/Arsenal) |
 | shuosc | SHUhelper | 112 | 27 | [link](https://github.com/shuosc/SHUhelper) |
 | jschrewe | django-mongoadmin | 112 | 35 | [link](https://github.com/jschrewe/django-mongoadmin) |
@@ -122,17 +121,17 @@
 | defshine | cleanblog | 110 | 28 | [link](https://github.com/defshine/cleanblog) |
 | alexandre-old | flask-rest-template | 110 | 21 | [link](https://github.com/alexandre-old/flask-rest-template) |
 | cnbeining | autotimecode | 108 | 5 | [link](https://github.com/cnbeining/autotimecode) |
+| ericls | tushe | 108 | 33 | [link](https://github.com/ericls/tushe) |
 | omegaml | omegaml | 107 | 14 | [link](https://github.com/omegaml/omegaml) |
-| ericls | tushe | 107 | 33 | [link](https://github.com/ericls/tushe) |
 | OnToology | OnToology | 107 | 25 | [link](https://github.com/OnToology/OnToology) |
 | Andrew-liu | flask_pure | 106 | 37 | [link](https://github.com/Andrew-liu/flask_pure) |
 | stephrdev | django-mongoforms | 103 | 28 | [link](https://github.com/stephrdev/django-mongoforms) |
 | getdock | whitelist | 103 | 7 | [link](https://github.com/getdock/whitelist) |
 | liuliqiang | the-way-to-flask | 102 | 27 | [link](https://github.com/liuliqiang/the-way-to-flask) |
-| dongweiming | Mtime | 100 | 45 | [link](https://github.com/dongweiming/Mtime) |
+| dongweiming | Mtime | 99 | 45 | [link](https://github.com/dongweiming/Mtime) |
 | talkpython | data-driven-web-apps-with-pyramid-and-sqlalchemy | 97 | 71 | [link](https://github.com/talkpython/data-driven-web-apps-with-pyramid-and-sqlalchemy) |
 | nosovsh | motoparking | 96 | 30 | [link](https://github.com/nosovsh/motoparking) |
-| utkarshohm | mf-platform-bse | 92 | 56 | [link](https://github.com/utkarshohm/mf-platform-bse) |
+| utkarshohm | mf-platform-bse | 92 | 55 | [link](https://github.com/utkarshohm/mf-platform-bse) |
 | dstl | ideaworks | 91 | 18 | [link](https://github.com/dstl/ideaworks) |
 | desaixie | pa_vdm | 90 | 1 | [link](https://github.com/desaixie/pa_vdm) |
 | immuni-app | immuni-backend-common | 90 | 19 | [link](https://github.com/immuni-app/immuni-backend-common) |
@@ -143,8 +142,8 @@
 | jschrewe | django-mongodbforms | 85 | 94 | [link](https://github.com/jschrewe/django-mongodbforms) |
 | BillBillBillBill | NewsCrawler | 84 | 12 | [link](https://github.com/BillBillBillBill/NewsCrawler) |
 | wooyek | flask-social-blueprint | 84 | 27 | [link](https://github.com/wooyek/flask-social-blueprint) |
+| QiCodeCN | TestProjectManagement | 82 | 26 | [link](https://github.com/QiCodeCN/TestProjectManagement) |
 | BurkovBA | django-rest-framework-mongoengine-example | 82 | 43 | [link](https://github.com/BurkovBA/django-rest-framework-mongoengine-example) |
-| QiCodeCN | TestProjectManagement | 81 | 26 | [link](https://github.com/QiCodeCN/TestProjectManagement) |
 | project-anuvaad | anuvaad | 80 | 53 | [link](https://github.com/project-anuvaad/anuvaad) |
 | imvinaypatil | kinetick | 80 | 35 | [link](https://github.com/imvinaypatil/kinetick) |
 | PacktPublishing | Mastering-Flask | 79 | 59 | [link](https://github.com/PacktPublishing/Mastering-Flask) |
@@ -156,9 +155,9 @@
 | wlanslovenija | django-tastypie-mongoengine | 73 | 58 | [link](https://github.com/wlanslovenija/django-tastypie-mongoengine) |
 | AkshatSh | VideoSearchEngine | 72 | 21 | [link](https://github.com/AkshatSh/VideoSearchEngine) |
 | usunyu | my-awesome-projects | 71 | 37 | [link](https://github.com/usunyu/my-awesome-projects) |
+| hoangsonww | Moodify-Emotion-Music-App | 70 | 22 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | clelandgt | ip_proxy | 70 | 18 | [link](https://github.com/clelandgt/ip_proxy) |
 | CounteractIO | counteract | 70 | 10 | [link](https://github.com/CounteractIO/counteract) |
-| hoangsonww | Moodify-Emotion-Music-App | 69 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | pantunes | xtcryptosignals | 69 | 17 | [link](https://github.com/pantunes/xtcryptosignals) |
 | the-akira | CC33Z | 68 | 6 | [link](https://github.com/the-akira/CC33Z) |
 | deeppavlov | dp-agent | 68 | 26 | [link](https://github.com/deeppavlov/dp-agent) |
@@ -169,7 +168,7 @@
 | Seraf | LISA | 65 | 12 | [link](https://github.com/Seraf/LISA) |
 | featurebyte | featurebyte | 64 | 6 | [link](https://github.com/featurebyte/featurebyte) |
 | hzeyuan | funTools | 64 | 6 | [link](https://github.com/hzeyuan/funTools) |
-| rehe0x | bthello | 64 | 31 | [link](https://github.com/rehe0x/bthello) |
+| rehe0x | bthello | 63 | 31 | [link](https://github.com/rehe0x/bthello) |
 | dongweiming | daenerys | 63 | 30 | [link](https://github.com/dongweiming/daenerys) |
 | hiroaki-yamamoto | mongoengine-goodjson | 62 | 19 | [link](https://github.com/hiroaki-yamamoto/mongoengine-goodjson) |
 | Wintellect | WintellectWebinars | 62 | 101 | [link](https://github.com/Wintellect/WintellectWebinars) |
@@ -194,17 +193,17 @@
 | msoedov | flask-graphql-example | 55 | 7 | [link](https://github.com/msoedov/flask-graphql-example) |
 | thanh-cao | ms3-stock-management | 53 | 29 | [link](https://github.com/thanh-cao/ms3-stock-management) |
 | closeio | cleancat | 53 | 9 | [link](https://github.com/closeio/cleancat) |
-| sylvinus | imgfab | 51 | 15 | [link](https://github.com/sylvinus/imgfab) |
-| openedx | edx-enterprise | 50 | 70 | [link](https://github.com/openedx/edx-enterprise) |
+| sylvinus | imgfab | 52 | 15 | [link](https://github.com/sylvinus/imgfab) |
+| openedx | edx-enterprise | 50 | 71 | [link](https://github.com/openedx/edx-enterprise) |
+| Relph1119 | fastapi-learning-notes | 50 | 8 | [link](https://github.com/Relph1119/fastapi-learning-notes) |
 | MongoEngine | extras-mongoengine | 50 | 34 | [link](https://github.com/MongoEngine/extras-mongoengine) |
-| Relph1119 | fastapi-learning-notes | 49 | 8 | [link](https://github.com/Relph1119/fastapi-learning-notes) |
 | mgilangjanuar | line-chatbot-boilerplate | 49 | 16 | [link](https://github.com/mgilangjanuar/line-chatbot-boilerplate) |
 | tychen-SJTU | MECD-Benchmark | 48 | 2 | [link](https://github.com/tychen-SJTU/MECD-Benchmark) |
 | worldwonderer | promptdoc | 48 | 1 | [link](https://github.com/worldwonderer/promptdoc) |
 | fastlane-queue | fastlane | 48 | 13 | [link](https://github.com/fastlane-queue/fastlane) |
 | reducto-sigcomm-2020 | reducto | 48 | 21 | [link](https://github.com/reducto-sigcomm-2020/reducto) |
 | SPuerBRead | kun | 47 | 12 | [link](https://github.com/SPuerBRead/kun) |
-| osslab-pku | gfi-bot | 47 | 20 | [link](https://github.com/osslab-pku/gfi-bot) |
+| osslab-pku | gfi-bot | 47 | 21 | [link](https://github.com/osslab-pku/gfi-bot) |
 | s-tip | stip-common | 47 | 11 | [link](https://github.com/s-tip/stip-common) |
 | GetmeUK | MongoFrames | 47 | 8 | [link](https://github.com/GetmeUK/MongoFrames) |
 | blprnt | dataart_old | 47 | 58 | [link](https://github.com/blprnt/dataart_old) |
@@ -214,7 +213,7 @@
 | ngohungphuc | Research | 44 | 100 | [link](https://github.com/ngohungphuc/Research) |
 | timofurrer | minion-ci | 44 | 4 | [link](https://github.com/timofurrer/minion-ci) |
 | exactpro | nostradamus | 44 | 11 | [link](https://github.com/exactpro/nostradamus) |
-| osteele | matrix-archive | 44 | 14 | [link](https://github.com/osteele/matrix-archive) |
+| osteele | matrix-archive | 44 | 15 | [link](https://github.com/osteele/matrix-archive) |
 | paulocheque | python-tornado-bootstrap | 44 | 16 | [link](https://github.com/paulocheque/python-tornado-bootstrap) |
 | ImIntheMiddle | VATL4Pose-WACV2024 | 43 | 2 | [link](https://github.com/ImIntheMiddle/VATL4Pose-WACV2024) |
 | DahaWong | castpod | 43 | 4 | [link](https://github.com/DahaWong/castpod) |
@@ -310,9 +309,9 @@
 | berinhard | mongoengine_fuel | 25 | 1 | [link](https://github.com/berinhard/mongoengine_fuel) |
 
 ---
-* **Last scrape:** 2026-05-31T04:19:36.465Z
-* **Total pages scraped:** 318
-* **Repos found:** 9401
-* **Repos filtered out (< 25 stars):** 9097
-* **Total possible repositories:** 27538
-* **Percent processed:** 34.1%
+* **Last scrape:** 2026-06-07T04:21:03.229Z
+* **Total pages scraped:** 316
+* **Repos found:** 9342
+* **Repos filtered out (< 25 stars):** 9039
+* **Total possible repositories:** 27541
+* **Percent processed:** 33.9%
