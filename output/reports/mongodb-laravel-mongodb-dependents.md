@@ -4,21 +4,21 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1968 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1812 | 368 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1773 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1809 | 368 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1774 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 772 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 529 | 285 | [link](https://github.com/jikan-me/jikan-rest) |
-| jiannei | lumen-api-starter | 354 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
+| jikan-me | jikan-rest | 531 | 283 | [link](https://github.com/jikan-me/jikan-rest) |
+| jiannei | lumen-api-starter | 353 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 135 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
-| jiannei | laravel-api-starter | 107 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
+| jiannei | laravel-api-starter | 106 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | Nebo15 | gandalf.api | 103 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
 | jenssegers | laravel-mongodb-session | 75 | 27 | [link](https://github.com/jenssegers/laravel-mongodb-session) |
-| hoangsonww | Moodify-Emotion-Music-App | 69 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
+| hoangsonww | Moodify-Emotion-Music-App | 70 | 22 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | merlosy | laravel-restful-api-starter | 68 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
 | 233sec | laravel-src | 67 | 31 | [link](https://github.com/233sec/laravel-src) |
 | huijimuhe | monolog-web | 66 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
@@ -37,9 +37,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-05-31T04:50:10.458Z
-* **Total pages scraped:** 77
-* **Repos found:** 2260
-* **Repos filtered out (< 25 stars):** 2229
-* **Total possible repositories:** 9357
-* **Percent processed:** 24.2%
+* **Last scrape:** 2026-06-07T04:55:16.065Z
+* **Total pages scraped:** 75
+* **Repos found:** 2225
+* **Repos filtered out (< 25 stars):** 2194
+* **Total possible repositories:** 9358
+* **Percent processed:** 23.8%
