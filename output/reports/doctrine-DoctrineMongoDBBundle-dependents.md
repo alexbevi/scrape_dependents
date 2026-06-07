@@ -4,51 +4,35 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2561 | 966 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2217 | 432 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1968 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1679 | 165 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1262 | 788 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 869 | 596 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 788 | 111 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 707 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 436 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1684 | 167 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1262 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| zenstruck | foundry | 790 | 111 | [link](https://github.com/zenstruck/foundry) |
 | Elao | PhpEnums | 328 | 30 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 323 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 32 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
-| vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 177 | 49 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 122 | 71 | [link](https://github.com/floriansemm/SolrBundle) |
 | h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
-| sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 27 | [link](https://github.com/henter/HenterGEO) |
-| MacPaw | symfony-health-check-bundle | 60 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
+| MacPaw | symfony-health-check-bundle | 61 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 60 | 16 | [link](https://github.com/pumukit/PuMuKIT) |
-| anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
-| teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
-| Zeega | Zeega | 48 | 18 | [link](https://github.com/Zeega/Zeega) |
 | V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
-| pixelhumain | GoGoCarto | 44 | 10 | [link](https://github.com/pixelhumain/GoGoCarto) |
-| jbouzekri | free-bet | 43 | 32 | [link](https://github.com/jbouzekri/free-bet) |
-| SpiriitLabs | form-filter-bundle | 36 | 16 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
+| SpiriitLabs | form-filter-bundle | 39 | 16 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
-| makasim | PayumBundleSandbox | 36 | 28 | [link](https://github.com/makasim/PayumBundleSandbox) |
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
 | automagistre | automagistre | 29 | 7 | [link](https://github.com/automagistre/automagistre) |
-| guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-05-31T04:50:53.312Z
-* **Total pages scraped:** 25
-* **Repos found:** 710
-* **Repos filtered out (< 25 stars):** 670
-* **Total possible repositories:** 2513
-* **Percent processed:** 28.3%
+* **Last scrape:** 2026-06-07T04:56:12.537Z
+* **Total pages scraped:** 20
+* **Repos found:** 586
+* **Repos filtered out (< 25 stars):** 562
+* **Total possible repositories:** 2514
+* **Percent processed:** 23.3%
