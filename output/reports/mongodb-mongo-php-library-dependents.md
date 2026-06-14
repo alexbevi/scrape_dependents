@@ -4,64 +4,64 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| appwrite | appwrite | 56222 | 5421 | [link](https://github.com/appwrite/appwrite) |
-| Seldaek | monolog | 21387 | 1906 | [link](https://github.com/Seldaek/monolog) |
+| appwrite | appwrite | 56302 | 5440 | [link](https://github.com/appwrite/appwrite) |
+| Seldaek | monolog | 21389 | 1906 | [link](https://github.com/Seldaek/monolog) |
 | thephpleague | flysystem | 13569 | 854 | [link](https://github.com/thephpleague/flysystem) |
-| doctrine | cache | 7868 | 212 | [link](https://github.com/doctrine/cache) |
-| moodle | moodle | 7142 | 7493 | [link](https://github.com/moodle/moodle) |
-| mongodb | laravel-mongodb | 7078 | 1440 | [link](https://github.com/mongodb/laravel-mongodb) |
-| agentejo | cockpit | 5399 | 510 | [link](https://github.com/agentejo/cockpit) |
-| bshaffer | oauth2-server-php | 3275 | 946 | [link](https://github.com/bshaffer/oauth2-server-php) |
+| doctrine | cache | 7864 | 212 | [link](https://github.com/doctrine/cache) |
+| moodle | moodle | 7163 | 7497 | [link](https://github.com/moodle/moodle) |
+| mongodb | laravel-mongodb | 7075 | 1439 | [link](https://github.com/mongodb/laravel-mongodb) |
+| agentejo | cockpit | 5400 | 509 | [link](https://github.com/agentejo/cockpit) |
+| bshaffer | oauth2-server-php | 3274 | 946 | [link](https://github.com/bshaffer/oauth2-server-php) |
 | KnpLabs | Gaufrette | 2469 | 353 | [link](https://github.com/KnpLabs/Gaufrette) |
-| TruCopilot | phpfastcache | 2410 | 447 | [link](https://github.com/TruCopilot/phpfastcache) |
-| php-enqueue | enqueue-dev | 2217 | 432 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1809 | 368 | [link](https://github.com/lxerxa/actionview) |
+| TruCopilot | phpfastcache | 2410 | 446 | [link](https://github.com/TruCopilot/phpfastcache) |
+| php-enqueue | enqueue-dev | 2217 | 431 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1969 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1810 | 368 | [link](https://github.com/lxerxa/actionview) |
 | dreamfactorysoftware | dreamfactory | 1774 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | perftools | xhgui | 1687 | 343 | [link](https://github.com/perftools/xhgui) |
-| LLPhant | LLPhant | 1684 | 167 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1686 | 168 | [link](https://github.com/LLPhant/LLPhant) |
 | ipfspics | ipfspics-server | 1120 | 110 | [link](https://github.com/ipfspics/ipfspics-server) |
-| doctrine | mongodb-odm | 1096 | 512 | [link](https://github.com/doctrine/mongodb-odm) |
-| laynefyc | xhgui-branch | 893 | 123 | [link](https://github.com/laynefyc/xhgui-branch) |
-| Cocolabs-SAS | cocorico | 870 | 596 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| David-Crty | databasement | 862 | 72 | [link](https://github.com/David-Crty/databasement) |
-| mongodb | docs | 772 | 1704 | [link](https://github.com/mongodb/docs) |
-| Cockpit-HQ | Cockpit | 722 | 82 | [link](https://github.com/Cockpit-HQ/Cockpit) |
+| doctrine | mongodb-odm | 1096 | 511 | [link](https://github.com/doctrine/mongodb-odm) |
+| laynefyc | xhgui-branch | 893 | 122 | [link](https://github.com/laynefyc/xhgui-branch) |
+| David-Crty | databasement | 875 | 76 | [link](https://github.com/David-Crty/databasement) |
+| Cocolabs-SAS | cocorico | 871 | 595 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| mongodb | docs | 771 | 1705 | [link](https://github.com/mongodb/docs) |
+| Cockpit-HQ | Cockpit | 726 | 82 | [link](https://github.com/Cockpit-HQ/Cockpit) |
 | markitosgv | JWTRefreshTokenBundle | 707 | 180 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| DataDog | dd-trace-php | 552 | 179 | [link](https://github.com/DataDog/dd-trace-php) |
-| jikan-me | jikan-rest | 531 | 283 | [link](https://github.com/jikan-me/jikan-rest) |
+| DataDog | dd-trace-php | 554 | 179 | [link](https://github.com/DataDog/dd-trace-php) |
+| jikan-me | jikan-rest | 530 | 284 | [link](https://github.com/jikan-me/jikan-rest) |
 | symfony | lock | 515 | 15 | [link](https://github.com/symfony/lock) |
-| xibosignage | xibo-cms | 494 | 345 | [link](https://github.com/xibosignage/xibo-cms) |
+| xibosignage | xibo-cms | 495 | 347 | [link](https://github.com/xibosignage/xibo-cms) |
 | jdorn | php-reports | 483 | 233 | [link](https://github.com/jdorn/php-reports) |
 | c9s | maghead | 477 | 26 | [link](https://github.com/c9s/maghead) |
 | alcaeus | mongo-php-adapter | 464 | 131 | [link](https://github.com/alcaeus/mongo-php-adapter) |
 | lexik | LexikTranslationBundle | 438 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| riclolsen | json-scada | 399 | 106 | [link](https://github.com/riclolsen/json-scada) |
+| riclolsen | json-scada | 401 | 106 | [link](https://github.com/riclolsen/json-scada) |
 | jiannei | lumen-api-starter | 353 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
 | ice | framework | 349 | 40 | [link](https://github.com/ice/framework) |
 | imbo | imbo | 334 | 46 | [link](https://github.com/imbo/imbo) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | appwrite | sdk-generator | 319 | 203 | [link](https://github.com/appwrite/sdk-generator) |
 | unacms | UNA | 314 | 182 | [link](https://github.com/unacms/UNA) |
-| zKillboard | zKillboard | 303 | 84 | [link](https://github.com/zKillboard/zKillboard) |
-| aternosorg | mclogs | 297 | 51 | [link](https://github.com/aternosorg/mclogs) |
+| zKillboard | zKillboard | 303 | 83 | [link](https://github.com/zKillboard/zKillboard) |
+| aternosorg | mclogs | 298 | 51 | [link](https://github.com/aternosorg/mclogs) |
 | omines | datatables-bundle | 284 | 118 | [link](https://github.com/omines/datatables-bundle) |
 | pinpoint-apm | pinpoint-c-agent | 274 | 80 | [link](https://github.com/pinpoint-apm/pinpoint-c-agent) |
 | php-cache | cache | 265 | 81 | [link](https://github.com/php-cache/cache) |
-| swoole | library | 249 | 58 | [link](https://github.com/swoole/library) |
+| swoole | library | 250 | 58 | [link](https://github.com/swoole/library) |
 | flowjs | flow-php-server | 245 | 41 | [link](https://github.com/flowjs/flow-php-server) |
 | leroy-merlin-br | mongolid-laravel | 237 | 38 | [link](https://github.com/leroy-merlin-br/mongolid-laravel) |
-| pi-engine | pi | 226 | 121 | [link](https://github.com/pi-engine/pi) |
+| pi-engine | pi | 228 | 122 | [link](https://github.com/pi-engine/pi) |
 | mjphaynes | php-resque | 225 | 46 | [link](https://github.com/mjphaynes/php-resque) |
 | Minds | engine | 206 | 91 | [link](https://github.com/Minds/engine) |
 | durable-workflow | waterline | 202 | 15 | [link](https://github.com/durable-workflow/waterline) |
 | doctrine | KeyValueStore | 200 | 55 | [link](https://github.com/doctrine/KeyValueStore) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
-| MythicalLTD | FeatherPanel | 183 | 24 | [link](https://github.com/MythicalLTD/FeatherPanel) |
+| MythicalLTD | FeatherPanel | 191 | 27 | [link](https://github.com/MythicalLTD/FeatherPanel) |
 | jmikola | mongoqp | 169 | 22 | [link](https://github.com/jmikola/mongoqp) |
 | eventum | eventum | 161 | 54 | [link](https://github.com/eventum/eventum) |
 | SamuelTallet | MongoDB-PHP-GUI | 145 | 35 | [link](https://github.com/SamuelTallet/MongoDB-PHP-GUI) |
-| iamfarhad | laravel-audit-log | 134 | 8 | [link](https://github.com/iamfarhad/laravel-audit-log) |
+| iamfarhad | laravel-audit-log | 136 | 8 | [link](https://github.com/iamfarhad/laravel-audit-log) |
 | desarrolla2 | Cache | 134 | 37 | [link](https://github.com/desarrolla2/Cache) |
 | codex-team | capella | 131 | 23 | [link](https://github.com/codex-team/capella) |
 | cross-solution | YAWIK | 131 | 66 | [link](https://github.com/cross-solution/YAWIK) |
@@ -73,17 +73,17 @@
 | Plancke | hypixel-php | 122 | 32 | [link](https://github.com/Plancke/hypixel-php) |
 | Interfacelab | ilab-media-tools | 120 | 45 | [link](https://github.com/Interfacelab/ilab-media-tools) |
 | Payum | PayumServer | 118 | 31 | [link](https://github.com/Payum/PayumServer) |
-| dewanakl | undangan-api | 113 | 137 | [link](https://github.com/dewanakl/undangan-api) |
+| dewanakl | undangan-api | 116 | 137 | [link](https://github.com/dewanakl/undangan-api) |
 | zhaohehe | swoole-tadpole | 112 | 14 | [link](https://github.com/zhaohehe/swoole-tadpole) |
+| open-telemetry | opentelemetry-php-contrib | 111 | 139 | [link](https://github.com/open-telemetry/opentelemetry-php-contrib) |
 | leroy-merlin-br | mongolid | 111 | 23 | [link](https://github.com/leroy-merlin-br/mongolid) |
-| open-telemetry | opentelemetry-php-contrib | 110 | 138 | [link](https://github.com/open-telemetry/opentelemetry-php-contrib) |
 | jiannei | laravel-api-starter | 106 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | webiny | Framework | 103 | 10 | [link](https://github.com/webiny/Framework) |
 | Nebo15 | gandalf.api | 103 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
+| ubccr | xdmod | 102 | 79 | [link](https://github.com/ubccr/xdmod) |
 | agentejo | copilot | 101 | 16 | [link](https://github.com/agentejo/copilot) |
 | zhaohehe | real-time-pad | 101 | 17 | [link](https://github.com/zhaohehe/real-time-pad) |
-| ubccr | xdmod | 100 | 77 | [link](https://github.com/ubccr/xdmod) |
-| flat3 | lodata | 98 | 32 | [link](https://github.com/flat3/lodata) |
+| flat3 | lodata | 99 | 32 | [link](https://github.com/flat3/lodata) |
 | neam | docker-stack | 88 | 6 | [link](https://github.com/neam/docker-stack) |
 | formapro | yadm | 84 | 6 | [link](https://github.com/formapro/yadm) |
 | laminas | laminas-session | 82 | 39 | [link](https://github.com/laminas/laminas-session) |
@@ -102,10 +102,10 @@
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
 | piordev555 | runeruby-casino | 50 | 27 | [link](https://github.com/piordev555/runeruby-casino) |
 | ihsn | nada | 50 | 20 | [link](https://github.com/ihsn/nada) |
-| NatLibFi | RecordManager | 50 | 33 | [link](https://github.com/NatLibFi/RecordManager) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | SIMITGROUP | phpjasperxml | 49 | 46 | [link](https://github.com/SIMITGROUP/phpjasperxml) |
 | elcobvg | lumen-realworld-example-app | 49 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
+| NatLibFi | RecordManager | 49 | 33 | [link](https://github.com/NatLibFi/RecordManager) |
 | sillsdev | web-languageforge | 47 | 29 | [link](https://github.com/sillsdev/web-languageforge) |
 | traderinteractive | mongo-queue-php | 46 | 23 | [link](https://github.com/traderinteractive/mongo-queue-php) |
 | pixelhumain | GoGoCarto | 44 | 9 | [link](https://github.com/pixelhumain/GoGoCarto) |
@@ -113,11 +113,11 @@
 | prooph | micro-do | 42 | 11 | [link](https://github.com/prooph/micro-do) |
 | zendframework | zend-session | 40 | 58 | [link](https://github.com/zendframework/zend-session) |
 | frmichel | sparql-micro-service | 38 | 9 | [link](https://github.com/frmichel/sparql-micro-service) |
+| OSIRIS-Solutions | osiris | 37 | 14 | [link](https://github.com/OSIRIS-Solutions/osiris) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | facile-it | mongodb-bundle | 37 | 22 | [link](https://github.com/facile-it/mongodb-bundle) |
 | thecodingmachine | packanalyst | 36 | 4 | [link](https://github.com/thecodingmachine/packanalyst) |
 | botilka | botilka | 35 | 4 | [link](https://github.com/botilka/botilka) |
-| OSIRIS-Solutions | osiris | 34 | 14 | [link](https://github.com/OSIRIS-Solutions/osiris) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
 | abellion | xenus | 34 | 17 | [link](https://github.com/abellion/xenus) |
 | toxmc | fast-laravel | 34 | 9 | [link](https://github.com/toxmc/fast-laravel) |
@@ -128,9 +128,9 @@
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
 | iurygdeoliveira | labSIS-KIT | 31 | 15 | [link](https://github.com/iurygdeoliveira/labSIS-KIT) |
 | rosteleset | SmartYard-Server | 31 | 27 | [link](https://github.com/rosteleset/SmartYard-Server) |
+| YSTEMandChess | app.ystemandchess.com | 31 | 19 | [link](https://github.com/YSTEMandChess/app.ystemandchess.com) |
 | zumba | mongounit | 31 | 13 | [link](https://github.com/zumba/mongounit) |
 | FogosPT | fogosapi | 30 | 5 | [link](https://github.com/FogosPT/fogosapi) |
-| YSTEMandChess | app.ystemandchess.com | 30 | 19 | [link](https://github.com/YSTEMandChess/app.ystemandchess.com) |
 | jenssegers | laravel-mongodb-core | 30 | 4 | [link](https://github.com/jenssegers/laravel-mongodb-core) |
 | elarity | wechat-official-accounts-demo-code | 30 | 7 | [link](https://github.com/elarity/wechat-official-accounts-demo-code) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
@@ -148,9 +148,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-06-07T05:00:24.477Z
-* **Total pages scraped:** 255
-* **Repos found:** 7532
-* **Repos filtered out (< 25 stars):** 7390
-* **Total possible repositories:** 22428
-* **Percent processed:** 33.6%
+* **Last scrape:** 2026-06-14T05:05:57.406Z
+* **Total pages scraped:** 252
+* **Repos found:** 7465
+* **Repos filtered out (< 25 stars):** 7323
+* **Total possible repositories:** 22436
+* **Percent processed:** 33.3%
