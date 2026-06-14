@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1809 | 368 | [link](https://github.com/lxerxa/actionview) |
+| illacceptanything | illacceptanything | 1969 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1810 | 368 | [link](https://github.com/lxerxa/actionview) |
 | dreamfactorysoftware | dreamfactory | 1774 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 772 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 531 | 283 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 530 | 284 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 353 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
-| danielme85 | laravel-log-to-db | 135 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
+| danielme85 | laravel-log-to-db | 134 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
 | jiannei | laravel-api-starter | 106 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
@@ -23,7 +23,6 @@
 | 233sec | laravel-src | 67 | 31 | [link](https://github.com/233sec/laravel-src) |
 | huijimuhe | monolog-web | 66 | 49 | [link](https://github.com/huijimuhe/monolog-web) |
 | designmynight | laravel-mongodb-passport | 66 | 77 | [link](https://github.com/designmynight/laravel-mongodb-passport) |
-| CrowdTruth | CrowdTruth | 60 | 13 | [link](https://github.com/CrowdTruth/CrowdTruth) |
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
@@ -37,9 +36,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-06-07T04:55:16.065Z
-* **Total pages scraped:** 75
-* **Repos found:** 2225
-* **Repos filtered out (< 25 stars):** 2194
+* **Last scrape:** 2026-06-14T04:59:52.327Z
+* **Total pages scraped:** 74
+* **Repos found:** 2191
+* **Repos filtered out (< 25 stars):** 2161
 * **Total possible repositories:** 9358
-* **Percent processed:** 23.8%
+* **Percent processed:** 23.4%
