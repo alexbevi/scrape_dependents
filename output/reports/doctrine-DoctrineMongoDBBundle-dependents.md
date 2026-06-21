@@ -4,22 +4,22 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2563 | 969 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2217 | 431 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2564 | 966 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2217 | 430 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1969 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1686 | 168 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 791 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 871 | 595 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 791 | 111 | [link](https://github.com/zenstruck/foundry) |
+| LLPhant | LLPhant | 1687 | 169 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 792 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 871 | 592 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 795 | 111 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 707 | 180 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 438 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
-| Elao | PhpEnums | 327 | 30 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 323 | 77 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| lexik | LexikTranslationBundle | 439 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
+| theofidry | AliceDataFixtures | 323 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 275 | 32 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
-| liip | LiipTestFixturesBundle | 177 | 49 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| getparthenon | parthenon | 175 | 12 | [link](https://github.com/getparthenon/parthenon) |
+| liip | LiipTestFixturesBundle | 177 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| getparthenon | parthenon | 175 | 13 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 122 | 71 | [link](https://github.com/floriansemm/SolrBundle) |
 | h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
@@ -34,7 +34,7 @@
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 48 | 18 | [link](https://github.com/Zeega/Zeega) |
 | V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
-| pixelhumain | GoGoCarto | 44 | 9 | [link](https://github.com/pixelhumain/GoGoCarto) |
+| pixelhumain | GoGoCarto | 44 | 8 | [link](https://github.com/pixelhumain/GoGoCarto) |
 | jbouzekri | free-bet | 43 | 32 | [link](https://github.com/jbouzekri/free-bet) |
 | SpiriitLabs | form-filter-bundle | 39 | 16 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-06-14T05:01:04.542Z
-* **Total pages scraped:** 25
-* **Repos found:** 708
-* **Repos filtered out (< 25 stars):** 668
+* **Last scrape:** 2026-06-21T05:19:40.283Z
+* **Total pages scraped:** 24
+* **Repos found:** 705
+* **Repos filtered out (< 25 stars):** 665
 * **Total possible repositories:** 2515
-* **Percent processed:** 28.2%
+* **Percent processed:** 28.0%
