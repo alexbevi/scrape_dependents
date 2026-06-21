@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OWASP | crAPI | 1522 | 577 | [link](https://github.com/OWASP/crAPI) |
-| damklis | DataEngineeringProject | 1412 | 278 | [link](https://github.com/damklis/DataEngineeringProject) |
-| sajib1066 | django-event-management | 182 | 95 | [link](https://github.com/sajib1066/django-event-management) |
+| OWASP | crAPI | 1525 | 577 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1413 | 278 | [link](https://github.com/damklis/DataEngineeringProject) |
+| sajib1066 | django-event-management | 183 | 95 | [link](https://github.com/sajib1066/django-event-management) |
 | cyantarek | django-microservices | 166 | 88 | [link](https://github.com/cyantarek/django-microservices) |
 | frg-fossee | eSim-Cloud | 164 | 245 | [link](https://github.com/frg-fossee/eSim-Cloud) |
 | drshahizan | special-topic-data-engineering | 127 | 80 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
@@ -22,14 +22,14 @@
 | hoangsonww | The-MovieVerse-Database | 32 | 17 | [link](https://github.com/hoangsonww/The-MovieVerse-Database) |
 | evaseemefly | TyphoonSearchSys | 31 | 13 | [link](https://github.com/evaseemefly/TyphoonSearchSys) |
 | codexgigassys | daas | 28 | 6 | [link](https://github.com/codexgigassys/daas) |
-| minnelab | MAIA | 27 | 7 | [link](https://github.com/minnelab/MAIA) |
+| minnelab | MAIA | 27 | 8 | [link](https://github.com/minnelab/MAIA) |
 | pranavcode | consul-demo | 26 | 23 | [link](https://github.com/pranavcode/consul-demo) |
 | leopardslab | CrawlerX | 25 | 19 | [link](https://github.com/leopardslab/CrawlerX) |
 
 ---
-* **Last scrape:** 2026-06-14T04:56:39.692Z
-* **Total pages scraped:** 160
-* **Repos found:** 4761
-* **Repos filtered out (< 25 stars):** 4740
+* **Last scrape:** 2026-06-21T05:11:29.857Z
+* **Total pages scraped:** 159
+* **Repos found:** 4732
+* **Repos filtered out (< 25 stars):** 4711
 * **Total possible repositories:** 12598
-* **Percent processed:** 37.8%
+* **Percent processed:** 37.6%
