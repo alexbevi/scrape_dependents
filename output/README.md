@@ -44,6 +44,7 @@ Legend:
 |---|---|---|---|---|---|---|---:|---:|
 | doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2026-06-21T05:11:29.857Z | 159 | 4732 | 4711 | 12598 | 37.6% |
 | doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2026-06-21T05:19:40.283Z | 24 | 705 | 665 | 2515 | 28.0% |
+| meteor | [meteor](reports/meteor-meteor-dependents.md) | JavaScript | 2026-06-22T10:33:57.085Z | 1 | 28 | 26 | 95 | 29.5% |
 | mongodb | [django-mongodb-backend](reports/mongodb-django-mongodb-backend-dependents.md) | Python | 2026-06-21T05:19:26.897Z | 2 | 56 | 54 | 68 | 82.4% |
 | mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2026-06-21T05:16:25.428Z | 73 | 2163 | 2133 | 9360 | 23.1% |
 | mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2026-06-21T05:19:10.981Z | 28 | 837 | 827 | 1232 | 67.9% |
