@@ -43,6 +43,28 @@ on:
           - mongo-efcore-provider
           - DoctrineMongoDBBundle
           - django-mongodb-backend
+          - ai
+          - langgraph
+          - airflow
+          - crewAI
+          - genkit
+          - chainlit
+          - fastmcp
+          - prefect
+          - GPTCache
+          - docarray
+          - dagster
+          - pydantic-ai
+          - autogen
+          - parse-server
+          - cline
+          - semantic-kernel
+          - agno
+          - E2B
+          - mastra
+          - dspy
+          - haystack
+          - langflow
 
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight

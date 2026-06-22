@@ -177,5 +177,115 @@
     "repo": "mongodb/django-mongodb-backend",
     "language": "Python",
     "type": "Framework"
+  },
+  {
+    "repo": "vercel/ai",
+    "language": "TypeScript",
+    "type": "AI"
+  },
+  {
+    "repo": "langchain-ai/langgraph",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "apache/airflow",
+    "language": "Python",
+    "type": "Framework"
+  },
+  {
+    "repo": "crewAIInc/crewAI",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "genkit-ai/genkit",
+    "language": "TypeScript",
+    "type": "AI"
+  },
+  {
+    "repo": "Chainlit/chainlit",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "PrefectHQ/fastmcp",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "PrefectHQ/prefect",
+    "language": "Python",
+    "type": "Framework"
+  },
+  {
+    "repo": "zilliztech/GPTCache",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "docarray/docarray",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "dagster-io/dagster",
+    "language": "Python",
+    "type": "Framework"
+  },
+  {
+    "repo": "pydantic/pydantic-ai",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "microsoft/autogen",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "parse-community/parse-server",
+    "language": "JavaScript",
+    "type": "Framework"
+  },
+  {
+    "repo": "cline/cline",
+    "language": "TypeScript",
+    "type": "AI"
+  },
+  {
+    "repo": "microsoft/semantic-kernel",
+    "language": "CSharp",
+    "type": "AI"
+  },
+  {
+    "repo": "agno-agi/agno",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "e2b-dev/E2B",
+    "language": "TypeScript",
+    "type": "AI"
+  },
+  {
+    "repo": "mastra-ai/mastra",
+    "language": "TypeScript",
+    "type": "AI"
+  },
+  {
+    "repo": "stanfordnlp/dspy",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "deepset-ai/haystack",
+    "language": "Python",
+    "type": "AI"
+  },
+  {
+    "repo": "langflow-ai/langflow",
+    "language": "Python",
+    "type": "AI"
   }
 ]
