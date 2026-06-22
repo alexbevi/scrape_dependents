@@ -287,5 +287,10 @@
     "repo": "langflow-ai/langflow",
     "language": "Python",
     "type": "AI"
+  },
+  {
+    "repo": "quarkusio/quarkus",
+    "language": "Java",
+    "type": "Framework"
   }
 ]

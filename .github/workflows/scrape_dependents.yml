@@ -65,6 +65,7 @@ on:
           - dspy
           - haystack
           - langflow
+          - quarkus
 
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
