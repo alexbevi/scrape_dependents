@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: true
           fetch-depth: 0
@@ -29,9 +29,9 @@ jobs:
             git checkout -B "$branch" || true
           fi
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
-          node-version: '20'
+          node-version: '24'
       - name: Install deps
         run: npm ci
       - name: Generate README from reports
