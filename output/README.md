@@ -67,6 +67,7 @@ Legend:
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
 | drizzle-team | [drizzle-orm](reports/drizzle-team-drizzle-orm-dependents.md) | JavaScript | 2026-06-21T06:09:48.853Z | 3234 | 96226 | 94456 | 155441 | 61.9% |
+| mikro-orm | [mikro-orm](reports/mikro-orm-mikro-orm-dependents.md) | TypeScript | 2026-06-22T10:40:11.615Z | 208 | 6141 | 6001 | 16319 | 37.6% |
 | prisma | [prisma](reports/prisma-prisma-dependents.md) | TypeScript | 2026-06-21T06:53:15.368Z | 8182 | 243987 | 242939 | 772404 | 31.6% |
 | typeorm | [typeorm](reports/typeorm-typeorm-dependents.md) | JavaScript | 2026-06-21T04:48:14.763Z | 517 | 15322 | 15206 | 431047 | 3.6% |
 
