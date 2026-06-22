@@ -21,6 +21,11 @@
     "type": "ORM"
   },
   {
+    "repo": "mikro-orm/mikro-orm",
+    "language": "TypeScript",
+    "type": "ORM"
+  },
+  {
     "repo": "mongodb/mongo-java-driver",
     "language": "Java",
     "type": "Driver"
@@ -56,6 +61,11 @@
     "repo": "typeorm/typeorm",
     "language": "JavaScript",
     "type": "ORM"
+  },
+  {
+    "repo": "meteor/meteor",
+    "language": "JavaScript",
+    "type": "Framework"
   },
   {
     "repo": "tmc/langchaingo",
