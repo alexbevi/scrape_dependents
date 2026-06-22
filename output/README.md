@@ -16,6 +16,7 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
+| agno-agi | [agno](reports/agno-agi-agno-dependents.md) | Python | 2026-06-22T11:12:31.063Z | 67 | 1979 | 1896 | 2670 | 74.1% |
 | langchain-ai | [langchain](reports/langchain-ai-langchain-dependents.md) | Python | 2026-06-21T08:04:43.669Z | 6476 | 193027 | 189054 | 282232 | 68.4% |
 | langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2026-06-21T04:48:48.336Z | 27 | 781 | 758 | 1147 | 68.1% |
 | langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2026-06-21T05:13:53.345Z | 1114 | 32878 | 31971 | 51269 | 64.1% |
