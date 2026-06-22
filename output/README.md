@@ -49,6 +49,7 @@ Legend:
 | mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2026-06-21T05:16:25.428Z | 73 | 2163 | 2133 | 9360 | 23.1% |
 | mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2026-06-21T05:19:10.981Z | 28 | 837 | 827 | 1232 | 67.9% |
 | MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2026-06-21T05:13:21.665Z | 6 | 152 | 139 | 329 | 46.2% |
+| quarkusio | [quarkus](reports/quarkusio-quarkus-dependents.md) | Java | 2026-06-22T11:10:27.432Z | 0 | 0 | 0 | unknown | unknown |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2026-06-21T05:08:25.581Z | 222 | 6533 | 6303 | 29510 | 22.1% |
 
 ## ODM
