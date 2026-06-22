@@ -292,5 +292,15 @@
     "repo": "quarkusio/quarkus",
     "language": "Java",
     "type": "Framework"
+  },
+  {
+    "repo": "hibernate/hibernate-orm",
+    "language": "Java",
+    "type": "ORM"
+  },
+  {
+    "repo": "mongodb/mongo-hibernate",
+    "language": "Java",
+    "type": "ORM"
   }
 ]

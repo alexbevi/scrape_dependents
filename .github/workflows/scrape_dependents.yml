@@ -66,6 +66,8 @@ on:
           - haystack
           - langflow
           - quarkus
+          - hibernate-orm
+          - mongo-hibernate
 
   schedule:
     - cron: '0 0 * * 0'  # every Sunday at midnight
