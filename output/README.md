@@ -21,6 +21,7 @@ Legend:
 | langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2026-06-21T04:48:48.336Z | 27 | 781 | 758 | 1147 | 68.1% |
 | langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2026-06-21T05:13:53.345Z | 1114 | 32878 | 31971 | 51269 | 64.1% |
 | langchain4j | [langchain4j](reports/langchain4j-langchain4j-dependents.md) | Java | 2026-06-21T05:15:13.997Z | 48 | 1426 | 1316 | 1817 | 78.5% |
+| mastra-ai | [mastra](reports/mastra-ai-mastra-dependents.md) | TypeScript | 2026-06-22T11:13:20.301Z | 41 | 1193 | 1159 | 1836 | 65.0% |
 | run-llama | [llama_index](reports/run-llama-llama_index-dependents.md) | Python | 2026-06-21T04:52:56.738Z | 116 | 3428 | 3301 | 24345 | 14.1% |
 | tmc | [langchaingo](reports/tmc-langchaingo-dependents.md) | Go | 2026-06-21T04:41:15.591Z | 46 | 1312 | 1211 | 1865 | 70.3% |
 
