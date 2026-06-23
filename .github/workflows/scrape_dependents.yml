@@ -65,7 +65,7 @@ on:
           - dspy
           - haystack
           - langflow
-          - quarkus
+          - quarkus-platform
           - hibernate-orm
           - mongo-hibernate
 

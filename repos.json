@@ -65,7 +65,8 @@
   {
     "repo": "meteor/meteor",
     "language": "JavaScript",
-    "type": "Framework"
+    "type": "Framework",
+    "package_id": "UGFja2FnZS0xNTAwNDA0Mw%3D%3D"
   },
   {
     "repo": "tmc/langchaingo",
@@ -289,9 +290,10 @@
     "type": "AI"
   },
   {
-    "repo": "quarkusio/quarkus",
+    "repo": "quarkusio/quarkus-platform",
     "language": "Java",
-    "type": "Framework"
+    "type": "Framework",
+    "package_id": "UGFja2FnZS0yNDQ1NjcxMzYz"
   },
   {
     "repo": "hibernate/hibernate-orm",
