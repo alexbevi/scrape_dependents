@@ -52,6 +52,7 @@ Legend:
 | mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2026-06-21T05:19:10.981Z | 28 | 837 | 827 | 1232 | 67.9% |
 | MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2026-06-21T05:13:21.665Z | 6 | 152 | 139 | 329 | 46.2% |
 | quarkusio | [quarkus](reports/quarkusio-quarkus-dependents.md) | Java | 2026-06-22T11:10:27.432Z | 0 | 0 | 0 | unknown | unknown |
+| quarkusio | [quarkus-platform](reports/quarkusio-quarkus-platform-dependents.md) | Java | 2026-06-23T10:09:56.623Z | 533 | 15915 | 15688 | 37572 | 42.4% |
 | spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2026-06-21T05:08:25.581Z | 222 | 6533 | 6303 | 29510 | 22.1% |
 
 ## ODM
