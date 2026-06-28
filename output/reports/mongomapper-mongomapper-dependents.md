@@ -6,13 +6,13 @@
 |---|---|---|---|---|
 | public-activity | public_activity | 2993 | 331 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1347 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 359 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 798 | 82 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 714 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 343 | 118 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 308 | 235 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 344 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 309 | 236 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -28,7 +28,7 @@
 | brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
 | caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
-| arfon | fidgit | 62 | 47 | [link](https://github.com/arfon/fidgit) |
+| arfon | fidgit | 62 | 46 | [link](https://github.com/arfon/fidgit) |
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
 | zooniverse-glacier | Scribe | 49 | 7 | [link](https://github.com/zooniverse-glacier/Scribe) |
@@ -59,9 +59,9 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-06-21T04:53:26.035Z
+* **Last scrape:** 2026-06-28T04:36:18.198Z
 * **Total pages scraped:** 18
-* **Repos found:** 457
-* **Repos filtered out (< 25 stars):** 404
+* **Repos found:** 456
+* **Repos filtered out (< 25 stars):** 403
 * **Total possible repositories:** 2816
 * **Percent processed:** 16.2%
