@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1969 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1809 | 368 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1773 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
-| doubleleft | hook | 772 | 81 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 531 | 283 | [link](https://github.com/jikan-me/jikan-rest) |
-| jiannei | lumen-api-starter | 353 | 58 | [link](https://github.com/jiannei/lumen-api-starter) |
+| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1809 | 367 | [link](https://github.com/lxerxa/actionview) |
+| dreamfactorysoftware | dreamfactory | 1775 | 350 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| doubleleft | hook | 772 | 80 | [link](https://github.com/doubleleft/hook) |
+| jikan-me | jikan-rest | 533 | 284 | [link](https://github.com/jikan-me/jikan-rest) |
+| jiannei | lumen-api-starter | 353 | 57 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
-| laynefyc | php-monitor | 236 | 34 | [link](https://github.com/laynefyc/php-monitor) |
+| laynefyc | php-monitor | 235 | 34 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 134 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 113 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
@@ -27,18 +27,18 @@
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
 | piordev555 | runeruby-casino | 50 | 27 | [link](https://github.com/piordev555/runeruby-casino) |
-| elcobvg | lumen-realworld-example-app | 49 | 28 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
+| elcobvg | lumen-realworld-example-app | 49 | 27 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
 | FogosPT | fogosapi | 30 | 5 | [link](https://github.com/FogosPT/fogosapi) |
 | huijimuhe | lottery-web | 29 | 16 | [link](https://github.com/huijimuhe/lottery-web) |
-| PacktPublishing | Mastering-MongoDB-6.x | 25 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
+| PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-06-21T05:16:25.428Z
+* **Last scrape:** 2026-06-28T04:49:06.658Z
 * **Total pages scraped:** 73
-* **Repos found:** 2163
-* **Repos filtered out (< 25 stars):** 2133
-* **Total possible repositories:** 9360
-* **Percent processed:** 23.1%
+* **Repos found:** 2146
+* **Repos filtered out (< 25 stars):** 2116
+* **Total possible repositories:** 9361
+* **Percent processed:** 22.9%
