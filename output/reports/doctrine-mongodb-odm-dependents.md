@@ -4,21 +4,21 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4142 | 1252 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2849 | 231 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2564 | 966 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1969 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| doctrine-extensions | DoctrineExtensions | 4143 | 1253 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2850 | 231 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2567 | 967 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1968 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1904 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1687 | 169 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1691 | 167 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1263 | 792 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
+| FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 447 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
 | Cocolabs-SAS | cocorico | 871 | 592 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 795 | 111 | [link](https://github.com/zenstruck/foundry) |
 | KnpLabs | knp-components | 772 | 138 | [link](https://github.com/KnpLabs/knp-components) |
 | markitosgv | JWTRefreshTokenBundle | 707 | 180 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 671 | 119 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| phpstan | phpstan-doctrine | 672 | 119 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 338 | [link](https://github.com/APY/APYDataGridBundle) |
-| sonata-project | SonataMediaBundle | 462 | 481 | [link](https://github.com/sonata-project/SonataMediaBundle) |
+| sonata-project | SonataMediaBundle | 462 | 480 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
 | lexik | LexikTranslationBundle | 439 | 263 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | BabDev | Pagerfanta | 424 | 167 | [link](https://github.com/BabDev/Pagerfanta) |
@@ -28,11 +28,11 @@
 | sonata-project | SonataUserBundle | 346 | 475 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 323 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 308 | 59 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| Baldinof | roadrunner-bundle | 309 | 59 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 268 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | liip | LiipTestFixturesBundle | 177 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| sonata-project | SonataNewsBundle | 149 | 127 | [link](https://github.com/sonata-project/SonataNewsBundle) |
+| sonata-project | SonataNewsBundle | 150 | 127 | [link](https://github.com/sonata-project/SonataNewsBundle) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | cross-solution | YAWIK | 131 | 65 | [link](https://github.com/cross-solution/YAWIK) |
 | mmucklo | DtcQueueBundle | 120 | 38 | [link](https://github.com/mmucklo/DtcQueueBundle) |
@@ -45,9 +45,9 @@
 | h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 27 | [link](https://github.com/henter/HenterGEO) |
-| pumukit | PuMuKIT | 60 | 16 | [link](https://github.com/pumukit/PuMuKIT) |
+| pumukit | PuMuKIT | 60 | 15 | [link](https://github.com/pumukit/PuMuKIT) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
@@ -61,16 +61,16 @@
 | Schibsted-Tech-Polska | stp.rtm | 31 | 13 | [link](https://github.com/Schibsted-Tech-Polska/stp.rtm) |
 | klapaudius | symfony-mcp-server | 30 | 3 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
-| automagistre | automagistre | 29 | 7 | [link](https://github.com/automagistre/automagistre) |
+| automagistre | automagistre | 28 | 7 | [link](https://github.com/automagistre/automagistre) |
 | guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
+| api-platform | doctrine-common | 27 | 1 | [link](https://github.com/api-platform/doctrine-common) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
-| api-platform | doctrine-common | 26 | 1 | [link](https://github.com/api-platform/doctrine-common) |
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-06-21T04:55:44.983Z
+* **Last scrape:** 2026-06-28T04:39:54.079Z
 * **Total pages scraped:** 30
-* **Repos found:** 876
-* **Repos filtered out (< 25 stars):** 814
+* **Repos found:** 874
+* **Repos filtered out (< 25 stars):** 812
 * **Total possible repositories:** 3136
 * **Percent processed:** 27.9%
