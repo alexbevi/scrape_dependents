@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pd4d10 | unpub | 477 | 155 | [link](https://github.com/pd4d10/unpub) |
-| Jaguar-dart | jaguar | 469 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
+| pd4d10 | unpub | 478 | 156 | [link](https://github.com/pd4d10/unpub) |
+| Jaguar-dart | jaguar | 470 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
-| Jaguar-dart | jaguar_serializer | 170 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
+| Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 94 | 20 | [link](https://github.com/rgroult/MobDistTool) |
 | vedfi | mondroid | 90 | 10 | [link](https://github.com/vedfi/mondroid) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-06-21T05:12:59.499Z
-* **Total pages scraped:** 62
-* **Repos found:** 1829
-* **Repos filtered out (< 25 stars):** 1813
-* **Total possible repositories:** 5664
-* **Percent processed:** 32.3%
+* **Last scrape:** 2026-06-28T04:46:25.547Z
+* **Total pages scraped:** 61
+* **Repos found:** 1805
+* **Repos filtered out (< 25 stars):** 1789
+* **Total possible repositories:** 5665
+* **Percent processed:** 31.9%
