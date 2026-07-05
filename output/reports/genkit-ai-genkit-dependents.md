@@ -4,19 +4,22 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| googleapis | mcp-toolbox | 15726 | 1617 | [link](https://github.com/googleapis/mcp-toolbox) |
-| a2ui-project | a2ui | 15513 | 1206 | [link](https://github.com/a2ui-project/a2ui) |
-| GoogleCloudPlatform | vertex-ai-creative-studio | 1138 | 349 | [link](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) |
-| unipds-engenharia-de-ia-aplicada | engenharia-de-software-com-ia-aplicada | 930 | 466 | [link](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) |
-| angular | web-codegen-scorer | 752 | 66 | [link](https://github.com/angular/web-codegen-scorer) |
+| googleapis | mcp-toolbox | 15854 | 1623 | [link](https://github.com/googleapis/mcp-toolbox) |
+| a2ui-project | a2ui | 15615 | 1215 | [link](https://github.com/a2ui-project/a2ui) |
+| GoogleCloudPlatform | vertex-ai-creative-studio | 1142 | 348 | [link](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) |
+| unipds-engenharia-de-ia-aplicada | engenharia-de-software-com-ia-aplicada | 942 | 475 | [link](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada) |
+| angular | web-codegen-scorer | 753 | 66 | [link](https://github.com/angular/web-codegen-scorer) |
+| a2aproject | a2a-js | 567 | 146 | [link](https://github.com/a2aproject/a2a-js) |
 | jimmykane | quantified-self | 218 | 29 | [link](https://github.com/jimmykane/quantified-self) |
-| genkit-ai | genkit-dart | 145 | 25 | [link](https://github.com/genkit-ai/genkit-dart) |
-| CloudSecurityAlliance | MAESTRO | 63 | 23 | [link](https://github.com/CloudSecurityAlliance/MAESTRO) |
+| toolsdk-ai | toolsdk-mcp-registry | 179 | 128 | [link](https://github.com/toolsdk-ai/toolsdk-mcp-registry) |
+| genkit-ai | genkit-dart | 146 | 25 | [link](https://github.com/genkit-ai/genkit-dart) |
+| CloudSecurityAlliance | MAESTRO | 64 | 24 | [link](https://github.com/CloudSecurityAlliance/MAESTRO) |
+| xavidop | cardex | 26 | 6 | [link](https://github.com/xavidop/cardex) |
 
 ---
-* **Last scrape:** 2026-06-28T04:51:48.146Z
-* **Total pages scraped:** 36
-* **Repos found:** 1055
-* **Repos filtered out (< 25 stars):** 1047
-* **Total possible repositories:** 15822
-* **Percent processed:** 6.7%
+* **Last scrape:** 2026-07-05T04:52:00.312Z
+* **Total pages scraped:** 44
+* **Repos found:** 1293
+* **Repos filtered out (< 25 stars):** 1282
+* **Total possible repositories:** 15845
+* **Percent processed:** 8.2%
