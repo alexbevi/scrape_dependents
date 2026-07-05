@@ -4,17 +4,17 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| bragai | bRAG-langchain | 4128 | 496 | [link](https://github.com/bragai/bRAG-langchain) |
+| bragai | bRAG-langchain | 4135 | 496 | [link](https://github.com/bragai/bRAG-langchain) |
+| atomicstrata | atomicmemory | 432 | 38 | [link](https://github.com/atomicstrata/atomicmemory) |
 | XSpoonAi | spoon-core | 260 | 46 | [link](https://github.com/XSpoonAi/spoon-core) |
-| aihes | LangChain-Tutorials-and-Examples | 205 | 40 | [link](https://github.com/aihes/LangChain-Tutorials-and-Examples) |
-| atomicstrata | atomicmemory | 167 | 25 | [link](https://github.com/atomicstrata/atomicmemory) |
+| aihes | LangChain-Tutorials-and-Examples | 206 | 40 | [link](https://github.com/aihes/LangChain-Tutorials-and-Examples) |
 | rh-aiservices-bu | workbench-images | 51 | 32 | [link](https://github.com/rh-aiservices-bu/workbench-images) |
-| respanai | respan | 39 | 9 | [link](https://github.com/respanai/respan) |
+| respanai | respan | 38 | 9 | [link](https://github.com/respanai/respan) |
 
 ---
-* **Last scrape:** 2026-06-28T04:59:50.251Z
+* **Last scrape:** 2026-07-05T05:11:14.086Z
 * **Total pages scraped:** 34
-* **Repos found:** 995
-* **Repos filtered out (< 25 stars):** 989
-* **Total possible repositories:** 1492
-* **Percent processed:** 66.7%
+* **Repos found:** 994
+* **Repos filtered out (< 25 stars):** 988
+* **Total possible repositories:** 1493
+* **Percent processed:** 66.6%
