@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6569 | 747 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3809 | 1412 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1906 | 5306 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1345 | 601 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 852 | 267 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| OpenSignLabs | OpenSign | 6609 | 753 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3809 | 1410 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1905 | 5298 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1343 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| Eleven-Trading | TradeNote | 873 | 270 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 342 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 474 | 161 | [link](https://github.com/yongjhih/docker-parse-server) |
 | shiki | kaiseki | 222 | 41 | [link](https://github.com/shiki/kaiseki) |
@@ -27,7 +27,7 @@
 | dplewis | parse-server-mysql-adapter | 48 | 13 | [link](https://github.com/dplewis/parse-server-mysql-adapter) |
 | jsdevkr | Dumbledore | 41 | 29 | [link](https://github.com/jsdevkr/Dumbledore) |
 | andrewimm | parse-lite | 40 | 9 | [link](https://github.com/andrewimm/parse-lite) |
-| parse-community | parse-blockchain | 38 | 8 | [link](https://github.com/parse-community/parse-blockchain) |
+| parse-community | parse-blockchain | 39 | 8 | [link](https://github.com/parse-community/parse-blockchain) |
 | clowdr-app | clowdr-web-app | 38 | 13 | [link](https://github.com/clowdr-app/clowdr-web-app) |
 | TechnionYP5777 | SmartCity-ParkingManagement | 36 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
 | back4app | parse-dashboard | 35 | 18 | [link](https://github.com/back4app/parse-dashboard) |
@@ -41,9 +41,9 @@
 | bing-zhub | eQin | 25 | 8 | [link](https://github.com/bing-zhub/eQin) |
 
 ---
-* **Last scrape:** 2026-06-28T04:56:23.193Z
+* **Last scrape:** 2026-07-05T05:07:47.121Z
 * **Total pages scraped:** 28
-* **Repos found:** 795
-* **Repos filtered out (< 25 stars):** 760
-* **Total possible repositories:** 4162
+* **Repos found:** 796
+* **Repos filtered out (< 25 stars):** 761
+* **Total possible repositories:** 4167
 * **Percent processed:** 19.1%
