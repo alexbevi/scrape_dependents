@@ -4,20 +4,20 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2993 | 331 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2994 | 331 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2961 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 359 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 798 | 82 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 714 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
+| hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 344 | 117 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 309 | 236 | [link](https://github.com/opengovernment/opengovernment) |
+| 0x000NULL | CSSR | 345 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| opengovernment | opengovernment | 309 | 235 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
 | ianwhite | orm_adapter | 207 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
-| hacketyhack | hackety-hack.com | 169 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
+| hacketyhack | hackety-hack.com | 169 | 97 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
 | jwood | tenacity | 115 | 16 | [link](https://github.com/jwood/tenacity) |
 | dcrec1 | acts_as_solr_reloaded | 102 | 29 | [link](https://github.com/dcrec1/acts_as_solr_reloaded) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-06-28T04:36:18.198Z
+* **Last scrape:** 2026-07-05T04:27:18.833Z
 * **Total pages scraped:** 18
 * **Repos found:** 456
 * **Repos filtered out (< 25 stars):** 403
