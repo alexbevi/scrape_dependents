@@ -4,16 +4,16 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| apache | camel | 6247 | 5133 | [link](https://github.com/apache/camel) |
-| jlawyerorg | j-lawyer-org | 83 | 36 | [link](https://github.com/jlawyerorg/j-lawyer-org) |
+| apache | camel | 6253 | 5128 | [link](https://github.com/apache/camel) |
+| jlawyerorg | j-lawyer-org | 85 | 37 | [link](https://github.com/jlawyerorg/j-lawyer-org) |
 | pentaho | pentaho-hadoop-shims | 54 | 186 | [link](https://github.com/pentaho/pentaho-hadoop-shims) |
 | OrqueIO | OrqueIO | 39 | 1 | [link](https://github.com/OrqueIO/OrqueIO) |
-| carlos-emr | carlos | 25 | 64 | [link](https://github.com/carlos-emr/carlos) |
+| carlos-emr | carlos | 25 | 65 | [link](https://github.com/carlos-emr/carlos) |
 
 ---
-* **Last scrape:** 2026-06-28T05:00:11.941Z
+* **Last scrape:** 2026-07-05T05:11:37.803Z
 * **Total pages scraped:** 15
-* **Repos found:** 430
-* **Repos filtered out (< 25 stars):** 425
-* **Total possible repositories:** 466297
+* **Repos found:** 427
+* **Repos filtered out (< 25 stars):** 422
+* **Total possible repositories:** 466306
 * **Percent processed:** 0.1%
