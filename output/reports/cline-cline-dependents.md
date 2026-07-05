@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16791 | 3717 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16789 | 3718 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 929 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | RocketChat | hubot-rocketchat | 593 | 240 | [link](https://github.com/RocketChat/hubot-rocketchat) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
@@ -12,7 +12,7 @@
 | imsky | pull-review | 209 | 15 | [link](https://github.com/imsky/pull-review) |
 | tlikai | hwamei | 202 | 27 | [link](https://github.com/tlikai/hwamei) |
 | xmppjs | hubot-xmpp | 183 | 97 | [link](https://github.com/xmppjs/hubot-xmpp) |
-| lukefx | hubot-telegram | 161 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
+| lukefx | hubot-telegram | 160 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
 | stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 290 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 107 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
@@ -30,18 +30,18 @@
 | alleyinteractive | hubot-code-review | 41 | 15 | [link](https://github.com/alleyinteractive/hubot-code-review) |
 | hubotio | hubot-help | 38 | 67 | [link](https://github.com/hubotio/hubot-help) |
 | RocketChat | hubot-rocketchat-boilerplate | 38 | 33 | [link](https://github.com/RocketChat/hubot-rocketchat-boilerplate) |
-| kdeps | kdeps | 35 | 4 | [link](https://github.com/kdeps/kdeps) |
+| kdeps | kdeps | 34 | 4 | [link](https://github.com/kdeps/kdeps) |
 | hubot-archive | hubot-youtube | 34 | 15 | [link](https://github.com/hubot-archive/hubot-youtube) |
 | robhurring | hubot-redmine | 32 | 26 | [link](https://github.com/robhurring/hubot-redmine) |
-| devcongress | slackbot | 30 | 23 | [link](https://github.com/devcongress/slackbot) |
+| devcongress | slackbot | 31 | 23 | [link](https://github.com/devcongress/slackbot) |
 | home-assistant | hubot-home-assistant | 28 | 9 | [link](https://github.com/home-assistant/hubot-home-assistant) |
 | daemonsy | hubot-heroku | 26 | 16 | [link](https://github.com/daemonsy/hubot-heroku) |
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-06-28T04:57:13.095Z
+* **Last scrape:** 2026-07-05T05:08:17.553Z
 * **Total pages scraped:** 30
-* **Repos found:** 831
-* **Repos filtered out (< 25 stars):** 798
-* **Total possible repositories:** 3329
-* **Percent processed:** 25.0%
+* **Repos found:** 824
+* **Repos filtered out (< 25 stars):** 791
+* **Total possible repositories:** 3330
+* **Percent processed:** 24.7%
