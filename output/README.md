@@ -16,84 +16,84 @@ Legend:
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| agno-agi | [agno](reports/agno-agi-agno-dependents.md) | Python | 2026-06-28T04:59:15.210Z | 67 | 1991 | 1906 | 2685 | 74.2% |
-| Chainlit | [chainlit](reports/Chainlit-chainlit-dependents.md) | Python | 2026-06-28T04:52:15.237Z | 7 | 210 | 205 | 11707 | 1.8% |
-| cline | [cline](reports/cline-cline-dependents.md) | TypeScript | 2026-06-28T04:57:13.095Z | 30 | 831 | 798 | 3329 | 25.0% |
-| crewAIInc | [crewAI](reports/crewAIInc-crewAI-dependents.md) | Python | 2026-06-28T04:51:49.098Z | 0 | 0 | 0 | unknown | unknown |
-| deepset-ai | [haystack](reports/deepset-ai-haystack-dependents.md) | Python | 2026-06-28T04:59:48.863Z | 34 | 1005 | 943 | 1410 | 71.3% |
-| docarray | [docarray](reports/docarray-docarray-dependents.md) | Python | 2026-06-28T04:53:42.558Z | 15 | 442 | 434 | 5625 | 7.9% |
-| e2b-dev | [E2B](reports/e2b-dev-E2B-dependents.md) | TypeScript | 2026-06-28T04:59:30.510Z | 49 | 1395 | 1307 | 2293 | 60.8% |
-| genkit-ai | [genkit](reports/genkit-ai-genkit-dependents.md) | TypeScript | 2026-06-28T04:51:48.146Z | 36 | 1055 | 1047 | 15822 | 6.7% |
-| langchain-ai | [langchain](reports/langchain-ai-langchain-dependents.md) | Python | 2026-06-28T04:49:44.779Z | 713 | 21163 | 20405 | 282476 | 7.5% |
-| langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2026-06-28T04:34:49.421Z | 27 | 787 | 764 | 1152 | 68.3% |
-| langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2026-06-28T04:52:55.094Z | 1109 | 32742 | 31839 | 51341 | 63.8% |
-| langchain-ai | [langgraph](reports/langchain-ai-langgraph-dependents.md) | Python | 2026-06-28T04:50:55.428Z | 58 | 1727 | 1652 | 40859 | 4.2% |
-| langchain4j | [langchain4j](reports/langchain4j-langchain4j-dependents.md) | Java | 2026-06-28T04:47:33.128Z | 48 | 1424 | 1314 | 1820 | 78.2% |
-| langflow-ai | [langflow](reports/langflow-ai-langflow-dependents.md) | Python | 2026-06-28T04:59:50.251Z | 34 | 995 | 989 | 1492 | 66.7% |
-| mastra-ai | [mastra](reports/mastra-ai-mastra-dependents.md) | TypeScript | 2026-06-28T04:59:13.033Z | 41 | 1197 | 1163 | 1848 | 64.8% |
-| microsoft | [autogen](reports/microsoft-autogen-dependents.md) | Python | 2026-06-28T04:57:22.011Z | 96 | 2834 | 2700 | 4171 | 67.9% |
-| microsoft | [semantic-kernel](reports/microsoft-semantic-kernel-dependents.md) | CSharp | 2026-06-28T04:58:22.345Z | 63 | 1834 | 1746 | 2718 | 67.5% |
-| PrefectHQ | [fastmcp](reports/PrefectHQ-fastmcp-dependents.md) | Python | 2026-06-28T04:59:51.901Z | 281 | 8348 | 7408 | 10657 | 78.3% |
-| pydantic | [pydantic-ai](reports/pydantic-pydantic-ai-dependents.md) | Python | 2026-06-28T04:57:45.331Z | 102 | 2999 | 2826 | 4248 | 70.6% |
-| run-llama | [llama_index](reports/run-llama-llama_index-dependents.md) | Python | 2026-06-28T04:41:00.715Z | 198 | 5864 | 5688 | 24370 | 24.1% |
-| stanfordnlp | [dspy](reports/stanfordnlp-dspy-dependents.md) | Python | 2026-06-28T05:00:15.987Z | 46 | 1358 | 1239 | 1851 | 73.4% |
-| tmc | [langchaingo](reports/tmc-langchaingo-dependents.md) | Go | 2026-06-28T04:18:21.139Z | 46 | 1321 | 1218 | 1875 | 70.5% |
-| vercel | [ai](reports/vercel-ai-dependents.md) | TypeScript | 2026-06-28T04:50:06.529Z | 6 | 178 | 165 | 98986 | 0.2% |
-| zilliztech | [GPTCache](reports/zilliztech-GPTCache-dependents.md) | Python | 2026-06-28T04:55:48.677Z | 154 | 4573 | 4455 | 7573 | 60.4% |
+| agno-agi | [agno](reports/agno-agi-agno-dependents.md) | Python | 2026-07-05T05:10:46.470Z | 68 | 2008 | 1922 | 2704 | 74.3% |
+| Chainlit | [chainlit](reports/Chainlit-chainlit-dependents.md) | Python | 2026-07-05T04:58:16.442Z | 276 | 8221 | 8041 | 11718 | 70.2% |
+| cline | [cline](reports/cline-cline-dependents.md) | TypeScript | 2026-07-05T05:08:17.553Z | 30 | 824 | 791 | 3330 | 24.7% |
+| crewAIInc | [crewAI](reports/crewAIInc-crewAI-dependents.md) | Python | 2026-07-05T05:02:18.259Z | 435 | 12967 | 12635 | 18706 | 69.3% |
+| deepset-ai | [haystack](reports/deepset-ai-haystack-dependents.md) | Python | 2026-07-05T05:11:00.585Z | 35 | 1011 | 947 | 1416 | 71.4% |
+| docarray | [docarray](reports/docarray-docarray-dependents.md) | Python | 2026-07-05T05:04:49.328Z | 115 | 3396 | 3331 | 5626 | 60.4% |
+| e2b-dev | [E2B](reports/e2b-dev-E2B-dependents.md) | TypeScript | 2026-07-05T05:10:04.987Z | 49 | 1411 | 1323 | 2314 | 61.0% |
+| genkit-ai | [genkit](reports/genkit-ai-genkit-dependents.md) | TypeScript | 2026-07-05T04:52:00.312Z | 44 | 1293 | 1282 | 15845 | 8.2% |
+| langchain-ai | [langchain](reports/langchain-ai-langchain-dependents.md) | Python | 2026-07-05T04:50:29.417Z | 1876 | 55899 | 54880 | 282732 | 19.8% |
+| langchain-ai | [langchain-mongodb](reports/langchain-ai-langchain-mongodb-dependents.md) | Python | 2026-07-05T04:10:34.524Z | 27 | 788 | 762 | 1156 | 68.2% |
+| langchain-ai | [langchainjs](reports/langchain-ai-langchainjs-dependents.md) | JavaScript | 2026-07-05T04:28:01.534Z | 1105 | 32620 | 31716 | 51399 | 63.5% |
+| langchain-ai | [langgraph](reports/langchain-ai-langgraph-dependents.md) | Python | 2026-07-05T04:57:34.601Z | 980 | 29169 | 27915 | 41085 | 71.0% |
+| langchain4j | [langchain4j](reports/langchain4j-langchain4j-dependents.md) | Java | 2026-07-05T04:36:15.285Z | 48 | 1425 | 1313 | 1827 | 78.0% |
+| langflow-ai | [langflow](reports/langflow-ai-langflow-dependents.md) | Python | 2026-07-05T05:11:14.086Z | 34 | 994 | 988 | 1493 | 66.6% |
+| mastra-ai | [mastra](reports/mastra-ai-mastra-dependents.md) | TypeScript | 2026-07-05T05:10:28.573Z | 41 | 1199 | 1164 | 1854 | 64.7% |
+| microsoft | [autogen](reports/microsoft-autogen-dependents.md) | Python | 2026-07-05T05:08:05.882Z | 96 | 2834 | 2699 | 4172 | 67.9% |
+| microsoft | [semantic-kernel](reports/microsoft-semantic-kernel-dependents.md) | CSharp | 2026-07-05T05:09:03.488Z | 62 | 1828 | 1739 | 2723 | 67.1% |
+| PrefectHQ | [fastmcp](reports/PrefectHQ-fastmcp-dependents.md) | Python | 2026-07-05T05:09:39.627Z | 285 | 8460 | 7512 | 10800 | 78.3% |
+| pydantic | [pydantic-ai](reports/pydantic-pydantic-ai-dependents.md) | Python | 2026-07-05T05:07:15.508Z | 102 | 3024 | 2850 | 4279 | 70.7% |
+| run-llama | [llama_index](reports/run-llama-llama_index-dependents.md) | Python | 2026-07-05T04:26:57.281Z | 548 | 16268 | 15674 | 24393 | 66.7% |
+| stanfordnlp | [dspy](reports/stanfordnlp-dspy-dependents.md) | Python | 2026-07-05T05:11:13.481Z | 47 | 1373 | 1253 | 1867 | 73.5% |
+| tmc | [langchaingo](reports/tmc-langchaingo-dependents.md) | Go | 2026-07-05T03:54:35.190Z | 29 | 823 | 754 | 1879 | 43.8% |
+| vercel | [ai](reports/vercel-ai-dependents.md) | TypeScript | 2026-07-05T05:39:27.436Z | 2248 | 66453 | 63547 | 99376 | 66.9% |
+| zilliztech | [GPTCache](reports/zilliztech-GPTCache-dependents.md) | Python | 2026-07-05T05:03:50.273Z | 154 | 4559 | 4441 | 7574 | 60.2% |
 
 ## Driver
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| mongo-dart | [mongo_dart](reports/mongo-dart-mongo_dart-dependents.md) | Dart | 2026-06-28T04:46:25.547Z | 61 | 1805 | 1789 | 5665 | 31.9% |
-| mongodb | [mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | 2026-06-28T04:34:19.238Z | 776 | 23057 | 22755 | 88545 | 26.0% |
-| mongodb | [mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | 2026-06-28T04:10:18.240Z | 96 | 2810 | 2601 | 102327 | 2.7% |
-| mongodb | [mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | 2026-06-28T04:10:24.693Z | 292 | 8647 | 8395 | 18315 | 47.2% |
-| mongodb | [mongo-php-library](reports/mongodb-mongo-php-library-dependents.md) | PHP | 2026-06-28T04:49:05.264Z | 65 | 1923 | 1906 | 22448 | 8.6% |
-| mongodb | [mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | 2026-06-28T04:08:38.773Z | 181 | 5292 | 5086 | 407479 | 1.3% |
-| mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2026-06-28T04:01:38.678Z | 9 | 255 | 253 | 22863 | 1.1% |
-| mongodb | [mongo-rust-driver](reports/mongodb-mongo-rust-driver-dependents.md) | Rust | 2026-06-28T04:53:12.717Z | 147 | 4319 | 4131 | 11728 | 36.8% |
-| mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2026-06-28T04:10:04.082Z | 475 | 14040 | 13786 | 5726385 | 0.2% |
-| twisted | [txmongo](reports/twisted-txmongo-dependents.md) | Python | 2026-06-28T04:44:54.385Z | 2 | 39 | 35 | 108 | 36.1% |
+| mongo-dart | [mongo_dart](reports/mongo-dart-mongo_dart-dependents.md) | Dart | 2026-07-05T04:35:46.875Z | 61 | 1796 | 1780 | 5665 | 31.7% |
+| mongodb | [mongo-csharp-driver](reports/mongodb-mongo-csharp-driver-dependents.md) | .NET | 2026-07-05T04:10:01.530Z | 982 | 29213 | 28699 | 88561 | 33.0% |
+| mongodb | [mongo-go-driver](reports/mongodb-mongo-go-driver-dependents.md) | Go | 2026-07-05T03:45:03.466Z | 98 | 2858 | 2644 | 102392 | 2.8% |
+| mongodb | [mongo-java-driver](reports/mongodb-mongo-java-driver-dependents.md) | Java | 2026-07-05T03:45:39.665Z | 290 | 8592 | 8338 | 18329 | 46.9% |
+| mongodb | [mongo-php-library](reports/mongodb-mongo-php-library-dependents.md) | PHP | 2026-07-05T04:44:35.276Z | 247 | 7291 | 7148 | 22452 | 32.5% |
+| mongodb | [mongo-python-driver](reports/mongodb-mongo-python-driver-dependents.md) | Python | 2026-07-05T03:41:58.372Z | 183 | 5425 | 5212 | 407660 | 1.3% |
+| mongodb | [mongo-ruby-driver](reports/mongodb-mongo-ruby-driver-dependents.md) | Ruby | 2026-07-05T03:36:50.684Z | 10 | 272 | 270 | 22879 | 1.2% |
+| mongodb | [mongo-rust-driver](reports/mongodb-mongo-rust-driver-dependents.md) | Rust | 2026-07-05T04:39:54.245Z | 147 | 4298 | 4109 | 11736 | 36.6% |
+| mongodb | [node-mongodb-native](reports/mongodb-node-mongodb-native-dependents.md) | JavaScript | 2026-07-05T03:50:21.269Z | 489 | 14387 | 14122 | 5726783 | 0.3% |
+| twisted | [txmongo](reports/twisted-txmongo-dependents.md) | Python | 2026-07-05T04:32:38.514Z | 2 | 38 | 34 | 108 | 35.2% |
 
 ## Framework
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| apache | [airflow](reports/apache-airflow-dependents.md) | Python | 2026-06-28T04:59:17.471Z | 335 | 9867 | 9667 | 18732 | 52.7% |
-| dagster-io | [dagster](reports/dagster-io-dagster-dependents.md) | Python | 2026-06-28T04:55:33.493Z | 83 | 2446 | 2375 | 4480 | 54.6% |
-| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2026-06-28T04:47:46.083Z | 158 | 4703 | 4682 | 12599 | 37.3% |
-| doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2026-06-28T04:49:41.749Z | 24 | 703 | 663 | 2515 | 28.0% |
-| meteor | [meteor](reports/meteor-meteor-dependents.md) | JavaScript | 2026-06-28T04:17:24.268Z | 75 | 2181 | 2157 | 50269 | 4.3% |
-| mongodb | [django-mongodb-backend](reports/mongodb-django-mongodb-backend-dependents.md) | Python | 2026-06-28T04:49:53.757Z | 2 | 58 | 56 | 70 | 82.9% |
-| mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2026-06-28T04:49:06.658Z | 73 | 2146 | 2116 | 9361 | 22.9% |
-| mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2026-06-28T04:49:39.993Z | 28 | 836 | 826 | 1232 | 67.9% |
-| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2026-06-28T04:46:41.618Z | 6 | 152 | 139 | 329 | 46.2% |
-| parse-community | [parse-server](reports/parse-community-parse-server-dependents.md) | JavaScript | 2026-06-28T04:56:23.193Z | 28 | 795 | 760 | 4162 | 19.1% |
-| PrefectHQ | [prefect](reports/PrefectHQ-prefect-dependents.md) | Python | 2026-06-28T04:55:05.003Z | 131 | 3878 | 3755 | 7946 | 48.8% |
+| apache | [airflow](reports/apache-airflow-dependents.md) | Python | 2026-07-05T04:50:49.922Z | 334 | 9830 | 9631 | 18741 | 52.5% |
+| dagster-io | [dagster](reports/dagster-io-dagster-dependents.md) | Python | 2026-07-05T05:06:46.616Z | 83 | 2443 | 2372 | 4487 | 54.4% |
+| doableware | [djongo](reports/doableware-djongo-dependents.md) | Python | 2026-07-05T04:37:06.371Z | 157 | 4666 | 4645 | 12600 | 37.0% |
+| doctrine | [DoctrineMongoDBBundle](reports/doctrine-DoctrineMongoDBBundle-dependents.md) | PHP | 2026-07-05T04:38:20.269Z | 24 | 699 | 659 | 2516 | 27.8% |
+| meteor | [meteor](reports/meteor-meteor-dependents.md) | JavaScript | 2026-07-05T03:57:58.525Z | 226 | 6617 | 6392 | 50273 | 13.2% |
+| mongodb | [django-mongodb-backend](reports/mongodb-django-mongodb-backend-dependents.md) | Python | 2026-07-05T04:38:32.483Z | 2 | 59 | 57 | 71 | 83.1% |
+| mongodb | [laravel-mongodb](reports/mongodb-laravel-mongodb-dependents.md) | PHP | 2026-07-05T04:37:21.157Z | 72 | 2134 | 2104 | 9361 | 22.8% |
+| mongodb | [mongo-efcore-provider](reports/mongodb-mongo-efcore-provider-dependents.md) | CSharp | 2026-07-05T04:37:51.826Z | 28 | 836 | 826 | 1233 | 67.8% |
+| MorphiaOrg | [morphia](reports/MorphiaOrg-morphia-dependents.md) | Java | 2026-07-05T04:35:24.620Z | 6 | 152 | 139 | 329 | 46.2% |
+| parse-community | [parse-server](reports/parse-community-parse-server-dependents.md) | JavaScript | 2026-07-05T05:07:47.121Z | 28 | 796 | 761 | 4167 | 19.1% |
+| PrefectHQ | [prefect](reports/PrefectHQ-prefect-dependents.md) | Python | 2026-07-05T05:01:04.631Z | 130 | 3860 | 3737 | 7954 | 48.5% |
 | quarkusio | [quarkus](reports/quarkusio-quarkus-dependents.md) | Java | 2026-06-22T11:10:27.432Z | 0 | 0 | 0 | unknown | unknown |
-| quarkusio | [quarkus-platform](reports/quarkusio-quarkus-platform-dependents.md) | Java | 2026-06-28T05:09:23.607Z | 529 | 15808 | 15580 | 37583 | 42.1% |
-| spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2026-06-28T04:44:51.430Z | 221 | 6510 | 6280 | 29515 | 22.1% |
+| quarkusio | [quarkus-platform](reports/quarkusio-quarkus-platform-dependents.md) | Java | 2026-07-05T05:25:58.331Z | 526 | 15716 | 15486 | 37625 | 41.8% |
+| spring-projects | [spring-data-mongodb](reports/spring-projects-spring-data-mongodb-dependents.md) | Java | 2026-07-05T04:34:54.181Z | 220 | 6493 | 6263 | 29517 | 22.0% |
 
 ## ODM
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2026-06-28T04:49:07.142Z | 355 | 10472 | 10370 | 5673902 | 0.2% |
-| BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2026-06-28T04:39:18.206Z | 81 | 2397 | 2332 | 4519 | 53.0% |
-| doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2026-06-28T04:39:54.079Z | 30 | 874 | 812 | 3136 | 27.9% |
-| mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2026-06-28T04:01:32.331Z | 3 | 86 | 86 | 23836 | 0.4% |
-| MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2026-06-28T04:15:39.795Z | 313 | 9244 | 8942 | 27551 | 33.6% |
-| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2026-06-28T04:36:18.198Z | 18 | 456 | 403 | 2816 | 16.2% |
+| Automattic | [mongoose](reports/Automattic-mongoose-dependents.md) | JavaScript | 2026-07-05T04:35:04.671Z | 364 | 10719 | 10611 | 5674195 | 0.2% |
+| BeanieODM | [beanie](reports/BeanieODM-beanie-dependents.md) | Python | 2026-07-05T04:28:31.035Z | 80 | 2383 | 2319 | 4527 | 52.6% |
+| doctrine | [mongodb-odm](reports/doctrine-mongodb-odm-dependents.md) | PHP | 2026-07-05T04:28:30.959Z | 30 | 871 | 809 | 3137 | 27.8% |
+| mongodb | [mongoid](reports/mongodb-mongoid-dependents.md) | Ruby | 2026-07-05T03:38:51.323Z | 125 | 3633 | 3328 | 23838 | 15.2% |
+| MongoEngine | [mongoengine](reports/MongoEngine-mongoengine-dependents.md) | Python | 2026-07-05T03:54:00.147Z | 312 | 9200 | 8898 | 27557 | 33.4% |
+| mongomapper | [mongomapper](reports/mongomapper-mongomapper-dependents.md) | Ruby | 2026-07-05T04:27:18.833Z | 18 | 456 | 403 | 2816 | 16.2% |
 
 ## ORM
 
 | Organization | Repository | Language | Last Scrape | Pages | Found | Filtered | Total Possible | Percent |
 |---|---|---|---|---|---|---|---:|---:|
-| drizzle-team | [drizzle-orm](reports/drizzle-team-drizzle-orm-dependents.md) | JavaScript | 2026-06-28T04:35:53.659Z | 1411 | 41834 | 40987 | 155876 | 26.8% |
-| hibernate | [hibernate-orm](reports/hibernate-hibernate-orm-dependents.md) | Java | 2026-06-28T05:00:11.941Z | 15 | 430 | 425 | 466297 | 0.1% |
-| mikro-orm | [mikro-orm](reports/mikro-orm-mikro-orm-dependents.md) | TypeScript | 2026-06-28T04:07:57.353Z | 208 | 6123 | 5981 | 16329 | 37.5% |
-| mongodb | [mongo-hibernate](reports/mongodb-mongo-hibernate-dependents.md) | Java | 2026-06-28T05:00:02.336Z | 0 | 0 | 0 | unknown | unknown |
-| prisma | [prisma](reports/prisma-prisma-dependents.md) | TypeScript | 2026-06-28T04:44:39.415Z | 1533 | 45684 | 45285 | 772835 | 5.9% |
-| typeorm | [typeorm](reports/typeorm-typeorm-dependents.md) | JavaScript | 2026-06-28T04:28:42.191Z | 705 | 20948 | 20819 | 431126 | 4.9% |
+| drizzle-team | [drizzle-orm](reports/drizzle-team-drizzle-orm-dependents.md) | JavaScript | 2026-07-05T04:32:26.371Z | 1547 | 45883 | 44986 | 156343 | 29.3% |
+| hibernate | [hibernate-orm](reports/hibernate-hibernate-orm-dependents.md) | Java | 2026-07-05T05:11:37.803Z | 15 | 427 | 422 | 466306 | 0.1% |
+| mikro-orm | [mikro-orm](reports/mikro-orm-mikro-orm-dependents.md) | TypeScript | 2026-07-05T03:44:20.029Z | 207 | 6097 | 5956 | 16341 | 37.3% |
+| mongodb | [mongo-hibernate](reports/mongodb-mongo-hibernate-dependents.md) | Java | 2026-07-05T05:11:34.132Z | 0 | 0 | 0 | unknown | unknown |
+| prisma | [prisma](reports/prisma-prisma-dependents.md) | TypeScript | 2026-07-05T05:56:19.548Z | 4776 | 142351 | 141663 | 773275 | 18.4% |
+| typeorm | [typeorm](reports/typeorm-typeorm-dependents.md) | JavaScript | 2026-07-05T03:52:39.825Z | 81 | 2401 | 2336 | 431193 | 0.6% |
 
