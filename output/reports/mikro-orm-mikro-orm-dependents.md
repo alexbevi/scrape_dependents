@@ -4,76 +4,75 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| medusajs | medusa | 34923 | 4855 | [link](https://github.com/medusajs/medusa) |
-| nextauthjs | next-auth | 28288 | 4037 | [link](https://github.com/nextauthjs/next-auth) |
-| dolthub | dolt | 23767 | 822 | [link](https://github.com/dolthub/dolt) |
-| googleapis | mcp-toolbox | 15854 | 1623 | [link](https://github.com/googleapis/mcp-toolbox) |
-| MemoriLabs | Memori | 15535 | 2767 | [link](https://github.com/MemoriLabs/Memori) |
-| assistant-ui | assistant-ui | 10949 | 1080 | [link](https://github.com/assistant-ui/assistant-ui) |
-| MichalLytek | type-graphql | 8089 | 672 | [link](https://github.com/MichalLytek/type-graphql) |
-| midwayjs | midway | 7724 | 587 | [link](https://github.com/midwayjs/midway) |
-| colyseus | colyseus | 7052 | 651 | [link](https://github.com/colyseus/colyseus) |
-| GoogleCloudPlatform | knowledge-catalog | 6172 | 497 | [link](https://github.com/GoogleCloudPlatform/knowledge-catalog) |
-| getzep | zep | 4724 | 636 | [link](https://github.com/getzep/zep) |
-| ever-co | ever-gauzy | 3759 | 786 | [link](https://github.com/ever-co/ever-gauzy) |
-| tsedio | tsed | 3079 | 293 | [link](https://github.com/tsedio/tsed) |
-| cisagov | RedEye | 2761 | 289 | [link](https://github.com/cisagov/RedEye) |
-| oguimbal | pg-mem | 2345 | 110 | [link](https://github.com/oguimbal/pg-mem) |
-| google-labs-code | stitch-sdk | 1741 | 114 | [link](https://github.com/google-labs-code/stitch-sdk) |
-| mercurjs | mercur | 1627 | 395 | [link](https://github.com/mercurjs/mercur) |
+| medusajs | medusa | 35076 | 4894 | [link](https://github.com/medusajs/medusa) |
+| nextauthjs | next-auth | 28299 | 4041 | [link](https://github.com/nextauthjs/next-auth) |
+| dolthub | dolt | 23833 | 829 | [link](https://github.com/dolthub/dolt) |
+| googleapis | mcp-toolbox | 15933 | 1634 | [link](https://github.com/googleapis/mcp-toolbox) |
+| MemoriLabs | Memori | 15574 | 2806 | [link](https://github.com/MemoriLabs/Memori) |
+| assistant-ui | assistant-ui | 11030 | 1090 | [link](https://github.com/assistant-ui/assistant-ui) |
+| MichalLytek | type-graphql | 8090 | 673 | [link](https://github.com/MichalLytek/type-graphql) |
+| midwayjs | midway | 7729 | 587 | [link](https://github.com/midwayjs/midway) |
+| colyseus | colyseus | 7074 | 653 | [link](https://github.com/colyseus/colyseus) |
+| GoogleCloudPlatform | knowledge-catalog | 6735 | 550 | [link](https://github.com/GoogleCloudPlatform/knowledge-catalog) |
+| getzep | zep | 4742 | 639 | [link](https://github.com/getzep/zep) |
+| ever-co | ever-gauzy | 3772 | 783 | [link](https://github.com/ever-co/ever-gauzy) |
+| tsedio | tsed | 3081 | 292 | [link](https://github.com/tsedio/tsed) |
+| cisagov | RedEye | 2766 | 291 | [link](https://github.com/cisagov/RedEye) |
+| oguimbal | pg-mem | 2353 | 112 | [link](https://github.com/oguimbal/pg-mem) |
+| google-labs-code | stitch-sdk | 1747 | 119 | [link](https://github.com/google-labs-code/stitch-sdk) |
+| mercurjs | mercur | 1644 | 405 | [link](https://github.com/mercurjs/mercur) |
 | accounts-js | accounts | 1501 | 142 | [link](https://github.com/accounts-js/accounts) |
+| open-mercato | open-mercato | 1487 | 326 | [link](https://github.com/open-mercato/open-mercato) |
 | lunasec-io | lunasec | 1468 | 167 | [link](https://github.com/lunasec-io/lunasec) |
-| open-mercato | open-mercato | 1465 | 318 | [link](https://github.com/open-mercato/open-mercato) |
-| juspay | hyperswitch-prism | 1409 | 273 | [link](https://github.com/juspay/hyperswitch-prism) |
+| juspay | hyperswitch-prism | 1403 | 270 | [link](https://github.com/juspay/hyperswitch-prism) |
 | lindylearn | unclutter | 1321 | 60 | [link](https://github.com/lindylearn/unclutter) |
-| google | adk-js | 1268 | 168 | [link](https://github.com/google/adk-js) |
-| synzen | MonitoRSS | 1266 | 266 | [link](https://github.com/synzen/MonitoRSS) |
-| wandb | weave | 1105 | 156 | [link](https://github.com/wandb/weave) |
-| nartc | mapper | 1005 | 99 | [link](https://github.com/nartc/mapper) |
-| PsycheFoundation | nousnet | 903 | 120 | [link](https://github.com/PsycheFoundation/nousnet) |
-| eicrud | eicrud | 810 | 30 | [link](https://github.com/eicrud/eicrud) |
-| Canner | vulcan-sql | 791 | 42 | [link](https://github.com/Canner/vulcan-sql) |
-| nestjs | terminus | 740 | 107 | [link](https://github.com/nestjs/terminus) |
-| damian-pastorini | reldens | 571 | 81 | [link](https://github.com/damian-pastorini/reldens) |
+| google | adk-js | 1286 | 168 | [link](https://github.com/google/adk-js) |
+| synzen | MonitoRSS | 1268 | 266 | [link](https://github.com/synzen/MonitoRSS) |
+| wandb | weave | 1104 | 157 | [link](https://github.com/wandb/weave) |
+| nartc | mapper | 1006 | 99 | [link](https://github.com/nartc/mapper) |
+| PsycheFoundation | nousnet | 921 | 123 | [link](https://github.com/PsycheFoundation/nousnet) |
+| eicrud | eicrud | 811 | 30 | [link](https://github.com/eicrud/eicrud) |
+| Canner | vulcan-sql | 792 | 42 | [link](https://github.com/Canner/vulcan-sql) |
+| nestjs | terminus | 741 | 108 | [link](https://github.com/nestjs/terminus) |
+| damian-pastorini | reldens | 572 | 83 | [link](https://github.com/damian-pastorini/reldens) |
 | tenseijs | tensei | 567 | 38 | [link](https://github.com/tenseijs/tensei) |
-| skaldlabs | skald | 557 | 40 | [link](https://github.com/skaldlabs/skald) |
-| exogee-technology | graphweaver | 551 | 32 | [link](https://github.com/exogee-technology/graphweaver) |
-| OcularEngineering | ocular | 444 | 34 | [link](https://github.com/OcularEngineering/ocular) |
+| skaldlabs | skald | 560 | 40 | [link](https://github.com/skaldlabs/skald) |
+| exogee-technology | graphweaver | 552 | 32 | [link](https://github.com/exogee-technology/graphweaver) |
+| OcularEngineering | ocular | 445 | 34 | [link](https://github.com/OcularEngineering/ocular) |
 | pgvector | pgvector-node | 441 | 22 | [link](https://github.com/pgvector/pgvector-node) |
-| ddd-by-examples | library-nestjs | 438 | 44 | [link](https://github.com/ddd-by-examples/library-nestjs) |
-| rubiin | ultimate-nest | 435 | 54 | [link](https://github.com/rubiin/ultimate-nest) |
-| BemiHQ | bemi-io | 400 | 12 | [link](https://github.com/BemiHQ/bemi-io) |
-| pavlotsyhanok | medusa-pos-react | 340 | 52 | [link](https://github.com/pavlotsyhanok/medusa-pos-react) |
+| ddd-by-examples | library-nestjs | 440 | 44 | [link](https://github.com/ddd-by-examples/library-nestjs) |
+| rubiin | ultimate-nest | 436 | 54 | [link](https://github.com/rubiin/ultimate-nest) |
+| BemiHQ | bemi-io | 401 | 12 | [link](https://github.com/BemiHQ/bemi-io) |
+| pavlotsyhanok | medusa-pos-react | 341 | 52 | [link](https://github.com/pavlotsyhanok/medusa-pos-react) |
 | mikro-orm | nestjs-realworld-example-app | 340 | 82 | [link](https://github.com/mikro-orm/nestjs-realworld-example-app) |
-| tinloof | munchies | 335 | 90 | [link](https://github.com/tinloof/munchies) |
-| PKUHPC | OpenSCOW | 333 | 76 | [link](https://github.com/PKUHPC/OpenSCOW) |
+| tinloof | munchies | 335 | 91 | [link](https://github.com/tinloof/munchies) |
+| PKUHPC | OpenSCOW | 334 | 76 | [link](https://github.com/PKUHPC/OpenSCOW) |
+| mgce | modular-monolith-nodejs | 305 | 37 | [link](https://github.com/mgce/modular-monolith-nodejs) |
 | connext | monorepo | 304 | 178 | [link](https://github.com/connext/monorepo) |
-| mgce | modular-monolith-nodejs | 303 | 37 | [link](https://github.com/mgce/modular-monolith-nodejs) |
-| stalniy | ucast | 263 | 27 | [link](https://github.com/stalniy/ucast) |
-| medusajs | examples | 256 | 61 | [link](https://github.com/medusajs/examples) |
-| medusajs | medusa-eats | 251 | 77 | [link](https://github.com/medusajs/medusa-eats) |
-| rpuls | medusajs-2.0-for-railway-boilerplate | 223 | 285 | [link](https://github.com/rpuls/medusajs-2.0-for-railway-boilerplate) |
+| stalniy | ucast | 263 | 28 | [link](https://github.com/stalniy/ucast) |
+| medusajs | examples | 260 | 61 | [link](https://github.com/medusajs/examples) |
+| medusajs | medusa-eats | 251 | 78 | [link](https://github.com/medusajs/medusa-eats) |
+| rpuls | medusajs-2.0-for-railway-boilerplate | 224 | 286 | [link](https://github.com/rpuls/medusajs-2.0-for-railway-boilerplate) |
 | SAP | e-mobility-charging-stations-simulator | 222 | 93 | [link](https://github.com/SAP/e-mobility-charging-stations-simulator) |
-| Agilo | fashion-starter | 209 | 65 | [link](https://github.com/Agilo/fashion-starter) |
+| Agilo | fashion-starter | 209 | 66 | [link](https://github.com/Agilo/fashion-starter) |
 | Malexion | Rhythm-Bot | 205 | 178 | [link](https://github.com/Malexion/Rhythm-Bot) |
-| medusajs | medusa-starter-default | 202 | 374 | [link](https://github.com/medusajs/medusa-starter-default) |
+| medusajs | medusa-starter-default | 202 | 373 | [link](https://github.com/medusajs/medusa-starter-default) |
 | TriPSs | nestjs-query | 197 | 64 | [link](https://github.com/TriPSs/nestjs-query) |
-| NeuraLegion | brokencrystals | 197 | 333 | [link](https://github.com/NeuraLegion/brokencrystals) |
-| andrea-acampora | nestjs-ddd-devops | 182 | 29 | [link](https://github.com/andrea-acampora/nestjs-ddd-devops) |
+| andrea-acampora | nestjs-ddd-devops | 183 | 29 | [link](https://github.com/andrea-acampora/nestjs-ddd-devops) |
 | adrien2p | medusa-plugins | 182 | 47 | [link](https://github.com/adrien2p/medusa-plugins) |
-| Icalingua-plus-plus | Icalingua3 | 166 | 6 | [link](https://github.com/Icalingua-plus-plus/Icalingua3) |
+| Icalingua-plus-plus | Icalingua3 | 167 | 6 | [link](https://github.com/Icalingua-plus-plus/Icalingua3) |
 | lambda-curry | medusa2-starter | 158 | 43 | [link](https://github.com/lambda-curry/medusa2-starter) |
 | nextauthjs | adapters | 157 | 86 | [link](https://github.com/nextauthjs/adapters) |
 | leosuncin | nest-api-example | 152 | 19 | [link](https://github.com/leosuncin/nest-api-example) |
-| hashgraph | guardian | 140 | 182 | [link](https://github.com/hashgraph/guardian) |
-| bym-refitted | backyard-monsters-refitted | 122 | 43 | [link](https://github.com/bym-refitted/backyard-monsters-refitted) |
+| hashgraph | guardian | 141 | 182 | [link](https://github.com/hashgraph/guardian) |
+| bym-refitted | backyard-monsters-refitted | 123 | 43 | [link](https://github.com/bym-refitted/backyard-monsters-refitted) |
 | SoftwareBrothers | adminjs-example-app | 116 | 49 | [link](https://github.com/SoftwareBrothers/adminjs-example-app) |
+| modevol-com | gqloom | 102 | 7 | [link](https://github.com/modevol-com/gqloom) |
 | lidofinance | ethereum-validators-monitoring | 101 | 57 | [link](https://github.com/lidofinance/ethereum-validators-monitoring) |
 | lonestone | nest-sdk-generator | 101 | 11 | [link](https://github.com/lonestone/nest-sdk-generator) |
-| modevol-com | gqloom | 99 | 7 | [link](https://github.com/modevol-com/gqloom) |
-| a11rew | medusa-payment-paystack | 95 | 28 | [link](https://github.com/a11rew/medusa-payment-paystack) |
+| a11rew | medusa-payment-paystack | 96 | 29 | [link](https://github.com/a11rew/medusa-payment-paystack) |
 | TaloDev | backend | 95 | 9 | [link](https://github.com/TaloDev/backend) |
-| devfullcycle | mba-domain-driven-design | 93 | 99 | [link](https://github.com/devfullcycle/mba-domain-driven-design) |
+| devfullcycle | mba-domain-driven-design | 93 | 98 | [link](https://github.com/devfullcycle/mba-domain-driven-design) |
 | Braden1996 | react-native-replicache | 93 | 5 | [link](https://github.com/Braden1996/react-native-replicache) |
 | theodevoid | wilayah-nusantara | 92 | 7 | [link](https://github.com/theodevoid/wilayah-nusantara) |
 | mikro-orm | nestjs-example-app | 91 | 36 | [link](https://github.com/mikro-orm/nestjs-example-app) |
@@ -84,7 +83,7 @@
 | hpi-schul-cloud | schulcloud-server | 82 | 18 | [link](https://github.com/hpi-schul-cloud/schulcloud-server) |
 | plainblack | ving | 80 | 9 | [link](https://github.com/plainblack/ving) |
 | RSC-Labs | medusa-store-analytics | 78 | 12 | [link](https://github.com/RSC-Labs/medusa-store-analytics) |
-| googleapis | mcp-toolbox-sdk-js | 75 | 19 | [link](https://github.com/googleapis/mcp-toolbox-sdk-js) |
+| googleapis | mcp-toolbox-sdk-js | 76 | 19 | [link](https://github.com/googleapis/mcp-toolbox-sdk-js) |
 | SGFGOV | medusa-strapi-repo | 74 | 26 | [link](https://github.com/SGFGOV/medusa-strapi-repo) |
 | rocicorp | todo-nextjs | 74 | 39 | [link](https://github.com/rocicorp/todo-nextjs) |
 | juicycleff | ultimate-backend-boilerplate | 72 | 15 | [link](https://github.com/juicycleff/ultimate-backend-boilerplate) |
@@ -93,7 +92,7 @@
 | wenerme | wode | 66 | 11 | [link](https://github.com/wenerme/wode) |
 | FDA | precisionFDA | 66 | 23 | [link](https://github.com/FDA/precisionFDA) |
 | SGFGOV | medusa-mcp | 65 | 22 | [link](https://github.com/SGFGOV/medusa-mcp) |
-| rokmohar | medusa-plugin-meilisearch | 65 | 32 | [link](https://github.com/rokmohar/medusa-plugin-meilisearch) |
+| rokmohar | medusa-plugin-meilisearch | 65 | 33 | [link](https://github.com/rokmohar/medusa-plugin-meilisearch) |
 | hashgraph | hedera-agent-kit-js | 64 | 78 | [link](https://github.com/hashgraph/hedera-agent-kit-js) |
 | pavlotsyhanok | medusa-plasmic-storefront | 64 | 26 | [link](https://github.com/pavlotsyhanok/medusa-plasmic-storefront) |
 | Tech-Labi | medusa-marketplace-plugin | 63 | 24 | [link](https://github.com/Tech-Labi/medusa-marketplace-plugin) |
@@ -102,11 +101,11 @@
 | CodyTseng | nostr-relay-nestjs | 56 | 11 | [link](https://github.com/CodyTseng/nostr-relay-nestjs) |
 | kbkk | abitia | 55 | 6 | [link](https://github.com/kbkk/abitia) |
 | nmrusso | node-experience | 53 | 33 | [link](https://github.com/nmrusso/node-experience) |
+| grafana | sigil-sdk | 52 | 12 | [link](https://github.com/grafana/sigil-sdk) |
 | productdevbook | full-stack-monorepo | 52 | 9 | [link](https://github.com/productdevbook/full-stack-monorepo) |
-| grafana | sigil-sdk | 51 | 12 | [link](https://github.com/grafana/sigil-sdk) |
 | mazassumnida | mazacofo | 51 | 10 | [link](https://github.com/mazassumnida/mazacofo) |
 | Betanoir | medusa-variant-images | 49 | 8 | [link](https://github.com/Betanoir/medusa-variant-images) |
-| vivid-planet | comet | 48 | 9 | [link](https://github.com/vivid-planet/comet) |
+| vivid-planet | comet | 49 | 9 | [link](https://github.com/vivid-planet/comet) |
 | SoftwareBrothers | adminjs-dev | 48 | 24 | [link](https://github.com/SoftwareBrothers/adminjs-dev) |
 | nexthis | medusa-coolify | 47 | 29 | [link](https://github.com/nexthis/medusa-coolify) |
 | chat-stack | chat-stack | 47 | 7 | [link](https://github.com/chat-stack/chat-stack) |
@@ -114,6 +113,7 @@
 | DiscIt-API | discit-api | 46 | 4 | [link](https://github.com/DiscIt-API/discit-api) |
 | drizzle-team | drizzle-northwind-benchmarks-pg | 45 | 8 | [link](https://github.com/drizzle-team/drizzle-northwind-benchmarks-pg) |
 | AmericanAirlines | Hangar | 41 | 32 | [link](https://github.com/AmericanAirlines/Hangar) |
+| respanai | respan | 40 | 9 | [link](https://github.com/respanai/respan) |
 | nestjs-shopify | example-nx-app | 40 | 12 | [link](https://github.com/nestjs-shopify/example-nx-app) |
 | Agilo | medusawp | 39 | 1 | [link](https://github.com/Agilo/medusawp) |
 | atls | nestjs | 38 | 9 | [link](https://github.com/atls/nestjs) |
@@ -123,33 +123,34 @@
 | loathers | garbage-collector | 33 | 69 | [link](https://github.com/loathers/garbage-collector) |
 | argentinaluiz | eda | 33 | 21 | [link](https://github.com/argentinaluiz/eda) |
 | Innovix-Matrix-Systems | ims-nest-api-starter | 32 | 9 | [link](https://github.com/Innovix-Matrix-Systems/ims-nest-api-starter) |
+| shlinkio | shlink-dashboard | 32 | 6 | [link](https://github.com/shlinkio/shlink-dashboard) |
 | medusajs | product-module-demo | 32 | 12 | [link](https://github.com/medusajs/product-module-demo) |
 | Char2sGu | mikro-orm-soft-delete | 32 | 10 | [link](https://github.com/Char2sGu/mikro-orm-soft-delete) |
 | pevey | medusa-plugins | 31 | 9 | [link](https://github.com/pevey/medusa-plugins) |
-| shlinkio | shlink-dashboard | 31 | 5 | [link](https://github.com/shlinkio/shlink-dashboard) |
-| rpuls | medusajs-for-railway-boilerplate | 31 | 42 | [link](https://github.com/rpuls/medusajs-for-railway-boilerplate) |
+| rpuls | medusajs-for-railway-boilerplate | 31 | 41 | [link](https://github.com/rpuls/medusajs-for-railway-boilerplate) |
 | get-gated | backend | 31 | 11 | [link](https://github.com/get-gated/backend) |
 | benawad | twitch-chat-jeopardy | 30 | 2 | [link](https://github.com/benawad/twitch-chat-jeopardy) |
+| rivenmedia | riven-ts | 29 | 7 | [link](https://github.com/rivenmedia/riven-ts) |
+| abbesm0hamed | paydusa | 29 | 5 | [link](https://github.com/abbesm0hamed/paydusa) |
 | NicolasGorga | medusa-product-attributes | 29 | 4 | [link](https://github.com/NicolasGorga/medusa-product-attributes) |
 | comfy-addons | comfy-station | 29 | 6 | [link](https://github.com/comfy-addons/comfy-station) |
 | NicolasGorga | medusa-payment-mercadopago | 28 | 6 | [link](https://github.com/NicolasGorga/medusa-payment-mercadopago) |
-| rivenmedia | riven-ts | 27 | 7 | [link](https://github.com/rivenmedia/riven-ts) |
 | perseidesjs | medusa-plugin-rate-limit | 27 | 1 | [link](https://github.com/perseidesjs/medusa-plugin-rate-limit) |
 | Agilo | medusa-analytics-plugin | 27 | 3 | [link](https://github.com/Agilo/medusa-analytics-plugin) |
 | forklaunch | forklaunch | 27 | 2 | [link](https://github.com/forklaunch/forklaunch) |
 | pxuanbach | medusa-ecommerce | 27 | 4 | [link](https://github.com/pxuanbach/medusa-ecommerce) |
+| lidofinance | lido-keys-api | 27 | 17 | [link](https://github.com/lidofinance/lido-keys-api) |
 | Wellers0n | upload | 26 | 0 | [link](https://github.com/Wellers0n/upload) |
-| lidofinance | lido-keys-api | 26 | 17 | [link](https://github.com/lidofinance/lido-keys-api) |
+| braintrustdata | braintrust-sdk-javascript | 25 | 7 | [link](https://github.com/braintrustdata/braintrust-sdk-javascript) |
 | blazer82 | analytodon | 25 | 4 | [link](https://github.com/blazer82/analytodon) |
-| abbesm0hamed | paydusa | 25 | 5 | [link](https://github.com/abbesm0hamed/paydusa) |
 | TRIPTYK | nfw | 25 | 2 | [link](https://github.com/TRIPTYK/nfw) |
+| stringsync | stringsync | 25 | 4 | [link](https://github.com/stringsync/stringsync) |
 | Char2sGu | nest-mikro-crud | 25 | 7 | [link](https://github.com/Char2sGu/nest-mikro-crud) |
-| mikro-orm | express-js-example-app | 25 | 11 | [link](https://github.com/mikro-orm/express-js-example-app) |
 
 ---
-* **Last scrape:** 2026-07-05T03:44:20.029Z
-* **Total pages scraped:** 207
-* **Repos found:** 6097
-* **Repos filtered out (< 25 stars):** 5956
-* **Total possible repositories:** 16341
-* **Percent processed:** 37.3%
+* **Last scrape:** 2026-07-12T03:01:32.873Z
+* **Total pages scraped:** 206
+* **Repos found:** 6082
+* **Repos filtered out (< 25 stars):** 5940
+* **Total possible repositories:** 16355
+* **Percent processed:** 37.2%
