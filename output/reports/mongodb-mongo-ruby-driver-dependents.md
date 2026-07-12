@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mongodb | docs | 771 | 1703 | [link](https://github.com/mongodb/docs) |
+| mongodb | docs | 772 | 1703 | [link](https://github.com/mongodb/docs) |
 | Itz-Murali | Chiku-Ai | 31 | 108 | [link](https://github.com/Itz-Murali/Chiku-Ai) |
 
 ---
-* **Last scrape:** 2026-07-05T03:36:50.684Z
-* **Total pages scraped:** 10
-* **Repos found:** 272
-* **Repos filtered out (< 25 stars):** 270
-* **Total possible repositories:** 22879
-* **Percent processed:** 1.2%
+* **Last scrape:** 2026-07-12T02:55:25.103Z
+* **Total pages scraped:** 11
+* **Repos found:** 288
+* **Repos filtered out (< 25 stars):** 286
+* **Total possible repositories:** 22904
+* **Percent processed:** 1.3%
