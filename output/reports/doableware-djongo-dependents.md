@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OWASP | crAPI | 1542 | 597 | [link](https://github.com/OWASP/crAPI) |
-| damklis | DataEngineeringProject | 1417 | 277 | [link](https://github.com/damklis/DataEngineeringProject) |
+| OWASP | crAPI | 1547 | 602 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1418 | 277 | [link](https://github.com/damklis/DataEngineeringProject) |
 | sajib1066 | django-event-management | 184 | 95 | [link](https://github.com/sajib1066/django-event-management) |
 | cyantarek | django-microservices | 166 | 88 | [link](https://github.com/cyantarek/django-microservices) |
 | frg-fossee | eSim-Cloud | 164 | 245 | [link](https://github.com/frg-fossee/eSim-Cloud) |
-| drshahizan | special-topic-data-engineering | 128 | 80 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
+| drshahizan | special-topic-data-engineering | 128 | 81 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
 | sodrooome | django-microservice | 84 | 42 | [link](https://github.com/sodrooome/django-microservice) |
 | drshahizan | SECP3843 | 62 | 59 | [link](https://github.com/drshahizan/SECP3843) |
 | alialaei1 | IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor | 60 | 18 | [link](https://github.com/alialaei1/IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor) |
@@ -27,9 +27,9 @@
 | leopardslab | CrawlerX | 25 | 19 | [link](https://github.com/leopardslab/CrawlerX) |
 
 ---
-* **Last scrape:** 2026-07-12T03:51:44.366Z
-* **Total pages scraped:** 156
-* **Repos found:** 4636
-* **Repos filtered out (< 25 stars):** 4615
-* **Total possible repositories:** 12600
-* **Percent processed:** 36.8%
+* **Last scrape:** 2026-07-19T03:22:16.143Z
+* **Total pages scraped:** 155
+* **Repos found:** 4617
+* **Repos filtered out (< 25 stars):** 4596
+* **Total possible repositories:** 12602
+* **Percent processed:** 36.6%
