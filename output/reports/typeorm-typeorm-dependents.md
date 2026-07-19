@@ -4,51 +4,51 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| twentyhq | twenty | 52804 | 7935 | [link](https://github.com/twentyhq/twenty) |
-| dubinc | dub | 23976 | 3110 | [link](https://github.com/dubinc/dub) |
-| activepieces | activepieces | 23229 | 3918 | [link](https://github.com/activepieces/activepieces) |
-| MemoriLabs | Memori | 15574 | 2806 | [link](https://github.com/MemoriLabs/Memori) |
-| streetwriters | notesnook | 14267 | 966 | [link](https://github.com/streetwriters/notesnook) |
-| papermark | papermark | 8792 | 1317 | [link](https://github.com/papermark/papermark) |
+| twentyhq | twenty | 53238 | 8073 | [link](https://github.com/twentyhq/twenty) |
+| dubinc | dub | 24081 | 3140 | [link](https://github.com/dubinc/dub) |
+| activepieces | activepieces | 23321 | 3932 | [link](https://github.com/activepieces/activepieces) |
+| MemoriLabs | Memori | 15617 | 2856 | [link](https://github.com/MemoriLabs/Memori) |
+| streetwriters | notesnook | 14298 | 966 | [link](https://github.com/streetwriters/notesnook) |
+| papermark | papermark | 8809 | 1318 | [link](https://github.com/papermark/papermark) |
 | datahaven-xyz | datahaven | 7927 | 146 | [link](https://github.com/datahaven-xyz/datahaven) |
-| mnfst | manifest | 7239 | 473 | [link](https://github.com/mnfst/manifest) |
-| prisma | prisma-examples | 6644 | 1475 | [link](https://github.com/prisma/prisma-examples) |
-| awslabs | agentcore-samples | 3175 | 1233 | [link](https://github.com/awslabs/agentcore-samples) |
-| golevelup | nestjs | 2730 | 300 | [link](https://github.com/golevelup/nestjs) |
-| boxlite-ai | boxlite | 2150 | 138 | [link](https://github.com/boxlite-ai/boxlite) |
-| vriteio | vrite | 1986 | 81 | [link](https://github.com/vriteio/vrite) |
-| StreamerHelper | web-server | 1151 | 172 | [link](https://github.com/StreamerHelper/web-server) |
-| hexabot-ai | Hexabot | 1061 | 221 | [link](https://github.com/hexabot-ai/Hexabot) |
-| ncdai | react-wheel-picker | 747 | 27 | [link](https://github.com/ncdai/react-wheel-picker) |
-| OWASP | cve-lite-cli | 632 | 105 | [link](https://github.com/OWASP/cve-lite-cli) |
-| yluiop123 | orange | 492 | 78 | [link](https://github.com/yluiop123/orange) |
-| 3xpyth0n | ideon | 487 | 17 | [link](https://github.com/3xpyth0n/ideon) |
-| FatPaper-1874 | mine-monopoly | 475 | 64 | [link](https://github.com/FatPaper-1874/mine-monopoly) |
-| denpiligrim | 3dp-manager | 458 | 39 | [link](https://github.com/denpiligrim/3dp-manager) |
+| mnfst | manifest | 7275 | 478 | [link](https://github.com/mnfst/manifest) |
+| prisma | prisma-examples | 6647 | 1475 | [link](https://github.com/prisma/prisma-examples) |
+| awslabs | agentcore-samples | 3201 | 1236 | [link](https://github.com/awslabs/agentcore-samples) |
+| golevelup | nestjs | 2733 | 300 | [link](https://github.com/golevelup/nestjs) |
+| boxlite-ai | boxlite | 2179 | 144 | [link](https://github.com/boxlite-ai/boxlite) |
+| vriteio | vrite | 1987 | 81 | [link](https://github.com/vriteio/vrite) |
+| StreamerHelper | web-server | 1152 | 172 | [link](https://github.com/StreamerHelper/web-server) |
+| hexabot-ai | Hexabot | 1098 | 222 | [link](https://github.com/hexabot-ai/Hexabot) |
+| ncdai | react-wheel-picker | 749 | 27 | [link](https://github.com/ncdai/react-wheel-picker) |
+| OWASP | cve-lite-cli | 639 | 108 | [link](https://github.com/OWASP/cve-lite-cli) |
+| yluiop123 | orange | 497 | 80 | [link](https://github.com/yluiop123/orange) |
+| 3xpyth0n | ideon | 490 | 18 | [link](https://github.com/3xpyth0n/ideon) |
+| FatPaper-1874 | mine-monopoly | 481 | 67 | [link](https://github.com/FatPaper-1874/mine-monopoly) |
+| denpiligrim | 3dp-manager | 457 | 39 | [link](https://github.com/denpiligrim/3dp-manager) |
 | OcularEngineering | ocular | 445 | 34 | [link](https://github.com/OcularEngineering/ocular) |
-| intelligo-mn | intelligo | 426 | 74 | [link](https://github.com/intelligo-mn/intelligo) |
-| backstage | community-plugins | 400 | 652 | [link](https://github.com/backstage/community-plugins) |
-| RaoFoundation | subtensor | 362 | 322 | [link](https://github.com/RaoFoundation/subtensor) |
-| reconmap | pentest-reports | 314 | 59 | [link](https://github.com/reconmap/pentest-reports) |
-| zotero-cita | zotero-cita | 313 | 17 | [link](https://github.com/zotero-cita/zotero-cita) |
-| microwind | design-patterns | 211 | 44 | [link](https://github.com/microwind/design-patterns) |
-| yuanzui0728 | Enclave | 172 | 13 | [link](https://github.com/yuanzui0728/Enclave) |
-| redhat-developer | rhdh | 168 | 222 | [link](https://github.com/redhat-developer/rhdh) |
-| abarghoud | SentryGuard | 149 | 5 | [link](https://github.com/abarghoud/SentryGuard) |
-| oasm-platform | open-asm | 133 | 25 | [link](https://github.com/oasm-platform/open-asm) |
-| kenlasko | monize | 124 | 26 | [link](https://github.com/kenlasko/monize) |
+| intelligo-mn | intelligo | 427 | 74 | [link](https://github.com/intelligo-mn/intelligo) |
+| backstage | community-plugins | 402 | 654 | [link](https://github.com/backstage/community-plugins) |
+| RaoFoundation | subtensor | 366 | 324 | [link](https://github.com/RaoFoundation/subtensor) |
+| reconmap | pentest-reports | 316 | 60 | [link](https://github.com/reconmap/pentest-reports) |
+| zotero-cita | zotero-cita | 316 | 17 | [link](https://github.com/zotero-cita/zotero-cita) |
+| microwind | design-patterns | 219 | 46 | [link](https://github.com/microwind/design-patterns) |
+| yuanzui0728 | Enclave | 174 | 14 | [link](https://github.com/yuanzui0728/Enclave) |
+| redhat-developer | rhdh | 168 | 221 | [link](https://github.com/redhat-developer/rhdh) |
+| abarghoud | SentryGuard | 150 | 5 | [link](https://github.com/abarghoud/SentryGuard) |
+| oasm-platform | open-asm | 138 | 26 | [link](https://github.com/oasm-platform/open-asm) |
+| kenlasko | monize | 125 | 27 | [link](https://github.com/kenlasko/monize) |
 | rayman1104 | ra-data-nestjsx-crud | 108 | 27 | [link](https://github.com/rayman1104/ra-data-nestjsx-crud) |
-| UnicisTech | unicis-platform-ce | 96 | 63 | [link](https://github.com/UnicisTech/unicis-platform-ce) |
+| UnicisTech | unicis-platform-ce | 95 | 64 | [link](https://github.com/UnicisTech/unicis-platform-ce) |
+| databk | rustdesk-console | 94 | 14 | [link](https://github.com/databk/rustdesk-console) |
 | internxt | cli | 87 | 13 | [link](https://github.com/internxt/cli) |
-| databk | rustdesk-console | 82 | 11 | [link](https://github.com/databk/rustdesk-console) |
 | teamreflex | cosmo-web | 66 | 8 | [link](https://github.com/teamreflex/cosmo-web) |
 | agentlang-ai | agentlang | 59 | 1 | [link](https://github.com/agentlang-ai/agentlang) |
 | paraspell | xcm-tools | 57 | 20 | [link](https://github.com/paraspell/xcm-tools) |
 | Shubham0850 | auraui | 55 | 13 | [link](https://github.com/Shubham0850/auraui) |
-| BrigadaSOS | Nadeshiko | 53 | 5 | [link](https://github.com/BrigadaSOS/Nadeshiko) |
+| BrigadaSOS | Nadeshiko | 54 | 5 | [link](https://github.com/BrigadaSOS/Nadeshiko) |
 | satsigner | satsigner | 52 | 22 | [link](https://github.com/satsigner/satsigner) |
-| biprodas | school-erp | 49 | 30 | [link](https://github.com/biprodas/school-erp) |
-| raouf-b-dev | ecommerce-store-api | 48 | 1 | [link](https://github.com/raouf-b-dev/ecommerce-store-api) |
+| biprodas | school-erp | 49 | 31 | [link](https://github.com/biprodas/school-erp) |
+| raouf-b-dev | ecommerce-store-api | 49 | 1 | [link](https://github.com/raouf-b-dev/ecommerce-store-api) |
 | hazel-js | hazeljs | 48 | 2 | [link](https://github.com/hazel-js/hazeljs) |
 | Pulsefy | Lumenpulse | 43 | 305 | [link](https://github.com/Pulsefy/Lumenpulse) |
 | RTAinJapan | rtainjapan-layouts | 43 | 6 | [link](https://github.com/RTAinJapan/rtainjapan-layouts) |
@@ -59,21 +59,22 @@
 | helikon-labs | multix | 33 | 24 | [link](https://github.com/helikon-labs/multix) |
 | Plant-for-the-Planet-org | treemapper | 31 | 2 | [link](https://github.com/Plant-for-the-Planet-org/treemapper) |
 | Oancea-Teodora | UBB-Computer-Science | 31 | 0 | [link](https://github.com/Oancea-Teodora/UBB-Computer-Science) |
+| HIDORAKAI002 | ai-workspace-archive | 28 | 10 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| spraxium | spraxium | 28 | 2 | [link](https://github.com/spraxium/spraxium) |
 | getqarote | Qarote | 28 | 0 | [link](https://github.com/getqarote/Qarote) |
-| internxt | drive-desktop-linux | 27 | 5 | [link](https://github.com/internxt/drive-desktop-linux) |
-| HIDORAKAI002 | ai-workspace-archive | 26 | 9 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
-| spraxium | spraxium | 26 | 2 | [link](https://github.com/spraxium/spraxium) |
-| thenoname-gurl | EcliPanel | 26 | 3 | [link](https://github.com/thenoname-gurl/EcliPanel) |
+| internxt | drive-desktop-linux | 28 | 5 | [link](https://github.com/internxt/drive-desktop-linux) |
+| thenoname-gurl | EcliPanel | 27 | 3 | [link](https://github.com/thenoname-gurl/EcliPanel) |
+| galacticcouncil | sdk | 27 | 31 | [link](https://github.com/galacticcouncil/sdk) |
+| kubeara | core | 26 | 6 | [link](https://github.com/kubeara/core) |
 | mantlenetworkio | blockscout | 26 | 17 | [link](https://github.com/mantlenetworkio/blockscout) |
-| galacticcouncil | sdk | 26 | 30 | [link](https://github.com/galacticcouncil/sdk) |
+| ntthanh2603 | social-network-cnet | 26 | 2 | [link](https://github.com/ntthanh2603/social-network-cnet) |
 | halitsever | watchbear | 25 | 11 | [link](https://github.com/halitsever/watchbear) |
 | Degreet | nestgram | 25 | 5 | [link](https://github.com/Degreet/nestgram) |
-| ntthanh2603 | social-network-cnet | 25 | 2 | [link](https://github.com/ntthanh2603/social-network-cnet) |
 
 ---
-* **Last scrape:** 2026-07-12T03:09:49.793Z
-* **Total pages scraped:** 83
-* **Repos found:** 2466
-* **Repos filtered out (< 25 stars):** 2401
-* **Total possible repositories:** 431264
+* **Last scrape:** 2026-07-19T03:00:22.144Z
+* **Total pages scraped:** 85
+* **Repos found:** 2526
+* **Repos filtered out (< 25 stars):** 2460
+* **Total possible repositories:** 431343
 * **Percent processed:** 0.6%
