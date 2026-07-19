@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37336 | 53432 | [link](https://github.com/eugenp/tutorials) |
-| ant-media | Ant-Media-Server | 4704 | 687 | [link](https://github.com/ant-media/Ant-Media-Server) |
-| OpenFeign | querydsl | 627 | 95 | [link](https://github.com/OpenFeign/querydsl) |
+| eugenp | tutorials | 37333 | 53398 | [link](https://github.com/eugenp/tutorials) |
+| ant-media | Ant-Media-Server | 4708 | 687 | [link](https://github.com/ant-media/Ant-Media-Server) |
+| OpenFeign | querydsl | 627 | 96 | [link](https://github.com/OpenFeign/querydsl) |
 | skrstop | skrstop-components | 233 | 30 | [link](https://github.com/skrstop/skrstop-components) |
 | liujiaqi7998 | GrasscuttersWebDashboard | 212 | 32 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
 | primefaces-extensions | primefaces-extensions | 117 | 112 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
@@ -19,9 +19,9 @@
 | europeana | metis-framework | 30 | 9 | [link](https://github.com/europeana/metis-framework) |
 
 ---
-* **Last scrape:** 2026-07-12T03:50:42.305Z
+* **Last scrape:** 2026-07-19T03:21:48.492Z
 * **Total pages scraped:** 6
-* **Repos found:** 152
-* **Repos filtered out (< 25 stars):** 139
-* **Total possible repositories:** 329
-* **Percent processed:** 46.2%
+* **Repos found:** 151
+* **Repos filtered out (< 25 stars):** 138
+* **Total possible repositories:** 330
+* **Percent processed:** 45.8%
