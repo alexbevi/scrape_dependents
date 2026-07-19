@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6637 | 761 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3806 | 1410 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1905 | 5296 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1343 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 877 | 272 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| OpenSignLabs | OpenSign | 6669 | 769 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3805 | 1407 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1905 | 5294 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1342 | 598 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| Eleven-Trading | TradeNote | 881 | 275 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 474 | 161 | [link](https://github.com/yongjhih/docker-parse-server) |
 | elrumo | icon-brew | 320 | 7 | [link](https://github.com/elrumo/icon-brew) |
@@ -30,21 +30,21 @@
 | andrewimm | parse-lite | 40 | 9 | [link](https://github.com/andrewimm/parse-lite) |
 | parse-community | parse-blockchain | 39 | 8 | [link](https://github.com/parse-community/parse-blockchain) |
 | clowdr-app | clowdr-web-app | 38 | 13 | [link](https://github.com/clowdr-app/clowdr-web-app) |
+| TechnionYP5777 | SmartCity-ParkingManagement | 36 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
 | back4app | parse-dashboard | 35 | 18 | [link](https://github.com/back4app/parse-dashboard) |
-| TechnionYP5777 | SmartCity-ParkingManagement | 35 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
 | winglight | soducrawler | 34 | 12 | [link](https://github.com/winglight/soducrawler) |
 | LasaleFamine | docker-mongo-parse-server | 33 | 12 | [link](https://github.com/LasaleFamine/docker-mongo-parse-server) |
 | SashiDo | content-moderation-application | 30 | 10 | [link](https://github.com/SashiDo/content-moderation-application) |
-| zebapy | react-redux-parse-server | 29 | 7 | [link](https://github.com/zebapy/react-redux-parse-server) |
+| zebapy | react-redux-parse-server | 29 | 6 | [link](https://github.com/zebapy/react-redux-parse-server) |
 | bakery | pokemon-map | 29 | 5 | [link](https://github.com/bakery/pokemon-map) |
 | gimdongwoo | docker-parse-mongo | 29 | 4 | [link](https://github.com/gimdongwoo/docker-parse-mongo) |
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 | bing-zhub | eQin | 25 | 8 | [link](https://github.com/bing-zhub/eQin) |
 
 ---
-* **Last scrape:** 2026-07-12T04:26:09.424Z
+* **Last scrape:** 2026-07-19T03:56:10.188Z
 * **Total pages scraped:** 28
-* **Repos found:** 795
-* **Repos filtered out (< 25 stars):** 759
+* **Repos found:** 792
+* **Repos filtered out (< 25 stars):** 756
 * **Total possible repositories:** 4171
-* **Percent processed:** 19.1%
+* **Percent processed:** 19.0%
