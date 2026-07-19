@@ -9,7 +9,7 @@
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 94 | 20 | [link](https://github.com/rgroult/MobDistTool) |
-| vedfi | mondroid | 90 | 10 | [link](https://github.com/vedfi/mondroid) |
+| vedfi | mondroid | 91 | 10 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 23 | [link](https://github.com/angel-example/flutter) |
 | aortem | dartstream | 65 | 71 | [link](https://github.com/aortem/dartstream) |
 | Scorpiion | vane | 61 | 11 | [link](https://github.com/Scorpiion/vane) |
@@ -21,9 +21,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-07-12T03:50:23.224Z
+* **Last scrape:** 2026-07-19T03:21:55.080Z
 * **Total pages scraped:** 60
-* **Repos found:** 1780
-* **Repos filtered out (< 25 stars):** 1765
+* **Repos found:** 1769
+* **Repos filtered out (< 25 stars):** 1754
 * **Total possible repositories:** 5665
-* **Percent processed:** 31.4%
+* **Percent processed:** 31.2%
