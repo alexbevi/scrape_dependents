@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16792 | 3720 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16795 | 3717 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 929 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | RocketChat | hubot-rocketchat | 593 | 240 | [link](https://github.com/RocketChat/hubot-rocketchat) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
@@ -14,7 +14,7 @@
 | xmppjs | hubot-xmpp | 183 | 97 | [link](https://github.com/xmppjs/hubot-xmpp) |
 | lukefx | hubot-telegram | 160 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
 | stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
-| hawkins | groupme-at-all | 109 | 290 | [link](https://github.com/hawkins/groupme-at-all) |
+| hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 107 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
 | hubot-archive | hubot-pager-me | 74 | 92 | [link](https://github.com/hubot-archive/hubot-pager-me) |
 | devschile | huemul | 71 | 72 | [link](https://github.com/devschile/huemul) |
@@ -39,9 +39,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-07-12T04:26:40.869Z
+* **Last scrape:** 2026-07-19T03:56:41.948Z
 * **Total pages scraped:** 30
-* **Repos found:** 825
-* **Repos filtered out (< 25 stars):** 792
-* **Total possible repositories:** 3331
-* **Percent processed:** 24.8%
+* **Repos found:** 818
+* **Repos filtered out (< 25 stars):** 785
+* **Total possible repositories:** 3332
+* **Percent processed:** 24.5%
