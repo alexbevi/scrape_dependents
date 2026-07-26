@@ -6,16 +6,16 @@
 |---|---|---|---|---|
 | doctrine-extensions | DoctrineExtensions | 4142 | 1253 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
 | doctrine | data-fixtures | 2851 | 231 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2566 | 966 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2566 | 973 | [link](https://github.com/api-platform/core) |
 | illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1906 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1700 | 167 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1264 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| LLPhant | LLPhant | 1702 | 168 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1264 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 872 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 797 | 112 | [link](https://github.com/zenstruck/foundry) |
-| KnpLabs | knp-components | 772 | 138 | [link](https://github.com/KnpLabs/knp-components) |
-| markitosgv | JWTRefreshTokenBundle | 710 | 180 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| Cocolabs-SAS | cocorico | 872 | 588 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 796 | 112 | [link](https://github.com/zenstruck/foundry) |
+| KnpLabs | knp-components | 771 | 138 | [link](https://github.com/KnpLabs/knp-components) |
+| markitosgv | JWTRefreshTokenBundle | 710 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | phpstan | phpstan-doctrine | 673 | 120 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 338 | [link](https://github.com/APY/APYDataGridBundle) |
 | sonata-project | SonataMediaBundle | 462 | 480 | [link](https://github.com/sonata-project/SonataMediaBundle) |
@@ -58,8 +58,8 @@
 | doctrine | mongodb-odm-softdelete | 35 | 9 | [link](https://github.com/doctrine/mongodb-odm-softdelete) |
 | romainneutron | MongoDB-ODM-Silex-Provider | 35 | 15 | [link](https://github.com/romainneutron/MongoDB-ODM-Silex-Provider) |
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
+| klapaudius | symfony-mcp-server | 31 | 3 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 | Schibsted-Tech-Polska | stp.rtm | 31 | 13 | [link](https://github.com/Schibsted-Tech-Polska/stp.rtm) |
-| klapaudius | symfony-mcp-server | 30 | 3 | [link](https://github.com/klapaudius/symfony-mcp-server) |
 | api-platform | doctrine-common | 29 | 1 | [link](https://github.com/api-platform/doctrine-common) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
 | automagistre | automagistre | 28 | 7 | [link](https://github.com/automagistre/automagistre) |
@@ -68,9 +68,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-07-19T03:08:50.844Z
+* **Last scrape:** 2026-07-26T03:07:54.914Z
 * **Total pages scraped:** 30
-* **Repos found:** 865
-* **Repos filtered out (< 25 stars):** 803
+* **Repos found:** 862
+* **Repos filtered out (< 25 stars):** 800
 * **Total possible repositories:** 3137
-* **Percent processed:** 27.6%
+* **Percent processed:** 27.5%
