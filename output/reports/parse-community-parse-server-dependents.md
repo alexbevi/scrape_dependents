@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6669 | 769 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3805 | 1407 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1905 | 5294 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1342 | 598 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| OpenSignLabs | OpenSign | 6725 | 777 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3807 | 1405 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1904 | 5293 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1342 | 599 | [link](https://github.com/parse-community/Parse-SDK-JS) |
 | Eleven-Trading | TradeNote | 881 | 275 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 474 | 161 | [link](https://github.com/yongjhih/docker-parse-server) |
@@ -36,15 +36,15 @@
 | LasaleFamine | docker-mongo-parse-server | 33 | 12 | [link](https://github.com/LasaleFamine/docker-mongo-parse-server) |
 | SashiDo | content-moderation-application | 30 | 10 | [link](https://github.com/SashiDo/content-moderation-application) |
 | zebapy | react-redux-parse-server | 29 | 6 | [link](https://github.com/zebapy/react-redux-parse-server) |
-| bakery | pokemon-map | 29 | 5 | [link](https://github.com/bakery/pokemon-map) |
+| bakery | pokemon-map | 29 | 4 | [link](https://github.com/bakery/pokemon-map) |
 | gimdongwoo | docker-parse-mongo | 29 | 4 | [link](https://github.com/gimdongwoo/docker-parse-mongo) |
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 | bing-zhub | eQin | 25 | 8 | [link](https://github.com/bing-zhub/eQin) |
 
 ---
-* **Last scrape:** 2026-07-19T03:56:10.188Z
+* **Last scrape:** 2026-07-26T03:41:00.295Z
 * **Total pages scraped:** 28
-* **Repos found:** 792
-* **Repos filtered out (< 25 stars):** 756
+* **Repos found:** 788
+* **Repos filtered out (< 25 stars):** 752
 * **Total possible repositories:** 4171
-* **Percent processed:** 19.0%
+* **Percent processed:** 18.9%
