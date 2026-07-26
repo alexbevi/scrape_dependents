@@ -4,9 +4,9 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 330 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2990 | 330 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1348 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-07-19T03:07:09.777Z
+* **Last scrape:** 2026-07-26T03:06:11.577Z
 * **Total pages scraped:** 18
 * **Repos found:** 456
 * **Repos filtered out (< 25 stars):** 403
