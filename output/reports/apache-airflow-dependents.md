@@ -4,49 +4,49 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| astral-sh | uv | 87634 | 3352 | [link](https://github.com/astral-sh/uv) |
-| dagster-io | dagster | 15858 | 2201 | [link](https://github.com/dagster-io/dagster) |
-| open-metadata | OpenMetadata | 14503 | 2238 | [link](https://github.com/open-metadata/OpenMetadata) |
-| openreplay | openreplay | 12242 | 761 | [link](https://github.com/openreplay/openreplay) |
-| GoogleCloudPlatform | python-docs-samples | 8110 | 6721 | [link](https://github.com/GoogleCloudPlatform/python-docs-samples) |
-| dlt-hub | dlt | 5629 | 568 | [link](https://github.com/dlt-hub/dlt) |
-| hemansnation | AI-Engineer-Headquarters | 3669 | 701 | [link](https://github.com/hemansnation/AI-Engineer-Headquarters) |
-| data-science-on-aws | data-science-on-aws | 3427 | 1086 | [link](https://github.com/data-science-on-aws/data-science-on-aws) |
-| GoogleCloudPlatform | professional-services | 3046 | 1463 | [link](https://github.com/GoogleCloudPlatform/professional-services) |
-| opencve | opencve | 2776 | 335 | [link](https://github.com/opencve/opencve) |
-| tensorflow | tfx | 2188 | 730 | [link](https://github.com/tensorflow/tfx) |
-| 4paradigm | OpenMLDB | 1695 | 330 | [link](https://github.com/4paradigm/OpenMLDB) |
-| astronomer | dag-factory | 1446 | 235 | [link](https://github.com/astronomer/dag-factory) |
+| astral-sh | uv | 87894 | 3376 | [link](https://github.com/astral-sh/uv) |
+| dagster-io | dagster | 15900 | 2221 | [link](https://github.com/dagster-io/dagster) |
+| open-metadata | OpenMetadata | 14565 | 2253 | [link](https://github.com/open-metadata/OpenMetadata) |
+| openreplay | openreplay | 12293 | 765 | [link](https://github.com/openreplay/openreplay) |
+| GoogleCloudPlatform | python-docs-samples | 8116 | 6725 | [link](https://github.com/GoogleCloudPlatform/python-docs-samples) |
+| dlt-hub | dlt | 5662 | 569 | [link](https://github.com/dlt-hub/dlt) |
+| hemansnation | AI-Engineer-Headquarters | 3670 | 701 | [link](https://github.com/hemansnation/AI-Engineer-Headquarters) |
+| data-science-on-aws | data-science-on-aws | 3429 | 1085 | [link](https://github.com/data-science-on-aws/data-science-on-aws) |
+| GoogleCloudPlatform | professional-services | 3047 | 1462 | [link](https://github.com/GoogleCloudPlatform/professional-services) |
+| opencve | opencve | 2780 | 334 | [link](https://github.com/opencve/opencve) |
+| tensorflow | tfx | 2190 | 728 | [link](https://github.com/tensorflow/tfx) |
+| 4paradigm | OpenMLDB | 1698 | 330 | [link](https://github.com/4paradigm/OpenMLDB) |
+| astronomer | dag-factory | 1446 | 236 | [link](https://github.com/astronomer/dag-factory) |
 | GoogleCloudPlatform | cloud-builders-community | 1307 | 850 | [link](https://github.com/GoogleCloudPlatform/cloud-builders-community) |
-| astronomer | astronomer-cosmos | 1232 | 305 | [link](https://github.com/astronomer/astronomer-cosmos) |
-| awslabs | data-on-eks | 853 | 300 | [link](https://github.com/awslabs/data-on-eks) |
-| BasPH | data-pipelines-with-apache-airflow | 823 | 415 | [link](https://github.com/BasPH/data-pipelines-with-apache-airflow) |
-| aws | aws-mwaa-local-runner | 807 | 776 | [link](https://github.com/aws/aws-mwaa-local-runner) |
+| astronomer | astronomer-cosmos | 1232 | 308 | [link](https://github.com/astronomer/astronomer-cosmos) |
+| awslabs | data-on-eks | 854 | 300 | [link](https://github.com/awslabs/data-on-eks) |
+| BasPH | data-pipelines-with-apache-airflow | 824 | 415 | [link](https://github.com/BasPH/data-pipelines-with-apache-airflow) |
+| aws | aws-mwaa-local-runner | 806 | 776 | [link](https://github.com/aws/aws-mwaa-local-runner) |
 | irbigdata | data-dockerfiles | 585 | 56 | [link](https://github.com/irbigdata/data-dockerfiles) |
-| thuijskens | production-tools | 527 | 43 | [link](https://github.com/thuijskens/production-tools) |
+| thuijskens | production-tools | 527 | 42 | [link](https://github.com/thuijskens/production-tools) |
 | vmware | versatile-data-kit | 486 | 78 | [link](https://github.com/vmware/versatile-data-kit) |
 | andreax79 | airflow-code-editor | 464 | 56 | [link](https://github.com/andreax79/airflow-code-editor) |
 | blockchain-etl | ethereum-etl-airflow | 439 | 196 | [link](https://github.com/blockchain-etl/ethereum-etl-airflow) |
 | gocardless | airflow-dbt | 415 | 62 | [link](https://github.com/gocardless/airflow-dbt) |
-| bartosz25 | data-engineering-design-patterns-book | 410 | 107 | [link](https://github.com/bartosz25/data-engineering-design-patterns-book) |
-| meta-pytorch | torchcomms | 377 | 162 | [link](https://github.com/meta-pytorch/torchcomms) |
-| WordPress | openverse | 357 | 281 | [link](https://github.com/WordPress/openverse) |
+| bartosz25 | data-engineering-design-patterns-book | 413 | 106 | [link](https://github.com/bartosz25/data-engineering-design-patterns-book) |
+| meta-pytorch | torchcomms | 380 | 165 | [link](https://github.com/meta-pytorch/torchcomms) |
+| WordPress | openverse | 359 | 283 | [link](https://github.com/WordPress/openverse) |
 | duriantaco | fyn | 345 | 7 | [link](https://github.com/duriantaco/fyn) |
-| airscholar | e2e-data-engineering | 335 | 152 | [link](https://github.com/airscholar/e2e-data-engineering) |
+| airscholar | e2e-data-engineering | 336 | 151 | [link](https://github.com/airscholar/e2e-data-engineering) |
 | flyteorg | flytekit | 315 | 339 | [link](https://github.com/flyteorg/flytekit) |
 | hongbo-miao | hongbomiao.com | 298 | 51 | [link](https://github.com/hongbo-miao/hongbomiao.com) |
 | raminmohammadi | MLOps | 290 | 397 | [link](https://github.com/raminmohammadi/MLOps) |
 | pipeline-tools | gusty | 286 | 14 | [link](https://github.com/pipeline-tools/gusty) |
 | epoch8 | airflow-exporter | 278 | 80 | [link](https://github.com/epoch8/airflow-exporter) |
-| PacktPublishing | Machine-Learning-Engineering-with-Python-Second-Edition | 275 | 193 | [link](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) |
+| PacktPublishing | Machine-Learning-Engineering-with-Python-Second-Edition | 277 | 194 | [link](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python-Second-Edition) |
 | ris-tlp | audiophile-e2e-pipeline | 270 | 61 | [link](https://github.com/ris-tlp/audiophile-e2e-pipeline) |
 | databand-ai | dbnd | 267 | 33 | [link](https://github.com/databand-ai/dbnd) |
 | chandulal | airflow-testing | 263 | 44 | [link](https://github.com/chandulal/airflow-testing) |
 | soggycactus | airflow-repo-template | 257 | 41 | [link](https://github.com/soggycactus/airflow-repo-template) |
 | teamclairvoyant | airflow-scheduler-failover-controller | 234 | 57 | [link](https://github.com/teamclairvoyant/airflow-scheduler-failover-controller) |
 | Nike-Inc | brickflow | 228 | 67 | [link](https://github.com/Nike-Inc/brickflow) |
-| airscholar | RedditDataEngineering | 220 | 96 | [link](https://github.com/airscholar/RedditDataEngineering) |
-| airbytehq | quickstarts | 216 | 47 | [link](https://github.com/airbytehq/quickstarts) |
+| airscholar | RedditDataEngineering | 227 | 96 | [link](https://github.com/airscholar/RedditDataEngineering) |
+| airbytehq | quickstarts | 217 | 47 | [link](https://github.com/airbytehq/quickstarts) |
 | tomasfarias | airflow-dbt-python | 215 | 41 | [link](https://github.com/tomasfarias/airflow-dbt-python) |
 | godatadriven | whirl | 205 | 11 | [link](https://github.com/godatadriven/whirl) |
 | mozilla | telemetry-airflow | 204 | 100 | [link](https://github.com/mozilla/telemetry-airflow) |
@@ -55,29 +55,29 @@
 | PacktPublishing | Machine-Learning-Engineering-with-Python | 191 | 100 | [link](https://github.com/PacktPublishing/Machine-Learning-Engineering-with-Python) |
 | harrytandata | airflow_course | 190 | 49 | [link](https://github.com/harrytandata/airflow_course) |
 | garystafford | tickit-data-lake-demo | 187 | 119 | [link](https://github.com/garystafford/tickit-data-lake-demo) |
-| bryzgaloff | airflow-clickhouse-plugin | 183 | 46 | [link](https://github.com/bryzgaloff/airflow-clickhouse-plugin) |
+| bryzgaloff | airflow-clickhouse-plugin | 184 | 46 | [link](https://github.com/bryzgaloff/airflow-clickhouse-plugin) |
 | flink-extended | ai-flow | 182 | 33 | [link](https://github.com/flink-extended/ai-flow) |
 | GoogleCloudPlatform | public-datasets-pipelines | 179 | 78 | [link](https://github.com/GoogleCloudPlatform/public-datasets-pipelines) |
-| gudgud96 | syntheon | 177 | 10 | [link](https://github.com/gudgud96/syntheon) |
+| gudgud96 | syntheon | 178 | 10 | [link](https://github.com/gudgud96/syntheon) |
 | karpenkovarya | airflow_for_beginners | 176 | 63 | [link](https://github.com/karpenkovarya/airflow_for_beginners) |
-| fivetran | airflow-provider-great-expectations | 173 | 58 | [link](https://github.com/fivetran/airflow-provider-great-expectations) |
-| Toloka | dbt-af | 170 | 15 | [link](https://github.com/Toloka/dbt-af) |
-| aws-samples | emr-serverless-samples | 170 | 84 | [link](https://github.com/aws-samples/emr-serverless-samples) |
-| kroudir | Data-Engineer-Nanodegree-Projects-Udacity | 169 | 59 | [link](https://github.com/kroudir/Data-Engineer-Nanodegree-Projects-Udacity) |
+| fivetran | airflow-provider-great-expectations | 174 | 58 | [link](https://github.com/fivetran/airflow-provider-great-expectations) |
+| aws-samples | emr-serverless-samples | 171 | 84 | [link](https://github.com/aws-samples/emr-serverless-samples) |
+| kroudir | Data-Engineer-Nanodegree-Projects-Udacity | 170 | 59 | [link](https://github.com/kroudir/Data-Engineer-Nanodegree-Projects-Udacity) |
+| Toloka | dbt-af | 168 | 15 | [link](https://github.com/Toloka/dbt-af) |
 | KIC | pandas-ml-quant | 163 | 33 | [link](https://github.com/KIC/pandas-ml-quant) |
 | digitalocean | droplet-1-clicks | 161 | 81 | [link](https://github.com/digitalocean/droplet-1-clicks) |
 | robinhood | airflow-prometheus-exporter | 161 | 78 | [link](https://github.com/robinhood/airflow-prometheus-exporter) |
-| OpenSTEF | openstef | 155 | 52 | [link](https://github.com/OpenSTEF/openstef) |
-| trannhatnguyen2 | NYC_Taxi_Data_Pipeline | 150 | 27 | [link](https://github.com/trannhatnguyen2/NYC_Taxi_Data_Pipeline) |
+| OpenSTEF | openstef | 157 | 53 | [link](https://github.com/OpenSTEF/openstef) |
+| trannhatnguyen2 | NYC_Taxi_Data_Pipeline | 151 | 27 | [link](https://github.com/trannhatnguyen2/NYC_Taxi_Data_Pipeline) |
 | aspect-build | rules_py | 143 | 96 | [link](https://github.com/aspect-build/rules_py) |
 | apache | incubator-liminal | 143 | 39 | [link](https://github.com/apache/incubator-liminal) |
 | rambler-digital-solutions | airflow-declarative | 133 | 8 | [link](https://github.com/rambler-digital-solutions/airflow-declarative) |
 | datacamp | viewflow | 127 | 12 | [link](https://github.com/datacamp/viewflow) |
-| PacktPublishing | Data-Engineering-with-Google-Cloud-Platform | 125 | 110 | [link](https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform) |
+| PacktPublishing | Data-Engineering-with-Google-Cloud-Platform | 125 | 111 | [link](https://github.com/PacktPublishing/Data-Engineering-with-Google-Cloud-Platform) |
 | K9Ns | data-pipelines-with-apache-airflow | 122 | 73 | [link](https://github.com/K9Ns/data-pipelines-with-apache-airflow) |
 | hequan2017 | seal | 122 | 65 | [link](https://github.com/hequan2017/seal) |
+| aws-samples | amazon-mwaa-examples | 120 | 71 | [link](https://github.com/aws-samples/amazon-mwaa-examples) |
 | allegro | bigflow | 120 | 23 | [link](https://github.com/allegro/bigflow) |
-| aws-samples | amazon-mwaa-examples | 119 | 71 | [link](https://github.com/aws-samples/amazon-mwaa-examples) |
 | HamzaG737 | data-engineering-project | 116 | 50 | [link](https://github.com/HamzaG737/data-engineering-project) |
 | feluelle | airflint | 108 | 3 | [link](https://github.com/feluelle/airflint) |
 | blockchain-etl | polygon-etl | 106 | 72 | [link](https://github.com/blockchain-etl/polygon-etl) |
@@ -88,8 +88,8 @@
 | GoogleCloudPlatform | oozie-to-airflow | 93 | 52 | [link](https://github.com/GoogleCloudPlatform/oozie-to-airflow) |
 | GoogleCloudPlatform | enterprise-knowledge-solution | 89 | 14 | [link](https://github.com/GoogleCloudPlatform/enterprise-knowledge-solution) |
 | trallard | airflow-tutorial | 88 | 29 | [link](https://github.com/trallard/airflow-tutorial) |
-| jomariya23156 | sales-forecast-mlops-at-scale | 86 | 27 | [link](https://github.com/jomariya23156/sales-forecast-mlops-at-scale) |
-| mattmartin14 | dream_machine | 85 | 16 | [link](https://github.com/mattmartin14/dream_machine) |
+| jomariya23156 | sales-forecast-mlops-at-scale | 87 | 27 | [link](https://github.com/jomariya23156/sales-forecast-mlops-at-scale) |
+| mattmartin14 | dream_machine | 86 | 16 | [link](https://github.com/mattmartin14/dream_machine) |
 | starschema | COVID-19-data | 85 | 18 | [link](https://github.com/starschema/COVID-19-data) |
 | MDS7202 | MDS7202 | 84 | 29 | [link](https://github.com/MDS7202/MDS7202) |
 | gmyrianthous | dbt-airflow | 84 | 51 | [link](https://github.com/gmyrianthous/dbt-airflow) |
@@ -100,8 +100,8 @@
 | caoergou | airflow-extended-api-plugin | 77 | 31 | [link](https://github.com/caoergou/airflow-extended-api-plugin) |
 | Kevin-Nduati | My-Spotify-Wrapped | 76 | 9 | [link](https://github.com/Kevin-Nduati/My-Spotify-Wrapped) |
 | dunghoang369 | feature-store | 73 | 16 | [link](https://github.com/dunghoang369/feature-store) |
+| 1ambda | lakehouse | 70 | 17 | [link](https://github.com/1ambda/lakehouse) |
 | cal-itp | data-infra | 69 | 19 | [link](https://github.com/cal-itp/data-infra) |
-| 1ambda | lakehouse | 69 | 17 | [link](https://github.com/1ambda/lakehouse) |
 | cc-archive | cccatalog | 68 | 51 | [link](https://github.com/cc-archive/cccatalog) |
 | jeremyarancio | reservation_cancellation_prediction | 67 | 23 | [link](https://github.com/jeremyarancio/reservation_cancellation_prediction) |
 | redbearder | sapspa | 65 | 9 | [link](https://github.com/redbearder/sapspa) |
@@ -115,8 +115,8 @@
 | luongphambao | nyc-taxi-feature-store | 57 | 7 | [link](https://github.com/luongphambao/nyc-taxi-feature-store) |
 | saeed349 | Microservices-Based-Algorithmic-Trading-System-V-2.0 | 57 | 35 | [link](https://github.com/saeed349/Microservices-Based-Algorithmic-Trading-System-V-2.0) |
 | awslabs | idf-modules | 56 | 90 | [link](https://github.com/awslabs/idf-modules) |
+| godatadriven | data-pipelines-with-airflow-2nd-ed | 55 | 16 | [link](https://github.com/godatadriven/data-pipelines-with-airflow-2nd-ed) |
 | PacktPublishing | Apache-Airflow-Best-Practices | 55 | 16 | [link](https://github.com/PacktPublishing/Apache-Airflow-Best-Practices) |
-| godatadriven | data-pipelines-with-airflow-2nd-ed | 54 | 16 | [link](https://github.com/godatadriven/data-pipelines-with-airflow-2nd-ed) |
 | sanchitvj | sports_betting_analytics_engine | 54 | 9 | [link](https://github.com/sanchitvj/sports_betting_analytics_engine) |
 | alexandergirardet | london_rightmove | 54 | 3 | [link](https://github.com/alexandergirardet/london_rightmove) |
 | godatadriven | airflow-testing-examples | 52 | 15 | [link](https://github.com/godatadriven/airflow-testing-examples) |
@@ -138,10 +138,10 @@
 | FinMind | FinMindBook | 46 | 29 | [link](https://github.com/FinMind/FinMindBook) |
 | google-marketing-solutions | gps_building_blocks | 45 | 11 | [link](https://github.com/google-marketing-solutions/gps_building_blocks) |
 | sdg-1 | healthcare-claims-analytics-project | 42 | 10 | [link](https://github.com/sdg-1/healthcare-claims-analytics-project) |
+| sunnysavita10 | ML-Project-With-Docker-MLFLOW-and-Dagshub | 42 | 68 | [link](https://github.com/sunnysavita10/ML-Project-With-Docker-MLFLOW-and-Dagshub) |
 | CityofToronto | bdit_data-sources | 42 | 9 | [link](https://github.com/CityofToronto/bdit_data-sources) |
 | GSA-TTS | devCrew_s1 | 41 | 7 | [link](https://github.com/GSA-TTS/devCrew_s1) |
 | bylethquant | simple-data-stack | 41 | 1 | [link](https://github.com/bylethquant/simple-data-stack) |
-| sunnysavita10 | ML-Project-With-Docker-MLFLOW-and-Dagshub | 41 | 68 | [link](https://github.com/sunnysavita10/ML-Project-With-Docker-MLFLOW-and-Dagshub) |
 | EscapeLife | awesome-builder | 41 | 12 | [link](https://github.com/EscapeLife/awesome-builder) |
 | luanmorenomaciel | de-apache-spark | 41 | 50 | [link](https://github.com/luanmorenomaciel/de-apache-spark) |
 | ohadmata | simple-dag-editor | 41 | 3 | [link](https://github.com/ohadmata/simple-dag-editor) |
@@ -149,42 +149,42 @@
 | deepmodeling | dpti | 40 | 25 | [link](https://github.com/deepmodeling/dpti) |
 | dataength | automating-your-data-pipeline-with-apache-airflow | 40 | 26 | [link](https://github.com/dataength/automating-your-data-pipeline-with-apache-airflow) |
 | damavis | airflow-pentaho-plugin | 40 | 17 | [link](https://github.com/damavis/airflow-pentaho-plugin) |
+| aws-samples | sample-tech-for-trading | 39 | 15 | [link](https://github.com/aws-samples/sample-tech-for-trading) |
 | sergio11 | lyric_wave_architecture | 39 | 9 | [link](https://github.com/sergio11/lyric_wave_architecture) |
 | parisk | airflow-django | 39 | 5 | [link](https://github.com/parisk/airflow-django) |
 | pipeline-tools | gusty-demo | 39 | 4 | [link](https://github.com/pipeline-tools/gusty-demo) |
 | bluelabsio | records-mover | 39 | 4 | [link](https://github.com/bluelabsio/records-mover) |
 | pxkundu | DevSecOps-Bootcamp | 38 | 24 | [link](https://github.com/pxkundu/DevSecOps-Bootcamp) |
-| aws-samples | sample-tech-for-trading | 38 | 15 | [link](https://github.com/aws-samples/sample-tech-for-trading) |
 | dogukannulu | csv_extract_airflow_docker | 38 | 15 | [link](https://github.com/dogukannulu/csv_extract_airflow_docker) |
-| PacktPublishing | Machine-Learning-Model-Serving-Patterns-and-Best-Practices | 38 | 14 | [link](https://github.com/PacktPublishing/Machine-Learning-Model-Serving-Patterns-and-Best-Practices) |
+| PacktPublishing | Machine-Learning-Model-Serving-Patterns-and-Best-Practices | 38 | 15 | [link](https://github.com/PacktPublishing/Machine-Learning-Model-Serving-Patterns-and-Best-Practices) |
 | Rodrigo-Henrique21 | data_pipeline_airflow_dbt | 37 | 9 | [link](https://github.com/Rodrigo-Henrique21/data_pipeline_airflow_dbt) |
+| pavanbadempet | AI-Healthcare-System | 36 | 13 | [link](https://github.com/pavanbadempet/AI-Healthcare-System) |
 | google-marketing-solutions | compass | 36 | 7 | [link](https://github.com/google-marketing-solutions/compass) |
-| pavanbadempet | AI-Healthcare-System | 35 | 12 | [link](https://github.com/pavanbadempet/AI-Healthcare-System) |
+| ailake-io | ai-lakehouse | 35 | 3 | [link](https://github.com/ailake-io/ai-lakehouse) |
 | anilkulkarni87 | airflow-docker | 34 | 11 | [link](https://github.com/anilkulkarni87/airflow-docker) |
+| MagicDash91 | ML-Engineering-Project | 33 | 5 | [link](https://github.com/MagicDash91/ML-Engineering-Project) |
 | abhishekbhakat | airflow-mcp-server | 33 | 7 | [link](https://github.com/abhishekbhakat/airflow-mcp-server) |
 | yadav-avnish | aps-fault-detection | 33 | 127 | [link](https://github.com/yadav-avnish/aps-fault-detection) |
-| ailake-io | ai-lakehouse | 32 | 3 | [link](https://github.com/ailake-io/ai-lakehouse) |
+| Open-Speech-EkStep | audio-to-speech-pipeline | 33 | 20 | [link](https://github.com/Open-Speech-EkStep/audio-to-speech-pipeline) |
 | azharshah95 | WeatherPulse | 32 | 2 | [link](https://github.com/azharshah95/WeatherPulse) |
 | moontucer | Data-Streaming-Project | 32 | 7 | [link](https://github.com/moontucer/Data-Streaming-Project) |
 | snjypl | airflow-provider-grafana-loki | 32 | 6 | [link](https://github.com/snjypl/airflow-provider-grafana-loki) |
 | aws-samples | cdk-amazon-mwaa-cicd | 32 | 5 | [link](https://github.com/aws-samples/cdk-amazon-mwaa-cicd) |
-| Open-Speech-EkStep | audio-to-speech-pipeline | 32 | 20 | [link](https://github.com/Open-Speech-EkStep/audio-to-speech-pipeline) |
-| MagicDash91 | ML-Engineering-Project | 31 | 5 | [link](https://github.com/MagicDash91/ML-Engineering-Project) |
 | dain55788 | ELT-Data-Pipeline | 31 | 10 | [link](https://github.com/dain55788/ELT-Data-Pipeline) |
 | rdsea | bigdataplatforms | 30 | 13 | [link](https://github.com/rdsea/bigdataplatforms) |
-| datacoves | balboa | 30 | 7 | [link](https://github.com/datacoves/balboa) |
+| datacoves | balboa | 30 | 6 | [link](https://github.com/datacoves/balboa) |
 | GregCollab | G0Z39A | 30 | 9 | [link](https://github.com/GregCollab/G0Z39A) |
 | Zzdragon66 | university-reddit-data-dashboard | 30 | 5 | [link](https://github.com/Zzdragon66/university-reddit-data-dashboard) |
-| growthepie | gtp-backend | 30 | 12 | [link](https://github.com/growthepie/gtp-backend) |
+| growthepie | gtp-backend | 30 | 11 | [link](https://github.com/growthepie/gtp-backend) |
 | airscholar | FootballDataEngineering | 30 | 25 | [link](https://github.com/airscholar/FootballDataEngineering) |
 | dacort | demo-code | 30 | 23 | [link](https://github.com/dacort/demo-code) |
 | Elvenson | piano_transformer | 30 | 8 | [link](https://github.com/Elvenson/piano_transformer) |
 | MarquezProject | marquez-airflow | 30 | 13 | [link](https://github.com/MarquezProject/marquez-airflow) |
 | rayyan17 | jobAnalytics_and_search | 30 | 3 | [link](https://github.com/rayyan17/jobAnalytics_and_search) |
+| HIDORAKAI002 | ai-workspace-archive | 29 | 11 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
 | GoogleCloudPlatform | dagify | 29 | 14 | [link](https://github.com/GoogleCloudPlatform/dagify) |
 | datarobot | airflow-provider-datarobot | 29 | 4 | [link](https://github.com/datarobot/airflow-provider-datarobot) |
 | talperetz | scalable-airflow-template | 29 | 12 | [link](https://github.com/talperetz/scalable-airflow-template) |
-| HIDORAKAI002 | ai-workspace-archive | 28 | 10 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
 | oxidase | ofiuco | 28 | 9 | [link](https://github.com/oxidase/ofiuco) |
 | NitinDatta8 | realtime-data-streaming | 28 | 7 | [link](https://github.com/NitinDatta8/realtime-data-streaming) |
 | treeverse | airflow-provider-lakeFS | 28 | 6 | [link](https://github.com/treeverse/airflow-provider-lakeFS) |
@@ -205,9 +205,9 @@
 | newrelic | newrelic-airflow-plugin | 25 | 18 | [link](https://github.com/newrelic/newrelic-airflow-plugin) |
 
 ---
-* **Last scrape:** 2026-07-19T03:38:01.786Z
-* **Total pages scraped:** 332
-* **Repos found:** 9761
-* **Repos filtered out (< 25 stars):** 9562
-* **Total possible repositories:** 18791
-* **Percent processed:** 51.9%
+* **Last scrape:** 2026-07-26T03:28:06.944Z
+* **Total pages scraped:** 330
+* **Repos found:** 9714
+* **Repos filtered out (< 25 stars):** 9515
+* **Total possible repositories:** 18800
+* **Percent processed:** 51.7%
