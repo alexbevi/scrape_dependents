@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16795 | 3717 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16796 | 3717 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 929 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | RocketChat | hubot-rocketchat | 593 | 240 | [link](https://github.com/RocketChat/hubot-rocketchat) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
@@ -30,7 +30,7 @@
 | alleyinteractive | hubot-code-review | 41 | 15 | [link](https://github.com/alleyinteractive/hubot-code-review) |
 | hubotio | hubot-help | 38 | 67 | [link](https://github.com/hubotio/hubot-help) |
 | RocketChat | hubot-rocketchat-boilerplate | 38 | 33 | [link](https://github.com/RocketChat/hubot-rocketchat-boilerplate) |
-| kdeps | kdeps | 34 | 4 | [link](https://github.com/kdeps/kdeps) |
+| kdeps | kdeps | 36 | 5 | [link](https://github.com/kdeps/kdeps) |
 | hubot-archive | hubot-youtube | 34 | 15 | [link](https://github.com/hubot-archive/hubot-youtube) |
 | robhurring | hubot-redmine | 32 | 26 | [link](https://github.com/robhurring/hubot-redmine) |
 | devcongress | slackbot | 31 | 23 | [link](https://github.com/devcongress/slackbot) |
@@ -39,9 +39,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-07-19T03:56:41.948Z
-* **Total pages scraped:** 30
-* **Repos found:** 818
-* **Repos filtered out (< 25 stars):** 785
+* **Last scrape:** 2026-07-26T03:41:31.501Z
+* **Total pages scraped:** 29
+* **Repos found:** 806
+* **Repos filtered out (< 25 stars):** 773
 * **Total possible repositories:** 3332
-* **Percent processed:** 24.5%
+* **Percent processed:** 24.2%
