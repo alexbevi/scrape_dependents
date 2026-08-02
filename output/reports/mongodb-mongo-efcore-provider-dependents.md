@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| microsoft | aspire | 6190 | 938 | [link](https://github.com/microsoft/aspire) |
-| BrighterCommand | Brighter | 2462 | 293 | [link](https://github.com/BrighterCommand/Brighter) |
-| AlphaYu | adnc | 1475 | 393 | [link](https://github.com/AlphaYu/adnc) |
-| mongodb | docs | 771 | 1702 | [link](https://github.com/mongodb/docs) |
+| microsoft | aspire | 6200 | 939 | [link](https://github.com/microsoft/aspire) |
+| BrighterCommand | Brighter | 2463 | 293 | [link](https://github.com/BrighterCommand/Brighter) |
+| AlphaYu | adnc | 1478 | 393 | [link](https://github.com/AlphaYu/adnc) |
+| mongodb | docs | 772 | 1702 | [link](https://github.com/mongodb/docs) |
 | netcorepal | netcorepal-cloud-framework | 423 | 91 | [link](https://github.com/netcorepal/netcorepal-cloud-framework) |
 | thisisnabi | Notify | 167 | 45 | [link](https://github.com/thisisnabi/Notify) |
 | thisisnabi | Locator | 71 | 13 | [link](https://github.com/thisisnabi/Locator) |
@@ -16,9 +16,9 @@
 | UdemyEducation | UdemyNewMicroservice | 32 | 10 | [link](https://github.com/UdemyEducation/UdemyNewMicroservice) |
 
 ---
-* **Last scrape:** 2026-07-26T03:19:36.702Z
+* **Last scrape:** 2026-08-02T03:17:00.221Z
 * **Total pages scraped:** 28
-* **Repos found:** 836
-* **Repos filtered out (< 25 stars):** 826
-* **Total possible repositories:** 1235
+* **Repos found:** 837
+* **Repos filtered out (< 25 stars):** 827
+* **Total possible repositories:** 1236
 * **Percent processed:** 67.7%
