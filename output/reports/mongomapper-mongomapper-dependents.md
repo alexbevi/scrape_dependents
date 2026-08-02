@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2990 | 330 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2991 | 330 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1349 | 71 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 908 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 346 | 117 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 310 | 234 | [link](https://github.com/opengovernment/opengovernment) |
+| opengovernment | opengovernment | 309 | 234 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -24,7 +24,7 @@
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 | alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
 | maccman | push | 81 | 4 | [link](https://github.com/maccman/push) |
-| nmerouze | machinist_mongo | 79 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
+| nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
 | brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
 | caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-07-26T03:06:11.577Z
+* **Last scrape:** 2026-08-02T03:08:20.924Z
 * **Total pages scraped:** 18
 * **Repos found:** 456
 * **Repos filtered out (< 25 stars):** 403
