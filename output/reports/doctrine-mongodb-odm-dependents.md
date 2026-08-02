@@ -4,30 +4,30 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4142 | 1253 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine-extensions | DoctrineExtensions | 4141 | 1253 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
 | doctrine | data-fixtures | 2851 | 231 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2566 | 973 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1906 | 520 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1702 | 168 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1264 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 872 | 588 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 796 | 112 | [link](https://github.com/zenstruck/foundry) |
-| KnpLabs | knp-components | 771 | 138 | [link](https://github.com/KnpLabs/knp-components) |
+| api-platform | core | 2565 | 975 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| dustin10 | VichUploaderBundle | 1907 | 521 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| LLPhant | LLPhant | 1705 | 169 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 790 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| FriendsOfSymfony | FOSOAuthServerBundle | 1079 | 445 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
+| Cocolabs-SAS | cocorico | 871 | 588 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 796 | 113 | [link](https://github.com/zenstruck/foundry) |
+| KnpLabs | knp-components | 772 | 138 | [link](https://github.com/KnpLabs/knp-components) |
 | markitosgv | JWTRefreshTokenBundle | 710 | 179 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | phpstan | phpstan-doctrine | 673 | 120 | [link](https://github.com/phpstan/phpstan-doctrine) |
 | APY | APYDataGridBundle | 492 | 338 | [link](https://github.com/APY/APYDataGridBundle) |
-| sonata-project | SonataMediaBundle | 462 | 480 | [link](https://github.com/sonata-project/SonataMediaBundle) |
+| sonata-project | SonataMediaBundle | 462 | 481 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 88 | [link](https://github.com/sonata-project/exporter) |
-| lexik | LexikTranslationBundle | 439 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| lexik | LexikTranslationBundle | 438 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | BabDev | Pagerfanta | 425 | 167 | [link](https://github.com/BabDev/Pagerfanta) |
 | thephpleague | flysystem-bundle | 405 | 84 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineModule | 396 | 262 | [link](https://github.com/doctrine/DoctrineModule) |
 | doctrine | DoctrineMongoDBBundle | 385 | 228 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
 | sonata-project | SonataUserBundle | 346 | 474 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 323 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | Baldinof | roadrunner-bundle | 308 | 58 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 268 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
@@ -46,7 +46,7 @@
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
 | sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
-| henter | HenterGEO | 63 | 27 | [link](https://github.com/henter/HenterGEO) |
+| henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | pumukit | PuMuKIT | 60 | 15 | [link](https://github.com/pumukit/PuMuKIT) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
 | khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
@@ -68,9 +68,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-07-26T03:07:54.914Z
+* **Last scrape:** 2026-08-02T03:10:19.358Z
 * **Total pages scraped:** 30
 * **Repos found:** 862
 * **Repos filtered out (< 25 stars):** 800
-* **Total possible repositories:** 3137
+* **Total possible repositories:** 3140
 * **Percent processed:** 27.5%
