@@ -4,48 +4,47 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| microsoft | semantic-kernel | 28369 | 4690 | [link](https://github.com/microsoft/semantic-kernel) |
-| egametang | ET | 9870 | 3246 | [link](https://github.com/egametang/ET) |
-| DotNetNext | SqlSugar | 5829 | 1390 | [link](https://github.com/DotNetNext/SqlSugar) |
-| Arcenox-co | TickerQ | 3561 | 211 | [link](https://github.com/Arcenox-co/TickerQ) |
-| madelson | DistributedLock | 2473 | 248 | [link](https://github.com/madelson/DistributedLock) |
-| BrighterCommand | Brighter | 2462 | 293 | [link](https://github.com/BrighterCommand/Brighter) |
-| microsoft | kernel-memory | 2170 | 396 | [link](https://github.com/microsoft/kernel-memory) |
-| meysamhadeli | booking-microservices | 1379 | 298 | [link](https://github.com/meysamhadeli/booking-microservices) |
-| qq362946 | Fantasy | 1356 | 213 | [link](https://github.com/qq362946/Fantasy) |
+| microsoft | semantic-kernel | 28400 | 4698 | [link](https://github.com/microsoft/semantic-kernel) |
+| egametang | ET | 9876 | 3246 | [link](https://github.com/egametang/ET) |
+| DotNetNext | SqlSugar | 5825 | 1389 | [link](https://github.com/DotNetNext/SqlSugar) |
+| Arcenox-co | TickerQ | 3571 | 212 | [link](https://github.com/Arcenox-co/TickerQ) |
+| madelson | DistributedLock | 2473 | 247 | [link](https://github.com/madelson/DistributedLock) |
+| BrighterCommand | Brighter | 2463 | 293 | [link](https://github.com/BrighterCommand/Brighter) |
+| microsoft | kernel-memory | 2173 | 397 | [link](https://github.com/microsoft/kernel-memory) |
+| meysamhadeli | booking-microservices | 1380 | 298 | [link](https://github.com/meysamhadeli/booking-microservices) |
+| qq362946 | Fantasy | 1369 | 215 | [link](https://github.com/qq362946/Fantasy) |
 | UiPath | CoreWF | 1177 | 229 | [link](https://github.com/UiPath/CoreWF) |
-| optimajet | WorkflowEngine.NET | 987 | 262 | [link](https://github.com/optimajet/WorkflowEngine.NET) |
-| FlameskyDexive | Legends-Of-Heroes | 906 | 185 | [link](https://github.com/FlameskyDexive/Legends-Of-Heroes) |
-| meziantou | Meziantou.Framework | 848 | 115 | [link](https://github.com/meziantou/Meziantou.Framework) |
-| getsentry | sentry-dotnet | 769 | 241 | [link](https://github.com/getsentry/sentry-dotnet) |
-| zarusz | SlimMessageBus | 650 | 88 | [link](https://github.com/zarusz/SlimMessageBus) |
+| optimajet | WorkflowEngine.NET | 988 | 262 | [link](https://github.com/optimajet/WorkflowEngine.NET) |
+| FlameskyDexive | Legends-Of-Heroes | 907 | 186 | [link](https://github.com/FlameskyDexive/Legends-Of-Heroes) |
+| meziantou | Meziantou.Framework | 849 | 115 | [link](https://github.com/meziantou/Meziantou.Framework) |
+| getsentry | sentry-dotnet | 770 | 241 | [link](https://github.com/getsentry/sentry-dotnet) |
+| zarusz | SlimMessageBus | 652 | 88 | [link](https://github.com/zarusz/SlimMessageBus) |
 | SteeltoeOSS | Samples | 646 | 246 | [link](https://github.com/SteeltoeOSS/Samples) |
-| CommunityToolkit | Aspire | 616 | 182 | [link](https://github.com/CommunityToolkit/Aspire) |
-| DataDog | dd-trace-dotnet | 570 | 166 | [link](https://github.com/DataDog/dd-trace-dotnet) |
-| meysamhadeli | booking-modular-monolith | 519 | 98 | [link](https://github.com/meysamhadeli/booking-modular-monolith) |
-| jhipster | jhipster-dotnetcore | 331 | 101 | [link](https://github.com/jhipster/jhipster-dotnetcore) |
-| FirelyTeam | spark | 280 | 167 | [link](https://github.com/FirelyTeam/spark) |
-| formcms | formcms | 266 | 39 | [link](https://github.com/formcms/formcms) |
+| CommunityToolkit | Aspire | 619 | 184 | [link](https://github.com/CommunityToolkit/Aspire) |
+| DataDog | dd-trace-dotnet | 570 | 167 | [link](https://github.com/DataDog/dd-trace-dotnet) |
+| meysamhadeli | booking-modular-monolith | 520 | 98 | [link](https://github.com/meysamhadeli/booking-modular-monolith) |
+| FirelyTeam | spark | 282 | 167 | [link](https://github.com/FirelyTeam/spark) |
+| formcms | formcms | 267 | 39 | [link](https://github.com/formcms/formcms) |
 | Azure-Samples | azure-files-samples | 261 | 202 | [link](https://github.com/Azure-Samples/azure-files-samples) |
+| cisagov | prescup-challenges | 202 | 50 | [link](https://github.com/cisagov/prescup-challenges) |
 | mobitouchOS | MaIN.NET | 197 | 22 | [link](https://github.com/mobitouchOS/MaIN.NET) |
 | rodrigorodrigues | microservices-design-patterns | 186 | 69 | [link](https://github.com/rodrigorodrigues/microservices-design-patterns) |
 | valdisiljuconoks | LocalizationProvider | 180 | 46 | [link](https://github.com/valdisiljuconoks/LocalizationProvider) |
-| CommunityToolkit | Datasync | 178 | 46 | [link](https://github.com/CommunityToolkit/Datasync) |
+| CommunityToolkit | Datasync | 178 | 47 | [link](https://github.com/CommunityToolkit/Datasync) |
 | pridejoy | MalusAdmin | 140 | 35 | [link](https://github.com/pridejoy/MalusAdmin) |
 | asimmon | ephemeral-mongo | 123 | 14 | [link](https://github.com/asimmon/ephemeral-mongo) |
-| newrelic | newrelic-dotnet-agent | 115 | 69 | [link](https://github.com/newrelic/newrelic-dotnet-agent) |
 | SwissLife-OSS | squadron | 108 | 18 | [link](https://github.com/SwissLife-OSS/squadron) |
-| AikidoSec | firewall-dotnet | 104 | 8 | [link](https://github.com/AikidoSec/firewall-dotnet) |
+| AikidoSec | firewall-dotnet | 106 | 8 | [link](https://github.com/AikidoSec/firewall-dotnet) |
 | buildersoftio | cortex | 99 | 13 | [link](https://github.com/buildersoftio/cortex) |
 | joesdu | EasilyNET | 97 | 17 | [link](https://github.com/joesdu/EasilyNET) |
-| NextGenSoftwareUK | OASIS | 70 | 35 | [link](https://github.com/NextGenSoftwareUK/OASIS) |
+| NextGenSoftwareUK | OASIS | 69 | 34 | [link](https://github.com/NextGenSoftwareUK/OASIS) |
 | hherzl | TheWatchers | 57 | 28 | [link](https://github.com/hherzl/TheWatchers) |
 | seiggy | lucia-dotnet | 56 | 7 | [link](https://github.com/seiggy/lucia-dotnet) |
 | Cratis | Chronicle | 56 | 7 | [link](https://github.com/Cratis/Chronicle) |
-| microsoft | healthcare-ai-model-evaluator | 53 | 13 | [link](https://github.com/microsoft/healthcare-ai-model-evaluator) |
-| elsa-workflows | elsa-extensions | 49 | 44 | [link](https://github.com/elsa-workflows/elsa-extensions) |
+| microsoft | healthcare-ai-model-evaluator | 55 | 13 | [link](https://github.com/microsoft/healthcare-ai-model-evaluator) |
+| elsa-workflows | elsa-extensions | 49 | 45 | [link](https://github.com/elsa-workflows/elsa-extensions) |
 | lianglllll | MMORPG-Server | 49 | 17 | [link](https://github.com/lianglllll/MMORPG-Server) |
-| brianbruff | Log4YM | 42 | 7 | [link](https://github.com/brianbruff/Log4YM) |
+| brianbruff | Log4YM | 43 | 8 | [link](https://github.com/brianbruff/Log4YM) |
 | Taiizor | Zetian | 41 | 3 | [link](https://github.com/Taiizor/Zetian) |
 | Clifftech123 | CliffTechYouTube | 39 | 15 | [link](https://github.com/Clifftech123/CliffTechYouTube) |
 | redfly-ai-org | redfly.ai | 37 | 1 | [link](https://github.com/redfly-ai-org/redfly.ai) |
@@ -59,11 +58,12 @@
 | daohainam | lets-learn-aspnet | 31 | 11 | [link](https://github.com/daohainam/lets-learn-aspnet) |
 | HIDORAKAI002 | ai-workspace-archive | 29 | 11 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
 | dual-universe | mydu-server-mods | 29 | 17 | [link](https://github.com/dual-universe/mydu-server-mods) |
+| itdos | microi.net | 28 | 6 | [link](https://github.com/itdos/microi.net) |
 
 ---
-* **Last scrape:** 2026-07-26T03:05:10.993Z
-* **Total pages scraped:** 192
-* **Repos found:** 5676
-* **Repos filtered out (< 25 stars):** 5621
-* **Total possible repositories:** 88660
-* **Percent processed:** 6.4%
+* **Last scrape:** 2026-08-02T03:00:35.004Z
+* **Total pages scraped:** 181
+* **Repos found:** 5348
+* **Repos filtered out (< 25 stars):** 5293
+* **Total possible repositories:** 88671
+* **Percent processed:** 6.0%
