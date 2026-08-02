@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6725 | 777 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3807 | 1405 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1904 | 5293 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1342 | 599 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 881 | 275 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| OpenSignLabs | OpenSign | 6749 | 781 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3807 | 1407 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1904 | 5287 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1342 | 598 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| Eleven-Trading | TradeNote | 902 | 276 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 474 | 161 | [link](https://github.com/yongjhih/docker-parse-server) |
 | elrumo | icon-brew | 320 | 7 | [link](https://github.com/elrumo/icon-brew) |
@@ -42,9 +42,9 @@
 | bing-zhub | eQin | 25 | 8 | [link](https://github.com/bing-zhub/eQin) |
 
 ---
-* **Last scrape:** 2026-07-26T03:41:00.295Z
+* **Last scrape:** 2026-08-02T03:36:48.103Z
 * **Total pages scraped:** 28
-* **Repos found:** 788
-* **Repos filtered out (< 25 stars):** 752
+* **Repos found:** 785
+* **Repos filtered out (< 25 stars):** 749
 * **Total possible repositories:** 4171
-* **Percent processed:** 18.9%
+* **Percent processed:** 18.8%
