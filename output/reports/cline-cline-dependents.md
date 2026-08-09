@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16796 | 3717 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16796 | 3716 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 929 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 292 | 20 | [link](https://github.com/juttle/juttle) |
@@ -36,7 +36,7 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-08-02T03:37:34.076Z
+* **Last scrape:** 2026-08-09T02:02:05.456Z
 * **Total pages scraped:** 29
 * **Repos found:** 801
 * **Repos filtered out (< 25 stars):** 771
