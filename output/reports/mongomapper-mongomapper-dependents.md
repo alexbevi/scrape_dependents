@@ -4,64 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 330 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2962 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 908 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 346 | 117 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 309 | 234 | [link](https://github.com/opengovernment/opengovernment) |
-| stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
-| jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
-| risuiowa | rails-jquery-autocomplete | 210 | 80 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
-| ianwhite | orm_adapter | 207 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
-| hacketyhack | hackety-hack.com | 169 | 97 | [link](https://github.com/hacketyhack/hackety-hack.com) |
-| jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
-| jwood | tenacity | 115 | 16 | [link](https://github.com/jwood/tenacity) |
-| dcrec1 | acts_as_solr_reloaded | 102 | 29 | [link](https://github.com/dcrec1/acts_as_solr_reloaded) |
-| razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
-| alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
-| maccman | push | 81 | 4 | [link](https://github.com/maccman/push) |
-| nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
-| brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
-| robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
-| caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
-| arfon | fidgit | 62 | 46 | [link](https://github.com/arfon/fidgit) |
-| bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
-| andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
-| zooniverse-glacier | Scribe | 49 | 7 | [link](https://github.com/zooniverse-glacier/Scribe) |
-| brighton36 | CoinPost | 49 | 25 | [link](https://github.com/brighton36/CoinPost) |
-| mepatterson | acts_as_mongo_taggable | 48 | 15 | [link](https://github.com/mepatterson/acts_as_mongo_taggable) |
-| kristianmandrup | mm-devise | 46 | 14 | [link](https://github.com/kristianmandrup/mm-devise) |
-| DGaffney | stop_sign_project | 45 | 11 | [link](https://github.com/DGaffney/stop_sign_project) |
-| adamwiggins | clockwork-sinatra-beanstalk | 44 | 3 | [link](https://github.com/adamwiggins/clockwork-sinatra-beanstalk) |
-| divshot | alloy | 40 | 4 | [link](https://github.com/divshot/alloy) |
-| jnunemaker | hunt | 38 | 8 | [link](https://github.com/jnunemaker/hunt) |
-| hide2 | wenda.it | 37 | 5 | [link](https://github.com/hide2/wenda.it) |
-| mcmillan | feeling_cagey | 36 | 5 | [link](https://github.com/mcmillan/feeling_cagey) |
-| jookyboi | rss2webhook | 35 | 6 | [link](https://github.com/jookyboi/rss2webhook) |
-| kunal | sinatra-mongodb-sample | 34 | 5 | [link](https://github.com/kunal/sinatra-mongodb-sample) |
-| hassox | veneer | 34 | 2 | [link](https://github.com/hassox/veneer) |
-| padrino | padrino-web-classic | 33 | 10 | [link](https://github.com/padrino/padrino-web-classic) |
-| dennmart | mongoshort | 33 | 9 | [link](https://github.com/dennmart/mongoshort) |
-| MLH | mlh-no-light | 33 | 25 | [link](https://github.com/MLH/mlh-no-light) |
-| ramdiv | mongo_mapper_acts_as_tree | 31 | 30 | [link](https://github.com/ramdiv/mongo_mapper_acts_as_tree) |
-| obfuscurity | lipstick | 29 | 2 | [link](https://github.com/obfuscurity/lipstick) |
-| yalcin | ruby-imdb | 28 | 9 | [link](https://github.com/yalcin/ruby-imdb) |
-| lastomato | mongo_followable | 28 | 10 | [link](https://github.com/lastomato/mongo_followable) |
-| sunlightlabs | poligraft | 26 | 2 | [link](https://github.com/sunlightlabs/poligraft) |
-| dcu | mongomapper_ext | 26 | 4 | [link](https://github.com/dcu/mongomapper_ext) |
-| logankoester | errship | 26 | 5 | [link](https://github.com/logankoester/errship) |
-| fearoffish | aether | 25 | 3 | [link](https://github.com/fearoffish/aether) |
-| mbleigh | conf_ask | 25 | 2 | [link](https://github.com/mbleigh/conf_ask) |
-| djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-08-02T03:08:20.924Z
-* **Total pages scraped:** 18
-* **Repos found:** 456
-* **Repos filtered out (< 25 stars):** 403
-* **Total possible repositories:** 2816
-* **Percent processed:** 16.2%
+* **Last scrape:** 2026-08-09T01:54:15.271Z
+* **Total pages scraped:** 0
+* **Repos found:** 0
+* **Repos filtered out (< 25 stars):** 0
+* **Total possible repositories:** unknown
+* **Percent processed:** unknown
