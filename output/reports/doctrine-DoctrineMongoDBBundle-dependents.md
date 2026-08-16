@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2566 | 974 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2219 | 431 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2569 | 975 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2220 | 429 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | LLPhant | LLPhant | 1706 | 169 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 870 | 588 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 797 | 114 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 711 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| FriendsOfSymfony | FOSElasticaBundle | 1263 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 870 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 797 | 113 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 714 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 438 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
@@ -30,7 +30,7 @@
 | MacPaw | symfony-health-check-bundle | 62 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 60 | 15 | [link](https://github.com/pumukit/PuMuKIT) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
-| khepin | KhepinYamlFixturesBundle | 58 | 40 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
+| khepin | KhepinYamlFixturesBundle | 58 | 39 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
 | teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
 | Zeega | Zeega | 48 | 18 | [link](https://github.com/Zeega/Zeega) |
 | V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
@@ -46,7 +46,7 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-08-09T01:58:42.470Z
+* **Last scrape:** 2026-08-16T01:52:26.103Z
 * **Total pages scraped:** 24
 * **Repos found:** 689
 * **Repos filtered out (< 25 stars):** 649
