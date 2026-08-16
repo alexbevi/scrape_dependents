@@ -4,32 +4,145 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| diegosouzapw | OmniRoute | 43483 | 5818 | [link](https://github.com/diegosouzapw/OmniRoute) |
-| sanity-io | sanity | 6265 | 548 | [link](https://github.com/sanity-io/sanity) |
-| SplashtopInc | winstall | 1358 | 73 | [link](https://github.com/SplashtopInc/winstall) |
-| Gsync | jobsync | 806 | 141 | [link](https://github.com/Gsync/jobsync) |
-| guchengwuyue | yshopmall | 620 | 248 | [link](https://github.com/guchengwuyue/yshopmall) |
-| StuMason | coolify-mcp | 544 | 78 | [link](https://github.com/StuMason/coolify-mcp) |
-| baselkelziye | YTU_Bilgisayar_Muhendisligi_Arsiv | 467 | 66 | [link](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv) |
+| mem0ai | mem0 | 63333 | 7393 | [link](https://github.com/mem0ai/mem0) |
+| diegosouzapw | OmniRoute | 48601 | 6611 | [link](https://github.com/diegosouzapw/OmniRoute) |
+| labring | FastGPT | 29363 | 7264 | [link](https://github.com/labring/FastGPT) |
+| langchain-ai | langchainjs | 18106 | 3321 | [link](https://github.com/langchain-ai/langchainjs) |
+| overleaf | overleaf | 18025 | 2035 | [link](https://github.com/overleaf/overleaf) |
+| gastownhall | gastown | 17630 | 1620 | [link](https://github.com/gastownhall/gastown) |
+| codebymitch | TitanBot | 6515 | 10514 | [link](https://github.com/codebymitch/TitanBot) |
+| sanity-io | sanity | 6276 | 547 | [link](https://github.com/sanity-io/sanity) |
+| thinkjs | thinkjs | 5269 | 615 | [link](https://github.com/thinkjs/thinkjs) |
+| NotHarshhaa | DevOps-Projects | 4877 | 4438 | [link](https://github.com/NotHarshhaa/DevOps-Projects) |
+| Mentra-Community | MentraOS | 2308 | 331 | [link](https://github.com/Mentra-Community/MentraOS) |
+| stripe | ai | 1748 | 324 | [link](https://github.com/stripe/ai) |
+| react-querybuilder | react-querybuilder | 1719 | 311 | [link](https://github.com/react-querybuilder/react-querybuilder) |
+| arabold | docs-mcp-server | 1650 | 170 | [link](https://github.com/arabold/docs-mcp-server) |
+| hashintel | hash | 1640 | 123 | [link](https://github.com/hashintel/hash) |
+| SplashtopInc | winstall | 1358 | 72 | [link](https://github.com/SplashtopInc/winstall) |
+| Team-Commonly | commonly | 1299 | 183 | [link](https://github.com/Team-Commonly/commonly) |
+| composecraft | composecraft | 1028 | 28 | [link](https://github.com/composecraft/composecraft) |
+| langchain-ai | langsmith-sdk | 1020 | 277 | [link](https://github.com/langchain-ai/langsmith-sdk) |
+| superdoc | docx-editor | 967 | 201 | [link](https://github.com/superdoc/docx-editor) |
+| Gsync | jobsync | 891 | 154 | [link](https://github.com/Gsync/jobsync) |
+| aymericzip | intlayer | 794 | 122 | [link](https://github.com/aymericzip/intlayer) |
+| mongodb | docs | 773 | 1698 | [link](https://github.com/mongodb/docs) |
+| rnadigital | agentcloud | 688 | 140 | [link](https://github.com/rnadigital/agentcloud) |
+| OWASP | cve-lite-cli | 668 | 124 | [link](https://github.com/OWASP/cve-lite-cli) |
+| guchengwuyue | yshopmall | 624 | 248 | [link](https://github.com/guchengwuyue/yshopmall) |
+| ayaka-notes | ayakaleaf-pro | 555 | 33 | [link](https://github.com/ayaka-notes/ayakaleaf-pro) |
+| StuMason | coolify-mcp | 553 | 79 | [link](https://github.com/StuMason/coolify-mcp) |
+| Hyk260 | PureChat | 541 | 78 | [link](https://github.com/Hyk260/PureChat) |
+| swamp-club | swamp | 538 | 42 | [link](https://github.com/swamp-club/swamp) |
+| sakowicz | actual-ai | 510 | 52 | [link](https://github.com/sakowicz/actual-ai) |
+| nodetool-ai | nodetool | 473 | 73 | [link](https://github.com/nodetool-ai/nodetool) |
+| baselkelziye | YTU_Bilgisayar_Muhendisligi_Arsiv | 468 | 66 | [link](https://github.com/baselkelziye/YTU_Bilgisayar_Muhendisligi_Arsiv) |
+| parthbuilds-community | FitMart | 355 | 583 | [link](https://github.com/parthbuilds-community/FitMart) |
+| stefanoamorelli | sec-edgar-mcp | 349 | 96 | [link](https://github.com/stefanoamorelli/sec-edgar-mcp) |
+| ronisarkarexe | story-spark-ai | 339 | 1117 | [link](https://github.com/ronisarkarexe/story-spark-ai) |
 | TheBastionBot | Bastion | 329 | 238 | [link](https://github.com/TheBastionBot/Bastion) |
-| ailinone | collective-intelligence | 184 | 11 | [link](https://github.com/ailinone/collective-intelligence) |
+| ahmmikun | XLICON-MD | 317 | 1732 | [link](https://github.com/ahmmikun/XLICON-MD) |
+| AkkalDhami | servercn | 316 | 34 | [link](https://github.com/AkkalDhami/servercn) |
+| Eshaan-Nair | ArcRift | 246 | 34 | [link](https://github.com/Eshaan-Nair/ArcRift) |
+| ailinone | collective-intelligence | 222 | 20 | [link](https://github.com/ailinone/collective-intelligence) |
+| vasylenko | bear-notes-mcp | 206 | 21 | [link](https://github.com/vasylenko/bear-notes-mcp) |
+| Dev-bmbtech | BMB-TECH | 204 | 964 | [link](https://github.com/Dev-bmbtech/BMB-TECH) |
+| ClickDevTech | CELERITY-panel | 198 | 31 | [link](https://github.com/ClickDevTech/CELERITY-panel) |
+| microsoft | MicroHack | 195 | 161 | [link](https://github.com/microsoft/MicroHack) |
+| abdallahsalimjuma | DULLAH-XMD | 188 | 726 | [link](https://github.com/abdallahsalimjuma/DULLAH-XMD) |
+| GlobalTechInfo | MEGA-MD | 186 | 658 | [link](https://github.com/GlobalTechInfo/MEGA-MD) |
+| shefing | payload-tools | 180 | 7 | [link](https://github.com/shefing/payload-tools) |
+| yuanzui0728 | Enclave | 179 | 14 | [link](https://github.com/yuanzui0728/Enclave) |
+| aws-samples | sample-host-openclaw-on-amazon-bedrock-agentcore | 177 | 54 | [link](https://github.com/aws-samples/sample-host-openclaw-on-amazon-bedrock-agentcore) |
 | argon-lab | argon | 170 | 18 | [link](https://github.com/argon-lab/argon) |
-| aryaniyaps | lamina | 112 | 3 | [link](https://github.com/aryaniyaps/lamina) |
-| hitesh-kumar123 | Travel-Plans- | 104 | 406 | [link](https://github.com/hitesh-kumar123/Travel-Plans-) |
+| GlobalTechInfo | MEGA-MDX | 140 | 363 | [link](https://github.com/GlobalTechInfo/MEGA-MDX) |
+| maplibre | maplibre-agent-skills | 132 | 8 | [link](https://github.com/maplibre/maplibre-agent-skills) |
+| rayriffy | rayriffy-h | 127 | 21 | [link](https://github.com/rayriffy/rayriffy-h) |
+| virzs | Search-Next | 127 | 41 | [link](https://github.com/virzs/Search-Next) |
+| anurag3407 | career-pilot | 126 | 770 | [link](https://github.com/anurag3407/career-pilot) |
+| aryaniyaps | lamina | 113 | 3 | [link](https://github.com/aryaniyaps/lamina) |
+| mtwn105 | GitHubWrapped | 106 | 8 | [link](https://github.com/mtwn105/GitHubWrapped) |
+| hitesh-kumar123 | Travel-Plans- | 104 | 405 | [link](https://github.com/hitesh-kumar123/Travel-Plans-) |
+| AnimePub | AniPub | 104 | 33 | [link](https://github.com/AnimePub/AniPub) |
+| pinkpixel-dev | mem0-mcp | 100 | 13 | [link](https://github.com/pinkpixel-dev/mem0-mcp) |
+| agentconnect-md | agentconnect | 95 | 11 | [link](https://github.com/agentconnect-md/agentconnect) |
 | digitaldemocracy2030 | idobata | 95 | 52 | [link](https://github.com/digitaldemocracy2030/idobata) |
 | sulvii | elyzen | 86 | 31 | [link](https://github.com/sulvii/elyzen) |
-| Bike4Mind | bike4mind | 85 | 16 | [link](https://github.com/Bike4Mind/bike4mind) |
-| RatLoopz | sahidawa-india | 74 | 326 | [link](https://github.com/RatLoopz/sahidawa-india) |
-| org-nexus-projects | ufabc-next | 72 | 22 | [link](https://github.com/org-nexus-projects/ufabc-next) |
+| Bike4Mind | bike4mind | 85 | 17 | [link](https://github.com/Bike4Mind/bike4mind) |
+| 0ca | BoxPwnr-Traces | 78 | 8 | [link](https://github.com/0ca/BoxPwnr-Traces) |
+| RatLoopz | sahidawa-india | 77 | 329 | [link](https://github.com/RatLoopz/sahidawa-india) |
+| Qartde | RAHMANI-XMD | 74 | 209 | [link](https://github.com/Qartde/RAHMANI-XMD) |
+| org-nexus-projects | ufabc-next | 72 | 21 | [link](https://github.com/org-nexus-projects/ufabc-next) |
 | dylanneve1 | talon | 71 | 2 | [link](https://github.com/dylanneve1/talon) |
-| ZecHub | zechub | 59 | 225 | [link](https://github.com/ZecHub/zechub) |
-| samsarone | samsar | 55 | 8 | [link](https://github.com/samsarone/samsar) |
+| songdaochuanshu | songdaochuanshu | 65 | 13 | [link](https://github.com/songdaochuanshu/songdaochuanshu) |
+| qijun1900 | MiaowTest | 64 | 14 | [link](https://github.com/qijun1900/MiaowTest) |
+| nikonikoCW | Meteor3DEditor | 64 | 18 | [link](https://github.com/nikonikoCW/Meteor3DEditor) |
+| agentteamhq | agentteam-email | 62 | 2 | [link](https://github.com/agentteamhq/agentteam-email) |
+| zeplin | omlet | 62 | 3 | [link](https://github.com/zeplin/omlet) |
+| aymenelouadi | next-generation | 62 | 22 | [link](https://github.com/aymenelouadi/next-generation) |
+| yeasin2002 | express-ts-starter | 60 | 12 | [link](https://github.com/yeasin2002/express-ts-starter) |
+| ZecHub | zechub | 58 | 230 | [link](https://github.com/ZecHub/zechub) |
+| PIXIL2-0 | Alumni-Connect | 58 | 2 | [link](https://github.com/PIXIL2-0/Alumni-Connect) |
+| iproduct | course-node-express-react | 57 | 16 | [link](https://github.com/iproduct/course-node-express-react) |
+| samsarone | samsar | 56 | 10 | [link](https://github.com/samsarone/samsar) |
+| Next5x | TIMNASA_TMD1 | 56 | 99 | [link](https://github.com/Next5x/TIMNASA_TMD1) |
+| AlipBot | Alpis | 55 | 479 | [link](https://github.com/AlipBot/Alpis) |
+| semi-column | tmdb-discover-plus | 55 | 8 | [link](https://github.com/semi-column/tmdb-discover-plus) |
+| El-brayan502 | Kryzen-MD | 53 | 22 | [link](https://github.com/El-brayan502/Kryzen-MD) |
+| isolinear-labs | Neosynth | 50 | 1 | [link](https://github.com/isolinear-labs/Neosynth) |
+| geturbackend | urBackend | 48 | 68 | [link](https://github.com/geturbackend/urBackend) |
+| GenAI-Security-Project | GenAI-Red-Team-Lab | 47 | 28 | [link](https://github.com/GenAI-Security-Project/GenAI-Red-Team-Lab) |
+| pancakeswap | pancakeswap-ai | 46 | 85 | [link](https://github.com/pancakeswap/pancakeswap-ai) |
+| TheBinaryNinja | masqueradarr | 45 | 8 | [link](https://github.com/TheBinaryNinja/masqueradarr) |
+| c2siorg | Webiu | 44 | 116 | [link](https://github.com/c2siorg/Webiu) |
+| akintunero | My-DevOps-Projects | 43 | 45 | [link](https://github.com/akintunero/My-DevOps-Projects) |
+| labring | fastgpt-plugin | 43 | 90 | [link](https://github.com/labring/fastgpt-plugin) |
+| zeon-studio | open-hr | 43 | 14 | [link](https://github.com/zeon-studio/open-hr) |
+| atharvnaik1 | ipaship-audit | 43 | 89 | [link](https://github.com/atharvnaik1/ipaship-audit) |
+| localstack | serverless-examples | 41 | 19 | [link](https://github.com/localstack/serverless-examples) |
+| Nikhilrsingh | car-transport-service | 41 | 146 | [link](https://github.com/Nikhilrsingh/car-transport-service) |
+| jhb-software | payload-astro-website-template | 39 | 13 | [link](https://github.com/jhb-software/payload-astro-website-template) |
+| nirholas | universal-crypto-mcp | 39 | 10 | [link](https://github.com/nirholas/universal-crypto-mcp) |
+| whitebeardit | agents-team-crafter | 38 | 11 | [link](https://github.com/whitebeardit/agents-team-crafter) |
+| ggauravky | Dev-Portfolio | 38 | 0 | [link](https://github.com/ggauravky/Dev-Portfolio) |
+| toxicbishop | DSA-Study-Hub | 38 | 1 | [link](https://github.com/toxicbishop/DSA-Study-Hub) |
+| CzzzzzzJ | mdldm-knowledge-kit | 37 | 3 | [link](https://github.com/CzzzzzzJ/mdldm-knowledge-kit) |
+| rubentalstra | librechat-prom-exporter | 37 | 8 | [link](https://github.com/rubentalstra/librechat-prom-exporter) |
+| SpreeHertz | Cleckzie | 37 | 9 | [link](https://github.com/SpreeHertz/Cleckzie) |
+| PrzemoProgrammer | Slot-Machine | 37 | 20 | [link](https://github.com/PrzemoProgrammer/Slot-Machine) |
+| Shubham-cyber-prog | 100-Days-Of-Web-Development-ECWoC26 | 36 | 118 | [link](https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26) |
+| EmpCloud | emp-monitor | 35 | 20 | [link](https://github.com/EmpCloud/emp-monitor) |
+| developer-jutra | dj-course | 35 | 74 | [link](https://github.com/developer-jutra/dj-course) |
+| yosue891 | SHADOW-BOT-MD | 33 | 9 | [link](https://github.com/yosue891/SHADOW-BOT-MD) |
 | wkentdag | payload-plugin-scheduler | 31 | 2 | [link](https://github.com/wkentdag/payload-plugin-scheduler) |
+| wirewirewirewire | payload-ai | 31 | 3 | [link](https://github.com/wirewirewirewire/payload-ai) |
+| mauricegift | gifted-session | 31 | 105 | [link](https://github.com/mauricegift/gifted-session) |
+| StreamFi-x | streamfi-frontend | 31 | 190 | [link](https://github.com/StreamFi-x/streamfi-frontend) |
+| Nsanjayboruds | RIVETO | 30 | 97 | [link](https://github.com/Nsanjayboruds/RIVETO) |
+| SaadxSalman | Architect-s-Vault | 30 | 3 | [link](https://github.com/SaadxSalman/Architect-s-Vault) |
+| HIDORAKAI002 | ai-workspace-archive | 29 | 11 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| getqarote | Qarote | 29 | 1 | [link](https://github.com/getqarote/Qarote) |
+| orion-ai-community | BizzAI | 29 | 41 | [link](https://github.com/orion-ai-community/BizzAI) |
+| mrizkiiy04 | 1Mbrain | 28 | 8 | [link](https://github.com/mrizkiiy04/1Mbrain) |
+| rafaelkallis | ticket-tagger | 28 | 10 | [link](https://github.com/rafaelkallis/ticket-tagger) |
+| smlsoft | SMLLineCRM | 28 | 13 | [link](https://github.com/smlsoft/SMLLineCRM) |
+| KnightHacks | forge | 28 | 60 | [link](https://github.com/KnightHacks/forge) |
+| open-dpp | open-dpp | 28 | 9 | [link](https://github.com/open-dpp/open-dpp) |
+| matheusaudibert | grux | 27 | 1 | [link](https://github.com/matheusaudibert/grux) |
+| Team-Deepiri | deepiri-platform | 27 | 2 | [link](https://github.com/Team-Deepiri/deepiri-platform) |
+| vallabhatech | CareSync | 26 | 22 | [link](https://github.com/vallabhatech/CareSync) |
+| Dev-moe-kyawaung | anchr | 26 | 0 | [link](https://github.com/Dev-moe-kyawaung/anchr) |
+| proohit | find-my-anime | 26 | 1 | [link](https://github.com/proohit/find-my-anime) |
+| junsantilla | filetr.ee | 25 | 9 | [link](https://github.com/junsantilla/filetr.ee) |
+| launchdarkly | ai-tooling | 25 | 8 | [link](https://github.com/launchdarkly/ai-tooling) |
+| lagleki | livla | 25 | 3 | [link](https://github.com/lagleki/livla) |
+| newrelic | newrelic-node-examples | 25 | 29 | [link](https://github.com/newrelic/newrelic-node-examples) |
+| DineshValor | valor | 25 | 42 | [link](https://github.com/DineshValor/valor) |
 
 ---
-* **Last scrape:** 2026-08-09T01:56:58.219Z
-* **Total pages scraped:** 62
-* **Repos found:** 1847
-* **Repos filtered out (< 25 stars):** 1826
-* **Total possible repositories:** 5675816
-* **Percent processed:** 0.0%
+* **Last scrape:** 2026-08-16T01:51:20.548Z
+* **Total pages scraped:** 428
+* **Repos found:** 12473
+* **Repos filtered out (< 25 stars):** 12339
+* **Total possible repositories:** 5676166
+* **Percent processed:** 0.2%
