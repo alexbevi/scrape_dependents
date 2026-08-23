@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2569 | 975 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2220 | 429 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| api-platform | core | 2572 | 978 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2219 | 429 | [link](https://github.com/php-enqueue/enqueue-dev) |
 | illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1706 | 169 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1708 | 170 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1263 | 789 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 870 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 797 | 113 | [link](https://github.com/zenstruck/foundry) |
+| zenstruck | foundry | 798 | 112 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 714 | 178 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 438 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
@@ -25,7 +25,7 @@
 | h4cc | AliceFixturesBundle | 75 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 75 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | MacPaw | symfony-health-check-bundle | 62 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 60 | 15 | [link](https://github.com/pumukit/PuMuKIT) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-08-16T01:52:26.103Z
+* **Last scrape:** 2026-08-23T01:32:49.728Z
 * **Total pages scraped:** 24
-* **Repos found:** 689
-* **Repos filtered out (< 25 stars):** 649
+* **Repos found:** 687
+* **Repos filtered out (< 25 stars):** 647
 * **Total possible repositories:** 2519
-* **Percent processed:** 27.4%
+* **Percent processed:** 27.3%
