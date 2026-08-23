@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2990 | 329 | [link](https://github.com/public-activity/public_activity) |
+| public-activity | public_activity | 2990 | 328 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2964 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 907 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 345 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 344 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 310 | 234 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -19,7 +19,7 @@
 | ianwhite | orm_adapter | 207 | 76 | [link](https://github.com/ianwhite/orm_adapter) |
 | hacketyhack | hackety-hack.com | 169 | 98 | [link](https://github.com/hacketyhack/hackety-hack.com) |
 | jnunemaker | joint | 126 | 30 | [link](https://github.com/jnunemaker/joint) |
-| jwood | tenacity | 115 | 16 | [link](https://github.com/jwood/tenacity) |
+| jwood | tenacity | 116 | 16 | [link](https://github.com/jwood/tenacity) |
 | dcrec1 | acts_as_solr_reloaded | 102 | 29 | [link](https://github.com/dcrec1/acts_as_solr_reloaded) |
 | razerbeans | boardwalk | 101 | 8 | [link](https://github.com/razerbeans/boardwalk) |
 | alexblom | TicketDesk | 95 | 9 | [link](https://github.com/alexblom/TicketDesk) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-08-16T01:41:46.438Z
+* **Last scrape:** 2026-08-23T01:27:34.379Z
 * **Total pages scraped:** 18
 * **Repos found:** 455
 * **Repos filtered out (< 25 stars):** 402
