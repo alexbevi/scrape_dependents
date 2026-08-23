@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1807 | 367 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1779 | 352 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1782 | 353 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 772 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 547 | 300 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 548 | 300 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 350 | 56 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 322 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 235 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -36,9 +36,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-08-16T01:51:34.195Z
-* **Total pages scraped:** 69
-* **Repos found:** 2030
-* **Repos filtered out (< 25 stars):** 2000
+* **Last scrape:** 2026-08-23T01:31:47.407Z
+* **Total pages scraped:** 68
+* **Repos found:** 2007
+* **Repos filtered out (< 25 stars):** 1977
 * **Total possible repositories:** 9365
-* **Percent processed:** 21.7%
+* **Percent processed:** 21.4%
