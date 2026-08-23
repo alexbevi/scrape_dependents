@@ -4,37 +4,76 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| langchain-ai | langchain | 144295 | 24022 | [link](https://github.com/langchain-ai/langchain) |
-| truera | trulens | 3510 | 321 | [link](https://github.com/truera/trulens) |
-| DjangoPeng | openai-quickstart | 1774 | 1163 | [link](https://github.com/DjangoPeng/openai-quickstart) |
-| NirDiamant | Controllable-RAG-Agent | 1618 | 267 | [link](https://github.com/NirDiamant/Controllable-RAG-Agent) |
-| benman1 | generative_ai_with_langchain | 1406 | 584 | [link](https://github.com/benman1/generative_ai_with_langchain) |
-| panaverse | learn-generative-ai | 794 | 286 | [link](https://github.com/panaverse/learn-generative-ai) |
+| langchain-ai | langchain | 144790 | 24129 | [link](https://github.com/langchain-ai/langchain) |
+| jina-ai | serve | 21861 | 2244 | [link](https://github.com/jina-ai/serve) |
+| PaddlePaddle | PaddleFormers | 12987 | 2194 | [link](https://github.com/PaddlePaddle/PaddleFormers) |
+| jina-ai | clip-as-service | 12835 | 2067 | [link](https://github.com/jina-ai/clip-as-service) |
+| sweepai | sweep | 7702 | 466 | [link](https://github.com/sweepai/sweep) |
+| jina-ai | discoart | 3826 | 241 | [link](https://github.com/jina-ai/discoart) |
+| truera | trulens | 3518 | 329 | [link](https://github.com/truera/trulens) |
+| X-D-Lab | LangChain-ChatGLM-Webui | 3313 | 493 | [link](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui) |
+| jina-ai | dalle-flow | 2829 | 206 | [link](https://github.com/jina-ai/dalle-flow) |
+| dot-agent | nextpy | 2348 | 181 | [link](https://github.com/dot-agent/nextpy) |
+| jina-ai | dev-gpt | 1868 | 169 | [link](https://github.com/jina-ai/dev-gpt) |
+| DjangoPeng | openai-quickstart | 1774 | 1164 | [link](https://github.com/DjangoPeng/openai-quickstart) |
+| NirDiamant | Controllable-RAG-Agent | 1620 | 268 | [link](https://github.com/NirDiamant/Controllable-RAG-Agent) |
+| jina-ai | thinkgpt | 1583 | 132 | [link](https://github.com/jina-ai/thinkgpt) |
+| benman1 | generative_ai_with_langchain | 1410 | 585 | [link](https://github.com/benman1/generative_ai_with_langchain) |
+| panaverse | learn-generative-ai | 793 | 286 | [link](https://github.com/panaverse/learn-generative-ai) |
+| jina-ai | vectordb | 652 | 50 | [link](https://github.com/jina-ai/vectordb) |
 | abgulati | LARS | 637 | 60 | [link](https://github.com/abgulati/LARS) |
-| NVIDIA-AI-Blueprints | llm-router | 340 | 101 | [link](https://github.com/NVIDIA-AI-Blueprints/llm-router) |
-| aurelio-labs | langchain-course | 319 | 203 | [link](https://github.com/aurelio-labs/langchain-course) |
-| AleksNeStu | ai-real-estate-assistant | 294 | 113 | [link](https://github.com/AleksNeStu/ai-real-estate-assistant) |
+| yuanjie-ai | ChatLLM | 449 | 58 | [link](https://github.com/yuanjie-ai/ChatLLM) |
+| NVIDIA-AI-Blueprints | llm-router | 341 | 102 | [link](https://github.com/NVIDIA-AI-Blueprints/llm-router) |
+| aurelio-labs | langchain-course | 320 | 204 | [link](https://github.com/aurelio-labs/langchain-course) |
+| AleksNeStu | ai-real-estate-assistant | 301 | 115 | [link](https://github.com/AleksNeStu/ai-real-estate-assistant) |
+| shashankdeshpande | langchain-chatbot | 278 | 156 | [link](https://github.com/shashankdeshpande/langchain-chatbot) |
 | svpino | youtube-rag | 252 | 163 | [link](https://github.com/svpino/youtube-rag) |
+| jina-ai | annlite | 233 | 24 | [link](https://github.com/jina-ai/annlite) |
+| KylinC | ChatFinance | 219 | 22 | [link](https://github.com/KylinC/ChatFinance) |
 | svpino | llm | 211 | 89 | [link](https://github.com/svpino/llm) |
+| aihes | LangChain-Tutorials-and-Examples | 206 | 40 | [link](https://github.com/aihes/LangChain-Tutorials-and-Examples) |
 | opea-project | GenAIComps | 199 | 218 | [link](https://github.com/opea-project/GenAIComps) |
-| UTSAVS26 | PyVerse | 194 | 318 | [link](https://github.com/UTSAVS26/PyVerse) |
-| MuhammadAhsaanAbbasi | generative-ai | 158 | 21 | [link](https://github.com/MuhammadAhsaanAbbasi/generative-ai) |
-| open-edge-platform | edge-ai-libraries | 156 | 139 | [link](https://github.com/open-edge-platform/edge-ai-libraries) |
+| UTSAVS26 | PyVerse | 196 | 318 | [link](https://github.com/UTSAVS26/PyVerse) |
+| jina-ai | rungpt | 168 | 22 | [link](https://github.com/jina-ai/rungpt) |
+| MuhammadAhsaanAbbasi | generative-ai | 158 | 20 | [link](https://github.com/MuhammadAhsaanAbbasi/generative-ai) |
+| open-edge-platform | edge-ai-libraries | 156 | 141 | [link](https://github.com/open-edge-platform/edge-ai-libraries) |
+| querqy | chorus | 154 | 31 | [link](https://github.com/querqy/chorus) |
+| alejandro-ao | langchain-ask-csv | 154 | 92 | [link](https://github.com/alejandro-ao/langchain-ask-csv) |
 | lwyBZss8924d | DeepSearchAgents | 136 | 16 | [link](https://github.com/lwyBZss8924d/DeepSearchAgents) |
-| marieai | marie-ai | 94 | 13 | [link](https://github.com/marieai/marie-ai) |
-| opea-project | Enterprise-RAG | 64 | 28 | [link](https://github.com/opea-project/Enterprise-RAG) |
+| AmericanPresidentJimmyCarter | yasd-discord-bot | 110 | 13 | [link](https://github.com/AmericanPresidentJimmyCarter/yasd-discord-bot) |
+| hwchase17 | ai-engineer | 104 | 25 | [link](https://github.com/hwchase17/ai-engineer) |
+| marieai | marie-ai | 95 | 13 | [link](https://github.com/marieai/marie-ai) |
+| XinyueZ | chat-your-doc | 89 | 23 | [link](https://github.com/XinyueZ/chat-your-doc) |
+| lhr0909 | lipstick-db | 84 | 14 | [link](https://github.com/lhr0909/lipstick-db) |
+| opea-project | Enterprise-RAG | 66 | 28 | [link](https://github.com/opea-project/Enterprise-RAG) |
+| jina-ai | GoldRetriever | 66 | 10 | [link](https://github.com/jina-ai/GoldRetriever) |
+| OpenKG-ORG | EasyDetect | 64 | 4 | [link](https://github.com/OpenKG-ORG/EasyDetect) |
 | PacktPublishing | Python-Natural-Language-Processing-Cookbook-Second-Edition | 62 | 30 | [link](https://github.com/PacktPublishing/Python-Natural-Language-Processing-Cookbook-Second-Edition) |
+| LAION-AI | Big-Interleaved-Dataset | 59 | 8 | [link](https://github.com/LAION-AI/Big-Interleaved-Dataset) |
+| pywebio | demos | 55 | 17 | [link](https://github.com/pywebio/demos) |
+| rh-aiservices-bu | workbench-images | 51 | 32 | [link](https://github.com/rh-aiservices-bu/workbench-images) |
 | cumc-dbmi | cehrbert | 49 | 16 | [link](https://github.com/cumc-dbmi/cehrbert) |
+| somewheresystems | dataclysm | 48 | 3 | [link](https://github.com/somewheresystems/dataclysm) |
+| lalanikarim | ai-chatbot-rag | 44 | 16 | [link](https://github.com/lalanikarim/ai-chatbot-rag) |
+| laura-ham | HM-Fashion-image-neural-search | 44 | 18 | [link](https://github.com/laura-ham/HM-Fashion-image-neural-search) |
+| jchavezar | vertex-ai-samples | 42 | 14 | [link](https://github.com/jchavezar/vertex-ai-samples) |
+| hunkim | book_writer | 37 | 4 | [link](https://github.com/hunkim/book_writer) |
 | alexandriax | arcode | 33 | 5 | [link](https://github.com/alexandriax/arcode) |
-| HIDORAKAI002 | ai-workspace-archive | 29 | 11 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| HIDORAKAI002 | ai-workspace-archive | 31 | 11 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| Gamma-Software | AppifyAi | 31 | 7 | [link](https://github.com/Gamma-Software/AppifyAi) |
 | ojasskapre | yahoo-finance-llm-agent | 29 | 8 | [link](https://github.com/ojasskapre/yahoo-finance-llm-agent) |
+| RepoAnalysis | RepoSnipy | 29 | 7 | [link](https://github.com/RepoAnalysis/RepoSnipy) |
 | nomic-ai | langchain | 28 | 3 | [link](https://github.com/nomic-ai/langchain) |
+| thinktecture-labs | rag-chat-with-pdf-local-llm | 28 | 2 | [link](https://github.com/thinktecture-labs/rag-chat-with-pdf-local-llm) |
+| tom-doerr | dalle_flow_streamlit | 28 | 5 | [link](https://github.com/tom-doerr/dalle_flow_streamlit) |
 | BittnerPierre | applied-ai-rag-assistant | 27 | 14 | [link](https://github.com/BittnerPierre/applied-ai-rag-assistant) |
+| jina-ai | product-recommendation-redis-docarray | 26 | 9 | [link](https://github.com/jina-ai/product-recommendation-redis-docarray) |
+| jina-ai | example-video-search | 26 | 2 | [link](https://github.com/jina-ai/example-video-search) |
 
 ---
-* **Last scrape:** 2026-08-16T01:57:40.266Z
-* **Total pages scraped:** 45
-* **Repos found:** 1331
-* **Repos filtered out (< 25 stars):** 1305
-* **Total possible repositories:** 5641
-* **Percent processed:** 23.6%
+* **Last scrape:** 2026-08-23T01:47:15.574Z
+* **Total pages scraped:** 90
+* **Repos found:** 2647
+* **Repos filtered out (< 25 stars):** 2582
+* **Total possible repositories:** 5644
+* **Percent processed:** 46.9%
