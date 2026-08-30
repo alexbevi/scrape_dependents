@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6897 | 807 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3805 | 1409 | [link](https://github.com/parse-community/parse-dashboard) |
+| OpenSignLabs | OpenSign | 6934 | 819 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3806 | 1411 | [link](https://github.com/parse-community/parse-dashboard) |
 | parse-community | parse-server-example | 1904 | 5282 | [link](https://github.com/parse-community/parse-server-example) |
 | parse-community | Parse-SDK-JS | 1342 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 916 | 279 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| Eleven-Trading | TradeNote | 919 | 282 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 474 | 160 | [link](https://github.com/yongjhih/docker-parse-server) |
-| elrumo | icon-brew | 320 | 7 | [link](https://github.com/elrumo/icon-brew) |
+| elrumo | icon-brew | 322 | 7 | [link](https://github.com/elrumo/icon-brew) |
 | shiki | kaiseki | 222 | 41 | [link](https://github.com/shiki/kaiseki) |
 | bakery | todomvc-react-native | 151 | 33 | [link](https://github.com/bakery/todomvc-react-native) |
 | ArnaudValensi | docker-parse-server-git-deploy | 145 | 10 | [link](https://github.com/ArnaudValensi/docker-parse-server-git-deploy) |
@@ -41,9 +41,9 @@
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 
 ---
-* **Last scrape:** 2026-08-23T01:49:02.922Z
+* **Last scrape:** 2026-08-30T05:00:02.065Z
 * **Total pages scraped:** 28
-* **Repos found:** 778
-* **Repos filtered out (< 25 stars):** 743
+* **Repos found:** 775
+* **Repos filtered out (< 25 stars):** 740
 * **Total possible repositories:** 4171
-* **Percent processed:** 18.7%
+* **Percent processed:** 18.6%
