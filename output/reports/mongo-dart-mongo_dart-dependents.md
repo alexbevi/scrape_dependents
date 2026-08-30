@@ -5,7 +5,7 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | pd4d10 | unpub | 480 | 157 | [link](https://github.com/pd4d10/unpub) |
-| Jaguar-dart | jaguar | 471 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
+| Jaguar-dart | jaguar | 470 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
@@ -22,9 +22,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-08-23T01:29:22.789Z
-* **Total pages scraped:** 58
-* **Repos found:** 1704
-* **Repos filtered out (< 25 stars):** 1688
+* **Last scrape:** 2026-08-30T04:42:51.642Z
+* **Total pages scraped:** 57
+* **Repos found:** 1691
+* **Repos filtered out (< 25 stars):** 1675
 * **Total possible repositories:** 5669
-* **Percent processed:** 30.1%
+* **Percent processed:** 29.8%
