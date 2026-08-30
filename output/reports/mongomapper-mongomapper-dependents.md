@@ -5,10 +5,10 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2990 | 328 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2964 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| DatabaseCleaner | database_cleaner | 2965 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 907 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 797 | 82 | [link](https://github.com/nasser/---) |
+| nasser | --- | 798 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 344 | 117 | [link](https://github.com/0x000NULL/CSSR) |
@@ -32,7 +32,7 @@
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
 | zooniverse-glacier | Scribe | 49 | 7 | [link](https://github.com/zooniverse-glacier/Scribe) |
-| brighton36 | CoinPost | 49 | 25 | [link](https://github.com/brighton36/CoinPost) |
+| brighton36 | CoinPost | 49 | 24 | [link](https://github.com/brighton36/CoinPost) |
 | mepatterson | acts_as_mongo_taggable | 48 | 15 | [link](https://github.com/mepatterson/acts_as_mongo_taggable) |
 | kristianmandrup | mm-devise | 46 | 14 | [link](https://github.com/kristianmandrup/mm-devise) |
 | DGaffney | stop_sign_project | 45 | 11 | [link](https://github.com/DGaffney/stop_sign_project) |
@@ -59,9 +59,9 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-08-23T01:27:34.379Z
+* **Last scrape:** 2026-08-30T04:33:06.779Z
 * **Total pages scraped:** 18
-* **Repos found:** 455
-* **Repos filtered out (< 25 stars):** 402
+* **Repos found:** 454
+* **Repos filtered out (< 25 stars):** 401
 * **Total possible repositories:** 2816
-* **Percent processed:** 16.2%
+* **Percent processed:** 16.1%
