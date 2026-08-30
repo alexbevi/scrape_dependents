@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16796 | 3713 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16799 | 3711 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 929 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 292 | 21 | [link](https://github.com/juttle/juttle) |
@@ -12,7 +12,7 @@
 | tlikai | hwamei | 201 | 26 | [link](https://github.com/tlikai/hwamei) |
 | xmppjs | hubot-xmpp | 183 | 97 | [link](https://github.com/xmppjs/hubot-xmpp) |
 | lukefx | hubot-telegram | 160 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
-| stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
+| stephenyeargin | hubot-grafana | 154 | 44 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 107 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
 | hubot-archive | hubot-pager-me | 74 | 93 | [link](https://github.com/hubot-archive/hubot-pager-me) |
@@ -36,9 +36,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-08-23T01:49:06.323Z
+* **Last scrape:** 2026-08-30T05:00:26.553Z
 * **Total pages scraped:** 29
-* **Repos found:** 799
-* **Repos filtered out (< 25 stars):** 769
-* **Total possible repositories:** 3334
-* **Percent processed:** 24.0%
+* **Repos found:** 796
+* **Repos filtered out (< 25 stars):** 766
+* **Total possible repositories:** 3335
+* **Percent processed:** 23.9%
