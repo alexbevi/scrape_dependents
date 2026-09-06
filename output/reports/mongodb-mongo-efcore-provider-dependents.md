@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| microsoft | aspire | 6275 | 971 | [link](https://github.com/microsoft/aspire) |
-| BrighterCommand | Brighter | 2473 | 294 | [link](https://github.com/BrighterCommand/Brighter) |
+| microsoft | aspire | 6287 | 982 | [link](https://github.com/microsoft/aspire) |
+| BrighterCommand | Brighter | 2480 | 296 | [link](https://github.com/BrighterCommand/Brighter) |
 | AlphaYu | adnc | 1475 | 393 | [link](https://github.com/AlphaYu/adnc) |
 | mongodb | docs | 775 | 1697 | [link](https://github.com/mongodb/docs) |
 | netcorepal | netcorepal-cloud-framework | 426 | 93 | [link](https://github.com/netcorepal/netcorepal-cloud-framework) |
@@ -16,7 +16,7 @@
 | UdemyEducation | UdemyNewMicroservice | 33 | 10 | [link](https://github.com/UdemyEducation/UdemyNewMicroservice) |
 
 ---
-* **Last scrape:** 2026-08-30T04:48:51.518Z
+* **Last scrape:** 2026-09-06T03:57:44.173Z
 * **Total pages scraped:** 28
 * **Repos found:** 829
 * **Repos filtered out (< 25 stars):** 819
