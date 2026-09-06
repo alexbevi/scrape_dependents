@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 6934 | 819 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3806 | 1411 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1904 | 5282 | [link](https://github.com/parse-community/parse-server-example) |
+| OpenSignLabs | OpenSign | 6963 | 821 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3806 | 1412 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1904 | 5281 | [link](https://github.com/parse-community/parse-server-example) |
 | parse-community | Parse-SDK-JS | 1342 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 919 | 282 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| Eleven-Trading | TradeNote | 954 | 287 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
-| yongjhih | docker-parse-server | 474 | 160 | [link](https://github.com/yongjhih/docker-parse-server) |
-| elrumo | icon-brew | 322 | 7 | [link](https://github.com/elrumo/icon-brew) |
+| yongjhih | docker-parse-server | 473 | 160 | [link](https://github.com/yongjhih/docker-parse-server) |
+| elrumo | icon-brew | 323 | 7 | [link](https://github.com/elrumo/icon-brew) |
 | shiki | kaiseki | 222 | 41 | [link](https://github.com/shiki/kaiseki) |
 | bakery | todomvc-react-native | 151 | 33 | [link](https://github.com/bakery/todomvc-react-native) |
 | ArnaudValensi | docker-parse-server-git-deploy | 145 | 10 | [link](https://github.com/ArnaudValensi/docker-parse-server-git-deploy) |
@@ -35,15 +35,15 @@
 | winglight | soducrawler | 34 | 12 | [link](https://github.com/winglight/soducrawler) |
 | LasaleFamine | docker-mongo-parse-server | 33 | 12 | [link](https://github.com/LasaleFamine/docker-mongo-parse-server) |
 | SashiDo | content-moderation-application | 30 | 10 | [link](https://github.com/SashiDo/content-moderation-application) |
-| zebapy | react-redux-parse-server | 29 | 7 | [link](https://github.com/zebapy/react-redux-parse-server) |
+| zebapy | react-redux-parse-server | 29 | 6 | [link](https://github.com/zebapy/react-redux-parse-server) |
 | bakery | pokemon-map | 29 | 4 | [link](https://github.com/bakery/pokemon-map) |
 | gimdongwoo | docker-parse-mongo | 29 | 4 | [link](https://github.com/gimdongwoo/docker-parse-mongo) |
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 
 ---
-* **Last scrape:** 2026-08-30T05:00:02.065Z
-* **Total pages scraped:** 28
-* **Repos found:** 775
-* **Repos filtered out (< 25 stars):** 740
+* **Last scrape:** 2026-09-06T04:05:23.338Z
+* **Total pages scraped:** 27
+* **Repos found:** 770
+* **Repos filtered out (< 25 stars):** 735
 * **Total possible repositories:** 4171
-* **Percent processed:** 18.6%
+* **Percent processed:** 18.5%
