@@ -6,9 +6,9 @@
 |---|---|---|---|---|
 | illacceptanything | illacceptanything | 1960 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1806 | 367 | [link](https://github.com/lxerxa/actionview) |
-| dreamfactorysoftware | dreamfactory | 1783 | 354 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
+| dreamfactorysoftware | dreamfactory | 1785 | 354 | [link](https://github.com/dreamfactorysoftware/dreamfactory) |
 | doubleleft | hook | 772 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 548 | 300 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 551 | 300 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 350 | 56 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 235 | 34 | [link](https://github.com/laynefyc/php-monitor) |
@@ -26,7 +26,7 @@
 | kbdxbt | kbframe | 55 | 13 | [link](https://github.com/kbdxbt/kbframe) |
 | jenssegers | laravel-mongodb-sentry | 54 | 13 | [link](https://github.com/jenssegers/laravel-mongodb-sentry) |
 | zuramai | laravel-restaurant-lsp | 51 | 26 | [link](https://github.com/zuramai/laravel-restaurant-lsp) |
-| piordev555 | runeruby-casino | 50 | 25 | [link](https://github.com/piordev555/runeruby-casino) |
+| piordev555 | runeruby-casino | 50 | 24 | [link](https://github.com/piordev555/runeruby-casino) |
 | elcobvg | lumen-realworld-example-app | 49 | 27 | [link](https://github.com/elcobvg/lumen-realworld-example-app) |
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
@@ -36,9 +36,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-08-30T04:46:29.781Z
+* **Last scrape:** 2026-09-06T03:57:56.433Z
 * **Total pages scraped:** 67
-* **Repos found:** 1986
-* **Repos filtered out (< 25 stars):** 1956
+* **Repos found:** 1966
+* **Repos filtered out (< 25 stars):** 1936
 * **Total possible repositories:** 9365
-* **Percent processed:** 21.2%
+* **Percent processed:** 21.0%
