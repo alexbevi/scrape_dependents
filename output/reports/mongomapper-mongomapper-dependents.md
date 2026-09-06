@@ -11,7 +11,7 @@
 | nasser | --- | 798 | 83 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
-| 0x000NULL | CSSR | 344 | 117 | [link](https://github.com/0x000NULL/CSSR) |
+| 0x000NULL | CSSR | 345 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 310 | 234 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-08-30T04:33:06.779Z
+* **Last scrape:** 2026-09-06T03:47:42.562Z
 * **Total pages scraped:** 18
 * **Repos found:** 454
 * **Repos filtered out (< 25 stars):** 401
