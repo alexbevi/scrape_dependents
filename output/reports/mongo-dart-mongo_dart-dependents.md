@@ -17,14 +17,14 @@
 | sdeleuze | opensnap-polymer | 37 | 5 | [link](https://github.com/sdeleuze/opensnap-polymer) |
 | martin-robert-fink | oauth_server_demo | 35 | 5 | [link](https://github.com/martin-robert-fink/oauth_server_demo) |
 | CRYPTOcoderAS | RentALL-Flutter | 32 | 3 | [link](https://github.com/CRYPTOcoderAS/RentALL-Flutter) |
-| zeqinjie | unpub-2.0.0-docker | 29 | 14 | [link](https://github.com/zeqinjie/unpub-2.0.0-docker) |
+| zeqinjie | unpub-2.0.0-docker | 29 | 13 | [link](https://github.com/zeqinjie/unpub-2.0.0-docker) |
 | ShivamArora | meteorify | 28 | 8 | [link](https://github.com/ShivamArora/meteorify) |
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-08-30T04:42:51.642Z
+* **Last scrape:** 2026-09-06T03:55:44.625Z
 * **Total pages scraped:** 57
-* **Repos found:** 1691
-* **Repos filtered out (< 25 stars):** 1675
+* **Repos found:** 1682
+* **Repos filtered out (< 25 stars):** 1666
 * **Total possible repositories:** 5669
-* **Percent processed:** 29.8%
+* **Percent processed:** 29.7%
