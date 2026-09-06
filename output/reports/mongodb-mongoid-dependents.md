@@ -7,9 +7,9 @@
 | tdiary | tdiary-core | 170 | 70 | [link](https://github.com/tdiary/tdiary-core) |
 
 ---
-* **Last scrape:** 2026-08-30T04:15:13.130Z
+* **Last scrape:** 2026-09-06T03:28:45.232Z
 * **Total pages scraped:** 4
-* **Repos found:** 100
-* **Repos filtered out (< 25 stars):** 99
-* **Total possible repositories:** 23855
+* **Repos found:** 101
+* **Repos filtered out (< 25 stars):** 100
+* **Total possible repositories:** 23856
 * **Percent processed:** 0.4%
