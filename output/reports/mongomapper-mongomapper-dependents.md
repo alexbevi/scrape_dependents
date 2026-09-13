@@ -6,10 +6,10 @@
 |---|---|---|---|---|
 | public-activity | public_activity | 2990 | 328 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2965 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1351 | 71 | [link](https://github.com/maccman/abba) |
-| crowdint | rails3-jquery-autocomplete | 907 | 358 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
+| maccman | abba | 1351 | 70 | [link](https://github.com/maccman/abba) |
+| crowdint | rails3-jquery-autocomplete | 907 | 357 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 798 | 83 | [link](https://github.com/nasser/---) |
-| hotsh | rstat.us | 713 | 212 | [link](https://github.com/hotsh/rstat.us) |
+| hotsh | rstat.us | 712 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 99 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 345 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 310 | 234 | [link](https://github.com/opengovernment/opengovernment) |
@@ -27,7 +27,7 @@
 | nmerouze | machinist_mongo | 80 | 24 | [link](https://github.com/nmerouze/machinist_mongo) |
 | brianhempel | mongo_session_store | 76 | 48 | [link](https://github.com/brianhempel/mongo_session_store) |
 | robustdj | autosuggest-rb | 71 | 7 | [link](https://github.com/robustdj/autosuggest-rb) |
-| caged | portlandcrime | 66 | 4 | [link](https://github.com/caged/portlandcrime) |
+| caged | portlandcrime | 67 | 4 | [link](https://github.com/caged/portlandcrime) |
 | arfon | fidgit | 62 | 46 | [link](https://github.com/arfon/fidgit) |
 | bbc | wally | 57 | 14 | [link](https://github.com/bbc/wally) |
 | andriusch | blueprints | 52 | 2 | [link](https://github.com/andriusch/blueprints) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-09-06T03:47:42.562Z
+* **Last scrape:** 2026-09-13T03:57:39.049Z
 * **Total pages scraped:** 18
 * **Repos found:** 454
 * **Repos filtered out (< 25 stars):** 401
