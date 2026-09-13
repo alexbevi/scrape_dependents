@@ -4,13 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pd4d10 | unpub | 480 | 157 | [link](https://github.com/pd4d10/unpub) |
+| pd4d10 | unpub | 481 | 157 | [link](https://github.com/pd4d10/unpub) |
 | Jaguar-dart | jaguar | 470 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
+| vania-dart | framework | 255 | 22 | [link](https://github.com/vania-dart/framework) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 94 | 20 | [link](https://github.com/rgroult/MobDistTool) |
-| vedfi | mondroid | 92 | 10 | [link](https://github.com/vedfi/mondroid) |
+| vedfi | mondroid | 91 | 10 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 23 | [link](https://github.com/angel-example/flutter) |
 | aortem | dartstream | 64 | 71 | [link](https://github.com/aortem/dartstream) |
 | Scorpiion | vane | 61 | 11 | [link](https://github.com/Scorpiion/vane) |
@@ -22,9 +23,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-09-06T03:55:44.625Z
+* **Last scrape:** 2026-09-13T04:00:21.835Z
 * **Total pages scraped:** 57
-* **Repos found:** 1682
-* **Repos filtered out (< 25 stars):** 1666
-* **Total possible repositories:** 5669
-* **Percent processed:** 29.7%
+* **Repos found:** 1673
+* **Repos filtered out (< 25 stars):** 1656
+* **Total possible repositories:** 5673
+* **Percent processed:** 29.5%
