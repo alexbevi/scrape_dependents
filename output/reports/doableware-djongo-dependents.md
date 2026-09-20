@@ -4,13 +4,32 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| depictio | depictio | 57 | 5 | [link](https://github.com/depictio/depictio) |
-| minnelab | MAIA | 27 | 9 | [link](https://github.com/minnelab/MAIA) |
+| OWASP | crAPI | 1586 | 645 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1433 | 281 | [link](https://github.com/damklis/DataEngineeringProject) |
+| sajib1066 | django-event-management | 182 | 94 | [link](https://github.com/sajib1066/django-event-management) |
+| frg-fossee | eSim-Cloud | 168 | 247 | [link](https://github.com/frg-fossee/eSim-Cloud) |
+| cyantarek | django-microservices | 164 | 88 | [link](https://github.com/cyantarek/django-microservices) |
+| drshahizan | special-topic-data-engineering | 128 | 81 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
+| sodrooome | django-microservice | 84 | 42 | [link](https://github.com/sodrooome/django-microservice) |
+| drshahizan | SECP3843 | 62 | 59 | [link](https://github.com/drshahizan/SECP3843) |
+| alialaei1 | IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor | 61 | 18 | [link](https://github.com/alialaei1/IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor) |
+| depictio | depictio | 58 | 5 | [link](https://github.com/depictio/depictio) |
+| hoangsonww | Learning-Management-System-Fullstack | 39 | 24 | [link](https://github.com/hoangsonww/Learning-Management-System-Fullstack) |
+| Benji918 | Personal_finance_portal | 39 | 4 | [link](https://github.com/Benji918/Personal_finance_portal) |
+| hoangsonww | The-MovieVerse-Database | 34 | 18 | [link](https://github.com/hoangsonww/The-MovieVerse-Database) |
+| PacktPublishing | Hands-on-Microservices-with-Django | 34 | 20 | [link](https://github.com/PacktPublishing/Hands-on-Microservices-with-Django) |
+| studygyaan | tutorials | 34 | 24 | [link](https://github.com/studygyaan/tutorials) |
+| SRM-IST-KTR | githubsrm | 34 | 14 | [link](https://github.com/SRM-IST-KTR/githubsrm) |
+| evaseemefly | TyphoonSearchSys | 31 | 13 | [link](https://github.com/evaseemefly/TyphoonSearchSys) |
+| minnelab | MAIA | 27 | 10 | [link](https://github.com/minnelab/MAIA) |
+| codexgigassys | daas | 27 | 6 | [link](https://github.com/codexgigassys/daas) |
+| pranavcode | consul-demo | 26 | 23 | [link](https://github.com/pranavcode/consul-demo) |
+| leopardslab | CrawlerX | 25 | 19 | [link](https://github.com/leopardslab/CrawlerX) |
 
 ---
-* **Last scrape:** 2026-09-13T03:59:46.028Z
-* **Total pages scraped:** 32
-* **Repos found:** 957
-* **Repos filtered out (< 25 stars):** 955
+* **Last scrape:** 2026-09-20T04:05:45.925Z
+* **Total pages scraped:** 147
+* **Repos found:** 4380
+* **Repos filtered out (< 25 stars):** 4359
 * **Total possible repositories:** 12611
-* **Percent processed:** 7.6%
+* **Percent processed:** 34.7%
