@@ -4,142 +4,24 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| Shubhamsaboo | awesome-llm-apps | 137680 | 20238 | [link](https://github.com/Shubhamsaboo/awesome-llm-apps) |
-| microsoft | autogen | 60951 | 9206 | [link](https://github.com/microsoft/autogen) |
-| HKUDS | LightRAG | 39595 | 5576 | [link](https://github.com/HKUDS/LightRAG) |
-| CopilotKit | CopilotKit | 37332 | 4626 | [link](https://github.com/CopilotKit/CopilotKit) |
-| avante-corp | avante.nvim | 18161 | 847 | [link](https://github.com/avante-corp/avante.nvim) |
-| googleapis | mcp-toolbox | 16376 | 1714 | [link](https://github.com/googleapis/mcp-toolbox) |
-| yusufkaraaslan | Skill_Seekers | 14959 | 1523 | [link](https://github.com/yusufkaraaslan/Skill_Seekers) |
-| StarTrail-org | LEANN | 12932 | 1169 | [link](https://github.com/StarTrail-org/LEANN) |
-| Chainlit | chainlit | 12446 | 1749 | [link](https://github.com/Chainlit/chainlit) |
-| google | adk-samples | 10305 | 2860 | [link](https://github.com/google/adk-samples) |
-| droidrun | mobilerun | 9359 | 1000 | [link](https://github.com/droidrun/mobilerun) |
-| MervinPraison | PraisonAI | 9047 | 1437 | [link](https://github.com/MervinPraison/PraisonAI) |
-| xerrors | Yuxi | 6944 | 1088 | [link](https://github.com/xerrors/Yuxi) |
-| julep-ai | julep | 6586 | 969 | [link](https://github.com/julep-ai/julep) |
-| AgentOps-AI | agentops | 5818 | 619 | [link](https://github.com/AgentOps-AI/agentops) |
-| zenml-io | zenml | 5579 | 654 | [link](https://github.com/zenml-io/zenml) |
-| realpython | materials | 5205 | 5275 | [link](https://github.com/realpython/materials) |
-| Marker-Inc-Korea | AutoRAG | 5069 | 433 | [link](https://github.com/Marker-Inc-Korea/AutoRAG) |
-| Kiln-AI | Kiln | 5061 | 378 | [link](https://github.com/Kiln-AI/Kiln) |
-| Agenta-AI | agenta | 4748 | 669 | [link](https://github.com/Agenta-AI/agenta) |
-| hemansnation | AI-Engineer-Headquarters | 3683 | 698 | [link](https://github.com/hemansnation/AI-Engineer-Headquarters) |
-| Sumanth077 | Hands-On-AI-Engineering | 3479 | 867 | [link](https://github.com/Sumanth077/Hands-On-AI-Engineering) |
-| awslabs | agentcore-samples | 3359 | 1324 | [link](https://github.com/awslabs/agentcore-samples) |
-| ANative-Lab | EvoAgentX | 3321 | 306 | [link](https://github.com/ANative-Lab/EvoAgentX) |
-| NVIDIA | NeMo-Agent-Toolkit | 2631 | 753 | [link](https://github.com/NVIDIA/NeMo-Agent-Toolkit) |
-| heshengtao | comfyui_LLM_party | 2356 | 204 | [link](https://github.com/heshengtao/comfyui_LLM_party) |
-| aws-samples | amazon-bedrock-workshop | 2202 | 951 | [link](https://github.com/aws-samples/amazon-bedrock-workshop) |
-| ModelEngine-Group | fit-framework | 2115 | 335 | [link](https://github.com/ModelEngine-Group/fit-framework) |
-| lotus-data | lotus | 1675 | 154 | [link](https://github.com/lotus-data/lotus) |
-| apecloud | ApeRAG | 1313 | 147 | [link](https://github.com/apecloud/ApeRAG) |
-| langchain-ai | openevals | 1193 | 121 | [link](https://github.com/langchain-ai/openevals) |
-| wandb | weave | 1128 | 167 | [link](https://github.com/wandb/weave) |
-| suyiiyii | AutoGLM-GUI | 1126 | 174 | [link](https://github.com/suyiiyii/AutoGLM-GUI) |
-| vndee | llm-sandbox | 1119 | 105 | [link](https://github.com/vndee/llm-sandbox) |
-| arm | metis | 863 | 122 | [link](https://github.com/arm/metis) |
-| llama-farm | llamafarm | 838 | 57 | [link](https://github.com/llama-farm/llamafarm) |
-| getomnico | omni | 776 | 49 | [link](https://github.com/getomnico/omni) |
-| xiaou61 | Code-Nest | 772 | 23 | [link](https://github.com/xiaou61/Code-Nest) |
-| docling-project | docling-mcp | 740 | 138 | [link](https://github.com/docling-project/docling-mcp) |
-| FireBird-Technologies | Auto-Analyst | 708 | 117 | [link](https://github.com/FireBird-Technologies/Auto-Analyst) |
-| Alibaba-NLP | ViDoRAG | 670 | 51 | [link](https://github.com/Alibaba-NLP/ViDoRAG) |
-| Decade-qiu | CookHero | 611 | 94 | [link](https://github.com/Decade-qiu/CookHero) |
-| microsoft | RPG-ZeroRepo | 599 | 43 | [link](https://github.com/microsoft/RPG-ZeroRepo) |
-| InfinitiBit | graphbit | 583 | 118 | [link](https://github.com/InfinitiBit/graphbit) |
-| Opentrons | opentrons | 521 | 208 | [link](https://github.com/Opentrons/opentrons) |
-| aigc-apps | PAI-RAG | 506 | 74 | [link](https://github.com/aigc-apps/PAI-RAG) |
-| sqlrooms | sqlrooms | 503 | 41 | [link](https://github.com/sqlrooms/sqlrooms) |
-| runagent-dev | runagent | 482 | 76 | [link](https://github.com/runagent-dev/runagent) |
-| alirezadir | Agentic-AI-Systems | 470 | 105 | [link](https://github.com/alirezadir/Agentic-AI-Systems) |
-| aws-samples | amazon-nova-samples | 452 | 266 | [link](https://github.com/aws-samples/amazon-nova-samples) |
-| lakshmanok | generative-ai-design-patterns | 445 | 119 | [link](https://github.com/lakshmanok/generative-ai-design-patterns) |
-| david-xinyuwei | david-share | 441 | 88 | [link](https://github.com/david-xinyuwei/david-share) |
-| aws | mcp-proxy-for-aws | 352 | 64 | [link](https://github.com/aws/mcp-proxy-for-aws) |
-| datarobot | syftr | 345 | 33 | [link](https://github.com/datarobot/syftr) |
-| volcengine | veadk-python | 342 | 95 | [link](https://github.com/volcengine/veadk-python) |
-| monocle2ai | monocle | 337 | 59 | [link](https://github.com/monocle2ai/monocle) |
-| Azure-Samples | python-ai-agent-frameworks-demos | 335 | 191 | [link](https://github.com/Azure-Samples/python-ai-agent-frameworks-demos) |
-| yogeshhk | TeachingDataScience | 302 | 160 | [link](https://github.com/yogeshhk/TeachingDataScience) |
-| hongbo-miao | hongbomiao.com | 299 | 51 | [link](https://github.com/hongbo-miao/hongbomiao.com) |
-| RManLuo | gfm-rag | 294 | 39 | [link](https://github.com/RManLuo/gfm-rag) |
-| responsibleai | ASSERT | 242 | 37 | [link](https://github.com/responsibleai/ASSERT) |
-| AgentSwarms-fyi | agentswarms | 237 | 59 | [link](https://github.com/AgentSwarms-fyi/agentswarms) |
-| simranjeet97 | Awsome_AI_Agents | 221 | 76 | [link](https://github.com/simranjeet97/Awsome_AI_Agents) |
-| future-agi | traceAI | 221 | 44 | [link](https://github.com/future-agi/traceAI) |
-| Corpus-OS | corpusos | 207 | 8 | [link](https://github.com/Corpus-OS/corpusos) |
-| theepicsaxguy | homelab | 205 | 14 | [link](https://github.com/theepicsaxguy/homelab) |
-| googleapis | mcp-toolbox-sdk-python | 191 | 60 | [link](https://github.com/googleapis/mcp-toolbox-sdk-python) |
-| yaalalabs | agent-kernel | 188 | 86 | [link](https://github.com/yaalalabs/agent-kernel) |
-| IBM | ibm-watsonx-orchestrate-adk | 177 | 80 | [link](https://github.com/IBM/ibm-watsonx-orchestrate-adk) |
-| epam | cloud-pipeline | 163 | 65 | [link](https://github.com/epam/cloud-pipeline) |
-| open-edge-platform | edge-ai-libraries | 160 | 145 | [link](https://github.com/open-edge-platform/edge-ai-libraries) |
-| BjornMelin | docmind-ai-llm | 151 | 29 | [link](https://github.com/BjornMelin/docmind-ai-llm) |
-| cumbucadev | cinemaempoa | 145 | 31 | [link](https://github.com/cumbucadev/cinemaempoa) |
-| microsoft | ograg2 | 143 | 36 | [link](https://github.com/microsoft/ograg2) |
-| rix4uni | cvemapping | 139 | 17 | [link](https://github.com/rix4uni/cvemapping) |
-| twinsant | ML | 138 | 10 | [link](https://github.com/twinsant/ML) |
-| Otman404 | local-rag-llamaindex | 135 | 22 | [link](https://github.com/Otman404/local-rag-llamaindex) |
-| open-edge-platform | edge-ai-suites | 132 | 168 | [link](https://github.com/open-edge-platform/edge-ai-suites) |
-| aws-samples | sample-agentic-platform | 132 | 54 | [link](https://github.com/aws-samples/sample-agentic-platform) |
-| chunhuizhang | llm_aigc | 119 | 15 | [link](https://github.com/chunhuizhang/llm_aigc) |
-| agntcy | coffeeAgntcy | 111 | 51 | [link](https://github.com/agntcy/coffeeAgntcy) |
-| arjunprabhulal | adk-vertex-ai-rag-engine | 107 | 36 | [link](https://github.com/arjunprabhulal/adk-vertex-ai-rag-engine) |
-| Azure-Samples | postgres-agentic-shop | 105 | 69 | [link](https://github.com/Azure-Samples/postgres-agentic-shop) |
-| grafana | agento11y | 104 | 23 | [link](https://github.com/grafana/agento11y) |
-| dzlab | deeplearning.ai | 100 | 59 | [link](https://github.com/dzlab/deeplearning.ai) |
-| auth0-samples | auth0-assistant0 | 96 | 71 | [link](https://github.com/auth0-samples/auth0-assistant0) |
-| agntcy | docs | 94 | 35 | [link](https://github.com/agntcy/docs) |
-| AstraBert | ingest-anything | 93 | 13 | [link](https://github.com/AstraBert/ingest-anything) |
-| samugit83 | TheGradientPath | 85 | 48 | [link](https://github.com/samugit83/TheGradientPath) |
-| qtalen | agentic-ai-playground | 78 | 15 | [link](https://github.com/qtalen/agentic-ai-playground) |
-| dynatrace-oss | unguard | 75 | 65 | [link](https://github.com/dynatrace-oss/unguard) |
-| tropical-algae | Axionara | 75 | 14 | [link](https://github.com/tropical-algae/Axionara) |
-| aws-samples | aws-generativeai-partner-samples | 73 | 50 | [link](https://github.com/aws-samples/aws-generativeai-partner-samples) |
-| aws-samples | sample-gen-ai-evaluations-workshop | 70 | 27 | [link](https://github.com/aws-samples/sample-gen-ai-evaluations-workshop) |
-| geldata | gel-examples | 69 | 25 | [link](https://github.com/geldata/gel-examples) |
-| AgentX-ai | AgentX-Python | 68 | 9 | [link](https://github.com/AgentX-ai/AgentX-Python) |
-| LangConfig | langconfig | 68 | 18 | [link](https://github.com/LangConfig/langconfig) |
-| ahastudio | CodingLife | 68 | 29 | [link](https://github.com/ahastudio/CodingLife) |
+| avante-corp | avante.nvim | 18168 | 850 | [link](https://github.com/avante-corp/avante.nvim) |
+| MervinPraison | PraisonAI | 9080 | 1453 | [link](https://github.com/MervinPraison/PraisonAI) |
+| Sumanth077 | Hands-On-AI-Engineering | 3651 | 889 | [link](https://github.com/Sumanth077/Hands-On-AI-Engineering) |
+| vndee | llm-sandbox | 1122 | 107 | [link](https://github.com/vndee/llm-sandbox) |
+| volcengine | veadk-python | 344 | 98 | [link](https://github.com/volcengine/veadk-python) |
+| AgentSwarms-fyi | agentswarms | 251 | 60 | [link](https://github.com/AgentSwarms-fyi/agentswarms) |
 | Jamie-BitFlight | claude_skills | 66 | 10 | [link](https://github.com/Jamie-BitFlight/claude_skills) |
-| alibaba | XiYan-SQL | 66 | 11 | [link](https://github.com/alibaba/XiYan-SQL) |
-| sunnysavita10 | genai_bootcamp | 63 | 60 | [link](https://github.com/sunnysavita10/genai_bootcamp) |
-| PostHog | posthog-python | 61 | 81 | [link](https://github.com/PostHog/posthog-python) |
-| hist0613 | arxivbot | 61 | 3 | [link](https://github.com/hist0613/arxivbot) |
-| vladeziegler | Vladoesgrowth | 58 | 32 | [link](https://github.com/vladeziegler/Vladoesgrowth) |
-| NapthaAI | autoa2a | 58 | 6 | [link](https://github.com/NapthaAI/autoa2a) |
 | AlicanKaya192 | Data-Science-RoadMap | 57 | 6 | [link](https://github.com/AlicanKaya192/Data-Science-RoadMap) |
-| traversaal-ai | AgentPro | 54 | 38 | [link](https://github.com/traversaal-ai/AgentPro) |
-| dermatologist | fhiry | 50 | 9 | [link](https://github.com/dermatologist/fhiry) |
-| smclab | openk9 | 50 | 10 | [link](https://github.com/smclab/openk9) |
-| Recidiviz | pulse-data | 48 | 29 | [link](https://github.com/Recidiviz/pulse-data) |
-| memgraph | ai-demos | 48 | 16 | [link](https://github.com/memgraph/ai-demos) |
-| izam-mohammed | ragrank | 47 | 15 | [link](https://github.com/izam-mohammed/ragrank) |
-| neo4j-field | pubmed-knowledge-graph-generation | 47 | 5 | [link](https://github.com/neo4j-field/pubmed-knowledge-graph-generation) |
-| posit-dev | py-shiny-templates | 45 | 30 | [link](https://github.com/posit-dev/py-shiny-templates) |
-| GSA-TTS | devCrew_s1 | 44 | 10 | [link](https://github.com/GSA-TTS/devCrew_s1) |
-| opea-project | GenAIEval | 41 | 58 | [link](https://github.com/opea-project/GenAIEval) |
-| climateandtech | report-analyst | 38 | 16 | [link](https://github.com/climateandtech/report-analyst) |
-| GreyhavenHQ | reflector | 38 | 5 | [link](https://github.com/GreyhavenHQ/reflector) |
+| PacktPublishing | Building-AI-Agents-for-Finance | 40 | 19 | [link](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance) |
 | MichelKerkmeester | skilled-agent-harness_spec-driven-loops | 35 | 3 | [link](https://github.com/MichelKerkmeester/skilled-agent-harness_spec-driven-loops) |
-| HIDORAKAI002 | ai-workspace-archive | 35 | 13 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
-| coolkillercat | Doc2Agent | 33 | 4 | [link](https://github.com/coolkillercat/Doc2Agent) |
-| enricollen | fastRTC-voice-agent | 32 | 3 | [link](https://github.com/enricollen/fastRTC-voice-agent) |
-| red-hat-data-services | agentic-starter-kits | 31 | 26 | [link](https://github.com/red-hat-data-services/agentic-starter-kits) |
-| traceloop | auto-prompting-demo | 31 | 7 | [link](https://github.com/traceloop/auto-prompting-demo) |
-| Farhad-Davaripour | FEA_Assisted_Agent | 30 | 11 | [link](https://github.com/Farhad-Davaripour/FEA_Assisted_Agent) |
-| maeste | multi-agent-a2a | 29 | 4 | [link](https://github.com/maeste/multi-agent-a2a) |
-| PacktPublishing | Building-AI-Agents-for-Finance | 28 | 14 | [link](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance) |
-| run-llama | image-generation-agent | 28 | 5 | [link](https://github.com/run-llama/image-generation-agent) |
-| emqx | esp32-mcp-mqtt-tutorial | 27 | 8 | [link](https://github.com/emqx/esp32-mcp-mqtt-tutorial) |
+| HIDORAKAI002 | ai-workspace-archive | 35 | 14 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| red-hat-data-services | agentic-starter-kits | 34 | 29 | [link](https://github.com/red-hat-data-services/agentic-starter-kits) |
 | arosyihuddin | qwen-api | 25 | 8 | [link](https://github.com/arosyihuddin/qwen-api) |
-| markl-a | My-AI-Learning-Notes | 25 | 4 | [link](https://github.com/markl-a/My-AI-Learning-Notes) |
 
 ---
-* **Last scrape:** 2026-09-13T03:58:28.587Z
-* **Total pages scraped:** 117
-* **Repos found:** 3439
-* **Repos filtered out (< 25 stars):** 3308
-* **Total possible repositories:** 24726
-* **Percent processed:** 13.9%
+* **Last scrape:** 2026-09-20T04:00:31.047Z
+* **Total pages scraped:** 15
+* **Repos found:** 437
+* **Repos filtered out (< 25 stars):** 424
+* **Total possible repositories:** 24747
+* **Percent processed:** 1.8%
