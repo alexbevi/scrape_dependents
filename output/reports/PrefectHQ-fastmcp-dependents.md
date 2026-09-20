@@ -4,37 +4,140 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| langchain-ai | langchain | 146205 | 24430 | [link](https://github.com/langchain-ai/langchain) |
-| run-llama | llama_index | 52139 | 8121 | [link](https://github.com/run-llama/llama_index) |
-| budtmo | docker-android | 15842 | 1751 | [link](https://github.com/budtmo/docker-android) |
-| kubernetes-sigs | agent-sandbox | 3824 | 498 | [link](https://github.com/kubernetes-sigs/agent-sandbox) |
-| Hello-Mr-Crab | pywechat | 1917 | 510 | [link](https://github.com/Hello-Mr-Crab/pywechat) |
-| mnemox-ai | tradememory-protocol | 1417 | 167 | [link](https://github.com/mnemox-ai/tradememory-protocol) |
-| langchain-ai | docs | 412 | 2690 | [link](https://github.com/langchain-ai/docs) |
-| volcengine | veadk-python | 342 | 95 | [link](https://github.com/volcengine/veadk-python) |
-| ansys | pyansys | 284 | 131 | [link](https://github.com/ansys/pyansys) |
-| ClickHouse | examples | 229 | 55 | [link](https://github.com/ClickHouse/examples) |
-| daxm | fmpsdk | 211 | 75 | [link](https://github.com/daxm/fmpsdk) |
-| Mercor-Intelligence | ApexAgents-SkyRL-Recipe | 189 | 13 | [link](https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe) |
-| morganstanley | MSML | 177 | 37 | [link](https://github.com/morganstanley/MSML) |
-| NX-AI | tirex-2 | 134 | 14 | [link](https://github.com/NX-AI/tirex-2) |
-| SoulMelody | LibreSVIP | 128 | 15 | [link](https://github.com/SoulMelody/LibreSVIP) |
-| The-AI-Republic | pi-dash | 125 | 2 | [link](https://github.com/The-AI-Republic/pi-dash) |
-| meteatamel | genai-beyond-basics | 108 | 17 | [link](https://github.com/meteatamel/genai-beyond-basics) |
-| ChristianHinge | dicom-mcp | 99 | 29 | [link](https://github.com/ChristianHinge/dicom-mcp) |
+| langchain-ai | langchain | 146695 | 24530 | [link](https://github.com/langchain-ai/langchain) |
+| run-llama | llama_index | 52236 | 8178 | [link](https://github.com/run-llama/llama_index) |
+| topoteretes | cognee | 30848 | 3066 | [link](https://github.com/topoteretes/cognee) |
+| langchain-ai | deepagents | 29581 | 4158 | [link](https://github.com/langchain-ai/deepagents) |
+| flet-dev | flet | 16953 | 694 | [link](https://github.com/flet-dev/flet) |
+| budtmo | docker-android | 15871 | 1754 | [link](https://github.com/budtmo/docker-android) |
+| GoogleCloudPlatform | training-data-analyst | 8641 | 6077 | [link](https://github.com/GoogleCloudPlatform/training-data-analyst) |
+| openJiuwen-ai | jiuwenswarm | 6524 | 1108 | [link](https://github.com/openJiuwen-ai/jiuwenswarm) |
+| apache | hudi | 6262 | 2520 | [link](https://github.com/apache/hudi) |
+| PrimeIntellect-ai | verifiers | 4634 | 675 | [link](https://github.com/PrimeIntellect-ai/verifiers) |
+| oracle-devrel | oracle-ai-developer-hub | 4390 | 829 | [link](https://github.com/oracle-devrel/oracle-ai-developer-hub) |
+| kubernetes-sigs | agent-sandbox | 3956 | 520 | [link](https://github.com/kubernetes-sigs/agent-sandbox) |
+| google | timesketch | 3418 | 666 | [link](https://github.com/google/timesketch) |
+| the-momentum | open-wearables | 2527 | 491 | [link](https://github.com/the-momentum/open-wearables) |
+| bionic-gpt | bionic-gpt | 2371 | 246 | [link](https://github.com/bionic-gpt/bionic-gpt) |
+| Hello-Mr-Crab | pywechat | 1939 | 516 | [link](https://github.com/Hello-Mr-Crab/pywechat) |
+| uber | ADR | 1575 | 148 | [link](https://github.com/uber/ADR) |
+| mnemox-ai | tradememory-protocol | 1420 | 168 | [link](https://github.com/mnemox-ai/tradememory-protocol) |
+| apache | amoro | 1181 | 397 | [link](https://github.com/apache/amoro) |
+| oceanbase | powercontext | 1090 | 213 | [link](https://github.com/oceanbase/powercontext) |
+| jezweb | claude-skills | 1017 | 102 | [link](https://github.com/jezweb/claude-skills) |
+| SpecterOps | Nemesis | 997 | 104 | [link](https://github.com/SpecterOps/Nemesis) |
+| AgileRL | AgileRL | 950 | 80 | [link](https://github.com/AgileRL/AgileRL) |
+| pydantic | pydantic-ai-harness | 906 | 139 | [link](https://github.com/pydantic/pydantic-ai-harness) |
+| timothepoznanski | poznote | 852 | 35 | [link](https://github.com/timothepoznanski/poznote) |
+| sandbox-quantum | switch | 644 | 52 | [link](https://github.com/sandbox-quantum/switch) |
+| winstonkoh87 | Athena-Public | 589 | 77 | [link](https://github.com/winstonkoh87/Athena-Public) |
+| Ljzd-PRO | KToolBox | 579 | 26 | [link](https://github.com/Ljzd-PRO/KToolBox) |
+| tryonlabs | opentryon | 536 | 66 | [link](https://github.com/tryonlabs/opentryon) |
+| databrickslabs | dqx | 459 | 148 | [link](https://github.com/databrickslabs/dqx) |
+| earthobservations | wetterdienst | 455 | 59 | [link](https://github.com/earthobservations/wetterdienst) |
+| ratel-ai | ratel | 441 | 25 | [link](https://github.com/ratel-ai/ratel) |
+| openJiuwen-ai | agent-core | 430 | 112 | [link](https://github.com/openJiuwen-ai/agent-core) |
+| langchain-ai | docs | 418 | 2701 | [link](https://github.com/langchain-ai/docs) |
+| Context-Engine-AI | Context-Engine | 402 | 55 | [link](https://github.com/Context-Engine-AI/Context-Engine) |
+| lemma-work | lemma-platform | 391 | 60 | [link](https://github.com/lemma-work/lemma-platform) |
+| vulnersCom | api | 375 | 65 | [link](https://github.com/vulnersCom/api) |
+| syswonder | robonix | 365 | 55 | [link](https://github.com/syswonder/robonix) |
+| griddynamics | rosetta | 348 | 76 | [link](https://github.com/griddynamics/rosetta) |
+| volcengine | veadk-python | 344 | 98 | [link](https://github.com/volcengine/veadk-python) |
+| hud-evals | hud-python | 302 | 75 | [link](https://github.com/hud-evals/hud-python) |
+| ansys | pyansys | 287 | 131 | [link](https://github.com/ansys/pyansys) |
+| NatsUIJM | autoContents | 267 | 17 | [link](https://github.com/NatsUIJM/autoContents) |
+| microsoft | Sico | 256 | 34 | [link](https://github.com/microsoft/Sico) |
+| AgentSwarms-fyi | agentswarms | 251 | 60 | [link](https://github.com/AgentSwarms-fyi/agentswarms) |
+| ClickHouse | examples | 229 | 54 | [link](https://github.com/ClickHouse/examples) |
+| XiyaoWang0519 | agent-call | 214 | 1 | [link](https://github.com/XiyaoWang0519/agent-call) |
+| daxm | fmpsdk | 212 | 76 | [link](https://github.com/daxm/fmpsdk) |
+| Mercor-Intelligence | ApexAgents-SkyRL-Recipe | 204 | 15 | [link](https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe) |
+| Lifecycle-Innovations-Limited | claude-ops | 192 | 22 | [link](https://github.com/Lifecycle-Innovations-Limited/claude-ops) |
+| morganstanley | MSML | 178 | 37 | [link](https://github.com/morganstanley/MSML) |
+| samyama-ai | samyama-graph | 172 | 16 | [link](https://github.com/samyama-ai/samyama-graph) |
+| DasDigitaleMomentum | searxNcrawl | 164 | 18 | [link](https://github.com/DasDigitaleMomentum/searxNcrawl) |
+| flowintel | flowintel | 159 | 26 | [link](https://github.com/flowintel/flowintel) |
+| The-AI-Republic | pi-dash | 154 | 3 | [link](https://github.com/The-AI-Republic/pi-dash) |
+| CommonHuman-Lab | nyxstrike | 150 | 34 | [link](https://github.com/CommonHuman-Lab/nyxstrike) |
+| HarleyCoops | KimiK3Manim | 143 | 20 | [link](https://github.com/HarleyCoops/KimiK3Manim) |
+| NX-AI | tirex-2 | 136 | 14 | [link](https://github.com/NX-AI/tirex-2) |
+| dinglebear-ai | unraid | 131 | 38 | [link](https://github.com/dinglebear-ai/unraid) |
+| SoulMelody | LibreSVIP | 130 | 16 | [link](https://github.com/SoulMelody/LibreSVIP) |
+| flyteorg | flyte-sdk | 128 | 64 | [link](https://github.com/flyteorg/flyte-sdk) |
+| open-experiments | agent-school | 127 | 13 | [link](https://github.com/open-experiments/agent-school) |
+| pyinstaller | pyinstaller-hooks-contrib | 124 | 144 | [link](https://github.com/pyinstaller/pyinstaller-hooks-contrib) |
+| andrefetch | postal | 124 | 32 | [link](https://github.com/andrefetch/postal) |
+| meteatamel | genai-beyond-basics | 109 | 17 | [link](https://github.com/meteatamel/genai-beyond-basics) |
+| ChristianHinge | dicom-mcp | 101 | 29 | [link](https://github.com/ChristianHinge/dicom-mcp) |
+| oracle | ai-optimizer | 101 | 46 | [link](https://github.com/oracle/ai-optimizer) |
+| oaslananka | kicad-mcp-pro | 95 | 14 | [link](https://github.com/oaslananka/kicad-mcp-pro) |
+| ubopod | ubo_app | 92 | 8 | [link](https://github.com/ubopod/ubo_app) |
+| arm | mcp | 92 | 20 | [link](https://github.com/arm/mcp) |
+| microsoft | thinkingbox | 82 | 6 | [link](https://github.com/microsoft/thinkingbox) |
+| mituan-ai | PaperBanana-CN | 81 | 6 | [link](https://github.com/mituan-ai/PaperBanana-CN) |
+| databrickslabs | sandbox | 81 | 64 | [link](https://github.com/databrickslabs/sandbox) |
+| IBM | ibmi-mcp-server | 80 | 36 | [link](https://github.com/IBM/ibmi-mcp-server) |
+| raia-live | amfs | 76 | 10 | [link](https://github.com/raia-live/amfs) |
+| AuthPlane | authserver | 74 | 4 | [link](https://github.com/AuthPlane/authserver) |
+| dreamrec | LivePilot | 69 | 17 | [link](https://github.com/dreamrec/LivePilot) |
+| aws | tools-for-devops-agent | 68 | 55 | [link](https://github.com/aws/tools-for-devops-agent) |
+| aravindev | inkscape_mcp | 64 | 7 | [link](https://github.com/aravindev/inkscape_mcp) |
+| JovaniPink | mcp-browser-use | 62 | 12 | [link](https://github.com/JovaniPink/mcp-browser-use) |
+| rjwalters | kicad-tools | 61 | 7 | [link](https://github.com/rjwalters/kicad-tools) |
+| espressif | esp-rainmaker-neo | 61 | 8 | [link](https://github.com/espressif/esp-rainmaker-neo) |
+| mitodl | ol-infrastructure | 59 | 5 | [link](https://github.com/mitodl/ol-infrastructure) |
+| richarvey | OmniMem | 59 | 6 | [link](https://github.com/richarvey/OmniMem) |
 | philips-software | roslyn-analyzers | 57 | 14 | [link](https://github.com/philips-software/roslyn-analyzers) |
-| uhh-lt | dats | 48 | 4 | [link](https://github.com/uhh-lt/dats) |
-| Provenance-Emu | iCube | 48 | 7 | [link](https://github.com/Provenance-Emu/iCube) |
-| benclawbot | open-brain | 46 | 20 | [link](https://github.com/benclawbot/open-brain) |
-| GoogleCloudPlatform | terraform-google-enterprise-genai | 40 | 20 | [link](https://github.com/GoogleCloudPlatform/terraform-google-enterprise-genai) |
+| appgoblin-dev | appgoblin | 55 | 11 | [link](https://github.com/appgoblin-dev/appgoblin) |
+| cbtw-apac | qdrant-loader | 53 | 29 | [link](https://github.com/cbtw-apac/qdrant-loader) |
+| elastic | opentelemetry-demo | 52 | 67 | [link](https://github.com/elastic/opentelemetry-demo) |
+| CybercentreCanada | howler | 52 | 12 | [link](https://github.com/CybercentreCanada/howler) |
+| ariffazil | arifOS | 51 | 8 | [link](https://github.com/ariffazil/arifOS) |
+| Provenance-Emu | iCube | 51 | 8 | [link](https://github.com/Provenance-Emu/iCube) |
+| uhh-lt | dats | 48 | 5 | [link](https://github.com/uhh-lt/dats) |
+| OpenDFM | Xcientist | 46 | 4 | [link](https://github.com/OpenDFM/Xcientist) |
+| benclawbot | open-brain | 45 | 22 | [link](https://github.com/benclawbot/open-brain) |
+| Kiwoom-Securities | Kiwoom-REST-API | 44 | 12 | [link](https://github.com/Kiwoom-Securities/Kiwoom-REST-API) |
+| sandraschi | calibremcp | 43 | 10 | [link](https://github.com/sandraschi/calibremcp) |
+| datamllab | A2E | 42 | 5 | [link](https://github.com/datamllab/A2E) |
+| elastic | relevance-studio | 42 | 18 | [link](https://github.com/elastic/relevance-studio) |
+| SiEPIC | gds_fdtd | 41 | 9 | [link](https://github.com/SiEPIC/gds_fdtd) |
+| GoogleCloudPlatform | terraform-google-enterprise-genai | 40 | 21 | [link](https://github.com/GoogleCloudPlatform/terraform-google-enterprise-genai) |
+| web3spreads | quant-flow | 39 | 10 | [link](https://github.com/web3spreads/quant-flow) |
+| x-CK-x | Dataset-Curation-Tool | 39 | 7 | [link](https://github.com/x-CK-x/Dataset-Curation-Tool) |
+| EverMind-AI | EvoAgentBench | 38 | 5 | [link](https://github.com/EverMind-AI/EvoAgentBench) |
+| ruarxive | metawarc | 37 | 2 | [link](https://github.com/ruarxive/metawarc) |
+| NatLabRockies | plexosdb | 37 | 21 | [link](https://github.com/NatLabRockies/plexosdb) |
+| machinable-org | machinable | 36 | 2 | [link](https://github.com/machinable-org/machinable) |
+| peterdresslar | zotero-gemini-notebook | 35 | 5 | [link](https://github.com/peterdresslar/zotero-gemini-notebook) |
+| MichelKerkmeester | skilled-agent-harness_spec-driven-loops | 35 | 3 | [link](https://github.com/MichelKerkmeester/skilled-agent-harness_spec-driven-loops) |
 | MagicDash91 | ML-Engineering-Project | 34 | 5 | [link](https://github.com/MagicDash91/ML-Engineering-Project) |
+| aws-samples | sample-agentic-ai-acceleration-kr | 34 | 14 | [link](https://github.com/aws-samples/sample-agentic-ai-acceleration-kr) |
 | SelfMemory | SelfMemory | 33 | 1 | [link](https://github.com/SelfMemory/SelfMemory) |
+| wandb | senpai | 33 | 4 | [link](https://github.com/wandb/senpai) |
+| lihor-hub | news-dashboard | 33 | 5 | [link](https://github.com/lihor-hub/news-dashboard) |
+| vincenzo-afk | SocialGuard-RL | 32 | 0 | [link](https://github.com/vincenzo-afk/SocialGuard-RL) |
+| retrofor | iamai | 32 | 10 | [link](https://github.com/retrofor/iamai) |
+| huyedits | Symbio | 31 | 2 | [link](https://github.com/huyedits/Symbio) |
+| microsoft | Loopsbench | 31 | 5 | [link](https://github.com/microsoft/Loopsbench) |
+| Arize-ai | tutorials | 28 | 28 | [link](https://github.com/Arize-ai/tutorials) |
+| syleedlabs | deal-locator-mcp | 27 | 7 | [link](https://github.com/syleedlabs/deal-locator-mcp) |
+| Ameba-AIoT | ameba-rtos-pro2 | 27 | 18 | [link](https://github.com/Ameba-AIoT/ameba-rtos-pro2) |
+| datahappy1 | notes_app | 27 | 3 | [link](https://github.com/datahappy1/notes_app) |
+| jupyter-ai-contrib | jupyter-server-mcp | 27 | 9 | [link](https://github.com/jupyter-ai-contrib/jupyter-server-mcp) |
 | twolven | mcp-stockflow | 26 | 8 | [link](https://github.com/twolven/mcp-stockflow) |
+| openemr | openemr-on-ecs | 26 | 6 | [link](https://github.com/openemr/openemr-on-ecs) |
+| wherobots | apache-sedona-book | 26 | 5 | [link](https://github.com/wherobots/apache-sedona-book) |
+| workfloworchestrator | example-orchestrator | 25 | 10 | [link](https://github.com/workfloworchestrator/example-orchestrator) |
+| eclipse-tractusx | industry-core-hub | 25 | 30 | [link](https://github.com/eclipse-tractusx/industry-core-hub) |
+| letya999 | job_ftch | 25 | 1 | [link](https://github.com/letya999/job_ftch) |
+| lusky3 | play-store-mcp | 25 | 12 | [link](https://github.com/lusky3/play-store-mcp) |
 
 ---
-* **Last scrape:** 2026-09-13T04:03:31.206Z
-* **Total pages scraped:** 11
-* **Repos found:** 330
-* **Repos filtered out (< 25 stars):** 304
-* **Total possible repositories:** 12590
-* **Percent processed:** 2.6%
+* **Last scrape:** 2026-09-20T04:08:35.866Z
+* **Total pages scraped:** 61
+* **Repos found:** 1806
+* **Repos filtered out (< 25 stars):** 1677
+* **Total possible repositories:** 12759
+* **Percent processed:** 14.2%
