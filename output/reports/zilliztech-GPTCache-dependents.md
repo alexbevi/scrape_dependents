@@ -4,53 +4,51 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| ComposioHQ | composio | 30151 | 4789 | [link](https://github.com/ComposioHQ/composio) |
-| MervinPraison | PraisonAI | 9047 | 1437 | [link](https://github.com/MervinPraison/PraisonAI) |
-| ed-donner | agents | 6157 | 5314 | [link](https://github.com/ed-donner/agents) |
-| Ikaros-521 | AI-Vtuber | 4450 | 659 | [link](https://github.com/Ikaros-521/AI-Vtuber) |
-| bragai | bRAG-langchain | 4156 | 500 | [link](https://github.com/bragai/bRAG-langchain) |
-| truera | trulens | 3547 | 340 | [link](https://github.com/truera/trulens) |
-| agentstack-ai | AgentStack | 2190 | 222 | [link](https://github.com/agentstack-ai/AgentStack) |
-| a2aproject | a2a-samples | 1764 | 751 | [link](https://github.com/a2aproject/a2a-samples) |
+| ComposioHQ | composio | 30254 | 4810 | [link](https://github.com/ComposioHQ/composio) |
+| MervinPraison | PraisonAI | 9080 | 1453 | [link](https://github.com/MervinPraison/PraisonAI) |
+| ed-donner | agents | 6212 | 5367 | [link](https://github.com/ed-donner/agents) |
+| Ikaros-521 | AI-Vtuber | 4452 | 659 | [link](https://github.com/Ikaros-521/AI-Vtuber) |
+| bragai | bRAG-langchain | 4167 | 500 | [link](https://github.com/bragai/bRAG-langchain) |
+| truera | trulens | 3563 | 345 | [link](https://github.com/truera/trulens) |
+| agentstack-ai | AgentStack | 2191 | 221 | [link](https://github.com/agentstack-ai/AgentStack) |
+| a2aproject | a2a-samples | 1778 | 759 | [link](https://github.com/a2aproject/a2a-samples) |
 | HumanSignal | Adala | 1636 | 160 | [link](https://github.com/HumanSignal/Adala) |
-| BetterDB-inc | monitor | 1301 | 83 | [link](https://github.com/BetterDB-inc/monitor) |
-| tylerprogramming | ai | 1151 | 307 | [link](https://github.com/tylerprogramming/ai) |
-| elastic | elastic-labs | 1131 | 279 | [link](https://github.com/elastic/elastic-labs) |
-| wandb | weave | 1128 | 167 | [link](https://github.com/wandb/weave) |
-| splx-ai | agentic-radar | 1051 | 146 | [link](https://github.com/splx-ai/agentic-radar) |
-| docker | compose-for-agents | 1034 | 469 | [link](https://github.com/docker/compose-for-agents) |
+| BetterDB-inc | monitor | 1299 | 81 | [link](https://github.com/BetterDB-inc/monitor) |
+| elastic | elastic-labs | 1133 | 280 | [link](https://github.com/elastic/elastic-labs) |
+| wandb | weave | 1129 | 168 | [link](https://github.com/wandb/weave) |
+| splx-ai | agentic-radar | 1054 | 147 | [link](https://github.com/splx-ai/agentic-radar) |
+| docker | compose-for-agents | 1039 | 470 | [link](https://github.com/docker/compose-for-agents) |
 | msoedov | langcorn | 938 | 69 | [link](https://github.com/msoedov/langcorn) |
 | onlyphantom | llm-python | 931 | 316 | [link](https://github.com/onlyphantom/llm-python) |
 | andysingal | llm-course | 887 | 133 | [link](https://github.com/andysingal/llm-course) |
-| disler | multi-agent-postgres-data-analytics | 886 | 184 | [link](https://github.com/disler/multi-agent-postgres-data-analytics) |
+| disler | multi-agent-postgres-data-analytics | 887 | 183 | [link](https://github.com/disler/multi-agent-postgres-data-analytics) |
 | corca-ai | EVAL | 865 | 83 | [link](https://github.com/corca-ai/EVAL) |
-| alexfazio | viral-clips-crew | 762 | 117 | [link](https://github.com/alexfazio/viral-clips-crew) |
+| alexfazio | viral-clips-crew | 767 | 117 | [link](https://github.com/alexfazio/viral-clips-crew) |
 | amosjyng | langchain-visualizer | 738 | 49 | [link](https://github.com/amosjyng/langchain-visualizer) |
 | codefuse-ai | Test-Agent | 720 | 91 | [link](https://github.com/codefuse-ai/Test-Agent) |
 | rnadigital | agentcloud | 690 | 140 | [link](https://github.com/rnadigital/agentcloud) |
-| poe-platform | poe-protocol | 433 | 41 | [link](https://github.com/poe-platform/poe-protocol) |
-| alexfazio | crewAI-quickstart | 422 | 76 | [link](https://github.com/alexfazio/crewAI-quickstart) |
+| poe-platform | poe-protocol | 434 | 41 | [link](https://github.com/poe-platform/poe-protocol) |
+| alexfazio | crewAI-quickstart | 423 | 76 | [link](https://github.com/alexfazio/crewAI-quickstart) |
 | ennucore | clippinator | 411 | 50 | [link](https://github.com/ennucore/clippinator) |
-| Eng-Elias | CrewAI-Visualizer | 397 | 100 | [link](https://github.com/Eng-Elias/CrewAI-Visualizer) |
-| webisopen | OpenAgent | 354 | 49 | [link](https://github.com/webisopen/OpenAgent) |
-| meta-prompting | meta-prompting | 322 | 38 | [link](https://github.com/meta-prompting/meta-prompting) |
+| Eng-Elias | CrewAI-Visualizer | 398 | 100 | [link](https://github.com/Eng-Elias/CrewAI-Visualizer) |
+| webisopen | OpenAgent | 355 | 49 | [link](https://github.com/webisopen/OpenAgent) |
+| meta-prompting | meta-prompting | 324 | 38 | [link](https://github.com/meta-prompting/meta-prompting) |
 | VividGen | CMA | 321 | 20 | [link](https://github.com/VividGen/CMA) |
 | rokbenko | ai-playground | 320 | 84 | [link](https://github.com/rokbenko/ai-playground) |
 | py-why | pywhyllm | 315 | 37 | [link](https://github.com/py-why/pywhyllm) |
 | shaman-ai | agent-actors | 277 | 24 | [link](https://github.com/shaman-ai/agent-actors) |
 | samwit | agent_tutorials | 271 | 80 | [link](https://github.com/samwit/agent_tutorials) |
-| IBM | ibmdotcom-tutorials | 262 | 109 | [link](https://github.com/IBM/ibmdotcom-tutorials) |
-| alexfazio | OpenPlexity-Pages | 253 | 29 | [link](https://github.com/alexfazio/OpenPlexity-Pages) |
-| google-gemini | workshops | 228 | 66 | [link](https://github.com/google-gemini/workshops) |
-| mneedham | LearnDataWithMark | 213 | 52 | [link](https://github.com/mneedham/LearnDataWithMark) |
-| fw-ai | cookbook | 205 | 59 | [link](https://github.com/fw-ai/cookbook) |
+| alexfazio | OpenPlexity-Pages | 254 | 29 | [link](https://github.com/alexfazio/OpenPlexity-Pages) |
+| google-gemini | workshops | 228 | 65 | [link](https://github.com/google-gemini/workshops) |
+| fw-ai | cookbook | 213 | 61 | [link](https://github.com/fw-ai/cookbook) |
+| mneedham | LearnDataWithMark | 212 | 52 | [link](https://github.com/mneedham/LearnDataWithMark) |
 | prof-frink-lab | slangchain | 198 | 12 | [link](https://github.com/prof-frink-lab/slangchain) |
 | 3Alan | DocsMind | 197 | 71 | [link](https://github.com/3Alan/DocsMind) |
 | Div-Infinity | InternetOfAgents | 196 | 15 | [link](https://github.com/Div-Infinity/InternetOfAgents) |
-| McGill-NLP | VinePPO | 193 | 23 | [link](https://github.com/McGill-NLP/VinePPO) |
+| McGill-NLP | VinePPO | 194 | 23 | [link](https://github.com/McGill-NLP/VinePPO) |
 | shaunthecomputerscientist | EDA-GPT | 182 | 32 | [link](https://github.com/shaunthecomputerscientist/EDA-GPT) |
 | bhancockio | automate-youtube-with-crewai | 175 | 114 | [link](https://github.com/bhancockio/automate-youtube-with-crewai) |
-| akj2018 | Multi-AI-Agent-Systems-with-crewAI | 167 | 53 | [link](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI) |
+| akj2018 | Multi-AI-Agent-Systems-with-crewAI | 169 | 53 | [link](https://github.com/akj2018/Multi-AI-Agent-Systems-with-crewAI) |
 | aurelio-labs | arxiv-bot | 163 | 41 | [link](https://github.com/aurelio-labs/arxiv-bot) |
 | alejandro-ao | langchain-ask-csv | 154 | 91 | [link](https://github.com/alejandro-ao/langchain-ask-csv) |
 | kspviswa | local-packet-whisperer | 152 | 40 | [link](https://github.com/kspviswa/local-packet-whisperer) |
@@ -59,7 +57,7 @@
 | robindekoster | chatgpt-custom-knowledge-chatbot | 138 | 38 | [link](https://github.com/robindekoster/chatgpt-custom-knowledge-chatbot) |
 | tshu-w | DBCopilot | 137 | 25 | [link](https://github.com/tshu-w/DBCopilot) |
 | bhancockio | nextjs-crewai-basic-tutorial | 135 | 81 | [link](https://github.com/bhancockio/nextjs-crewai-basic-tutorial) |
-| GetStream | stream-tutorial-projects | 130 | 33 | [link](https://github.com/GetStream/stream-tutorial-projects) |
+| GetStream | stream-tutorial-projects | 132 | 33 | [link](https://github.com/GetStream/stream-tutorial-projects) |
 | PacktPublishing | Mastering-NLP-from-Foundations-to-LLMs | 130 | 62 | [link](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs) |
 | zhangleino1 | paper-summarizer | 127 | 19 | [link](https://github.com/zhangleino1/paper-summarizer) |
 | agentcoinorg | AutoTx | 125 | 25 | [link](https://github.com/agentcoinorg/AutoTx) |
@@ -71,14 +69,14 @@
 | OneDuckyBoy | Awesome-AI-Agents-HUB-for-CrewAI | 94 | 20 | [link](https://github.com/OneDuckyBoy/Awesome-AI-Agents-HUB-for-CrewAI) |
 | bhancockio | crewai-groq-tutorial | 93 | 58 | [link](https://github.com/bhancockio/crewai-groq-tutorial) |
 | yifanzhang-pro | AutoMathText | 92 | 6 | [link](https://github.com/yifanzhang-pro/AutoMathText) |
-| DTiapan | ai-agents-handbook | 88 | 18 | [link](https://github.com/DTiapan/ai-agents-handbook) |
+| DTiapan | ai-agents-handbook | 87 | 18 | [link](https://github.com/DTiapan/ai-agents-handbook) |
 | amosjyng | vcr-langchain | 82 | 6 | [link](https://github.com/amosjyng/vcr-langchain) |
 | NTTLuke | spotify-playlist-old | 81 | 8 | [link](https://github.com/NTTLuke/spotify-playlist-old) |
 | relari-ai | agent-examples | 77 | 26 | [link](https://github.com/relari-ai/agent-examples) |
+| AI-Makerspace | AI-Makerspace | 74 | 38 | [link](https://github.com/AI-Makerspace/AI-Makerspace) |
 | yuriwa | crewai-sheets-ui | 74 | 13 | [link](https://github.com/yuriwa/crewai-sheets-ui) |
-| AI-Makerspace | AI-Makerspace | 73 | 38 | [link](https://github.com/AI-Makerspace/AI-Makerspace) |
 | priya-dwivedi | chat-with-code | 73 | 35 | [link](https://github.com/priya-dwivedi/chat-with-code) |
-| whyashthakker | ai-agents | 72 | 57 | [link](https://github.com/whyashthakker/ai-agents) |
+| whyashthakker | ai-agents | 72 | 58 | [link](https://github.com/whyashthakker/ai-agents) |
 | adithya-s-k | Storyblocks | 72 | 9 | [link](https://github.com/adithya-s-k/Storyblocks) |
 | ExamProCo | GenAI-Essentials | 65 | 45 | [link](https://github.com/ExamProCo/GenAI-Essentials) |
 | tylerprogramming | master-crewai-course | 65 | 36 | [link](https://github.com/tylerprogramming/master-crewai-course) |
@@ -87,8 +85,7 @@
 | AIFrameResearch | SPO | 56 | 7 | [link](https://github.com/AIFrameResearch/SPO) |
 | Princekrampah | rag_chatbot_ultimate_guide | 56 | 12 | [link](https://github.com/Princekrampah/rag_chatbot_ultimate_guide) |
 | techloset | agentic-ai | 55 | 35 | [link](https://github.com/techloset/agentic-ai) |
-| tylerprogramming | crewai-beginner-course | 55 | 30 | [link](https://github.com/tylerprogramming/crewai-beginner-course) |
-| IBM | watsonx-ai-platform-demos | 52 | 15 | [link](https://github.com/IBM/watsonx-ai-platform-demos) |
+| tylerprogramming | crewai-beginner-course | 55 | 29 | [link](https://github.com/tylerprogramming/crewai-beginner-course) |
 | StamKavid | FinAgent | 52 | 13 | [link](https://github.com/StamKavid/FinAgent) |
 | zinyando | crewai_conversational_chatbot | 50 | 9 | [link](https://github.com/zinyando/crewai_conversational_chatbot) |
 | HazyResearch | skill-it | 49 | 8 | [link](https://github.com/HazyResearch/skill-it) |
@@ -102,14 +99,14 @@
 | fetchai | uAgent-Examples | 37 | 25 | [link](https://github.com/fetchai/uAgent-Examples) |
 | som-shahlab | Clinfo.AI | 37 | 10 | [link](https://github.com/som-shahlab/Clinfo.AI) |
 | adrienneyager | llama-cpp-guidance | 37 | 4 | [link](https://github.com/adrienneyager/llama-cpp-guidance) |
+| DawoodTouseef | J.AR.V.I.S. | 34 | 11 | [link](https://github.com/DawoodTouseef/J.AR.V.I.S.) |
 | Hyperspawn | Dropbear | 34 | 3 | [link](https://github.com/Hyperspawn/Dropbear) |
 | curiousily | tweetcrafter | 33 | 8 | [link](https://github.com/curiousily/tweetcrafter) |
-| DawoodTouseef | J.AR.V.I.S. | 32 | 11 | [link](https://github.com/DawoodTouseef/J.AR.V.I.S.) |
+| pisterlabs | promptset | 33 | 12 | [link](https://github.com/pisterlabs/promptset) |
 | youssefHosni | Agentic-RAG-Application-DeepSeek | 32 | 13 | [link](https://github.com/youssefHosni/Agentic-RAG-Application-DeepSeek) |
 | getbasedai | basedai | 32 | 11 | [link](https://github.com/getbasedai/basedai) |
+| Agentic-AI-Coach | AgenticAICoach | 32 | 32 | [link](https://github.com/Agentic-AI-Coach/AgenticAICoach) |
 | sethcoast | cover-letter-builder | 32 | 5 | [link](https://github.com/sethcoast/cover-letter-builder) |
-| pisterlabs | promptset | 32 | 12 | [link](https://github.com/pisterlabs/promptset) |
-| Agentic-AI-Coach | AgenticAICoach | 31 | 32 | [link](https://github.com/Agentic-AI-Coach/AgenticAICoach) |
 | repollo | llm_data_parser | 30 | 1 | [link](https://github.com/repollo/llm_data_parser) |
 | bhancockio | chatgpt4o-analysis | 29 | 19 | [link](https://github.com/bhancockio/chatgpt4o-analysis) |
 | bflaven | ia_usages | 28 | 9 | [link](https://github.com/bflaven/ia_usages) |
@@ -122,9 +119,9 @@
 | run-llama | llama-api | 25 | 10 | [link](https://github.com/run-llama/llama-api) |
 
 ---
-* **Last scrape:** 2026-09-13T04:05:56.663Z
-* **Total pages scraped:** 110
-* **Repos found:** 3238
-* **Repos filtered out (< 25 stars):** 3122
-* **Total possible repositories:** 7638
-* **Percent processed:** 42.4%
+* **Last scrape:** 2026-09-20T04:10:06.527Z
+* **Total pages scraped:** 108
+* **Repos found:** 3179
+* **Repos filtered out (< 25 stars):** 3066
+* **Total possible repositories:** 7640
+* **Percent processed:** 41.6%
