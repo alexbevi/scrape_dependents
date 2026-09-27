@@ -4,22 +4,51 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| LLPhant | LLPhant | 1708 | 171 | [link](https://github.com/LLPhant/LLPhant) |
+| api-platform | core | 2575 | 984 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2220 | 429 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1960 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1710 | 171 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 800 | 114 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 714 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| lexik | LexikTranslationBundle | 437 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
+| theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| php-enqueue | enqueue-bundle | 276 | 31 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
+| vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 178 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
-| getparthenon | parthenon | 174 | 12 | [link](https://github.com/getparthenon/parthenon) |
+| getparthenon | parthenon | 172 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 140 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
+| floriansemm | SolrBundle | 122 | 71 | [link](https://github.com/floriansemm/SolrBundle) |
+| h4cc | AliceFixturesBundle | 74 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
+| sskorc | docker-symfony | 74 | 20 | [link](https://github.com/sskorc/docker-symfony) |
+| Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | MacPaw | symfony-health-check-bundle | 62 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
+| pumukit | PuMuKIT | 60 | 14 | [link](https://github.com/pumukit/PuMuKIT) |
+| anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
+| khepin | KhepinYamlFixturesBundle | 58 | 39 | [link](https://github.com/khepin/KhepinYamlFixturesBundle) |
+| teamdeeson | warden | 50 | 18 | [link](https://github.com/teamdeeson/warden) |
+| Zeega | Zeega | 48 | 18 | [link](https://github.com/Zeega/Zeega) |
+| V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
+| pixelhumain | GoGoCarto | 44 | 8 | [link](https://github.com/pixelhumain/GoGoCarto) |
+| jbouzekri | free-bet | 43 | 31 | [link](https://github.com/jbouzekri/free-bet) |
 | SpiriitLabs | form-filter-bundle | 39 | 15 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
+| makasim | PayumBundleSandbox | 36 | 27 | [link](https://github.com/makasim/PayumBundleSandbox) |
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
+| automagistre | automagistre | 28 | 7 | [link](https://github.com/automagistre/automagistre) |
+| guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-09-20T04:05:59.249Z
-* **Total pages scraped:** 13
-* **Repos found:** 380
-* **Repos filtered out (< 25 stars):** 369
+* **Last scrape:** 2026-09-27T04:55:07.690Z
+* **Total pages scraped:** 23
+* **Repos found:** 664
+* **Repos filtered out (< 25 stars):** 624
 * **Total possible repositories:** 2521
-* **Percent processed:** 15.1%
+* **Percent processed:** 26.3%
