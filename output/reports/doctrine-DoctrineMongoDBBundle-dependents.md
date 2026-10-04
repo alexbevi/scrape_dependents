@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2575 | 984 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2220 | 429 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1960 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1710 | 171 | [link](https://github.com/LLPhant/LLPhant) |
+| api-platform | core | 2576 | 986 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2220 | 428 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1714 | 172 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1265 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 800 | 114 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 714 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| Cocolabs-SAS | cocorico | 873 | 591 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 713 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 437 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-09-27T04:55:07.690Z
+* **Last scrape:** 2026-10-04T05:07:03.775Z
 * **Total pages scraped:** 23
 * **Repos found:** 664
 * **Repos filtered out (< 25 stars):** 624
-* **Total possible repositories:** 2521
+* **Total possible repositories:** 2522
 * **Percent processed:** 26.3%
