@@ -6,18 +6,18 @@
 |---|---|---|---|---|
 | doctrine-extensions | DoctrineExtensions | 4137 | 1248 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
 | doctrine | data-fixtures | 2850 | 231 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2575 | 984 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1960 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| api-platform | core | 2576 | 986 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
 | dustin10 | VichUploaderBundle | 1901 | 522 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1710 | 171 | [link](https://github.com/LLPhant/LLPhant) |
+| LLPhant | LLPhant | 1714 | 172 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1265 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | FriendsOfSymfony | FOSOAuthServerBundle | 1076 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 800 | 114 | [link](https://github.com/zenstruck/foundry) |
-| KnpLabs | knp-components | 773 | 139 | [link](https://github.com/KnpLabs/knp-components) |
-| markitosgv | JWTRefreshTokenBundle | 714 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| phpstan | phpstan-doctrine | 680 | 122 | [link](https://github.com/phpstan/phpstan-doctrine) |
-| APY | APYDataGridBundle | 492 | 335 | [link](https://github.com/APY/APYDataGridBundle) |
+| Cocolabs-SAS | cocorico | 873 | 591 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
+| KnpLabs | knp-components | 773 | 140 | [link](https://github.com/KnpLabs/knp-components) |
+| markitosgv | JWTRefreshTokenBundle | 713 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| phpstan | phpstan-doctrine | 682 | 122 | [link](https://github.com/phpstan/phpstan-doctrine) |
+| APY | APYDataGridBundle | 492 | 334 | [link](https://github.com/APY/APYDataGridBundle) |
 | sonata-project | SonataMediaBundle | 462 | 479 | [link](https://github.com/sonata-project/SonataMediaBundle) |
 | sonata-project | exporter | 441 | 87 | [link](https://github.com/sonata-project/exporter) |
 | lexik | LexikTranslationBundle | 437 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
@@ -39,7 +39,7 @@
 | krzysztof-gzocha | searcher | 117 | 8 | [link](https://github.com/krzysztof-gzocha/searcher) |
 | SmartGecko | GovernorFramework | 113 | 12 | [link](https://github.com/SmartGecko/GovernorFramework) |
 | zfcampus | zf-apigility-doctrine | 105 | 47 | [link](https://github.com/zfcampus/zf-apigility-doctrine) |
-| sonata-project | SonataClassificationBundle | 91 | 110 | [link](https://github.com/sonata-project/SonataClassificationBundle) |
+| sonata-project | SonataClassificationBundle | 91 | 111 | [link](https://github.com/sonata-project/SonataClassificationBundle) |
 | doctrine | DoctrineMongoODMModule | 82 | 81 | [link](https://github.com/doctrine/DoctrineMongoODMModule) |
 | h4cc | AliceFixturesBundle | 74 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 74 | 20 | [link](https://github.com/sskorc/docker-symfony) |
@@ -67,9 +67,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-09-27T04:50:22.810Z
+* **Last scrape:** 2026-10-04T05:03:01.350Z
 * **Total pages scraped:** 29
 * **Repos found:** 830
 * **Repos filtered out (< 25 stars):** 769
-* **Total possible repositories:** 3144
+* **Total possible repositories:** 3145
 * **Percent processed:** 26.4%
