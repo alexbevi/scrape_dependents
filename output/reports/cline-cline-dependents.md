@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16794 | 3707 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16793 | 3704 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 928 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 292 | 21 | [link](https://github.com/juttle/juttle) |
@@ -23,9 +23,9 @@
 | smashwilson | hubot-markov | 62 | 23 | [link](https://github.com/smashwilson/hubot-markov) |
 | hubotio | hubot-mock-adapter | 55 | 12 | [link](https://github.com/hubotio/hubot-mock-adapter) |
 | ftdebugger | whole-npm | 53 | 7 | [link](https://github.com/ftdebugger/whole-npm) |
+| NVIDIA | NeMo-Fabric | 50 | 28 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | StackStorm | hubot-stackstorm | 49 | 37 | [link](https://github.com/StackStorm/hubot-stackstorm) |
 | Paymium | old-api-documentation | 47 | 10 | [link](https://github.com/Paymium/old-api-documentation) |
-| NVIDIA | NeMo-Fabric | 46 | 26 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | 18F | charlie | 46 | 55 | [link](https://github.com/18F/charlie) |
 | alleyinteractive | hubot-code-review | 41 | 15 | [link](https://github.com/alleyinteractive/hubot-code-review) |
 | hubotio | hubot-help | 38 | 67 | [link](https://github.com/hubotio/hubot-help) |
@@ -37,9 +37,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-10-04T05:22:05.352Z
+* **Last scrape:** 2026-10-11T06:06:11.973Z
 * **Total pages scraped:** 29
 * **Repos found:** 796
 * **Repos filtered out (< 25 stars):** 765
-* **Total possible repositories:** 3340
+* **Total possible repositories:** 3341
 * **Percent processed:** 23.8%
