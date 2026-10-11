@@ -4,13 +4,13 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1806 | 366 | [link](https://github.com/lxerxa/actionview) |
-| doubleleft | hook | 771 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 558 | 303 | [link](https://github.com/jikan-me/jikan-rest) |
+| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1805 | 365 | [link](https://github.com/lxerxa/actionview) |
+| doubleleft | hook | 770 | 79 | [link](https://github.com/doubleleft/hook) |
+| jikan-me | jikan-rest | 560 | 303 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 350 | 55 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
-| laynefyc | php-monitor | 235 | 33 | [link](https://github.com/laynefyc/php-monitor) |
+| laynefyc | php-monitor | 234 | 33 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 133 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 110 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
@@ -35,9 +35,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-10-04T05:06:22.837Z
+* **Last scrape:** 2026-10-11T05:18:57.762Z
 * **Total pages scraped:** 64
-* **Repos found:** 1896
-* **Repos filtered out (< 25 stars):** 1867
-* **Total possible repositories:** 9367
-* **Percent processed:** 20.2%
+* **Repos found:** 1882
+* **Repos filtered out (< 25 stars):** 1853
+* **Total possible repositories:** 9369
+* **Percent processed:** 20.1%
