@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 7055 | 835 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3807 | 1411 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1902 | 5266 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1342 | 597 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 969 | 288 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| OpenSignLabs | OpenSign | 7083 | 839 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3809 | 1411 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1903 | 5266 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1342 | 598 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| Eleven-Trading | TradeNote | 970 | 288 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 808 | 340 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 473 | 159 | [link](https://github.com/yongjhih/docker-parse-server) |
 | elrumo | icon-brew | 324 | 7 | [link](https://github.com/elrumo/icon-brew) |
@@ -19,7 +19,7 @@
 | ReactWindows | f8app | 87 | 15 | [link](https://github.com/ReactWindows/f8app) |
 | parse-community | parse-server-s3-adapter | 80 | 86 | [link](https://github.com/parse-community/parse-server-s3-adapter) |
 | parse-community | parse-react | 76 | 30 | [link](https://github.com/parse-community/parse-react) |
-| SashiDo | content-moderation-image-api | 76 | 23 | [link](https://github.com/SashiDo/content-moderation-image-api) |
+| SashiDo | content-moderation-image-api | 76 | 22 | [link](https://github.com/SashiDo/content-moderation-image-api) |
 | GoPlan-Finance | goplan-app | 75 | 15 | [link](https://github.com/GoPlan-Finance/goplan-app) |
 | awesome-startup | docker-compose | 65 | 10 | [link](https://github.com/awesome-startup/docker-compose) |
 | sailstech | multiple-apps-parse-server | 55 | 13 | [link](https://github.com/sailstech/multiple-apps-parse-server) |
@@ -30,7 +30,7 @@
 | andrewimm | parse-lite | 40 | 8 | [link](https://github.com/andrewimm/parse-lite) |
 | parse-community | parse-blockchain | 39 | 8 | [link](https://github.com/parse-community/parse-blockchain) |
 | clowdr-app | clowdr-web-app | 38 | 13 | [link](https://github.com/clowdr-app/clowdr-web-app) |
-| TechnionYP5777 | SmartCity-ParkingManagement | 36 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
+| TechnionYP5777 | SmartCity-ParkingManagement | 37 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
 | back4app | parse-dashboard | 35 | 18 | [link](https://github.com/back4app/parse-dashboard) |
 | winglight | soducrawler | 34 | 12 | [link](https://github.com/winglight/soducrawler) |
 | LasaleFamine | docker-mongo-parse-server | 33 | 12 | [link](https://github.com/LasaleFamine/docker-mongo-parse-server) |
@@ -41,9 +41,9 @@
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 
 ---
-* **Last scrape:** 2026-10-04T05:21:32.050Z
+* **Last scrape:** 2026-10-11T06:05:29.295Z
 * **Total pages scraped:** 27
-* **Repos found:** 759
-* **Repos filtered out (< 25 stars):** 724
+* **Repos found:** 753
+* **Repos filtered out (< 25 stars):** 718
 * **Total possible repositories:** 4175
-* **Percent processed:** 18.2%
+* **Percent processed:** 18.0%
