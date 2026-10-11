@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2576 | 986 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2220 | 428 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1962 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1714 | 172 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 787 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| api-platform | core | 2579 | 989 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2222 | 428 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1718 | 173 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
 | Cocolabs-SAS | cocorico | 873 | 591 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 713 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 437 | 262 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| markitosgv | JWTRefreshTokenBundle | 713 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| lexik | LexikTranslationBundle | 437 | 261 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 276 | 31 | [link](https://github.com/php-enqueue/enqueue-bundle) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-10-04T05:07:03.775Z
+* **Last scrape:** 2026-10-11T05:20:06.313Z
 * **Total pages scraped:** 23
-* **Repos found:** 664
-* **Repos filtered out (< 25 stars):** 624
+* **Repos found:** 661
+* **Repos filtered out (< 25 stars):** 621
 * **Total possible repositories:** 2522
-* **Percent processed:** 26.3%
+* **Percent processed:** 26.2%
