@@ -5,8 +5,8 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | pd4d10 | unpub | 483 | 157 | [link](https://github.com/pd4d10/unpub) |
-| Jaguar-dart | jaguar | 469 | 32 | [link](https://github.com/Jaguar-dart/jaguar) |
-| vania-dart | framework | 254 | 22 | [link](https://github.com/vania-dart/framework) |
+| Jaguar-dart | jaguar | 469 | 31 | [link](https://github.com/Jaguar-dart/jaguar) |
+| vania-dart | framework | 253 | 22 | [link](https://github.com/vania-dart/framework) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
 | shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
@@ -23,9 +23,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-10-04T05:05:06.829Z
+* **Last scrape:** 2026-10-11T05:12:59.731Z
 * **Total pages scraped:** 55
-* **Repos found:** 1634
-* **Repos filtered out (< 25 stars):** 1617
+* **Repos found:** 1626
+* **Repos filtered out (< 25 stars):** 1609
 * **Total possible repositories:** 5674
-* **Percent processed:** 28.8%
+* **Percent processed:** 28.7%
