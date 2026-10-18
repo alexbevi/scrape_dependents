@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| public-activity | public_activity | 2991 | 329 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2967 | 483 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| public-activity | public_activity | 2991 | 328 | [link](https://github.com/public-activity/public_activity) |
+| DatabaseCleaner | database_cleaner | 2966 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1351 | 70 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 907 | 357 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
-| nasser | --- | 800 | 83 | [link](https://github.com/nasser/---) |
+| nasser | --- | 800 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 712 | 212 | [link](https://github.com/hotsh/rstat.us) |
 | omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 350 | 117 | [link](https://github.com/0x000NULL/CSSR) |
-| opengovernment | opengovernment | 310 | 231 | [link](https://github.com/opengovernment/opengovernment) |
+| opengovernment | opengovernment | 309 | 231 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
 | jeffkreeftmeijer | navvy | 211 | 21 | [link](https://github.com/jeffkreeftmeijer/navvy) |
 | risuiowa | rails-jquery-autocomplete | 210 | 79 | [link](https://github.com/risuiowa/rails-jquery-autocomplete) |
@@ -59,9 +59,9 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-10-11T05:04:35.172Z
+* **Last scrape:** 2026-10-18T03:59:06.680Z
 * **Total pages scraped:** 18
-* **Repos found:** 453
-* **Repos filtered out (< 25 stars):** 400
-* **Total possible repositories:** 2816
+* **Repos found:** 454
+* **Repos filtered out (< 25 stars):** 401
+* **Total possible repositories:** 2817
 * **Percent processed:** 16.1%
