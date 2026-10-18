@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pd4d10 | unpub | 483 | 157 | [link](https://github.com/pd4d10/unpub) |
+| pd4d10 | unpub | 484 | 157 | [link](https://github.com/pd4d10/unpub) |
 | Jaguar-dart | jaguar | 469 | 31 | [link](https://github.com/Jaguar-dart/jaguar) |
-| vania-dart | framework | 253 | 22 | [link](https://github.com/vania-dart/framework) |
+| vania-dart | framework | 254 | 22 | [link](https://github.com/vania-dart/framework) |
 | dart-backend | angel | 178 | 23 | [link](https://github.com/dart-backend/angel) |
 | Jaguar-dart | jaguar_serializer | 171 | 34 | [link](https://github.com/Jaguar-dart/jaguar_serializer) |
-| shorebirdtech | old_repo | 96 | 8 | [link](https://github.com/shorebirdtech/old_repo) |
+| shorebirdtech | old_repo | 96 | 7 | [link](https://github.com/shorebirdtech/old_repo) |
 | rgroult | MobDistTool | 94 | 20 | [link](https://github.com/rgroult/MobDistTool) |
 | vedfi | mondroid | 91 | 11 | [link](https://github.com/vedfi/mondroid) |
 | angel-example | flutter | 77 | 23 | [link](https://github.com/angel-example/flutter) |
@@ -23,9 +23,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-10-11T05:12:59.731Z
+* **Last scrape:** 2026-10-18T04:13:33.773Z
 * **Total pages scraped:** 55
-* **Repos found:** 1626
-* **Repos filtered out (< 25 stars):** 1609
-* **Total possible repositories:** 5674
-* **Percent processed:** 28.7%
+* **Repos found:** 1615
+* **Repos filtered out (< 25 stars):** 1598
+* **Total possible repositories:** 5679
+* **Percent processed:** 28.4%
