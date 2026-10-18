@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| doctrine-extensions | DoctrineExtensions | 4137 | 1249 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
-| doctrine | data-fixtures | 2851 | 231 | [link](https://github.com/doctrine/data-fixtures) |
-| api-platform | core | 2579 | 989 | [link](https://github.com/api-platform/core) |
-| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| dustin10 | VichUploaderBundle | 1902 | 522 | [link](https://github.com/dustin10/VichUploaderBundle) |
-| LLPhant | LLPhant | 1718 | 173 | [link](https://github.com/LLPhant/LLPhant) |
+| doctrine-extensions | DoctrineExtensions | 4136 | 1248 | [link](https://github.com/doctrine-extensions/DoctrineExtensions) |
+| doctrine | data-fixtures | 2851 | 230 | [link](https://github.com/doctrine/data-fixtures) |
+| api-platform | core | 2580 | 987 | [link](https://github.com/api-platform/core) |
+| illacceptanything | illacceptanything | 1962 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
+| dustin10 | VichUploaderBundle | 1901 | 521 | [link](https://github.com/dustin10/VichUploaderBundle) |
+| LLPhant | LLPhant | 1720 | 175 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1265 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| FriendsOfSymfony | FOSOAuthServerBundle | 1077 | 446 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
-| Cocolabs-SAS | cocorico | 873 | 591 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| FriendsOfSymfony | FOSOAuthServerBundle | 1076 | 445 | [link](https://github.com/FriendsOfSymfony/FOSOAuthServerBundle) |
+| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
 | KnpLabs | knp-components | 773 | 140 | [link](https://github.com/KnpLabs/knp-components) |
 | markitosgv | JWTRefreshTokenBundle | 713 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
@@ -25,10 +25,10 @@
 | thephpleague | flysystem-bundle | 408 | 83 | [link](https://github.com/thephpleague/flysystem-bundle) |
 | doctrine | DoctrineModule | 392 | 263 | [link](https://github.com/doctrine/DoctrineModule) |
 | doctrine | DoctrineMongoDBBundle | 384 | 228 | [link](https://github.com/doctrine/DoctrineMongoDBBundle) |
-| sonata-project | SonataUserBundle | 346 | 470 | [link](https://github.com/sonata-project/SonataUserBundle) |
+| sonata-project | SonataUserBundle | 346 | 472 | [link](https://github.com/sonata-project/SonataUserBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| Baldinof | roadrunner-bundle | 309 | 59 | [link](https://github.com/Baldinof/roadrunner-bundle) |
+| Baldinof | roadrunner-bundle | 309 | 61 | [link](https://github.com/Baldinof/roadrunner-bundle) |
 | sonata-project | sonata-doctrine-extensions | 266 | 39 | [link](https://github.com/sonata-project/sonata-doctrine-extensions) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | liip | LiipTestFixturesBundle | 178 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
@@ -44,7 +44,7 @@
 | h4cc | AliceFixturesBundle | 74 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 74 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | pumukit | PuMuKIT | 60 | 14 | [link](https://github.com/pumukit/PuMuKIT) |
 | anyx | LoginGateBundle | 59 | 23 | [link](https://github.com/anyx/LoginGateBundle) |
@@ -67,9 +67,9 @@
 | iambrosi | IsmaAmbrosiGeneratorBundle | 26 | 12 | [link](https://github.com/iambrosi/IsmaAmbrosiGeneratorBundle) |
 
 ---
-* **Last scrape:** 2026-10-11T05:07:06.374Z
+* **Last scrape:** 2026-10-18T04:00:16.992Z
 * **Total pages scraped:** 29
-* **Repos found:** 826
-* **Repos filtered out (< 25 stars):** 765
+* **Repos found:** 825
+* **Repos filtered out (< 25 stars):** 764
 * **Total possible repositories:** 3145
-* **Percent processed:** 26.3%
+* **Percent processed:** 26.2%
