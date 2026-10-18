@@ -4,15 +4,15 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16793 | 3704 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16798 | 3706 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 928 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
-| nandub | hubot-irc | 299 | 125 | [link](https://github.com/nandub/hubot-irc) |
+| nandub | hubot-irc | 299 | 124 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 292 | 21 | [link](https://github.com/juttle/juttle) |
 | imsky | pull-review | 210 | 15 | [link](https://github.com/imsky/pull-review) |
 | tlikai | hwamei | 201 | 26 | [link](https://github.com/tlikai/hwamei) |
-| xmppjs | hubot-xmpp | 183 | 97 | [link](https://github.com/xmppjs/hubot-xmpp) |
+| xmppjs | hubot-xmpp | 182 | 97 | [link](https://github.com/xmppjs/hubot-xmpp) |
 | lukefx | hubot-telegram | 160 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
-| stephenyeargin | hubot-grafana | 154 | 44 | [link](https://github.com/stephenyeargin/hubot-grafana) |
+| stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 107 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
 | hubot-archive | hubot-pager-me | 73 | 93 | [link](https://github.com/hubot-archive/hubot-pager-me) |
@@ -21,9 +21,9 @@
 | gasolin | webbybot | 68 | 11 | [link](https://github.com/gasolin/webbybot) |
 | idobata | hubot-idobata | 65 | 9 | [link](https://github.com/idobata/hubot-idobata) |
 | smashwilson | hubot-markov | 62 | 23 | [link](https://github.com/smashwilson/hubot-markov) |
-| hubotio | hubot-mock-adapter | 55 | 12 | [link](https://github.com/hubotio/hubot-mock-adapter) |
+| hubotio | hubot-mock-adapter | 55 | 13 | [link](https://github.com/hubotio/hubot-mock-adapter) |
 | ftdebugger | whole-npm | 53 | 7 | [link](https://github.com/ftdebugger/whole-npm) |
-| NVIDIA | NeMo-Fabric | 50 | 28 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
+| NVIDIA | NeMo-Fabric | 51 | 30 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | StackStorm | hubot-stackstorm | 49 | 37 | [link](https://github.com/StackStorm/hubot-stackstorm) |
 | Paymium | old-api-documentation | 47 | 10 | [link](https://github.com/Paymium/old-api-documentation) |
 | 18F | charlie | 46 | 55 | [link](https://github.com/18F/charlie) |
@@ -37,9 +37,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-10-11T06:06:11.973Z
+* **Last scrape:** 2026-10-18T05:04:04.071Z
 * **Total pages scraped:** 29
-* **Repos found:** 796
-* **Repos filtered out (< 25 stars):** 765
+* **Repos found:** 795
+* **Repos filtered out (< 25 stars):** 764
 * **Total possible repositories:** 3341
 * **Percent processed:** 23.8%
