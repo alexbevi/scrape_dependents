@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| microsoft | aspire | 6359 | 1008 | [link](https://github.com/microsoft/aspire) |
-| BrighterCommand | Brighter | 2486 | 299 | [link](https://github.com/BrighterCommand/Brighter) |
+| microsoft | aspire | 6373 | 1015 | [link](https://github.com/microsoft/aspire) |
+| BrighterCommand | Brighter | 2488 | 299 | [link](https://github.com/BrighterCommand/Brighter) |
 | AlphaYu | adnc | 1476 | 393 | [link](https://github.com/AlphaYu/adnc) |
 | mongodb | docs | 778 | 1699 | [link](https://github.com/mongodb/docs) |
 | netcorepal | netcorepal-cloud-framework | 427 | 93 | [link](https://github.com/netcorepal/netcorepal-cloud-framework) |
@@ -16,9 +16,9 @@
 | UdemyEducation | UdemyNewMicroservice | 34 | 11 | [link](https://github.com/UdemyEducation/UdemyNewMicroservice) |
 
 ---
-* **Last scrape:** 2026-10-11T05:19:39.446Z
+* **Last scrape:** 2026-10-18T04:19:06.770Z
 * **Total pages scraped:** 28
-* **Repos found:** 827
-* **Repos filtered out (< 25 stars):** 817
-* **Total possible repositories:** 1245
-* **Percent processed:** 66.4%
+* **Repos found:** 825
+* **Repos filtered out (< 25 stars):** 815
+* **Total possible repositories:** 1247
+* **Percent processed:** 66.2%
