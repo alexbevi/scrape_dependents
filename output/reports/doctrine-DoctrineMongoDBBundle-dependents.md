@@ -4,12 +4,12 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2579 | 989 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2222 | 428 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1961 | 590 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1718 | 173 | [link](https://github.com/LLPhant/LLPhant) |
+| api-platform | core | 2580 | 987 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2222 | 427 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1962 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1720 | 175 | [link](https://github.com/LLPhant/LLPhant) |
 | FriendsOfSymfony | FOSElasticaBundle | 1265 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 873 | 591 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
 | markitosgv | JWTRefreshTokenBundle | 713 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 437 | 261 | [link](https://github.com/lexik/LexikTranslationBundle) |
@@ -25,7 +25,7 @@
 | h4cc | AliceFixturesBundle | 74 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 74 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 95 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | MacPaw | symfony-health-check-bundle | 62 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 60 | 14 | [link](https://github.com/pumukit/PuMuKIT) |
@@ -36,7 +36,7 @@
 | V-labs | VlabsMediaBundle | 44 | 17 | [link](https://github.com/V-labs/VlabsMediaBundle) |
 | pixelhumain | GoGoCarto | 44 | 8 | [link](https://github.com/pixelhumain/GoGoCarto) |
 | jbouzekri | free-bet | 43 | 31 | [link](https://github.com/jbouzekri/free-bet) |
-| SpiriitLabs | form-filter-bundle | 39 | 15 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
+| SpiriitLabs | form-filter-bundle | 38 | 15 | [link](https://github.com/SpiriitLabs/form-filter-bundle) |
 | theofidry | AliceBundleExtension | 36 | 23 | [link](https://github.com/theofidry/AliceBundleExtension) |
 | makasim | PayumBundleSandbox | 36 | 27 | [link](https://github.com/makasim/PayumBundleSandbox) |
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-10-11T05:20:06.313Z
+* **Last scrape:** 2026-10-18T04:19:29.459Z
 * **Total pages scraped:** 23
-* **Repos found:** 661
-* **Repos filtered out (< 25 stars):** 621
+* **Repos found:** 659
+* **Repos filtered out (< 25 stars):** 619
 * **Total possible repositories:** 2522
-* **Percent processed:** 26.2%
+* **Percent processed:** 26.1%
