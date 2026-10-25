@@ -7,7 +7,7 @@
 | Chainlit | cookbook | 1428 | 434 | [link](https://github.com/Chainlit/cookbook) |
 
 ---
-* **Last scrape:** 2026-10-18T04:47:34.108Z
+* **Last scrape:** 2026-10-25T05:44:35.484Z
 * **Total pages scraped:** 5
 * **Repos found:** 133
 * **Repos filtered out (< 25 stars):** 132
