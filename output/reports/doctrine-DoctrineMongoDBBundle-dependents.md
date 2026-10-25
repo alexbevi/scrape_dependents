@@ -4,18 +4,18 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2580 | 987 | [link](https://github.com/api-platform/core) |
+| api-platform | core | 2579 | 986 | [link](https://github.com/api-platform/core) |
 | php-enqueue | enqueue-dev | 2222 | 427 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1962 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1720 | 175 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 785 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| illacceptanything | illacceptanything | 1962 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1721 | 176 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1265 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 873 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
 | zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 713 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| markitosgv | JWTRefreshTokenBundle | 712 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 437 | 261 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
-| php-enqueue | enqueue-bundle | 276 | 31 | [link](https://github.com/php-enqueue/enqueue-bundle) |
+| php-enqueue | enqueue-bundle | 275 | 31 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 178 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
@@ -46,9 +46,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-10-18T04:19:29.459Z
+* **Last scrape:** 2026-10-25T05:14:41.123Z
 * **Total pages scraped:** 23
-* **Repos found:** 659
-* **Repos filtered out (< 25 stars):** 619
+* **Repos found:** 655
+* **Repos filtered out (< 25 stars):** 615
 * **Total possible repositories:** 2522
-* **Percent processed:** 26.1%
+* **Percent processed:** 26.0%
