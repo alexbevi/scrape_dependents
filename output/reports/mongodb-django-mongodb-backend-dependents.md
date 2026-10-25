@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| mongodb-developer | GenAI-Showcase | 4267 | 747 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
-| Qexo | Qexo | 1954 | 404 | [link](https://github.com/Qexo/Qexo) |
+| mongodb-developer | GenAI-Showcase | 4264 | 745 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
+| Qexo | Qexo | 1955 | 404 | [link](https://github.com/Qexo/Qexo) |
 | sodrooome | django-microservice | 84 | 42 | [link](https://github.com/sodrooome/django-microservice) |
 
 ---
-* **Last scrape:** 2026-10-18T04:19:18.946Z
+* **Last scrape:** 2026-10-25T05:14:53.272Z
 * **Total pages scraped:** 3
-* **Repos found:** 74
-* **Repos filtered out (< 25 stars):** 71
+* **Repos found:** 75
+* **Repos filtered out (< 25 stars):** 72
 * **Total possible repositories:** 87
-* **Percent processed:** 85.1%
+* **Percent processed:** 86.2%
