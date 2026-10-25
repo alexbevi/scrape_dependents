@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37321 | 53148 | [link](https://github.com/eugenp/tutorials) |
-| ant-media | Ant-Media-Server | 4744 | 691 | [link](https://github.com/ant-media/Ant-Media-Server) |
-| skrstop | skrstop-components | 1006 | 40 | [link](https://github.com/skrstop/skrstop-components) |
-| OpenFeign | querydsl | 660 | 105 | [link](https://github.com/OpenFeign/querydsl) |
+| eugenp | tutorials | 37315 | 53120 | [link](https://github.com/eugenp/tutorials) |
+| ant-media | Ant-Media-Server | 4744 | 692 | [link](https://github.com/ant-media/Ant-Media-Server) |
+| skrstop | skrstop-components | 958 | 40 | [link](https://github.com/skrstop/skrstop-components) |
+| OpenFeign | querydsl | 662 | 106 | [link](https://github.com/OpenFeign/querydsl) |
 | liujiaqi7998 | GrasscuttersWebDashboard | 210 | 32 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
 | primefaces-extensions | primefaces-extensions | 119 | 111 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
 | svenkubiak | mangooio | 62 | 14 | [link](https://github.com/svenkubiak/mangooio) |
@@ -16,13 +16,13 @@
 | kinabalu | mysticpaste | 52 | 12 | [link](https://github.com/kinabalu/mysticpaste) |
 | europeana | corelib | 48 | 17 | [link](https://github.com/europeana/corelib) |
 | quarkiverse | quarkus-primefaces | 45 | 3 | [link](https://github.com/quarkiverse/quarkus-primefaces) |
-| glaucioscheibel | exercicios | 31 | 2 | [link](https://github.com/glaucioscheibel/exercicios) |
+| glaucioscheibel | exerciciosJava | 31 | 2 | [link](https://github.com/glaucioscheibel/exerciciosJava) |
 | europeana | metis-framework | 29 | 9 | [link](https://github.com/europeana/metis-framework) |
 
 ---
-* **Last scrape:** 2026-10-18T04:13:48.253Z
+* **Last scrape:** 2026-10-25T05:08:51.670Z
 * **Total pages scraped:** 5
-* **Repos found:** 142
-* **Repos filtered out (< 25 stars):** 128
-* **Total possible repositories:** 333
-* **Percent processed:** 42.6%
+* **Repos found:** 143
+* **Repos filtered out (< 25 stars):** 129
+* **Total possible repositories:** 335
+* **Percent processed:** 42.7%
