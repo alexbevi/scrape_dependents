@@ -6,7 +6,7 @@
 |---|---|---|---|---|
 | public-activity | public_activity | 2991 | 328 | [link](https://github.com/public-activity/public_activity) |
 | DatabaseCleaner | database_cleaner | 2966 | 485 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
-| maccman | abba | 1351 | 70 | [link](https://github.com/maccman/abba) |
+| maccman | abba | 1350 | 70 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 907 | 357 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 800 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 712 | 212 | [link](https://github.com/hotsh/rstat.us) |
@@ -59,7 +59,7 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-10-18T03:59:06.680Z
+* **Last scrape:** 2026-10-25T04:47:12.850Z
 * **Total pages scraped:** 18
 * **Repos found:** 454
 * **Repos filtered out (< 25 stars):** 401
