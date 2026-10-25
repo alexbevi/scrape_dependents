@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1962 | 591 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1805 | 366 | [link](https://github.com/lxerxa/actionview) |
+| illacceptanything | illacceptanything | 1962 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1806 | 366 | [link](https://github.com/lxerxa/actionview) |
 | doubleleft | hook | 770 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 564 | 302 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 565 | 302 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 349 | 55 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 234 | 33 | [link](https://github.com/laynefyc/php-monitor) |
@@ -35,9 +35,9 @@
 | PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 
 ---
-* **Last scrape:** 2026-10-18T04:18:33.994Z
+* **Last scrape:** 2026-10-25T05:13:49.221Z
 * **Total pages scraped:** 63
-* **Repos found:** 1873
-* **Repos filtered out (< 25 stars):** 1844
+* **Repos found:** 1859
+* **Repos filtered out (< 25 stars):** 1830
 * **Total possible repositories:** 9369
-* **Percent processed:** 20.0%
+* **Percent processed:** 19.8%
