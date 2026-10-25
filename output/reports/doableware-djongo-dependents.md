@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OWASP | crAPI | 1608 | 659 | [link](https://github.com/OWASP/crAPI) |
-| damklis | DataEngineeringProject | 1443 | 282 | [link](https://github.com/damklis/DataEngineeringProject) |
-| sajib1066 | django-event-management | 182 | 93 | [link](https://github.com/sajib1066/django-event-management) |
-| frg-fossee | eSim-Cloud | 170 | 247 | [link](https://github.com/frg-fossee/eSim-Cloud) |
+| OWASP | crAPI | 1618 | 665 | [link](https://github.com/OWASP/crAPI) |
+| damklis | DataEngineeringProject | 1447 | 282 | [link](https://github.com/damklis/DataEngineeringProject) |
+| sajib1066 | django-event-management | 181 | 93 | [link](https://github.com/sajib1066/django-event-management) |
+| frg-fossee | eSim-Cloud | 169 | 247 | [link](https://github.com/frg-fossee/eSim-Cloud) |
 | cyantarek | django-microservices | 164 | 88 | [link](https://github.com/cyantarek/django-microservices) |
 | drshahizan | special-topic-data-engineering | 128 | 81 | [link](https://github.com/drshahizan/special-topic-data-engineering) |
 | sodrooome | django-microservice | 84 | 42 | [link](https://github.com/sodrooome/django-microservice) |
-| depictio | depictio | 72 | 5 | [link](https://github.com/depictio/depictio) |
+| depictio | depictio | 76 | 5 | [link](https://github.com/depictio/depictio) |
 | drshahizan | SECP3843 | 62 | 59 | [link](https://github.com/drshahizan/SECP3843) |
 | alialaei1 | IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor | 61 | 19 | [link](https://github.com/alialaei1/IOT-MQTT-Dashboard-for-ESP32-Plant-Sensor) |
 | hoangsonww | Learning-Management-System-Fullstack | 39 | 24 | [link](https://github.com/hoangsonww/Learning-Management-System-Fullstack) |
@@ -27,9 +27,9 @@
 | leopardslab | CrawlerX | 25 | 19 | [link](https://github.com/leopardslab/CrawlerX) |
 
 ---
-* **Last scrape:** 2026-10-18T04:14:03.416Z
-* **Total pages scraped:** 144
-* **Repos found:** 4274
-* **Repos filtered out (< 25 stars):** 4253
-* **Total possible repositories:** 12619
-* **Percent processed:** 33.9%
+* **Last scrape:** 2026-10-25T05:11:09.397Z
+* **Total pages scraped:** 143
+* **Repos found:** 4249
+* **Repos filtered out (< 25 stars):** 4228
+* **Total possible repositories:** 12621
+* **Percent processed:** 33.7%
