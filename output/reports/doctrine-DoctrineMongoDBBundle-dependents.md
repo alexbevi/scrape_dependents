@@ -4,19 +4,19 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2579 | 986 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2222 | 427 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1962 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1721 | 176 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1265 | 786 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 873 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 802 | 114 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 712 | 177 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| api-platform | core | 2580 | 987 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2221 | 427 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1960 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1722 | 179 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1264 | 784 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 873 | 590 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 804 | 114 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 712 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
 | lexik | LexikTranslationBundle | 437 | 261 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
 | theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 275 | 31 | [link](https://github.com/php-enqueue/enqueue-bundle) |
-| TheBigBrainsCompany | TbbcMoneyBundle | 196 | 76 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
+| TheBigBrainsCompany | TbbcMoneyBundle | 197 | 77 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
 | liip | LiipTestFixturesBundle | 178 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 172 | 12 | [link](https://github.com/getparthenon/parthenon) |
@@ -41,14 +41,13 @@
 | makasim | PayumBundleSandbox | 36 | 27 | [link](https://github.com/makasim/PayumBundleSandbox) |
 | KnpLabs | ControllerBehaviors | 34 | 1 | [link](https://github.com/KnpLabs/ControllerBehaviors) |
 | julienj | twity | 29 | 3 | [link](https://github.com/julienj/twity) |
-| automagistre | automagistre | 28 | 7 | [link](https://github.com/automagistre/automagistre) |
 | guham | symfony-docker | 28 | 14 | [link](https://github.com/guham/symfony-docker) |
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-10-25T05:14:41.123Z
+* **Last scrape:** 2026-11-01T06:14:42.140Z
 * **Total pages scraped:** 23
 * **Repos found:** 655
-* **Repos filtered out (< 25 stars):** 615
-* **Total possible repositories:** 2522
-* **Percent processed:** 26.0%
+* **Repos filtered out (< 25 stars):** 616
+* **Total possible repositories:** 2526
+* **Percent processed:** 25.9%
