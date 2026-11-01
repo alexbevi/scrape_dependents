@@ -4,29 +4,30 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| pydantic | pydantic-ai | 20844 | 3020 | [link](https://github.com/pydantic/pydantic-ai) |
-| dagster-io | dagster | 16323 | 2376 | [link](https://github.com/dagster-io/dagster) |
-| DataTalksClub | mlops-zoomcamp | 15476 | 3077 | [link](https://github.com/DataTalksClub/mlops-zoomcamp) |
-| microsoft | RD-Agent | 15051 | 1992 | [link](https://github.com/microsoft/RD-Agent) |
-| PrefectHQ | marvin | 6206 | 414 | [link](https://github.com/PrefectHQ/marvin) |
-| katanaml | sparrow | 5227 | 519 | [link](https://github.com/katanaml/sparrow) |
-| intuitem | ciso-assistant-community | 4538 | 877 | [link](https://github.com/intuitem/ciso-assistant-community) |
-| apache | hamilton | 2617 | 225 | [link](https://github.com/apache/hamilton) |
-| friuns2 | Leaked-GPTs | 2479 | 382 | [link](https://github.com/friuns2/Leaked-GPTs) |
-| BinNong | meet-libai | 1892 | 225 | [link](https://github.com/BinNong/meet-libai) |
-| Azure-Samples | openai | 1354 | 455 | [link](https://github.com/Azure-Samples/openai) |
-| fastapiadmin | FastapiAdmin | 1246 | 335 | [link](https://github.com/fastapiadmin/FastapiAdmin) |
+| PrefectHQ | fastmcp | 28253 | 2550 | [link](https://github.com/PrefectHQ/fastmcp) |
+| pydantic | pydantic-ai | 20974 | 3076 | [link](https://github.com/pydantic/pydantic-ai) |
+| dagster-io | dagster | 16359 | 2388 | [link](https://github.com/dagster-io/dagster) |
+| DataTalksClub | mlops-zoomcamp | 15509 | 3079 | [link](https://github.com/DataTalksClub/mlops-zoomcamp) |
+| microsoft | RD-Agent | 15161 | 2017 | [link](https://github.com/microsoft/RD-Agent) |
+| PrefectHQ | marvin | 6207 | 411 | [link](https://github.com/PrefectHQ/marvin) |
+| katanaml | sparrow | 5232 | 518 | [link](https://github.com/katanaml/sparrow) |
+| intuitem | ciso-assistant-community | 4567 | 890 | [link](https://github.com/intuitem/ciso-assistant-community) |
+| apache | hamilton | 2622 | 230 | [link](https://github.com/apache/hamilton) |
+| friuns2 | Leaked-GPTs | 2480 | 382 | [link](https://github.com/friuns2/Leaked-GPTs) |
+| BinNong | meet-libai | 1891 | 225 | [link](https://github.com/BinNong/meet-libai) |
+| Azure-Samples | openai | 1356 | 455 | [link](https://github.com/Azure-Samples/openai) |
+| fastapiadmin | FastapiAdmin | 1264 | 337 | [link](https://github.com/fastapiadmin/FastapiAdmin) |
 | CodeCutTech | data-science-template | 841 | 218 | [link](https://github.com/CodeCutTech/data-science-template) |
-| SkafteNicki | dtu_mlops | 806 | 681 | [link](https://github.com/SkafteNicki/dtu_mlops) |
-| opsmill | infrahub | 539 | 67 | [link](https://github.com/opsmill/infrahub) |
-| Quantum-Accelerators | quacc | 300 | 80 | [link](https://github.com/Quantum-Accelerators/quacc) |
-| hongbo-miao | hongbomiao.com | 298 | 50 | [link](https://github.com/hongbo-miao/hongbomiao.com) |
+| SkafteNicki | dtu_mlops | 806 | 679 | [link](https://github.com/SkafteNicki/dtu_mlops) |
+| opsmill | infrahub | 544 | 68 | [link](https://github.com/opsmill/infrahub) |
+| Quantum-Accelerators | quacc | 301 | 80 | [link](https://github.com/Quantum-Accelerators/quacc) |
+| hongbo-miao | hongbomiao.com | 299 | 50 | [link](https://github.com/hongbo-miao/hongbomiao.com) |
 | airbytehq | quickstarts | 214 | 47 | [link](https://github.com/airbytehq/quickstarts) |
 | Div-Infinity | InternetOfAgents | 196 | 15 | [link](https://github.com/Div-Infinity/InternetOfAgents) |
 | prefect-archive | legacy-ui | 183 | 38 | [link](https://github.com/prefect-archive/legacy-ui) |
 | NatLabRockies | resstock | 148 | 84 | [link](https://github.com/NatLabRockies/resstock) |
+| vstorm-co | agenticos | 139 | 27 | [link](https://github.com/vstorm-co/agenticos) |
 | seanchatmangpt | dspygen | 136 | 22 | [link](https://github.com/seanchatmangpt/dspygen) |
-| vstorm-co | agenticos | 119 | 23 | [link](https://github.com/vstorm-co/agenticos) |
 | anna-geller | dataflow-ops | 114 | 24 | [link](https://github.com/anna-geller/dataflow-ops) |
 | lucidrains | progen | 114 | 17 | [link](https://github.com/lucidrains/progen) |
 | anna-geller | prefect-dataplatform | 112 | 17 | [link](https://github.com/anna-geller/prefect-dataplatform) |
@@ -34,20 +35,20 @@
 | atomind-ai | mlip-arena | 109 | 10 | [link](https://github.com/atomind-ai/mlip-arena) |
 | evidentlyai | ml_observability_course | 107 | 41 | [link](https://github.com/evidentlyai/ml_observability_course) |
 | ffmemes | ff-backend | 104 | 11 | [link](https://github.com/ffmemes/ff-backend) |
-| dpleus | mlops | 102 | 19 | [link](https://github.com/dpleus/mlops) |
+| dpleus | mlops | 103 | 19 | [link](https://github.com/dpleus/mlops) |
 | simovilab | databus | 101 | 1 | [link](https://github.com/simovilab/databus) |
-| Flowminder | FlowKit | 98 | 27 | [link](https://github.com/Flowminder/FlowKit) |
+| Flowminder | FlowKit | 97 | 27 | [link](https://github.com/Flowminder/FlowKit) |
 | benitomartin | substack-newsletters-search-course | 93 | 22 | [link](https://github.com/benitomartin/substack-newsletters-search-course) |
 | jomariya23156 | sales-forecast-mlops-at-scale | 92 | 28 | [link](https://github.com/jomariya23156/sales-forecast-mlops-at-scale) |
 | Lossfunk | indiaml-tracker | 91 | 10 | [link](https://github.com/Lossfunk/indiaml-tracker) |
 | cxbxmxcx | GPTAssistantsPlayground | 91 | 55 | [link](https://github.com/cxbxmxcx/GPTAssistantsPlayground) |
 | PublicDataWorks | verdad | 88 | 4 | [link](https://github.com/PublicDataWorks/verdad) |
-| sunblaze-ucb | verina | 83 | 12 | [link](https://github.com/sunblaze-ucb/verina) |
+| zenstory-ai | zenstory | 84 | 37 | [link](https://github.com/zenstory-ai/zenstory) |
+| sunblaze-ucb | verina | 84 | 12 | [link](https://github.com/sunblaze-ucb/verina) |
 | khuyentran1401 | customer_segmentation | 83 | 27 | [link](https://github.com/khuyentran1401/customer_segmentation) |
 | iobruno | data-engineering-labs | 81 | 7 | [link](https://github.com/iobruno/data-engineering-labs) |
 | ThinamXx | MLOps | 79 | 29 | [link](https://github.com/ThinamXx/MLOps) |
-| zenstory-ai | zenstory | 77 | 34 | [link](https://github.com/zenstory-ai/zenstory) |
-| prakashdk | video-creator | 75 | 42 | [link](https://github.com/prakashdk/video-creator) |
+| prakashdk | video-creator | 78 | 42 | [link](https://github.com/prakashdk/video-creator) |
 | hackforla | 311-data | 72 | 74 | [link](https://github.com/hackforla/311-data) |
 | homanp | nagato | 68 | 8 | [link](https://github.com/homanp/nagato) |
 | datarootsio | prefect-dbt-flow | 66 | 7 | [link](https://github.com/datarootsio/prefect-dbt-flow) |
@@ -59,59 +60,59 @@
 | SorryDB | SorryDB | 57 | 9 | [link](https://github.com/SorryDB/SorryDB) |
 | jomariya23156 | full-stack-on-prem-cv-mlops | 56 | 9 | [link](https://github.com/jomariya23156/full-stack-on-prem-cv-mlops) |
 | searchableai | KitanaQA | 56 | 9 | [link](https://github.com/searchableai/KitanaQA) |
-| oqtopus-team | qdash | 54 | 22 | [link](https://github.com/oqtopus-team/qdash) |
-| PrefectHQ | prefect-mcp-server | 54 | 40 | [link](https://github.com/PrefectHQ/prefect-mcp-server) |
+| PrefectHQ | prefect-mcp-server | 55 | 40 | [link](https://github.com/PrefectHQ/prefect-mcp-server) |
+| oqtopus-team | qdash | 54 | 24 | [link](https://github.com/oqtopus-team/qdash) |
 | gizatechxyz | Giza-zkml-Hub | 53 | 26 | [link](https://github.com/gizatechxyz/Giza-zkml-Hub) |
 | Stephen137 | end_to_end_data_pipeline | 53 | 26 | [link](https://github.com/Stephen137/end_to_end_data_pipeline) |
 | PatrickCmd | mlops-project | 53 | 28 | [link](https://github.com/PatrickCmd/mlops-project) |
 | basedosdados | pipelines | 52 | 22 | [link](https://github.com/basedosdados/pipelines) |
-| GSA-TTS | devCrew_s1 | 50 | 11 | [link](https://github.com/GSA-TTS/devCrew_s1) |
+| GSA-TTS | devCrew_s1 | 51 | 11 | [link](https://github.com/GSA-TTS/devCrew_s1) |
+| luizvbo | kstars | 50 | 5 | [link](https://github.com/luizvbo/kstars) |
 | dathere | datapusher-plus | 49 | 33 | [link](https://github.com/dathere/datapusher-plus) |
-| luizvbo | kstars | 49 | 5 | [link](https://github.com/luizvbo/kstars) |
 | kingabzpro | ML-Workflow-Orchestration-With-Prefect | 49 | 13 | [link](https://github.com/kingabzpro/ML-Workflow-Orchestration-With-Prefect) |
-| docling-project | docling-pipelines | 47 | 37 | [link](https://github.com/docling-project/docling-pipelines) |
+| docling-project | docling-pipelines | 47 | 38 | [link](https://github.com/docling-project/docling-pipelines) |
 | Paulescu | real-time-technical-indicators | 47 | 14 | [link](https://github.com/Paulescu/real-time-technical-indicators) |
+| arn-c0de | ANPS-TradeMeUp | 45 | 0 | [link](https://github.com/arn-c0de/ANPS-TradeMeUp) |
+| OHDSI | Data2Evidence | 45 | 15 | [link](https://github.com/OHDSI/Data2Evidence) |
+| network-observability | network-observability-lab | 45 | 166 | [link](https://github.com/network-observability/network-observability-lab) |
 | xNok | infra-bootstrap-tools | 44 | 20 | [link](https://github.com/xNok/infra-bootstrap-tools) |
-| OHDSI | Data2Evidence | 44 | 13 | [link](https://github.com/OHDSI/Data2Evidence) |
-| network-observability | network-observability-lab | 44 | 165 | [link](https://github.com/network-observability/network-observability-lab) |
-| arn-c0de | ANPS-TradeMeUp | 43 | 0 | [link](https://github.com/arn-c0de/ANPS-TradeMeUp) |
 | AICrafterZheng | AI-Frontiers-Digest | 43 | 3 | [link](https://github.com/AICrafterZheng/AI-Frontiers-Digest) |
 | PrefectHQ | prefect-background-task-examples | 43 | 2 | [link](https://github.com/PrefectHQ/prefect-background-task-examples) |
 | VincenzoGalante | magic-the-gathering | 43 | 3 | [link](https://github.com/VincenzoGalante/magic-the-gathering) |
 | prefeitura-rio | pipelines | 43 | 4 | [link](https://github.com/prefeitura-rio/pipelines) |
-| MTES-MCT | monitorfish | 42 | 8 | [link](https://github.com/MTES-MCT/monitorfish) |
-| pxkundu | DevSecOps-Bootcamp | 41 | 25 | [link](https://github.com/pxkundu/DevSecOps-Bootcamp) |
+| MTES-MCT | monitorfish | 43 | 8 | [link](https://github.com/MTES-MCT/monitorfish) |
 | PacktPublishing | Modern-Network-Observability | 41 | 23 | [link](https://github.com/PacktPublishing/Modern-Network-Observability) |
+| pxkundu | DevSecOps-Bootcamp | 40 | 25 | [link](https://github.com/pxkundu/DevSecOps-Bootcamp) |
 | seacevedo | Solana-Pipeline | 40 | 4 | [link](https://github.com/seacevedo/Solana-Pipeline) |
 | khuyentran1401 | prefect2-mlops-demo | 40 | 3 | [link](https://github.com/khuyentran1401/prefect2-mlops-demo) |
 | fsspec | opendalfs | 39 | 10 | [link](https://github.com/fsspec/opendalfs) |
 | PrefectHQ | actions-prefect-deploy | 39 | 11 | [link](https://github.com/PrefectHQ/actions-prefect-deploy) |
 | padilha | de-zoomcamp | 39 | 10 | [link](https://github.com/padilha/de-zoomcamp) |
-| particle1331 | ok-transformer | 39 | 9 | [link](https://github.com/particle1331/ok-transformer) |
+| HIDORAKAI002 | ai-workspace-archive | 38 | 13 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
+| particle1331 | ok-transformer | 38 | 9 | [link](https://github.com/particle1331/ok-transformer) |
 | fugue-project | prefect-fugue | 38 | 1 | [link](https://github.com/fugue-project/prefect-fugue) |
-| HIDORAKAI002 | ai-workspace-archive | 37 | 13 | [link](https://github.com/HIDORAKAI002/ai-workspace-archive) |
 | GreyDGL | ShareGPTs | 37 | 1 | [link](https://github.com/GreyDGL/ShareGPTs) |
 | jordanvolz | lolpop | 37 | 0 | [link](https://github.com/jordanvolz/lolpop) |
 | Fozan-Talat | divvy-bikeshare-de-project | 36 | 7 | [link](https://github.com/Fozan-Talat/divvy-bikeshare-de-project) |
 | carbonplan | trace | 36 | 6 | [link](https://github.com/carbonplan/trace) |
 | anna-geller | packaging-prefect-flows | 35 | 4 | [link](https://github.com/anna-geller/packaging-prefect-flows) |
-| nnadtoka | agentic-medallion-pipeline | 34 | 4 | [link](https://github.com/nnadtoka/agentic-medallion-pipeline) |
-| PrefectHQ | prometheus-prefect-exporter | 34 | 22 | [link](https://github.com/PrefectHQ/prometheus-prefect-exporter) |
+| PrefectHQ | prometheus-prefect-exporter | 34 | 23 | [link](https://github.com/PrefectHQ/prometheus-prefect-exporter) |
 | zijie0 | cloud_ml_platform | 34 | 10 | [link](https://github.com/zijie0/cloud_ml_platform) |
 | pydiverse | pydiverse.pipedag | 34 | 6 | [link](https://github.com/pydiverse/pydiverse.pipedag) |
+| nnadtoka | agentic-medallion-pipeline | 33 | 4 | [link](https://github.com/nnadtoka/agentic-medallion-pipeline) |
 | tekumara | prefect-demo | 33 | 7 | [link](https://github.com/tekumara/prefect-demo) |
 | ozkary | data-engineering-mta-turnstile | 33 | 8 | [link](https://github.com/ozkary/data-engineering-mta-turnstile) |
+| RyanEricLamb | data-engineering-bus-tracker | 33 | 3 | [link](https://github.com/RyanEricLamb/data-engineering-bus-tracker) |
 | burd5 | congress_stock_trading | 32 | 4 | [link](https://github.com/burd5/congress_stock_trading) |
 | gizatechxyz | giza-agents | 32 | 18 | [link](https://github.com/gizatechxyz/giza-agents) |
 | MartyC-137 | Data-Engineering | 32 | 5 | [link](https://github.com/MartyC-137/Data-Engineering) |
-| RyanEricLamb | data-engineering-bus-tracker | 32 | 3 | [link](https://github.com/RyanEricLamb/data-engineering-bus-tracker) |
 | PrefectHQ | examples | 31 | 4 | [link](https://github.com/PrefectHQ/examples) |
 | EdIzaguirre | Rosebud | 31 | 14 | [link](https://github.com/EdIzaguirre/Rosebud) |
 | MatsMoll | ml-kickstarter | 31 | 1 | [link](https://github.com/MatsMoll/ml-kickstarter) |
+| npogeant | flight-delay | 31 | 2 | [link](https://github.com/npogeant/flight-delay) |
 | State-of-The-MLOps | MLOps | 31 | 8 | [link](https://github.com/State-of-The-MLOps/MLOps) |
 | JesusAcuna | data-engineering-project | 30 | 0 | [link](https://github.com/JesusAcuna/data-engineering-project) |
 | abrookins | django-prefect-example | 30 | 0 | [link](https://github.com/abrookins/django-prefect-example) |
-| npogeant | flight-delay | 30 | 2 | [link](https://github.com/npogeant/flight-delay) |
 | razorcd | mlops-project | 30 | 11 | [link](https://github.com/razorcd/mlops-project) |
 | khuyentran1401 | analyze_github_feed | 29 | 2 | [link](https://github.com/khuyentran1401/analyze_github_feed) |
 | BauplanLabs | bauplan | 28 | 3 | [link](https://github.com/BauplanLabs/bauplan) |
@@ -132,9 +133,9 @@
 | cwerner | covid19 | 25 | 3 | [link](https://github.com/cwerner/covid19) |
 
 ---
-* **Last scrape:** 2026-10-25T05:51:51.578Z
+* **Last scrape:** 2026-11-01T06:48:35.884Z
 * **Total pages scraped:** 117
-* **Repos found:** 3476
-* **Repos filtered out (< 25 stars):** 3350
-* **Total possible repositories:** 8115
-* **Percent processed:** 42.8%
+* **Repos found:** 3453
+* **Repos filtered out (< 25 stars):** 3326
+* **Total possible repositories:** 8130
+* **Percent processed:** 42.5%
