@@ -4,10 +4,10 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1962 | 589 | [link](https://github.com/illacceptanything/illacceptanything) |
+| illacceptanything | illacceptanything | 1960 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
 | lxerxa | actionview | 1806 | 366 | [link](https://github.com/lxerxa/actionview) |
 | doubleleft | hook | 770 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 565 | 302 | [link](https://github.com/jikan-me/jikan-rest) |
+| jikan-me | jikan-rest | 566 | 302 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 349 | 55 | [link](https://github.com/jiannei/lumen-api-starter) |
 | GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 234 | 33 | [link](https://github.com/laynefyc/php-monitor) |
@@ -32,12 +32,13 @@
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
 | FogosPT | fogosapi | 30 | 6 | [link](https://github.com/FogosPT/fogosapi) |
 | huijimuhe | lottery-web | 29 | 16 | [link](https://github.com/huijimuhe/lottery-web) |
-| PacktPublishing | Mastering-MongoDB-6.x | 26 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
+| PacktPublishing | Mastering-MongoDB-6.x | 28 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
+| rajneeshXpandey | B.Tech-NIT-Trichy-CSE-23 | 25 | 6 | [link](https://github.com/rajneeshXpandey/B.Tech-NIT-Trichy-CSE-23) |
 
 ---
-* **Last scrape:** 2026-10-25T05:13:49.221Z
+* **Last scrape:** 2026-11-01T06:07:28.262Z
 * **Total pages scraped:** 63
-* **Repos found:** 1859
-* **Repos filtered out (< 25 stars):** 1830
-* **Total possible repositories:** 9369
-* **Percent processed:** 19.8%
+* **Repos found:** 1846
+* **Repos filtered out (< 25 stars):** 1816
+* **Total possible repositories:** 9370
+* **Percent processed:** 19.7%
