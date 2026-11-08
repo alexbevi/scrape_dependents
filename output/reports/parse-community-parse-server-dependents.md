@@ -4,11 +4,11 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 7205 | 851 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3809 | 1412 | [link](https://github.com/parse-community/parse-dashboard) |
+| OpenSignLabs | OpenSign | 7237 | 856 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3808 | 1411 | [link](https://github.com/parse-community/parse-dashboard) |
 | parse-community | parse-server-example | 1902 | 5257 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1342 | 601 | [link](https://github.com/parse-community/Parse-SDK-JS) |
-| Eleven-Trading | TradeNote | 981 | 289 | [link](https://github.com/Eleven-Trading/TradeNote) |
+| parse-community | Parse-SDK-JS | 1343 | 601 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| Eleven-Trading | TradeNote | 984 | 289 | [link](https://github.com/Eleven-Trading/TradeNote) |
 | parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 471 | 159 | [link](https://github.com/yongjhih/docker-parse-server) |
 | elrumo | icon-brew | 325 | 7 | [link](https://github.com/elrumo/icon-brew) |
@@ -24,14 +24,14 @@
 | awesome-startup | docker-compose | 65 | 9 | [link](https://github.com/awesome-startup/docker-compose) |
 | sailstech | multiple-apps-parse-server | 55 | 13 | [link](https://github.com/sailstech/multiple-apps-parse-server) |
 | ftdebugger | whole-npm | 53 | 7 | [link](https://github.com/ftdebugger/whole-npm) |
-| dplewis | parse-server-mysql-adapter | 49 | 12 | [link](https://github.com/dplewis/parse-server-mysql-adapter) |
 | TGIO | ParseLiveQuery | 48 | 10 | [link](https://github.com/TGIO/ParseLiveQuery) |
+| dplewis | parse-server-mysql-adapter | 48 | 12 | [link](https://github.com/dplewis/parse-server-mysql-adapter) |
 | jsdevkr | Dumbledore | 41 | 29 | [link](https://github.com/jsdevkr/Dumbledore) |
 | andrewimm | parse-lite | 40 | 8 | [link](https://github.com/andrewimm/parse-lite) |
 | parse-community | parse-blockchain | 39 | 8 | [link](https://github.com/parse-community/parse-blockchain) |
 | clowdr-app | clowdr-web-app | 38 | 13 | [link](https://github.com/clowdr-app/clowdr-web-app) |
 | TechnionYP5777 | SmartCity-ParkingManagement | 37 | 21 | [link](https://github.com/TechnionYP5777/SmartCity-ParkingManagement) |
-| back4app | parse-dashboard | 35 | 18 | [link](https://github.com/back4app/parse-dashboard) |
+| back4app | parse-dashboard | 36 | 18 | [link](https://github.com/back4app/parse-dashboard) |
 | winglight | soducrawler | 34 | 12 | [link](https://github.com/winglight/soducrawler) |
 | LasaleFamine | docker-mongo-parse-server | 33 | 12 | [link](https://github.com/LasaleFamine/docker-mongo-parse-server) |
 | SashiDo | content-moderation-application | 30 | 10 | [link](https://github.com/SashiDo/content-moderation-application) |
@@ -41,9 +41,9 @@
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 
 ---
-* **Last scrape:** 2026-11-01T06:59:58.045Z
-* **Total pages scraped:** 27
-* **Repos found:** 744
-* **Repos filtered out (< 25 stars):** 709
-* **Total possible repositories:** 4178
-* **Percent processed:** 17.8%
+* **Last scrape:** 2026-11-08T06:56:09.529Z
+* **Total pages scraped:** 26
+* **Repos found:** 740
+* **Repos filtered out (< 25 stars):** 705
+* **Total possible repositories:** 4179
+* **Percent processed:** 17.7%
