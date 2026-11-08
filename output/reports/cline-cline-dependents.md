@@ -4,7 +4,7 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16795 | 3704 | [link](https://github.com/hubotio/hubot) |
+| hubotio | hubot | 16796 | 3706 | [link](https://github.com/hubotio/hubot) |
 | botwillacceptanything | botwillacceptanything | 927 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 124 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 291 | 21 | [link](https://github.com/juttle/juttle) |
@@ -15,16 +15,16 @@
 | stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 105 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
+| NVIDIA | NeMo-Fabric | 73 | 44 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | hubot-archive | hubot-pager-me | 73 | 93 | [link](https://github.com/hubot-archive/hubot-pager-me) |
 | devschile | huemul | 72 | 75 | [link](https://github.com/devschile/huemul) |
 | hubotio | hubot-redis-brain | 70 | 60 | [link](https://github.com/hubotio/hubot-redis-brain) |
 | gasolin | webbybot | 68 | 11 | [link](https://github.com/gasolin/webbybot) |
 | idobata | hubot-idobata | 65 | 9 | [link](https://github.com/idobata/hubot-idobata) |
-| NVIDIA | NeMo-Fabric | 64 | 37 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | smashwilson | hubot-markov | 62 | 23 | [link](https://github.com/smashwilson/hubot-markov) |
 | hubotio | hubot-mock-adapter | 55 | 13 | [link](https://github.com/hubotio/hubot-mock-adapter) |
 | ftdebugger | whole-npm | 53 | 7 | [link](https://github.com/ftdebugger/whole-npm) |
-| StackStorm | hubot-stackstorm | 49 | 37 | [link](https://github.com/StackStorm/hubot-stackstorm) |
+| StackStorm | hubot-stackstorm | 49 | 38 | [link](https://github.com/StackStorm/hubot-stackstorm) |
 | Paymium | old-api-documentation | 47 | 10 | [link](https://github.com/Paymium/old-api-documentation) |
 | 18F | charlie | 46 | 55 | [link](https://github.com/18F/charlie) |
 | alleyinteractive | hubot-code-review | 41 | 15 | [link](https://github.com/alleyinteractive/hubot-code-review) |
@@ -37,9 +37,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-11-01T07:00:28.263Z
+* **Last scrape:** 2026-11-08T06:56:36.243Z
 * **Total pages scraped:** 29
-* **Repos found:** 788
-* **Repos filtered out (< 25 stars):** 757
-* **Total possible repositories:** 3342
-* **Percent processed:** 23.6%
+* **Repos found:** 787
+* **Repos filtered out (< 25 stars):** 756
+* **Total possible repositories:** 3343
+* **Percent processed:** 23.5%
