@@ -4,25 +4,25 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| langflow-ai | langflow | 156210 | 10296 | [link](https://github.com/langflow-ai/langflow) |
-| bytedance | deer-flow | 84792 | 11903 | [link](https://github.com/bytedance/deer-flow) |
-| patchy631 | ai-engineering-hub | 39448 | 6421 | [link](https://github.com/patchy631/ai-engineering-hub) |
-| langchain-ai | deepagents | 30833 | 4333 | [link](https://github.com/langchain-ai/deepagents) |
-| JoshuaC215 | agent-service-toolkit | 4556 | 800 | [link](https://github.com/JoshuaC215/agent-service-toolkit) |
+| langflow-ai | langflow | 156430 | 10353 | [link](https://github.com/langflow-ai/langflow) |
+| bytedance | deer-flow | 85121 | 11966 | [link](https://github.com/bytedance/deer-flow) |
+| patchy631 | ai-engineering-hub | 41449 | 6624 | [link](https://github.com/patchy631/ai-engineering-hub) |
+| langchain-ai | deepagents | 31079 | 4381 | [link](https://github.com/langchain-ai/deepagents) |
+| JoshuaC215 | agent-service-toolkit | 4567 | 803 | [link](https://github.com/JoshuaC215/agent-service-toolkit) |
 | mongodb-developer | GenAI-Showcase | 4266 | 744 | [link](https://github.com/mongodb-developer/GenAI-Showcase) |
-| bragai | bRAG-langchain | 4190 | 505 | [link](https://github.com/bragai/bRAG-langchain) |
-| decodingai-magazine | second-brain-ai-assistant-course | 3129 | 528 | [link](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) |
-| OWASP | crAPI | 1623 | 671 | [link](https://github.com/OWASP/crAPI) |
-| neural-maze | philoagents-course | 1553 | 328 | [link](https://github.com/neural-maze/philoagents-course) |
-| elastic | elastic-labs | 1141 | 280 | [link](https://github.com/elastic/elastic-labs) |
-| LibreChat-AI | rag-api | 918 | 413 | [link](https://github.com/LibreChat-AI/rag-api) |
+| bragai | bRAG-langchain | 4197 | 506 | [link](https://github.com/bragai/bRAG-langchain) |
+| decodingai-magazine | second-brain-ai-assistant-course | 3132 | 528 | [link](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) |
+| OWASP | crAPI | 1628 | 676 | [link](https://github.com/OWASP/crAPI) |
+| neural-maze | philoagents-course | 1555 | 330 | [link](https://github.com/neural-maze/philoagents-course) |
+| elastic | elastic-labs | 1140 | 280 | [link](https://github.com/elastic/elastic-labs) |
+| LibreChat-AI | rag-api | 921 | 415 | [link](https://github.com/LibreChat-AI/rag-api) |
 | mongodb | docs | 779 | 1698 | [link](https://github.com/mongodb/docs) |
-| atomicstrata | atomicmemory | 440 | 36 | [link](https://github.com/atomicstrata/atomicmemory) |
-| caipe-io | ai-platform-engineering | 437 | 92 | [link](https://github.com/caipe-io/ai-platform-engineering) |
-| bracesproul | gen-ui-python | 390 | 98 | [link](https://github.com/bracesproul/gen-ui-python) |
-| XSpoonAi | spoon-core | 250 | 49 | [link](https://github.com/XSpoonAi/spoon-core) |
-| langchain-ai | retrieval-agent-template | 180 | 55 | [link](https://github.com/langchain-ai/retrieval-agent-template) |
-| Hoanganhvu123 | ShoppingGPT | 163 | 69 | [link](https://github.com/Hoanganhvu123/ShoppingGPT) |
+| atomicstrata | atomicmemory | 438 | 36 | [link](https://github.com/atomicstrata/atomicmemory) |
+| caipe-io | ai-platform-engineering | 438 | 94 | [link](https://github.com/caipe-io/ai-platform-engineering) |
+| bracesproul | gen-ui-python | 389 | 97 | [link](https://github.com/bracesproul/gen-ui-python) |
+| XSpoonAi | spoon-core | 250 | 50 | [link](https://github.com/XSpoonAi/spoon-core) |
+| langchain-ai | retrieval-agent-template | 181 | 55 | [link](https://github.com/langchain-ai/retrieval-agent-template) |
+| Hoanganhvu123 | ShoppingGPT | 165 | 69 | [link](https://github.com/Hoanganhvu123/ShoppingGPT) |
 | mongodb-developer | genai-devday-notebooks | 118 | 160 | [link](https://github.com/mongodb-developer/genai-devday-notebooks) |
 | anirudhuuu | gen-ai | 91 | 27 | [link](https://github.com/anirudhuuu/gen-ai) |
 | mongodb-developer | event-venue-operator | 76 | 21 | [link](https://github.com/mongodb-developer/event-venue-operator) |
@@ -36,9 +36,9 @@
 | dhrumilp12 | Mental-Health-Companion | 25 | 6 | [link](https://github.com/dhrumilp12/Mental-Health-Companion) |
 
 ---
-* **Last scrape:** 2026-11-01T05:31:59.192Z
-* **Total pages scraped:** 28
-* **Repos found:** 829
-* **Repos filtered out (< 25 stars):** 799
-* **Total possible repositories:** 1241
-* **Percent processed:** 66.8%
+* **Last scrape:** 2026-11-08T05:36:01.184Z
+* **Total pages scraped:** 29
+* **Repos found:** 840
+* **Repos filtered out (< 25 stars):** 810
+* **Total possible repositories:** 1252
+* **Percent processed:** 67.1%
