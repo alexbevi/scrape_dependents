@@ -4,52 +4,51 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| storybookjs | storybook | 91420 | 10493 | [link](https://github.com/storybookjs/storybook) |
-| RocketChat | Rocket.Chat | 46353 | 14072 | [link](https://github.com/RocketChat/Rocket.Chat) |
-| wekan | wekan | 21148 | 3004 | [link](https://github.com/wekan/wekan) |
-| reactioncommerce | reaction | 12401 | 2169 | [link](https://github.com/reactioncommerce/reaction) |
-| sandstorm-io | sandstorm | 7078 | 716 | [link](https://github.com/sandstorm-io/sandstorm) |
-| vanila-io | wireflow | 4172 | 395 | [link](https://github.com/vanila-io/wireflow) |
-| nosqlclient | nosqlclient | 3463 | 354 | [link](https://github.com/nosqlclient/nosqlclient) |
-| Urigo | angular-meteor | 2330 | 602 | [link](https://github.com/Urigo/angular-meteor) |
-| mozilla | MozDef | 2157 | 321 | [link](https://github.com/mozilla/MozDef) |
-| issaafalkattan | React-Landing-Page-Template | 1648 | 1204 | [link](https://github.com/issaafalkattan/React-Landing-Page-Template) |
+| storybookjs | storybook | 91485 | 10500 | [link](https://github.com/storybookjs/storybook) |
+| wekan | wekan | 21159 | 3004 | [link](https://github.com/wekan/wekan) |
+| reactioncommerce | reaction | 12400 | 2169 | [link](https://github.com/reactioncommerce/reaction) |
+| sandstorm-io | sandstorm | 7080 | 715 | [link](https://github.com/sandstorm-io/sandstorm) |
+| vanila-io | wireflow | 4171 | 396 | [link](https://github.com/vanila-io/wireflow) |
+| nosqlclient | nosqlclient | 3462 | 354 | [link](https://github.com/nosqlclient/nosqlclient) |
+| Urigo | angular-meteor | 2330 | 601 | [link](https://github.com/Urigo/angular-meteor) |
+| mozilla | MozDef | 2156 | 321 | [link](https://github.com/mozilla/MozDef) |
+| issaafalkattan | React-Landing-Page-Template | 1649 | 1202 | [link](https://github.com/issaafalkattan/React-Landing-Page-Template) |
 | steedos | steedos-platform | 1589 | 415 | [link](https://github.com/steedos/steedos-platform) |
-| lume | lume | 1527 | 66 | [link](https://github.com/lume/lume) |
-| DemocracyEarth | wallet | 1507 | 272 | [link](https://github.com/DemocracyEarth/wallet) |
-| Aniket965 | Hello-world | 1431 | 2779 | [link](https://github.com/Aniket965/Hello-world) |
+| lume | lume | 1526 | 66 | [link](https://github.com/lume/lume) |
+| DemocracyEarth | wallet | 1511 | 274 | [link](https://github.com/DemocracyEarth/wallet) |
+| Aniket965 | Hello-world | 1431 | 2777 | [link](https://github.com/Aniket965/Hello-world) |
 | Meteor-Community-Packages | meteor-autoform | 1428 | 319 | [link](https://github.com/Meteor-Community-Packages/meteor-autoform) |
 | Meteor-Community-Packages | meteor-collection2 | 1016 | 111 | [link](https://github.com/Meteor-Community-Packages/meteor-collection2) |
 | Meteor-Community-Packages | meteor-simple-schema | 917 | 159 | [link](https://github.com/Meteor-Community-Packages/meteor-simple-schema) |
 | Meteor-Community-Packages | meteor-roles | 913 | 167 | [link](https://github.com/Meteor-Community-Packages/meteor-roles) |
-| meteor-vue | vue-meteor | 884 | 108 | [link](https://github.com/meteor-vue/vue-meteor) |
+| meteor-vue | vue-meteor | 883 | 108 | [link](https://github.com/meteor-vue/vue-meteor) |
 | DiscoverMeteor | Microscope | 871 | 490 | [link](https://github.com/DiscoverMeteor/Microscope) |
-| dtube | dtube | 829 | 197 | [link](https://github.com/dtube/dtube) |
-| aragon | client | 824 | 268 | [link](https://github.com/aragon/client) |
+| dtube | dtube | 828 | 196 | [link](https://github.com/dtube/dtube) |
+| aragon | client | 823 | 269 | [link](https://github.com/aragon/client) |
 | matteodem | meteor-boilerplate | 817 | 142 | [link](https://github.com/matteodem/meteor-boilerplate) |
 | botfront | botfront | 804 | 316 | [link](https://github.com/botfront/botfront) |
-| themeteorchef | base | 739 | 252 | [link](https://github.com/themeteorchef/base) |
-| salimt | Courses- | 714 | 694 | [link](https://github.com/salimt/Courses-) |
-| Azure | static-web-apps-cli | 668 | 157 | [link](https://github.com/Azure/static-web-apps-cli) |
+| themeteorchef | base | 738 | 252 | [link](https://github.com/themeteorchef/base) |
+| salimt | Courses- | 716 | 695 | [link](https://github.com/salimt/Courses-) |
+| Azure | static-web-apps-cli | 668 | 156 | [link](https://github.com/Azure/static-web-apps-cli) |
 | Meteor-Community-Packages | meteor-collection-hooks | 656 | 94 | [link](https://github.com/Meteor-Community-Packages/meteor-collection-hooks) |
 | spencercarli | react-native-meteor-boilerplate | 620 | 132 | [link](https://github.com/spencercarli/react-native-meteor-boilerplate) |
 | meteor | react-packages | 577 | 166 | [link](https://github.com/meteor/react-packages) |
 | twilio | twilio-video.js | 574 | 215 | [link](https://github.com/twilio/twilio-video.js) |
 | cleverbeagle | pup | 552 | 132 | [link](https://github.com/cleverbeagle/pup) |
 | meteor | blaze | 544 | 118 | [link](https://github.com/meteor/blaze) |
-| azat-co | react-quickly | 542 | 415 | [link](https://github.com/azat-co/react-quickly) |
+| azat-co | react-quickly | 542 | 416 | [link](https://github.com/azat-co/react-quickly) |
 | meteor | todos | 530 | 353 | [link](https://github.com/meteor/todos) |
-| codebuddies | codebuddies | 522 | 238 | [link](https://github.com/codebuddies/codebuddies) |
-| ThaumRystra | DiceCloud | 512 | 137 | [link](https://github.com/ThaumRystra/DiceCloud) |
+| codebuddies | codebuddies | 521 | 238 | [link](https://github.com/codebuddies/codebuddies) |
+| ThaumRystra | DiceCloud | 514 | 137 | [link](https://github.com/ThaumRystra/DiceCloud) |
 | titraio | titra | 496 | 69 | [link](https://github.com/titraio/titra) |
 | Meteor-Community-Packages | meteor-autocomplete | 349 | 104 | [link](https://github.com/Meteor-Community-Packages/meteor-autocomplete) |
 | meteor | mobile-packages | 337 | 148 | [link](https://github.com/meteor/mobile-packages) |
-| TAPevents | tap-i18n | 325 | 91 | [link](https://github.com/TAPevents/tap-i18n) |
+| TAPevents | tap-i18n | 325 | 92 | [link](https://github.com/TAPevents/tap-i18n) |
 | kadira-open | kadira-server | 301 | 155 | [link](https://github.com/kadira-open/kadira-server) |
 | akshaykmr | oorja | 287 | 58 | [link](https://github.com/akshaykmr/oorja) |
 | wanglian | workbase-server | 282 | 27 | [link](https://github.com/wanglian/workbase-server) |
+| edemaine | coauthor | 280 | 38 | [link](https://github.com/edemaine/coauthor) |
 | meteor | chromatic | 280 | 17 | [link](https://github.com/meteor/chromatic) |
-| edemaine | coauthor | 279 | 37 | [link](https://github.com/edemaine/coauthor) |
 | srtucker22 | glipchat | 278 | 69 | [link](https://github.com/srtucker22/glipchat) |
 | disney | meteor-base | 275 | 133 | [link](https://github.com/disney/meteor-base) |
 | ACGN-stock | acgn-stock | 266 | 35 | [link](https://github.com/ACGN-stock/acgn-stock) |
@@ -60,24 +59,24 @@
 | juliancwirko | s-chat-app | 230 | 70 | [link](https://github.com/juliancwirko/s-chat-app) |
 | Retronator | Pixel-Art-Academy | 228 | 19 | [link](https://github.com/Retronator/Pixel-Art-Academy) |
 | edemaine | cocreate | 227 | 30 | [link](https://github.com/edemaine/cocreate) |
-| PacktPublishing | Vue-js-2-Web-Development-Projects | 221 | 138 | [link](https://github.com/PacktPublishing/Vue-js-2-Web-Development-Projects) |
+| PacktPublishing | Vue-js-2-Web-Development-Projects | 221 | 139 | [link](https://github.com/PacktPublishing/Vue-js-2-Web-Development-Projects) |
 | okgrow | analytics | 214 | 60 | [link](https://github.com/okgrow/analytics) |
 | fccoelho | Curso_Blockchain | 205 | 54 | [link](https://github.com/fccoelho/Curso_Blockchain) |
 | Urigo | Ionic-MeteorCLI-WhatsApp | 204 | 257 | [link](https://github.com/Urigo/Ionic-MeteorCLI-WhatsApp) |
 | meteor | simple-todos-react | 193 | 168 | [link](https://github.com/meteor/simple-todos-react) |
 | StephenGrider | MeteorCasts | 191 | 83 | [link](https://github.com/StephenGrider/MeteorCasts) |
 | 4minitz | 4minitz | 191 | 63 | [link](https://github.com/4minitz/4minitz) |
-| NYU-LLM-CTF | NYU_CTF_Bench | 187 | 32 | [link](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) |
 | fly-apps | dockerfile-node | 187 | 13 | [link](https://github.com/fly-apps/dockerfile-node) |
+| NYU-LLM-CTF | NYU_CTF_Bench | 186 | 32 | [link](https://github.com/NYU-LLM-CTF/NYU_CTF_Bench) |
 | OasisDEX | oasis | 185 | 76 | [link](https://github.com/OasisDEX/oasis) |
 | Keplerjs | Kepler | 178 | 43 | [link](https://github.com/Keplerjs/Kepler) |
 | leonardoventurini | meteor-devtools-evolved | 177 | 14 | [link](https://github.com/leonardoventurini/meteor-devtools-evolved) |
 | forbole | big-dipper | 175 | 235 | [link](https://github.com/forbole/big-dipper) |
 | Urigo | meteor-angular2.0-socially | 170 | 112 | [link](https://github.com/Urigo/meteor-angular2.0-socially) |
-| steedos | contract | 164 | 71 | [link](https://github.com/steedos/contract) |
 | l3mpire | lemverse | 163 | 39 | [link](https://github.com/l3mpire/lemverse) |
+| steedos | contract | 162 | 71 | [link](https://github.com/steedos/contract) |
 | EkiXu | WAFManis | 161 | 22 | [link](https://github.com/EkiXu/WAFManis) |
-| Urigo | Ionic2CLI-Meteor-WhatsApp | 161 | 178 | [link](https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp) |
+| Urigo | Ionic2CLI-Meteor-WhatsApp | 161 | 177 | [link](https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp) |
 | catin-black | meteor-emails | 156 | 30 | [link](https://github.com/catin-black/meteor-emails) |
 | Urigo | meteor-angular-socially | 154 | 141 | [link](https://github.com/Urigo/meteor-angular-socially) |
 | juliancwirko | scotty | 151 | 30 | [link](https://github.com/juliancwirko/scotty) |
@@ -92,9 +91,9 @@
 | ardatan | meteor-webpack | 122 | 28 | [link](https://github.com/ardatan/meteor-webpack) |
 | Urigo | meteor-rxjs | 120 | 38 | [link](https://github.com/Urigo/meteor-rxjs) |
 | readFOLD | FOLD | 120 | 22 | [link](https://github.com/readFOLD/FOLD) |
-| Meteor-Community-Packages | meteor-timesync | 119 | 37 | [link](https://github.com/Meteor-Community-Packages/meteor-timesync) |
+| Meteor-Community-Packages | meteor-timesync | 119 | 36 | [link](https://github.com/Meteor-Community-Packages/meteor-timesync) |
 | hagata | 30daysofHelloWorld | 117 | 8 | [link](https://github.com/hagata/30daysofHelloWorld) |
-| simonv3 | quick-survey | 116 | 48 | [link](https://github.com/simonv3/quick-survey) |
+| simonv3 | quick-survey | 115 | 47 | [link](https://github.com/simonv3/quick-survey) |
 | xcv58 | meteor-collectionapi | 103 | 7 | [link](https://github.com/xcv58/meteor-collectionapi) |
 | billimarie | prosecutor-database | 98 | 91 | [link](https://github.com/billimarie/prosecutor-database) |
 | signmeup | signmeup | 96 | 31 | [link](https://github.com/signmeup/signmeup) |
@@ -115,15 +114,15 @@
 | DAB0mB | ReactNativeMeteorBoilerplate | 78 | 14 | [link](https://github.com/DAB0mB/ReactNativeMeteorBoilerplate) |
 | timothyarmes | ta-meteor-apollo-starter-kit | 75 | 13 | [link](https://github.com/timothyarmes/ta-meteor-apollo-starter-kit) |
 | apinf | platform | 75 | 32 | [link](https://github.com/apinf/platform) |
-| johnhckuo | Block-Farm | 71 | 47 | [link](https://github.com/johnhckuo/Block-Farm) |
+| johnhckuo | Block-Farm | 71 | 46 | [link](https://github.com/johnhckuo/Block-Farm) |
 | HUB-HUmanBeing | SystemD | 69 | 12 | [link](https://github.com/HUB-HUmanBeing/SystemD) |
 | Meteor-Community-Packages | meteor-mocha | 66 | 42 | [link](https://github.com/Meteor-Community-Packages/meteor-mocha) |
-| empiricaly | empirica | 64 | 12 | [link](https://github.com/empiricaly/empirica) |
+| empiricaly | empirica | 65 | 13 | [link](https://github.com/empiricaly/empirica) |
 | Betoken | betoken | 62 | 13 | [link](https://github.com/Betoken/betoken) |
 | DeligenceTechnologies | PanoplyCMS | 62 | 26 | [link](https://github.com/DeligenceTechnologies/PanoplyCMS) |
 | peer | mind | 62 | 12 | [link](https://github.com/peer/mind) |
 | gadicc | meteor-blaze-react-component | 60 | 13 | [link](https://github.com/gadicc/meteor-blaze-react-component) |
-| LUMECraft | first-person-shooter | 58 | 13 | [link](https://github.com/LUMECraft/first-person-shooter) |
+| LUMECraft | first-person-shooter | 59 | 12 | [link](https://github.com/LUMECraft/first-person-shooter) |
 | guillefix | augmath | 58 | 7 | [link](https://github.com/guillefix/augmath) |
 | theQRL | qrl-wallet | 56 | 26 | [link](https://github.com/theQRL/qrl-wallet) |
 | sozialhelden | accessibility-cloud | 55 | 10 | [link](https://github.com/sozialhelden/accessibility-cloud) |
@@ -160,7 +159,7 @@
 | CaptainN | meteor-svelte-starter | 44 | 8 | [link](https://github.com/CaptainN/meteor-svelte-starter) |
 | meteor | localmarket | 44 | 39 | [link](https://github.com/meteor/localmarket) |
 | raiden-network | raiden-token | 44 | 27 | [link](https://github.com/raiden-network/raiden-token) |
-| JorgenVatle | meteor-vite | 43 | 14 | [link](https://github.com/JorgenVatle/meteor-vite) |
+| JorgenVatle | meteor-vite | 43 | 15 | [link](https://github.com/JorgenVatle/meteor-vite) |
 | chafey | ethereum-hipaa-audit-log | 43 | 11 | [link](https://github.com/chafey/ethereum-hipaa-audit-log) |
 | Akryum | meteor-vue2-example | 43 | 22 | [link](https://github.com/Akryum/meteor-vue2-example) |
 | jeescu | meteor-react-admin-lte | 42 | 17 | [link](https://github.com/jeescu/meteor-react-admin-lte) |
@@ -171,7 +170,7 @@
 | ics-software-engineering | meteor-application-template-react-semantic-ui | 39 | 56 | [link](https://github.com/ics-software-engineering/meteor-application-template-react-semantic-ui) |
 | michaltakac | meteor-apollo-boilerplate | 39 | 2 | [link](https://github.com/michaltakac/meteor-apollo-boilerplate) |
 | Meteor-Community-Packages | meteor-schema-index | 38 | 17 | [link](https://github.com/Meteor-Community-Packages/meteor-schema-index) |
-| arius86 | squad-health-check | 37 | 17 | [link](https://github.com/arius86/squad-health-check) |
+| arius86 | squad-health-check | 37 | 16 | [link](https://github.com/arius86/squad-health-check) |
 | Moonly-App | moonly-app | 37 | 8 | [link](https://github.com/Moonly-App/moonly-app) |
 | CodeFTW | future-web | 37 | 17 | [link](https://github.com/CodeFTW/future-web) |
 | asyncwebio | bigbluebutton-streaming | 36 | 16 | [link](https://github.com/asyncwebio/bigbluebutton-streaming) |
@@ -180,7 +179,7 @@
 | Akryum | blaze2 | 35 | 2 | [link](https://github.com/Akryum/blaze2) |
 | alexjackhughes | titan | 34 | 3 | [link](https://github.com/alexjackhughes/titan) |
 | abhiaiyer91 | apollo-youtube-search | 34 | 5 | [link](https://github.com/abhiaiyer91/apollo-youtube-search) |
-| Akryum | meteor-vite | 33 | 22 | [link](https://github.com/Akryum/meteor-vite) |
+| Akryum | meteor-vite | 33 | 23 | [link](https://github.com/Akryum/meteor-vite) |
 | BSidesSF | ctf-2020-release | 33 | 11 | [link](https://github.com/BSidesSF/ctf-2020-release) |
 | aldeed | autoform-demo | 33 | 19 | [link](https://github.com/aldeed/autoform-demo) |
 | vhf | monomorphist | 33 | 1 | [link](https://github.com/vhf/monomorphist) |
@@ -192,6 +191,7 @@
 | andrei-markeev | finnlingo | 30 | 17 | [link](https://github.com/andrei-markeev/finnlingo) |
 | saschb2b | meteor-mantra-react-redux-kickstarter | 30 | 2 | [link](https://github.com/saschb2b/meteor-mantra-react-redux-kickstarter) |
 | numtel | meteor-mysql-leaderboard | 30 | 15 | [link](https://github.com/numtel/meteor-mysql-leaderboard) |
+| Grubba27 | meteor-rpc | 29 | 6 | [link](https://github.com/Grubba27/meteor-rpc) |
 | Meteor-Community-Packages | stratosphere | 29 | 8 | [link](https://github.com/Meteor-Community-Packages/stratosphere) |
 | fredmaiaarantes | starting-with-meteor | 29 | 16 | [link](https://github.com/fredmaiaarantes/starting-with-meteor) |
 | chris-visser | meteor-vue-admin | 29 | 4 | [link](https://github.com/chris-visser/meteor-vue-admin) |
@@ -222,9 +222,9 @@
 | Akryum | meteor-socket-io | 25 | 7 | [link](https://github.com/Akryum/meteor-socket-io) |
 
 ---
-* **Last scrape:** 2026-11-01T05:26:48.878Z
-* **Total pages scraped:** 212
-* **Repos found:** 6215
-* **Repos filtered out (< 25 stars):** 5999
-* **Total possible repositories:** 50345
+* **Last scrape:** 2026-11-08T05:28:39.979Z
+* **Total pages scraped:** 211
+* **Repos found:** 6175
+* **Repos filtered out (< 25 stars):** 5959
+* **Total possible repositories:** 50349
 * **Percent processed:** 12.3%
