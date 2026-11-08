@@ -4,63 +4,63 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| binary-husky | gpt_academic | 71588 | 8315 | [link](https://github.com/binary-husky/gpt_academic) |
-| ComposioHQ | composio | 30857 | 4913 | [link](https://github.com/ComposioHQ/composio) |
-| microsoft | promptflow | 11258 | 1125 | [link](https://github.com/microsoft/promptflow) |
-| MervinPraison | PraisonAI | 9313 | 1499 | [link](https://github.com/MervinPraison/PraisonAI) |
-| AI4Finance-Foundation | FinRobot | 8346 | 1406 | [link](https://github.com/AI4Finance-Foundation/FinRobot) |
-| AgentOps-AI | agentops | 5934 | 655 | [link](https://github.com/AgentOps-AI/agentops) |
-| bragai | bRAG-langchain | 4190 | 505 | [link](https://github.com/bragai/bRAG-langchain) |
-| Paper2Poster | Paper2Poster | 4032 | 288 | [link](https://github.com/Paper2Poster/Paper2Poster) |
-| AI-Citizen | SolidGPT | 1797 | 134 | [link](https://github.com/AI-Citizen/SolidGPT) |
-| lvgalvao | data-engineering-roadmap | 1444 | 373 | [link](https://github.com/lvgalvao/data-engineering-roadmap) |
-| EmergenceAI | Agent-E | 1252 | 193 | [link](https://github.com/EmergenceAI/Agent-E) |
-| tylerprogramming | ai | 1182 | 308 | [link](https://github.com/tylerprogramming/ai) |
-| massgen | MassGen | 1146 | 181 | [link](https://github.com/massgen/MassGen) |
-| microsoft | AIOpsLab | 1021 | 179 | [link](https://github.com/microsoft/AIOpsLab) |
-| goat-sdk | goat | 1015 | 309 | [link](https://github.com/goat-sdk/goat) |
-| victordibia | autogen-ui | 1008 | 135 | [link](https://github.com/victordibia/autogen-ui) |
-| finaldie | auto-news | 911 | 112 | [link](https://github.com/finaldie/auto-news) |
+| binary-husky | gpt_academic | 71618 | 8317 | [link](https://github.com/binary-husky/gpt_academic) |
+| ComposioHQ | composio | 30973 | 4934 | [link](https://github.com/ComposioHQ/composio) |
+| microsoft | promptflow | 11263 | 1126 | [link](https://github.com/microsoft/promptflow) |
+| MervinPraison | PraisonAI | 9327 | 1504 | [link](https://github.com/MervinPraison/PraisonAI) |
+| AI4Finance-Foundation | FinRobot | 8392 | 1412 | [link](https://github.com/AI4Finance-Foundation/FinRobot) |
+| AgentOps-AI | agentops | 5949 | 659 | [link](https://github.com/AgentOps-AI/agentops) |
+| bragai | bRAG-langchain | 4197 | 506 | [link](https://github.com/bragai/bRAG-langchain) |
+| Paper2Poster | Paper2Poster | 4047 | 287 | [link](https://github.com/Paper2Poster/Paper2Poster) |
+| AI-Citizen | SolidGPT | 1795 | 133 | [link](https://github.com/AI-Citizen/SolidGPT) |
+| lvgalvao | data-engineering-roadmap | 1447 | 376 | [link](https://github.com/lvgalvao/data-engineering-roadmap) |
+| EmergenceAI | Agent-E | 1253 | 192 | [link](https://github.com/EmergenceAI/Agent-E) |
+| tylerprogramming | ai | 1182 | 309 | [link](https://github.com/tylerprogramming/ai) |
+| massgen | MassGen | 1149 | 181 | [link](https://github.com/massgen/MassGen) |
+| microsoft | AIOpsLab | 1028 | 180 | [link](https://github.com/microsoft/AIOpsLab) |
+| goat-sdk | goat | 1017 | 310 | [link](https://github.com/goat-sdk/goat) |
+| victordibia | autogen-ui | 1007 | 136 | [link](https://github.com/victordibia/autogen-ui) |
+| finaldie | auto-news | 912 | 112 | [link](https://github.com/finaldie/auto-news) |
 | andysingal | llm-course | 891 | 134 | [link](https://github.com/andysingal/llm-course) |
 | disler | multi-agent-postgres-data-analytics | 886 | 183 | [link](https://github.com/disler/multi-agent-postgres-data-analytics) |
-| karthikvenkatesan-eaton | Autogen_GraphRAG_Ollama | 850 | 161 | [link](https://github.com/karthikvenkatesan-eaton/Autogen_GraphRAG_Ollama) |
-| microsoft | Trace | 764 | 63 | [link](https://github.com/microsoft/Trace) |
-| microsoft | OptiGuide | 728 | 128 | [link](https://github.com/microsoft/OptiGuide) |
+| karthikvenkatesan-eaton | Autogen_GraphRAG_Ollama | 849 | 160 | [link](https://github.com/karthikvenkatesan-eaton/Autogen_GraphRAG_Ollama) |
+| microsoft | Trace | 764 | 64 | [link](https://github.com/microsoft/Trace) |
+| microsoft | OptiGuide | 729 | 128 | [link](https://github.com/microsoft/OptiGuide) |
 | Dillettant | Athena | 707 | 129 | [link](https://github.com/Dillettant/Athena) |
-| QuantaAlpha | RepoMaster | 556 | 72 | [link](https://github.com/QuantaAlpha/RepoMaster) |
+| QuantaAlpha | RepoMaster | 555 | 72 | [link](https://github.com/QuantaAlpha/RepoMaster) |
 | TheAgenticAI | CortexON | 455 | 76 | [link](https://github.com/TheAgenticAI/CortexON) |
-| TheAgenticAI | TheAgenticBrowser | 433 | 85 | [link](https://github.com/TheAgenticAI/TheAgenticBrowser) |
-| lyuai | agentok | 425 | 64 | [link](https://github.com/lyuai/agentok) |
-| rhesis-ai | rhesis | 402 | 41 | [link](https://github.com/rhesis-ai/rhesis) |
-| NVISOsecurity | cyber-security-llm-agents | 398 | 75 | [link](https://github.com/NVISOsecurity/cyber-security-llm-agents) |
+| TheAgenticAI | TheAgenticBrowser | 434 | 85 | [link](https://github.com/TheAgenticAI/TheAgenticBrowser) |
+| lyuai | agentok | 425 | 63 | [link](https://github.com/lyuai/agentok) |
+| rhesis-ai | rhesis | 404 | 40 | [link](https://github.com/rhesis-ai/rhesis) |
+| NVISOsecurity | cyber-security-llm-agents | 399 | 76 | [link](https://github.com/NVISOsecurity/cyber-security-llm-agents) |
 | NGYB | Stocks | 380 | 208 | [link](https://github.com/NGYB/Stocks) |
 | dyabel | AnyTool | 317 | 22 | [link](https://github.com/dyabel/AnyTool) |
-| PromptEngineer48 | MemGPT-AutoGEN-LLM | 316 | 88 | [link](https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM) |
+| PromptEngineer48 | MemGPT-AutoGEN-LLM | 316 | 87 | [link](https://github.com/PromptEngineer48/MemGPT-AutoGEN-LLM) |
 | iflytek | spark-ai-python | 307 | 20 | [link](https://github.com/iflytek/spark-ai-python) |
 | SageMindAI | autogen-agi | 267 | 41 | [link](https://github.com/SageMindAI/autogen-agi) |
-| future-agi | traceAI | 265 | 55 | [link](https://github.com/future-agi/traceAI) |
-| cxbxmxcx | GPT-Agents | 262 | 140 | [link](https://github.com/cxbxmxcx/GPT-Agents) |
-| FSoft-AI4Code | HyperAgent | 256 | 34 | [link](https://github.com/FSoft-AI4Code/HyperAgent) |
-| XSpoonAi | spoon-core | 250 | 49 | [link](https://github.com/XSpoonAi/spoon-core) |
-| amd | HPCTrainingExamples | 222 | 100 | [link](https://github.com/amd/HPCTrainingExamples) |
-| allenai | autodiscovery-neurips | 215 | 35 | [link](https://github.com/allenai/autodiscovery-neurips) |
-| mpieniak01 | Venom | 188 | 5 | [link](https://github.com/mpieniak01/Venom) |
-| SALT-NLP | collaborative-gym | 167 | 22 | [link](https://github.com/SALT-NLP/collaborative-gym) |
-| MAX-API-Next | Academic-Agents-Studio | 167 | 25 | [link](https://github.com/MAX-API-Next/Academic-Agents-Studio) |
-| MikeyBeez | Ollama_Agents | 166 | 53 | [link](https://github.com/MikeyBeez/Ollama_Agents) |
-| Hoanganhvu123 | ShoppingGPT | 163 | 69 | [link](https://github.com/Hoanganhvu123/ShoppingGPT) |
-| microsoft | SecRL | 161 | 29 | [link](https://github.com/microsoft/SecRL) |
-| microsoft | AgenticCookBook | 161 | 40 | [link](https://github.com/microsoft/AgenticCookBook) |
+| future-agi | traceAI | 266 | 56 | [link](https://github.com/future-agi/traceAI) |
+| cxbxmxcx | GPT-Agents | 262 | 141 | [link](https://github.com/cxbxmxcx/GPT-Agents) |
+| FSoft-AI4Code | HyperAgent | 257 | 34 | [link](https://github.com/FSoft-AI4Code/HyperAgent) |
+| XSpoonAi | spoon-core | 250 | 50 | [link](https://github.com/XSpoonAi/spoon-core) |
+| amd | HPCTrainingExamples | 228 | 100 | [link](https://github.com/amd/HPCTrainingExamples) |
+| allenai | autodiscovery-neurips | 216 | 36 | [link](https://github.com/allenai/autodiscovery-neurips) |
+| PacktPublishing | Building-AI-Agents-for-Finance | 198 | 89 | [link](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance) |
+| mpieniak01 | Venom | 186 | 5 | [link](https://github.com/mpieniak01/Venom) |
+| SALT-NLP | collaborative-gym | 171 | 22 | [link](https://github.com/SALT-NLP/collaborative-gym) |
+| MAX-API-Next | Academic-Agents-Studio | 168 | 25 | [link](https://github.com/MAX-API-Next/Academic-Agents-Studio) |
+| MikeyBeez | Ollama_Agents | 167 | 53 | [link](https://github.com/MikeyBeez/Ollama_Agents) |
+| Hoanganhvu123 | ShoppingGPT | 165 | 69 | [link](https://github.com/Hoanganhvu123/ShoppingGPT) |
+| microsoft | SecRL | 161 | 28 | [link](https://github.com/microsoft/SecRL) |
+| microsoft | AgenticCookBook | 161 | 39 | [link](https://github.com/microsoft/AgenticCookBook) |
 | vividfog | nordpool-predict-fi | 150 | 33 | [link](https://github.com/vividfog/nordpool-predict-fi) |
 | bonadio | autogenwebdemo | 149 | 48 | [link](https://github.com/bonadio/autogenwebdemo) |
-| PacktPublishing | Building-AI-Agents-for-Finance | 145 | 74 | [link](https://github.com/PacktPublishing/Building-AI-Agents-for-Finance) |
 | wshi83 | EhrAgent | 144 | 21 | [link](https://github.com/wshi83/EhrAgent) |
 | eliranwong | letmedoit | 134 | 25 | [link](https://github.com/eliranwong/letmedoit) |
 | JieyuZ2 | EcoAssistant | 132 | 8 | [link](https://github.com/JieyuZ2/EcoAssistant) |
 | PacktPublishing | Mastering-NLP-from-Foundations-to-LLMs | 130 | 63 | [link](https://github.com/PacktPublishing/Mastering-NLP-from-Foundations-to-LLMs) |
 | YourTechBud | ytb-practical-guide | 127 | 43 | [link](https://github.com/YourTechBud/ytb-practical-guide) |
 | agentcoinorg | AutoTx | 125 | 25 | [link](https://github.com/agentcoinorg/AutoTx) |
-| Azure | agent-app-agentic | 124 | 51 | [link](https://github.com/Azure/agent-app-agentic) |
+| Azure | agent-app-agentic | 124 | 50 | [link](https://github.com/Azure/agent-app-agentic) |
 | antoineross | Autogen-UI | 121 | 37 | [link](https://github.com/antoineross/Autogen-UI) |
 | thinkall | autogen-demos | 120 | 26 | [link](https://github.com/thinkall/autogen-demos) |
 | tylerprogramming | 31-day-challenge-ai | 114 | 48 | [link](https://github.com/tylerprogramming/31-day-challenge-ai) |
@@ -71,7 +71,7 @@
 | tylerprogramming | autogen-beginner-course | 96 | 46 | [link](https://github.com/tylerprogramming/autogen-beginner-course) |
 | Josephrp | DataTonic | 95 | 34 | [link](https://github.com/Josephrp/DataTonic) |
 | startino | aitino | 92 | 12 | [link](https://github.com/startino/aitino) |
-| raia-live | amfs | 90 | 14 | [link](https://github.com/raia-live/amfs) |
+| raia-live | amfs | 91 | 14 | [link](https://github.com/raia-live/amfs) |
 | gnosis | prediction-market-agent | 90 | 27 | [link](https://github.com/gnosis/prediction-market-agent) |
 | Poly186-AI-DAO | PolyGPT-alpha | 89 | 16 | [link](https://github.com/Poly186-AI-DAO/PolyGPT-alpha) |
 | aymenfurter | smartrag | 87 | 13 | [link](https://github.com/aymenfurter/smartrag) |
@@ -80,9 +80,8 @@
 | docqai | docq | 78 | 12 | [link](https://github.com/docqai/docq) |
 | denonrailz | obsidian-autogen | 78 | 3 | [link](https://github.com/denonrailz/obsidian-autogen) |
 | namuan | llm-playground | 75 | 11 | [link](https://github.com/namuan/llm-playground) |
-| Kyros-494 | kyros-ai | 74 | 2 | [link](https://github.com/Kyros-494/kyros-ai) |
 | sugarforever | autogen-streamlit | 74 | 58 | [link](https://github.com/sugarforever/autogen-streamlit) |
-| getaxonflow | axonflow | 71 | 9 | [link](https://github.com/getaxonflow/axonflow) |
+| getaxonflow | axonflow | 72 | 9 | [link](https://github.com/getaxonflow/axonflow) |
 | lakshmanok | lakblogs | 70 | 29 | [link](https://github.com/lakshmanok/lakblogs) |
 | AgentX-ai | AgentX-Python | 69 | 9 | [link](https://github.com/AgentX-ai/AgentX-Python) |
 | pooyahrtn | RunpodOllama | 67 | 37 | [link](https://github.com/pooyahrtn/RunpodOllama) |
@@ -90,23 +89,24 @@
 | jakeatmsft | AzureOpenAIExamples | 63 | 29 | [link](https://github.com/jakeatmsft/AzureOpenAIExamples) |
 | schauppi | MultimodalWebAgent | 61 | 16 | [link](https://github.com/schauppi/MultimodalWebAgent) |
 | cruiseresearchgroup | SOCIA | 60 | 16 | [link](https://github.com/cruiseresearchgroup/SOCIA) |
-| kenhuangus | ZeroTrustAgent | 60 | 19 | [link](https://github.com/kenhuangus/ZeroTrustAgent) |
+| ljwztc | MedChain | 60 | 9 | [link](https://github.com/ljwztc/MedChain) |
+| kenhuangus | ZeroTrustAgent | 60 | 20 | [link](https://github.com/kenhuangus/ZeroTrustAgent) |
 | mrwadams | honeyagents | 60 | 9 | [link](https://github.com/mrwadams/honeyagents) |
-| ljwztc | MedChain | 59 | 9 | [link](https://github.com/ljwztc/MedChain) |
-| Josephrp | scitonic | 55 | 8 | [link](https://github.com/Josephrp/scitonic) |
+| Kyros-494 | kyros-ai | 59 | 2 | [link](https://github.com/Kyros-494/kyros-ai) |
+| respanai | respan | 55 | 15 | [link](https://github.com/respanai/respan) |
+| Josephrp | scitonic | 55 | 7 | [link](https://github.com/Josephrp/scitonic) |
 | zhattention | ticktick-ai | 53 | 4 | [link](https://github.com/zhattention/ticktick-ai) |
-| respanai | respan | 52 | 15 | [link](https://github.com/respanai/respan) |
 | guanyilin428 | Dynamic-Speculative-Planning | 52 | 3 | [link](https://github.com/guanyilin428/Dynamic-Speculative-Planning) |
 | tobeatraceur | Organized-LLM-Agents | 52 | 7 | [link](https://github.com/tobeatraceur/Organized-LLM-Agents) |
 | agentcoinorg | predictionprophet | 52 | 13 | [link](https://github.com/agentcoinorg/predictionprophet) |
 | hertz-ai | HARTOS | 51 | 7 | [link](https://github.com/hertz-ai/HARTOS) |
-| guardagent | code | 49 | 14 | [link](https://github.com/guardagent/code) |
+| guardagent | code | 50 | 14 | [link](https://github.com/guardagent/code) |
 | john-adeojo | autogen_flights_tutorial | 49 | 26 | [link](https://github.com/john-adeojo/autogen_flights_tutorial) |
 | abhaymathur21 | TensionCode | 47 | 16 | [link](https://github.com/abhaymathur21/TensionCode) |
 | opscart | docker-security-practical-guide | 46 | 8 | [link](https://github.com/opscart/docker-security-practical-guide) |
 | AiFlowSolutions | MADS | 46 | 8 | [link](https://github.com/AiFlowSolutions/MADS) |
 | RAIVNLab | mnms | 46 | 5 | [link](https://github.com/RAIVNLab/mnms) |
-| PathOnAIOrg | awesome-ai-agents | 45 | 16 | [link](https://github.com/PathOnAIOrg/awesome-ai-agents) |
+| PathOnAIOrg | awesome-ai-agents | 45 | 17 | [link](https://github.com/PathOnAIOrg/awesome-ai-agents) |
 | microsoft | ACV | 44 | 8 | [link](https://github.com/microsoft/ACV) |
 | karthikvenkatesan-eaton | autogen_FEA | 43 | 12 | [link](https://github.com/karthikvenkatesan-eaton/autogen_FEA) |
 | jtanningbed | mcp-ag2-example | 42 | 6 | [link](https://github.com/jtanningbed/mcp-ag2-example) |
@@ -118,20 +118,20 @@
 | siyuan-harry | OmniTutor | 38 | 14 | [link](https://github.com/siyuan-harry/OmniTutor) |
 | microsoft | PixelCraft | 37 | 3 | [link](https://github.com/microsoft/PixelCraft) |
 | antoineross | autogen-article-generator | 37 | 10 | [link](https://github.com/antoineross/autogen-article-generator) |
+| DawoodTouseef | J.AR.V.I.S. | 36 | 13 | [link](https://github.com/DawoodTouseef/J.AR.V.I.S.) |
 | YSocialTwin | YSocial | 36 | 8 | [link](https://github.com/YSocialTwin/YSocial) |
 | lllindsey0615 | ComposerX | 36 | 7 | [link](https://github.com/lllindsey0615/ComposerX) |
-| DawoodTouseef | J.AR.V.I.S. | 35 | 12 | [link](https://github.com/DawoodTouseef/J.AR.V.I.S.) |
 | XiangLi1999 | AutoBencher | 35 | 10 | [link](https://github.com/XiangLi1999/AutoBencher) |
+| Zc0812 | Edu_Planner | 34 | 10 | [link](https://github.com/Zc0812/Edu_Planner) |
 | ChaosJu | deepseek-finrobot | 34 | 12 | [link](https://github.com/ChaosJu/deepseek-finrobot) |
 | Poly186-AI-DAO | AutoGen-Snake-Game | 34 | 8 | [link](https://github.com/Poly186-AI-DAO/AutoGen-Snake-Game) |
-| Zc0812 | Edu_Planner | 33 | 10 | [link](https://github.com/Zc0812/Edu_Planner) |
 | yih301 | LLMFP | 33 | 8 | [link](https://github.com/yih301/LLMFP) |
 | Wannabeasmartguy | RAGENT | 33 | 6 | [link](https://github.com/Wannabeasmartguy/RAGENT) |
 | lewisExternal | AI-Grant-Writer-Tool | 33 | 7 | [link](https://github.com/lewisExternal/AI-Grant-Writer-Tool) |
 | allenai | signal-and-noise | 32 | 2 | [link](https://github.com/allenai/signal-and-noise) |
-| getbasedai | basedai | 32 | 11 | [link](https://github.com/getbasedai/basedai) |
+| getbasedai | basedai | 32 | 10 | [link](https://github.com/getbasedai/basedai) |
+| breakstring | Agentic_Story_Book_Workflow | 32 | 4 | [link](https://github.com/breakstring/Agentic_Story_Book_Workflow) |
 | Azure-Samples | azure-postgresql-openai-langchain-autogen-demo | 31 | 9 | [link](https://github.com/Azure-Samples/azure-postgresql-openai-langchain-autogen-demo) |
-| breakstring | Agentic_Story_Book_Workflow | 31 | 4 | [link](https://github.com/breakstring/Agentic_Story_Book_Workflow) |
 | Josephrp | LablabAutogen | 31 | 8 | [link](https://github.com/Josephrp/LablabAutogen) |
 | stephenlzc | AI-Agent-Debate_Autogen_Turtorial | 30 | 4 | [link](https://github.com/stephenlzc/AI-Agent-Debate_Autogen_Turtorial) |
 | john-adeojo | autogen_tutorial | 30 | 9 | [link](https://github.com/john-adeojo/autogen_tutorial) |
@@ -145,9 +145,9 @@
 | alexchaomander | semantic-kernel-v1.0-hackathon | 25 | 12 | [link](https://github.com/alexchaomander/semantic-kernel-v1.0-hackathon) |
 
 ---
-* **Last scrape:** 2026-11-01T07:00:19.802Z
-* **Total pages scraped:** 95
-* **Repos found:** 2799
-* **Repos filtered out (< 25 stars):** 2660
-* **Total possible repositories:** 4309
-* **Percent processed:** 65.0%
+* **Last scrape:** 2026-11-08T06:56:48.477Z
+* **Total pages scraped:** 94
+* **Repos found:** 2779
+* **Repos filtered out (< 25 stars):** 2640
+* **Total possible repositories:** 4312
+* **Percent processed:** 64.4%
