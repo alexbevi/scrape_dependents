@@ -4,19 +4,19 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| illacceptanything | illacceptanything | 1960 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
-| lxerxa | actionview | 1805 | 365 | [link](https://github.com/lxerxa/actionview) |
-| doubleleft | hook | 770 | 79 | [link](https://github.com/doubleleft/hook) |
-| jikan-me | jikan-rest | 566 | 302 | [link](https://github.com/jikan-me/jikan-rest) |
+| illacceptanything | illacceptanything | 1959 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
+| lxerxa | actionview | 1807 | 365 | [link](https://github.com/lxerxa/actionview) |
+| doubleleft | hook | 771 | 79 | [link](https://github.com/doubleleft/hook) |
+| jikan-me | jikan-rest | 569 | 301 | [link](https://github.com/jikan-me/jikan-rest) |
 | jiannei | lumen-api-starter | 350 | 55 | [link](https://github.com/jiannei/lumen-api-starter) |
-| GordonChen13 | jianzhi-v2 | 323 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
+| GordonChen13 | jianzhi-v2 | 324 | 82 | [link](https://github.com/GordonChen13/jianzhi-v2) |
 | laynefyc | php-monitor | 234 | 33 | [link](https://github.com/laynefyc/php-monitor) |
 | danielme85 | laravel-log-to-db | 133 | 28 | [link](https://github.com/danielme85/laravel-log-to-db) |
 | purocean | laravel-template | 124 | 36 | [link](https://github.com/purocean/laravel-template) |
 | mostafamaklad | laravel-permission-mongodb | 110 | 82 | [link](https://github.com/mostafamaklad/laravel-permission-mongodb) |
 | jiannei | laravel-api-starter | 105 | 25 | [link](https://github.com/jiannei/laravel-api-starter) |
 | Nebo15 | gandalf.api | 103 | 46 | [link](https://github.com/Nebo15/gandalf.api) |
-| hoangsonww | Moodify-Emotion-Music-App | 83 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
+| hoangsonww | Moodify-Emotion-Music-App | 84 | 23 | [link](https://github.com/hoangsonww/Moodify-Emotion-Music-App) |
 | jenssegers | laravel-mongodb-session | 75 | 27 | [link](https://github.com/jenssegers/laravel-mongodb-session) |
 | 233sec | laravel-src | 68 | 31 | [link](https://github.com/233sec/laravel-src) |
 | merlosy | laravel-restful-api-starter | 68 | 16 | [link](https://github.com/merlosy/laravel-restful-api-starter) |
@@ -30,15 +30,15 @@
 | andrewthong | covid19tracker-api | 37 | 5 | [link](https://github.com/andrewthong/covid19tracker-api) |
 | aut-ce | Graduation | 34 | 0 | [link](https://github.com/aut-ce/Graduation) |
 | LibreClass | libreclass | 32 | 18 | [link](https://github.com/LibreClass/libreclass) |
-| FogosPT | fogosapi | 30 | 6 | [link](https://github.com/FogosPT/fogosapi) |
+| FogosPT | fogosapi | 30 | 7 | [link](https://github.com/FogosPT/fogosapi) |
 | huijimuhe | lottery-web | 29 | 16 | [link](https://github.com/huijimuhe/lottery-web) |
 | PacktPublishing | Mastering-MongoDB-6.x | 28 | 10 | [link](https://github.com/PacktPublishing/Mastering-MongoDB-6.x) |
 | rajneeshXpandey | B.Tech-NIT-Trichy-CSE-23 | 25 | 6 | [link](https://github.com/rajneeshXpandey/B.Tech-NIT-Trichy-CSE-23) |
 
 ---
-* **Last scrape:** 2026-11-08T06:11:12.831Z
+* **Last scrape:** 2026-11-15T06:58:13.690Z
 * **Total pages scraped:** 62
-* **Repos found:** 1827
-* **Repos filtered out (< 25 stars):** 1797
+* **Repos found:** 1824
+* **Repos filtered out (< 25 stars):** 1794
 * **Total possible repositories:** 9372
 * **Percent processed:** 19.5%
