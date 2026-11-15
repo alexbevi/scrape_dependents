@@ -5,6 +5,7 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | hubotio | hubot | 16796 | 3706 | [link](https://github.com/hubotio/hubot) |
+| HarnessRouter | harnessrouter | 4362 | 486 | [link](https://github.com/HarnessRouter/harnessrouter) |
 | botwillacceptanything | botwillacceptanything | 927 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 124 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 291 | 21 | [link](https://github.com/juttle/juttle) |
@@ -14,32 +15,32 @@
 | lukefx | hubot-telegram | 160 | 41 | [link](https://github.com/lukefx/hubot-telegram) |
 | stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
-| hubot-archive | hubot-business-cat | 105 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
-| NVIDIA | NeMo-Fabric | 73 | 44 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
+| hubot-archive | hubot-business-cat | 104 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
+| NVIDIA | NeMo-Fabric | 75 | 47 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | hubot-archive | hubot-pager-me | 73 | 93 | [link](https://github.com/hubot-archive/hubot-pager-me) |
-| devschile | huemul | 72 | 75 | [link](https://github.com/devschile/huemul) |
+| devschile | huemul | 72 | 74 | [link](https://github.com/devschile/huemul) |
 | hubotio | hubot-redis-brain | 70 | 60 | [link](https://github.com/hubotio/hubot-redis-brain) |
 | gasolin | webbybot | 68 | 11 | [link](https://github.com/gasolin/webbybot) |
 | idobata | hubot-idobata | 65 | 9 | [link](https://github.com/idobata/hubot-idobata) |
-| smashwilson | hubot-markov | 62 | 23 | [link](https://github.com/smashwilson/hubot-markov) |
+| smashwilson | hubot-markov | 61 | 22 | [link](https://github.com/smashwilson/hubot-markov) |
 | hubotio | hubot-mock-adapter | 55 | 13 | [link](https://github.com/hubotio/hubot-mock-adapter) |
 | ftdebugger | whole-npm | 53 | 7 | [link](https://github.com/ftdebugger/whole-npm) |
 | StackStorm | hubot-stackstorm | 49 | 38 | [link](https://github.com/StackStorm/hubot-stackstorm) |
 | Paymium | old-api-documentation | 47 | 10 | [link](https://github.com/Paymium/old-api-documentation) |
-| 18F | charlie | 46 | 55 | [link](https://github.com/18F/charlie) |
+| 18F | charlie | 46 | 54 | [link](https://github.com/18F/charlie) |
 | alleyinteractive | hubot-code-review | 41 | 15 | [link](https://github.com/alleyinteractive/hubot-code-review) |
 | hubotio | hubot-help | 38 | 67 | [link](https://github.com/hubotio/hubot-help) |
-| hubot-archive | hubot-youtube | 34 | 16 | [link](https://github.com/hubot-archive/hubot-youtube) |
-| robhurring | hubot-redmine | 32 | 27 | [link](https://github.com/robhurring/hubot-redmine) |
+| hubot-archive | hubot-youtube | 34 | 15 | [link](https://github.com/hubot-archive/hubot-youtube) |
 | devcongress | slackbot | 31 | 23 | [link](https://github.com/devcongress/slackbot) |
+| robhurring | hubot-redmine | 31 | 26 | [link](https://github.com/robhurring/hubot-redmine) |
 | home-assistant | hubot-home-assistant | 29 | 8 | [link](https://github.com/home-assistant/hubot-home-assistant) |
 | daemonsy | hubot-heroku | 26 | 16 | [link](https://github.com/daemonsy/hubot-heroku) |
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-11-08T06:56:36.243Z
+* **Last scrape:** 2026-11-15T07:43:32.536Z
 * **Total pages scraped:** 29
-* **Repos found:** 787
-* **Repos filtered out (< 25 stars):** 756
-* **Total possible repositories:** 3343
-* **Percent processed:** 23.5%
+* **Repos found:** 789
+* **Repos filtered out (< 25 stars):** 757
+* **Total possible repositories:** 3345
+* **Percent processed:** 23.6%
