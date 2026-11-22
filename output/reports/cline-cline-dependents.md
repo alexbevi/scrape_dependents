@@ -4,8 +4,8 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| hubotio | hubot | 16796 | 3706 | [link](https://github.com/hubotio/hubot) |
-| HarnessRouter | harnessrouter | 4362 | 486 | [link](https://github.com/HarnessRouter/harnessrouter) |
+| hubotio | hubot | 16798 | 3705 | [link](https://github.com/hubotio/hubot) |
+| HarnessRouter | harnessrouter | 4403 | 493 | [link](https://github.com/HarnessRouter/harnessrouter) |
 | botwillacceptanything | botwillacceptanything | 927 | 90 | [link](https://github.com/botwillacceptanything/botwillacceptanything) |
 | nandub | hubot-irc | 299 | 124 | [link](https://github.com/nandub/hubot-irc) |
 | juttle | juttle | 291 | 21 | [link](https://github.com/juttle/juttle) |
@@ -16,7 +16,7 @@
 | stephenyeargin | hubot-grafana | 154 | 45 | [link](https://github.com/stephenyeargin/hubot-grafana) |
 | hawkins | groupme-at-all | 109 | 289 | [link](https://github.com/hawkins/groupme-at-all) |
 | hubot-archive | hubot-business-cat | 104 | 47 | [link](https://github.com/hubot-archive/hubot-business-cat) |
-| NVIDIA | NeMo-Fabric | 75 | 47 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
+| NVIDIA | NeMo-Fabric | 78 | 52 | [link](https://github.com/NVIDIA/NeMo-Fabric) |
 | hubot-archive | hubot-pager-me | 73 | 93 | [link](https://github.com/hubot-archive/hubot-pager-me) |
 | devschile | huemul | 72 | 74 | [link](https://github.com/devschile/huemul) |
 | hubotio | hubot-redis-brain | 70 | 60 | [link](https://github.com/hubotio/hubot-redis-brain) |
@@ -38,9 +38,9 @@
 | hubot-archive | hubot-seen | 25 | 12 | [link](https://github.com/hubot-archive/hubot-seen) |
 
 ---
-* **Last scrape:** 2026-11-15T07:43:32.536Z
+* **Last scrape:** 2026-11-22T08:05:57.885Z
 * **Total pages scraped:** 29
-* **Repos found:** 789
-* **Repos filtered out (< 25 stars):** 757
+* **Repos found:** 787
+* **Repos filtered out (< 25 stars):** 755
 * **Total possible repositories:** 3345
-* **Percent processed:** 23.6%
+* **Percent processed:** 23.5%
