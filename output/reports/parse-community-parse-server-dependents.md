@@ -4,14 +4,14 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| OpenSignLabs | OpenSign | 7263 | 857 | [link](https://github.com/OpenSignLabs/OpenSign) |
-| parse-community | parse-dashboard | 3809 | 1410 | [link](https://github.com/parse-community/parse-dashboard) |
-| parse-community | parse-server-example | 1901 | 5254 | [link](https://github.com/parse-community/parse-server-example) |
-| parse-community | Parse-SDK-JS | 1342 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
+| OpenSignLabs | OpenSign | 7321 | 867 | [link](https://github.com/OpenSignLabs/OpenSign) |
+| parse-community | parse-dashboard | 3808 | 1410 | [link](https://github.com/parse-community/parse-dashboard) |
+| parse-community | parse-server-example | 1900 | 5252 | [link](https://github.com/parse-community/parse-server-example) |
+| parse-community | Parse-SDK-JS | 1341 | 600 | [link](https://github.com/parse-community/Parse-SDK-JS) |
 | Eleven-Trading | TradeNote | 985 | 288 | [link](https://github.com/Eleven-Trading/TradeNote) |
-| parse-community | parse-php-sdk | 808 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
+| parse-community | parse-php-sdk | 807 | 341 | [link](https://github.com/parse-community/parse-php-sdk) |
 | yongjhih | docker-parse-server | 471 | 159 | [link](https://github.com/yongjhih/docker-parse-server) |
-| elrumo | icon-brew | 325 | 7 | [link](https://github.com/elrumo/icon-brew) |
+| elrumo | icon-brew | 324 | 7 | [link](https://github.com/elrumo/icon-brew) |
 | shiki | kaiseki | 222 | 41 | [link](https://github.com/shiki/kaiseki) |
 | bakery | todomvc-react-native | 150 | 33 | [link](https://github.com/bakery/todomvc-react-native) |
 | ArnaudValensi | docker-parse-server-git-deploy | 145 | 10 | [link](https://github.com/ArnaudValensi/docker-parse-server-git-deploy) |
@@ -41,9 +41,9 @@
 | UWSysLab | diamond | 27 | 3 | [link](https://github.com/UWSysLab/diamond) |
 
 ---
-* **Last scrape:** 2026-11-15T07:43:09.235Z
+* **Last scrape:** 2026-11-22T08:05:25.213Z
 * **Total pages scraped:** 26
-* **Repos found:** 740
-* **Repos filtered out (< 25 stars):** 705
-* **Total possible repositories:** 4180
-* **Percent processed:** 17.7%
+* **Repos found:** 735
+* **Repos filtered out (< 25 stars):** 700
+* **Total possible repositories:** 4182
+* **Percent processed:** 17.6%
