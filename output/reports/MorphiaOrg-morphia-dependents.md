@@ -4,25 +4,25 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37309 | 53051 | [link](https://github.com/eugenp/tutorials) |
-| ant-media | Ant-Media-Server | 4746 | 692 | [link](https://github.com/ant-media/Ant-Media-Server) |
-| skrstop | skrstop-components | 1098 | 48 | [link](https://github.com/skrstop/skrstop-components) |
-| OpenFeign | querydsl | 670 | 111 | [link](https://github.com/OpenFeign/querydsl) |
+| eugenp | tutorials | 37304 | 53027 | [link](https://github.com/eugenp/tutorials) |
+| ant-media | Ant-Media-Server | 4746 | 693 | [link](https://github.com/ant-media/Ant-Media-Server) |
+| skrstop | skrstop-components | 1096 | 48 | [link](https://github.com/skrstop/skrstop-components) |
+| OpenFeign | querydsl | 671 | 111 | [link](https://github.com/OpenFeign/querydsl) |
 | liujiaqi7998 | GrasscuttersWebDashboard | 210 | 32 | [link](https://github.com/liujiaqi7998/GrasscuttersWebDashboard) |
 | primefaces-extensions | primefaces-extensions | 119 | 109 | [link](https://github.com/primefaces-extensions/primefaces-extensions) |
 | svenkubiak | mangooio | 62 | 14 | [link](https://github.com/svenkubiak/mangooio) |
-| evanchooly | javabot | 57 | 26 | [link](https://github.com/evanchooly/javabot) |
+| evanchooly | javabot | 57 | 25 | [link](https://github.com/evanchooly/javabot) |
 | aws-samples | amazon-documentdb-samples | 53 | 38 | [link](https://github.com/aws-samples/amazon-documentdb-samples) |
 | kinabalu | mysticpaste | 52 | 12 | [link](https://github.com/kinabalu/mysticpaste) |
 | europeana | corelib | 48 | 17 | [link](https://github.com/europeana/corelib) |
-| quarkiverse | quarkus-primefaces | 45 | 3 | [link](https://github.com/quarkiverse/quarkus-primefaces) |
+| quarkiverse | quarkus-primefaces | 45 | 4 | [link](https://github.com/quarkiverse/quarkus-primefaces) |
 | glaucioscheibel | exerciciosJava | 30 | 2 | [link](https://github.com/glaucioscheibel/exerciciosJava) |
 | europeana | metis-framework | 29 | 9 | [link](https://github.com/europeana/metis-framework) |
 
 ---
-* **Last scrape:** 2026-11-15T06:54:18.630Z
+* **Last scrape:** 2026-11-22T06:48:20.893Z
 * **Total pages scraped:** 5
-* **Repos found:** 139
-* **Repos filtered out (< 25 stars):** 125
-* **Total possible repositories:** 335
-* **Percent processed:** 41.5%
+* **Repos found:** 140
+* **Repos filtered out (< 25 stars):** 126
+* **Total possible repositories:** 336
+* **Percent processed:** 41.7%
