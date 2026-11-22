@@ -5,12 +5,12 @@
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
 | public-activity | public_activity | 2989 | 328 | [link](https://github.com/public-activity/public_activity) |
-| DatabaseCleaner | database_cleaner | 2963 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
+| DatabaseCleaner | database_cleaner | 2962 | 486 | [link](https://github.com/DatabaseCleaner/database_cleaner) |
 | maccman | abba | 1350 | 70 | [link](https://github.com/maccman/abba) |
 | crowdint | rails3-jquery-autocomplete | 907 | 357 | [link](https://github.com/crowdint/rails3-jquery-autocomplete) |
 | nasser | --- | 802 | 84 | [link](https://github.com/nasser/---) |
 | hotsh | rstat.us | 711 | 212 | [link](https://github.com/hotsh/rstat.us) |
-| omniauth | omniauth-identity | 364 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
+| omniauth | omniauth-identity | 363 | 98 | [link](https://github.com/omniauth/omniauth-identity) |
 | 0x000NULL | CSSR | 356 | 117 | [link](https://github.com/0x000NULL/CSSR) |
 | opengovernment | opengovernment | 309 | 231 | [link](https://github.com/opengovernment/opengovernment) |
 | stripe-archive | gaps | 285 | 37 | [link](https://github.com/stripe-archive/gaps) |
@@ -59,9 +59,9 @@
 | djsun | sinatra_resource | 25 | 2 | [link](https://github.com/djsun/sinatra_resource) |
 
 ---
-* **Last scrape:** 2026-11-15T06:24:23.466Z
-* **Total pages scraped:** 18
-* **Repos found:** 450
-* **Repos filtered out (< 25 stars):** 397
+* **Last scrape:** 2026-11-22T06:17:47.382Z
+* **Total pages scraped:** 17
+* **Repos found:** 449
+* **Repos filtered out (< 25 stars):** 396
 * **Total possible repositories:** 2818
-* **Percent processed:** 16.0%
+* **Percent processed:** 15.9%
