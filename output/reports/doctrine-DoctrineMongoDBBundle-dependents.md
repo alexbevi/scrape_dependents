@@ -4,28 +4,28 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| api-platform | core | 2580 | 985 | [link](https://github.com/api-platform/core) |
-| php-enqueue | enqueue-dev | 2221 | 425 | [link](https://github.com/php-enqueue/enqueue-dev) |
-| illacceptanything | illacceptanything | 1959 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
-| LLPhant | LLPhant | 1721 | 182 | [link](https://github.com/LLPhant/LLPhant) |
-| FriendsOfSymfony | FOSElasticaBundle | 1263 | 781 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
-| Cocolabs-SAS | cocorico | 874 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
-| zenstruck | foundry | 805 | 118 | [link](https://github.com/zenstruck/foundry) |
-| markitosgv | JWTRefreshTokenBundle | 713 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
-| lexik | LexikTranslationBundle | 437 | 261 | [link](https://github.com/lexik/LexikTranslationBundle) |
+| api-platform | core | 2582 | 983 | [link](https://github.com/api-platform/core) |
+| php-enqueue | enqueue-dev | 2221 | 426 | [link](https://github.com/php-enqueue/enqueue-dev) |
+| illacceptanything | illacceptanything | 1958 | 587 | [link](https://github.com/illacceptanything/illacceptanything) |
+| LLPhant | LLPhant | 1719 | 185 | [link](https://github.com/LLPhant/LLPhant) |
+| FriendsOfSymfony | FOSElasticaBundle | 1264 | 781 | [link](https://github.com/FriendsOfSymfony/FOSElasticaBundle) |
+| Cocolabs-SAS | cocorico | 873 | 589 | [link](https://github.com/Cocolabs-SAS/cocorico) |
+| zenstruck | foundry | 806 | 118 | [link](https://github.com/zenstruck/foundry) |
+| markitosgv | JWTRefreshTokenBundle | 712 | 176 | [link](https://github.com/markitosgv/JWTRefreshTokenBundle) |
+| lexik | LexikTranslationBundle | 437 | 259 | [link](https://github.com/lexik/LexikTranslationBundle) |
 | Elao | PhpEnums | 327 | 29 | [link](https://github.com/Elao/PhpEnums) |
-| theofidry | AliceDataFixtures | 323 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
+| theofidry | AliceDataFixtures | 322 | 76 | [link](https://github.com/theofidry/AliceDataFixtures) |
 | php-enqueue | enqueue-bundle | 274 | 30 | [link](https://github.com/php-enqueue/enqueue-bundle) |
 | TheBigBrainsCompany | TbbcMoneyBundle | 197 | 77 | [link](https://github.com/TheBigBrainsCompany/TbbcMoneyBundle) |
 | vespolina | vespolina-sandbox | 179 | 24 | [link](https://github.com/vespolina/vespolina-sandbox) |
-| liip | LiipTestFixturesBundle | 177 | 48 | [link](https://github.com/liip/LiipTestFixturesBundle) |
+| liip | LiipTestFixturesBundle | 178 | 47 | [link](https://github.com/liip/LiipTestFixturesBundle) |
 | getparthenon | parthenon | 172 | 12 | [link](https://github.com/getparthenon/parthenon) |
 | KnpLabs | KnpIpsum | 139 | 26 | [link](https://github.com/KnpLabs/KnpIpsum) |
 | floriansemm | SolrBundle | 122 | 71 | [link](https://github.com/floriansemm/SolrBundle) |
 | h4cc | AliceFixturesBundle | 74 | 24 | [link](https://github.com/h4cc/AliceFixturesBundle) |
 | sskorc | docker-symfony | 74 | 20 | [link](https://github.com/sskorc/docker-symfony) |
 | Terraform-GUI | terraform-gui | 73 | 14 | [link](https://github.com/Terraform-GUI/terraform-gui) |
-| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 96 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
+| sonata-project | SonataDoctrineMongoDBAdminBundle | 64 | 97 | [link](https://github.com/sonata-project/SonataDoctrineMongoDBAdminBundle) |
 | henter | HenterGEO | 63 | 26 | [link](https://github.com/henter/HenterGEO) |
 | MacPaw | symfony-health-check-bundle | 62 | 10 | [link](https://github.com/MacPaw/symfony-health-check-bundle) |
 | pumukit | PuMuKIT | 60 | 14 | [link](https://github.com/pumukit/PuMuKIT) |
@@ -45,9 +45,9 @@
 | GromNaN | symfony-chatgpt-ux | 27 | 0 | [link](https://github.com/GromNaN/symfony-chatgpt-ux) |
 
 ---
-* **Last scrape:** 2026-11-15T06:58:35.920Z
+* **Last scrape:** 2026-11-22T06:53:58.947Z
 * **Total pages scraped:** 23
-* **Repos found:** 653
-* **Repos filtered out (< 25 stars):** 614
+* **Repos found:** 652
+* **Repos filtered out (< 25 stars):** 613
 * **Total possible repositories:** 2526
-* **Percent processed:** 25.9%
+* **Percent processed:** 25.8%
