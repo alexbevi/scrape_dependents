@@ -23,9 +23,9 @@
 | graphicbeacon | dart_spa_boilerplate | 25 | 7 | [link](https://github.com/graphicbeacon/dart_spa_boilerplate) |
 
 ---
-* **Last scrape:** 2026-11-15T06:55:45.130Z
-* **Total pages scraped:** 53
-* **Repos found:** 1554
-* **Repos filtered out (< 25 stars):** 1537
+* **Last scrape:** 2026-11-22T06:47:57.269Z
+* **Total pages scraped:** 52
+* **Repos found:** 1542
+* **Repos filtered out (< 25 stars):** 1525
 * **Total possible repositories:** 5680
-* **Percent processed:** 27.4%
+* **Percent processed:** 27.1%
