@@ -4,63 +4,66 @@
 
 | Owner | Name | Stars | Forks | URL |
 |---|---|---|---|---|
-| eugenp | tutorials | 37309 | 53051 | [link](https://github.com/eugenp/tutorials) |
-| theonedev | onedev | 15361 | 992 | [link](https://github.com/theonedev/onedev) |
-| apache | flink-cdc | 6495 | 2206 | [link](https://github.com/apache/flink-cdc) |
-| apache | camel | 6410 | 5180 | [link](https://github.com/apache/camel) |
-| ageerle | ruoyi-ai | 5837 | 1433 | [link](https://github.com/ageerle/ruoyi-ai) |
-| tencentmusic | supersonic | 5175 | 1023 | [link](https://github.com/tencentmusic/supersonic) |
-| zq2599 | blog_demos | 4730 | 1894 | [link](https://github.com/zq2599/blog_demos) |
-| embabel | embabel-agent | 4557 | 451 | [link](https://github.com/embabel/embabel-agent) |
-| Atmosphere | atmosphere | 3834 | 765 | [link](https://github.com/Atmosphere/atmosphere) |
-| langgraph4j | langgraph4j | 2111 | 299 | [link](https://github.com/langgraph4j/langgraph4j) |
-| langchain4j | langchain4j-examples | 1930 | 688 | [link](https://github.com/langchain4j/langchain4j-examples) |
-| nzymeorg | nzyme | 1589 | 150 | [link](https://github.com/nzymeorg/nzyme) |
-| joey-zhou | xiaozhi-esp32-server-java | 1426 | 515 | [link](https://github.com/joey-zhou/xiaozhi-esp32-server-java) |
-| LangChat | langchat | 1359 | 266 | [link](https://github.com/LangChat/langchat) |
+| eugenp | tutorials | 37304 | 53027 | [link](https://github.com/eugenp/tutorials) |
+| thingsboard | thingsboard | 22703 | 6564 | [link](https://github.com/thingsboard/thingsboard) |
+| theonedev | onedev | 15371 | 992 | [link](https://github.com/theonedev/onedev) |
+| apache | flink-cdc | 6495 | 2210 | [link](https://github.com/apache/flink-cdc) |
+| apache | camel | 6420 | 5191 | [link](https://github.com/apache/camel) |
+| ageerle | ruoyi-ai | 5841 | 1433 | [link](https://github.com/ageerle/ruoyi-ai) |
+| tencentmusic | supersonic | 5186 | 1026 | [link](https://github.com/tencentmusic/supersonic) |
+| zq2599 | blog_demos | 4728 | 1892 | [link](https://github.com/zq2599/blog_demos) |
+| embabel | embabel-agent | 4565 | 452 | [link](https://github.com/embabel/embabel-agent) |
+| Atmosphere | atmosphere | 3835 | 765 | [link](https://github.com/Atmosphere/atmosphere) |
+| langgraph4j | langgraph4j | 2119 | 300 | [link](https://github.com/langgraph4j/langgraph4j) |
+| langchain4j | langchain4j-examples | 1931 | 691 | [link](https://github.com/langchain4j/langchain4j-examples) |
+| nzymeorg | nzyme | 1591 | 151 | [link](https://github.com/nzymeorg/nzyme) |
+| joey-zhou | xiaozhi-esp32-server-java | 1430 | 517 | [link](https://github.com/joey-zhou/xiaozhi-esp32-server-java) |
+| LangChat | langchat | 1368 | 267 | [link](https://github.com/LangChat/langchat) |
 | platonai | Browser4 | 1186 | 152 | [link](https://github.com/platonai/Browser4) |
-| bytechefhq | bytechef | 1063 | 183 | [link](https://github.com/bytechefhq/bytechef) |
+| bytechefhq | bytechef | 1062 | 183 | [link](https://github.com/bytechefhq/bytechef) |
 | lucky-aeon | AgentX | 850 | 148 | [link](https://github.com/lucky-aeon/AgentX) |
-| WebFuzzing | EvoMaster | 807 | 123 | [link](https://github.com/WebFuzzing/EvoMaster) |
-| apache | streampipes | 762 | 252 | [link](https://github.com/apache/streampipes) |
-| bage2014 | study | 650 | 114 | [link](https://github.com/bage2014/study) |
-| Sunagatov | Iced-Latte | 641 | 148 | [link](https://github.com/Sunagatov/Iced-Latte) |
-| microsoft | Generative-AI-for-beginners-java | 589 | 475 | [link](https://github.com/microsoft/Generative-AI-for-beginners-java) |
-| Harries | springboot-demo | 576 | 274 | [link](https://github.com/Harries/springboot-demo) |
-| microsoft | LangChain4j-for-Beginners | 559 | 204 | [link](https://github.com/microsoft/LangChain4j-for-Beginners) |
-| freechat-fun | freechat | 552 | 106 | [link](https://github.com/freechat-fun/freechat) |
-| oracle | coherence | 476 | 80 | [link](https://github.com/oracle/coherence) |
+| WebFuzzing | EvoMaster | 809 | 124 | [link](https://github.com/WebFuzzing/EvoMaster) |
+| apache | streampipes | 763 | 254 | [link](https://github.com/apache/streampipes) |
+| bage2014 | study | 651 | 114 | [link](https://github.com/bage2014/study) |
+| Sunagatov | Iced-Latte | 640 | 148 | [link](https://github.com/Sunagatov/Iced-Latte) |
+| microsoft | Generative-AI-for-beginners-java | 593 | 478 | [link](https://github.com/microsoft/Generative-AI-for-beginners-java) |
+| Harries | springboot-demo | 575 | 273 | [link](https://github.com/Harries/springboot-demo) |
+| microsoft | LangChain4j-for-Beginners | 562 | 205 | [link](https://github.com/microsoft/LangChain4j-for-Beginners) |
+| freechat-fun | freechat | 551 | 106 | [link](https://github.com/freechat-fun/freechat) |
+| oracle | coherence | 473 | 79 | [link](https://github.com/oracle/coherence) |
+| clearflask | clearflask | 452 | 46 | [link](https://github.com/clearflask/clearflask) |
 | OpenOLAT | OpenOLAT | 451 | 165 | [link](https://github.com/OpenOLAT/OpenOLAT) |
-| clearflask | clearflask | 451 | 46 | [link](https://github.com/clearflask/clearflask) |
-| GoogleCloudPlatform | devrel-demos | 403 | 192 | [link](https://github.com/GoogleCloudPlatform/devrel-demos) |
-| labsai | EDDI | 394 | 132 | [link](https://github.com/labsai/EDDI) |
-| langchain4j | langchain4j-spring | 389 | 161 | [link](https://github.com/langchain4j/langchain4j-spring) |
-| marcushellberg | java-ai-playground | 381 | 143 | [link](https://github.com/marcushellberg/java-ai-playground) |
+| GoogleCloudPlatform | devrel-demos | 408 | 198 | [link](https://github.com/GoogleCloudPlatform/devrel-demos) |
+| labsai | EDDI | 393 | 132 | [link](https://github.com/labsai/EDDI) |
+| langchain4j | langchain4j-spring | 390 | 159 | [link](https://github.com/langchain4j/langchain4j-spring) |
+| marcushellberg | java-ai-playground | 380 | 144 | [link](https://github.com/marcushellberg/java-ai-playground) |
 | ModelEngine-Group | DataMate | 375 | 48 | [link](https://github.com/ModelEngine-Group/DataMate) |
-| quarkiverse | quarkus-langchain4j | 325 | 265 | [link](https://github.com/quarkiverse/quarkus-langchain4j) |
-| battcn | wemirr-platform | 313 | 83 | [link](https://github.com/battcn/wemirr-platform) |
-| apache | camel-quarkus | 305 | 237 | [link](https://github.com/apache/camel-quarkus) |
-| IanDarwin | javasrc | 272 | 155 | [link](https://github.com/IanDarwin/javasrc) |
-| future-agi | traceAI | 266 | 56 | [link](https://github.com/future-agi/traceAI) |
-| mark-watson | Java-AI-Book-Code | 256 | 114 | [link](https://github.com/mark-watson/Java-AI-Book-Code) |
+| quarkiverse | quarkus-langchain4j | 325 | 268 | [link](https://github.com/quarkiverse/quarkus-langchain4j) |
+| battcn | wemirr-platform | 312 | 84 | [link](https://github.com/battcn/wemirr-platform) |
+| apache | camel-quarkus | 304 | 237 | [link](https://github.com/apache/camel-quarkus) |
+| IanDarwin | javasrc | 272 | 154 | [link](https://github.com/IanDarwin/javasrc) |
+| future-agi | traceAI | 268 | 55 | [link](https://github.com/future-agi/traceAI) |
+| mark-watson | Java-AI-Book-Code | 255 | 114 | [link](https://github.com/mark-watson/Java-AI-Book-Code) |
 | nicho92 | MtgDesktopCompanion | 250 | 40 | [link](https://github.com/nicho92/MtgDesktopCompanion) |
-| langchain4j | langchain4j-community | 229 | 146 | [link](https://github.com/langchain4j/langchain4j-community) |
-| openxava | openxava | 211 | 51 | [link](https://github.com/openxava/openxava) |
-| google-labs-code | stax | 208 | 32 | [link](https://github.com/google-labs-code/stax) |
-| mindolph | Mindolph | 203 | 18 | [link](https://github.com/mindolph/Mindolph) |
+| google-labs-code | stax | 233 | 33 | [link](https://github.com/google-labs-code/stax) |
+| langchain4j | langchain4j-community | 231 | 149 | [link](https://github.com/langchain4j/langchain4j-community) |
+| openxava | openxava | 216 | 51 | [link](https://github.com/openxava/openxava) |
+| mindolph | Mindolph | 204 | 18 | [link](https://github.com/mindolph/Mindolph) |
 | Alanosy | exam-old | 202 | 40 | [link](https://github.com/Alanosy/exam-old) |
-| vishalmysore | Tools4AI | 191 | 37 | [link](https://github.com/vishalmysore/Tools4AI) |
-| AI-WorkDeck | aiworkdeck | 178 | 21 | [link](https://github.com/AI-WorkDeck/aiworkdeck) |
-| microsoft | AzureDataRetrievalAugmentedGenerationSamples | 177 | 85 | [link](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) |
-| IYque | Iyque-SCRM | 175 | 31 | [link](https://github.com/IYque/Iyque-SCRM) |
-| quarkusio | quarkus-platform | 165 | 108 | [link](https://github.com/quarkusio/quarkus-platform) |
-| czelabueno | jai-workflow | 165 | 22 | [link](https://github.com/czelabueno/jai-workflow) |
-| jdubois | jdubois-langchain4j-demo | 163 | 69 | [link](https://github.com/jdubois/jdubois-langchain4j-demo) |
-| cibseven | cibseven | 149 | 20 | [link](https://github.com/cibseven/cibseven) |
+| vishalmysore | Tools4AI | 190 | 37 | [link](https://github.com/vishalmysore/Tools4AI) |
+| AI-WorkDeck | aiworkdeck | 188 | 25 | [link](https://github.com/AI-WorkDeck/aiworkdeck) |
+| ClickHouse | loom | 185 | 29 | [link](https://github.com/ClickHouse/loom) |
+| thingsboard | thingsboard-edge | 180 | 122 | [link](https://github.com/thingsboard/thingsboard-edge) |
+| microsoft | AzureDataRetrievalAugmentedGenerationSamples | 178 | 85 | [link](https://github.com/microsoft/AzureDataRetrievalAugmentedGenerationSamples) |
+| IYque | Iyque-SCRM | 175 | 33 | [link](https://github.com/IYque/Iyque-SCRM) |
+| quarkusio | quarkus-platform | 164 | 108 | [link](https://github.com/quarkusio/quarkus-platform) |
+| czelabueno | jai-workflow | 164 | 22 | [link](https://github.com/czelabueno/jai-workflow) |
+| jdubois | jdubois-langchain4j-demo | 162 | 69 | [link](https://github.com/jdubois/jdubois-langchain4j-demo) |
+| cibseven | cibseven | 150 | 20 | [link](https://github.com/cibseven/cibseven) |
 | ww20081120 | framework | 146 | 73 | [link](https://github.com/ww20081120/framework) |
-| vogler75 | monster-mq | 144 | 21 | [link](https://github.com/vogler75/monster-mq) |
-| taishan666 | MaxKB4j | 141 | 38 | [link](https://github.com/taishan666/MaxKB4j) |
-| springboot4 | Art | 141 | 43 | [link](https://github.com/springboot4/Art) |
+| vogler75 | monster-mq | 145 | 21 | [link](https://github.com/vogler75/monster-mq) |
+| taishan666 | MaxKB4j | 144 | 39 | [link](https://github.com/taishan666/MaxKB4j) |
+| springboot4 | Art | 142 | 43 | [link](https://github.com/springboot4/Art) |
 | vaadin | flow-components | 131 | 83 | [link](https://github.com/vaadin/flow-components) |
 | Azure-Samples | azure-search-openai-demo-java | 128 | 106 | [link](https://github.com/Azure-Samples/azure-search-openai-demo-java) |
 | 888newstep | ai-agent-platform | 126 | 6 | [link](https://github.com/888newstep/ai-agent-platform) |
@@ -71,7 +74,7 @@
 | opentiny | tiny-engine-backend-java | 114 | 89 | [link](https://github.com/opentiny/tiny-engine-backend-java) |
 | vishalmysore | a2ajava | 109 | 27 | [link](https://github.com/vishalmysore/a2ajava) |
 | jeecgboot | jeecg-boot-starter | 104 | 104 | [link](https://github.com/jeecgboot/jeecg-boot-starter) |
-| pig-mesh | langchain4j-course | 101 | 53 | [link](https://github.com/pig-mesh/langchain4j-course) |
+| pig-mesh | langchain4j-course | 101 | 52 | [link](https://github.com/pig-mesh/langchain4j-course) |
 | francelabs | datafari | 96 | 30 | [link](https://github.com/francelabs/datafari) |
 | larksuite | lark-samples | 94 | 75 | [link](https://github.com/larksuite/lark-samples) |
 | stephanj | rag-genie | 89 | 19 | [link](https://github.com/stephanj/rag-genie) |
@@ -79,27 +82,27 @@
 | tinyflow-ai | tinyflow-java | 85 | 21 | [link](https://github.com/tinyflow-ai/tinyflow-java) |
 | mercari | pipeline | 80 | 26 | [link](https://github.com/mercari/pipeline) |
 | ring1012 | r1-iot-java | 80 | 32 | [link](https://github.com/ring1012/r1-iot-java) |
+| mongodb-developer | mongodb-jvm-showcase | 79 | 2 | [link](https://github.com/mongodb-developer/mongodb-jvm-showcase) |
 | phoenixctms | ctsms | 76 | 38 | [link](https://github.com/phoenixctms/ctsms) |
-| mongodb-developer | mongodb-jvm-showcase | 75 | 2 | [link](https://github.com/mongodb-developer/mongodb-jvm-showcase) |
-| SAP-samples | sap-btp-ai-best-practices | 73 | 61 | [link](https://github.com/SAP-samples/sap-btp-ai-best-practices) |
-| camunda | connectors | 73 | 63 | [link](https://github.com/camunda/connectors) |
+| SAP-samples | sap-btp-ai-best-practices | 75 | 60 | [link](https://github.com/SAP-samples/sap-btp-ai-best-practices) |
+| camunda | connectors | 73 | 61 | [link](https://github.com/camunda/connectors) |
 | langgraph4j | langgraph4j-examples | 70 | 23 | [link](https://github.com/langgraph4j/langgraph4j-examples) |
 | smartboot | feat | 67 | 10 | [link](https://github.com/smartboot/feat) |
 | telekom | advanced-coding-assistant-backend | 66 | 11 | [link](https://github.com/telekom/advanced-coding-assistant-backend) |
 | litongjava | java-mosskb | 65 | 14 | [link](https://github.com/litongjava/java-mosskb) |
-| dokimos-dev | dokimos | 63 | 5 | [link](https://github.com/dokimos-dev/dokimos) |
+| dokimos-dev | dokimos | 64 | 6 | [link](https://github.com/dokimos-dev/dokimos) |
 | datastaxdevs | conference-2024-devoxx | 61 | 14 | [link](https://github.com/datastaxdevs/conference-2024-devoxx) |
-| beyonai | ByClaw | 60 | 26 | [link](https://github.com/beyonai/ByClaw) |
 | rominirani | genai-apptemplates-googlecloud | 56 | 26 | [link](https://github.com/rominirani/genai-apptemplates-googlecloud) |
 | liyf1 | chatgpt-plus | 55 | 2 | [link](https://github.com/liyf1/chatgpt-plus) |
+| eGovFramework | egovframe-runtime | 50 | 72 | [link](https://github.com/eGovFramework/egovframe-runtime) |
 | CodeDefenders | CodeDefenders | 50 | 20 | [link](https://github.com/CodeDefenders/CodeDefenders) |
 | itbeien | programmer-guide | 50 | 16 | [link](https://github.com/itbeien/programmer-guide) |
 | TestlumFramework | Testlum | 49 | 5 | [link](https://github.com/TestlumFramework/Testlum) |
 | mwinteringham | generative-ai-and-testing | 49 | 12 | [link](https://github.com/mwinteringham/generative-ai-and-testing) |
 | ovh | public-cloud-examples | 48 | 20 | [link](https://github.com/ovh/public-cloud-examples) |
 | cescoffier | langchain4j-deep-dive | 47 | 26 | [link](https://github.com/cescoffier/langchain4j-deep-dive) |
-| jenkinsci | explain-error-plugin | 46 | 27 | [link](https://github.com/jenkinsci/explain-error-plugin) |
-| jeddict | jeddict-ai | 46 | 18 | [link](https://github.com/jeddict/jeddict-ai) |
+| jeddict | jeddict-ai | 47 | 18 | [link](https://github.com/jeddict/jeddict-ai) |
+| jenkinsci | explain-error-plugin | 46 | 28 | [link](https://github.com/jenkinsci/explain-error-plugin) |
 | ryu-shen | ruoyi-ai | 45 | 25 | [link](https://github.com/ryu-shen/ruoyi-ai) |
 | anders-swanson | oracle-database-code-samples | 43 | 11 | [link](https://github.com/anders-swanson/oracle-database-code-samples) |
 | mariofusco | droolsGPT | 43 | 11 | [link](https://github.com/mariofusco/droolsGPT) |
@@ -131,9 +134,9 @@
 | marcushellberg | spring-boot-react-langchain-chatgpt | 25 | 15 | [link](https://github.com/marcushellberg/spring-boot-react-langchain-chatgpt) |
 
 ---
-* **Last scrape:** 2026-11-15T06:56:39.992Z
+* **Last scrape:** 2026-11-22T06:50:43.357Z
 * **Total pages scraped:** 50
-* **Repos found:** 1484
-* **Repos filtered out (< 25 stars):** 1359
-* **Total possible repositories:** 1967
-* **Percent processed:** 75.4%
+* **Repos found:** 1490
+* **Repos filtered out (< 25 stars):** 1362
+* **Total possible repositories:** 1981
+* **Percent processed:** 75.2%
